@@ -214,12 +214,12 @@ msgstr "{0} ontwikkelings inkomen van veroverde regio's"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr ""
+msgstr "{0} ontwikkelings inkomsten uit kern regio's"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr "{0} ontwikkelings inkomsten uit kern regio's"
+msgstr "{0} energie voor de update, eenmaal per account"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -318,7 +318,7 @@ msgstr ""{answerWithin} om te antwoorden""
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
 msgid "{chaptersDone} of {0} guides done"
-msgstr ""
+msgstr "{chaptersDone} van de {0} gidsen gedaan"
 
 #: src/components/_user/mission/MissionsList.tsx:229
 msgid "{completedCount}/{totalCount} completed"
@@ -326,47 +326,48 @@ msgstr "{completedCount}/{totalCount} voltooid"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:307
 msgid "{contribution} when anyone in the event has it."
-msgstr ""
+msgstr "{contribution} wanneer iedereen in het evenement het heeft."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr ""
+msgstr {count, plural, one {<0>Answer <1/> werknemer evenement</0>} other {<2>Answer <3/> werknemer evenementen</2>}}"
+""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Draag bij aan bouwprojecten <1/> maal</0>} other {<2>Draag bij aan bouwprojecten <3/> maal</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Draag bij aan verzet <1/> maal</0>} other {<2>Draag bij aan verzet<3/> maal</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Maak <1/> voorwerp</0>} other {<2>Maak <3/> voorwerpen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Kruis <1/> regio op de map</0>} other {<2>Kruis <3/> regio's op de map</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Demonteer <1/> voorwerp</0>} other {<2>Demonteer <3/> voorwerpen</2>}}""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Ontwijk <1/> aanval</0>} other {<2>Ontwijk <3/> aanvallen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Eet <1/> voeding voorwerp</0>} other {<2>Eet <3/> voeding voorwerpen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Help <1/> ME lid</0>} other {<2>Help <3/> ME leden</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Tref <1/> maal in gevechten</0>} other {<2>Tref <3/> maal in gevechten</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
