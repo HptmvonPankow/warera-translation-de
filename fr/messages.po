@@ -1295,7 +1295,7 @@ msgstr "{gender, select, male {C'était vraiment la solution à un problème. {n
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2816
 msgid "{gender, select, male {It says “buy milk”. {name} is crushed.} female {It says “buy milk”. {name} is crushed.} other {It says “buy milk”. {name} is crushed.}}"
-msgstr "{genre, sélectionner, masculin {Il est écrit « acheter du lait ». {nom} est écrasé.} féminin {Il est écrit « acheter du lait ». {nom} est écrasée.} autre {Il est écrit « acheter du lait ». {nom} sont écrasés.}}"
+msgstr "{gender, select, male {Il est écrit « acheter du lait ». {name} est écrasé.} female {Il est écrit « acheter du lait ». {name} est écrasée.} other {Il est écrit « acheter du lait ». {name} est écrasé(e).}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2405
 msgid "{gender, select, male {It shuts down, and {name} calls it a crime against free enterprise.} female {It shuts down, and {name} calls it a crime against free enterprise.} other {It shuts down, and {name} calls it a crime against free enterprise.}}"
@@ -1303,7 +1303,7 @@ msgstr "{gender, select, male {Ça ferme, et {name} qualifie ça de crime contre
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1252
 msgid "{gender, select, male {It sinks in. {name} almost smiles.} female {It sinks in. {name} almost smiles.} other {It sinks in. {name} almost smiles.}}"
-msgstr "{genre, sélectionner, masculin {Ça fait son chemin. {nom} esquisse presque un sourire.} féminin {Ça fait son chemin. {nom} esquisse presque un sourire.} autre {Ça fait son chemin. {nom} esquissent presque un sourire.}}"
+msgstr "{gender, select, male {Ça fait son chemin. {name} esquisse presque un sourire.} female {Ça fait son chemin. {name} esquisse presque un sourire.} other {Ça fait son chemin. {name} esquisse presque un sourire.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2028
 msgid "{gender, select, male {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} female {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} other {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.}}"
