@@ -3604,7 +3604,7 @@ msgstr "Ein Brief von zu Hause"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:709
 msgid "A lovely trip, but the homesickness came back with them."
-msgstr "Eine schöne Reise, abder das Heimweh kehrte mit ihnen zurück."
+msgstr "Eine schöne Reise, aber das Heimweh kehrte mit ihnen zurück."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3872
 msgid "A man named Gerald has applied for a job. He says he already has a desk."
