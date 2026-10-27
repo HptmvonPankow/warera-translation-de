@@ -1403,8 +1403,7 @@ msgstr "{gender, select, male {Depuis l'arrivée de {name}, trois échelles sont
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2261
 msgid "{gender, select, male {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} female {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} other {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.}}"
-msgstr "{gender, select, male {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} male {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} other {Quelqu'un le trouve et le lit à voix haute à midi. {name} ont plus que jamais envie de sortir.}}"
-
+msgstr "{gender, select, male {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} female {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} other {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.}}"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3124
 msgid "{gender, select, male {Talk him through it} female {Talk her through it} other {Talk them through it}}"
 msgstr "{gender, select, male {L'accompagner par la parole} female {L'accompagner par la parole} other {Les accompagner par la parole}}"
@@ -1431,7 +1430,7 @@ msgstr "{gender, select, male {La voiture démarre, toujours en feu. {name} le p
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1527
 msgid "{gender, select, male {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} female {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} other {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.}}"
-msgstr "{gender, select, male {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} female {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} other {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approchent avec un marteau.}"
+msgstr "{gender, select, male {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} female {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} other {La machine à café est en panne. Personne n'a parlé depuis deux heures}. {name} s'en approchent avec un marteau.}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2399
 msgid "{gender, select, male {The coworkers are relieved. {name} is not.} female {The coworkers are relieved. {name} is not.} other {The coworkers are relieved. {name} is not.}}"
@@ -1439,7 +1438,7 @@ msgstr "{gender, select, male {Les collègues sont soulagés. {name} ne l'est pa
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3115
 msgid "{gender, select, male {The crowbar bends. {name} spends the afternoon in the lift.} female {The crowbar bends. {name} spends the afternoon in the lift.} other {The crowbar bends. {name} spends the afternoon in the lift.}}"
-msgstr "{gender, select, male {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} female {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} other {Le pied-de-biche se tord. {name} passent l'après-midi dans l'ascenseur.}}{gender, select, male {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.} female {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.} other {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.}}"
+msgstr "{gender, select, male {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} female {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} other {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3085
 msgid "{gender, select, male {The curse embraces you back: {name}'s tool falls off a ladder.} female {The curse embraces you back: {name}'s tool falls off a ladder.} other {The curse embraces you back: {name}'s tool falls off a ladder.}}"
@@ -1527,7 +1526,7 @@ msgstr "{gender, select, male {Le rival remercie ton entreprise dans la presse. 
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1058
 msgid "{gender, select, male {The room loses it. {name} laughs hardest.} female {The room loses it. {name} laughs hardest.} other {The room loses it. {name} laughs hardest.}}"
-msgstr "{gender, select, male {La salle explose de rire. {name} rit le plus fort.} féminin {La salle explose de rire. {name} rit le plus fort.} autre {La salle explose de rire. {name} rient le plus fort.}}"
+msgstr "{gender, select, male {La salle explose de rire. {name} rit le plus fort.} female {La salle explose de rire. {name} rit le plus fort.} other {La salle explose de rire. {name} rient le plus fort.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2873
 msgid "{gender, select, male {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} female {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} other {The teacher has never seen anything like it. {name} improves, and has room to grow even further.}}"
@@ -1539,7 +1538,7 @@ msgstr "{gender, select, male {Le technicien arrive quelques heures plus tard, e
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3606
 msgid "{gender, select, male {The till fills up. {name} hates being a coin-operated charm.} female {The till fills up. {name} hates being a coin-operated charm.} other {The till fills up. {name} hates being a coin-operated charm.}}"
-msgstr "{gender, select, male {La caisse est pleine. {name} déteste être un charme à pièces.} female {La caisse est pleine. {name} déteste être un charme à pièces.} other {La caisse est pleine. {name} détestent être des charmes à pièces.}}""
+msgstr "{gender, select, male {La caisse est pleine. {name} déteste être un charme à pièces.} female {La caisse est pleine. {name} déteste être un charme à pièces.} other {La caisse est pleine. {name} détestent être des charmes à pièces.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2366
 msgid "{gender, select, male {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} female {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} other {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.}}"
@@ -1902,7 +1901,7 @@ msgstr "{who}: demande une augmentation de salaire"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:702
 msgid "{who}: experience in {good} lost"
-msgstr "{qui} : expérience en matière de {good} perdue"
+msgstr "{who} : expérience en matière de {good} perdue"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:428
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:668
@@ -3422,7 +3421,7 @@ msgstr "Un {luckyCharm} avec au moins un collègue."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:228
 msgid "A {mentor} or an employee with Production {high} or more, and a coworker with Production {low} or less and training potential left."
-msgstr "Un {mentor} ou un employé ayant un niveau de production {élevé} ou plus, ainsi qu’un collègue ayant un niveau de production {low} ou moins et disposant encore d’un potentiel de formation."
+msgstr "Un {mentor} ou un employé ayant un niveau de production {high} ou plus, ainsi qu’un collègue ayant un niveau de production {low} ou moins et disposant encore d’un potentiel de formation."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:256
 msgid "A {primaDonna} with at least one coworker."
@@ -7026,7 +7025,7 @@ msgstr "Chacun mène au suivant."
 #. placeholder {1}: LUCK_CHECK.luckPerPoint
 #: src/components/_economy/employee/employeeStats.tsx:330
 msgid "Each point is a {LUCK_PER_POINT_PCT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PCT}%), tilts training draws toward the rarer cards, and adds {0}% to the Luck checks of employee events, {1}% to every other check."
-msgstr "Chaque point confère une probabilité de {LUCK_PER_POINT_PCT}% par heure travaillée de trouver une boîte à outils (jusqu'à un maximum de {LUCK_MAX_PCT}%), favorise l'obtention de cartes plus rares lors des entraînements, et ajoute {0}% aux tests de Chance liés aux événements impliquant des employés, ainsi que {1 % à tous les autres types de tests."
+msgstr "Chaque point confère une probabilité de {LUCK_PER_POINT_PCT}% par heure travaillée de trouver une boîte à outils (jusqu'à un maximum de {LUCK_MAX_PCT}%), favorise l'obtention de cartes plus rares lors des entraînements, et ajoute {0}% aux tests de Chance liés aux événements impliquant des employés, ainsi que {1} % à tous les autres types de tests."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:153
 msgid "Each point is a {LUCK_PERCENT_PER_POINT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PERCENT}%), tilts training draws toward the rarer cards, and improves the odds of every employee event, Luck checks most."
