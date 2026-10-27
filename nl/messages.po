@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1220
 msgid "You find nothing but resentment."
-msgstr ""
+msgstr "Je treft niets anders aan dan wrok."
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
