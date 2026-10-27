@@ -18168,19 +18168,19 @@ msgstr ""
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
-msgstr ""
+msgstr "Dein Land hat keinen Verbündeten mit Regionen"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:122
 msgid "Your country has no initial region."
-msgstr ""
+msgstr "Dein Land hat keine Ausgangsregion."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:109
 msgid "Your country is registered"
-msgstr ""
+msgstr "Dein Land ist registriert"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:143
 msgid "Your country is registered for this tournament"
-msgstr ""
+msgstr "Dein Land ist für dieses Turnier registriert"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2282
 msgid "Your country is under attack!"
@@ -18196,7 +18196,7 @@ msgstr "Dein Land hat eine Revolte in <0/> gegen <1/> gestartet."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2231
 msgid "Your country's article"
-msgstr ""
+msgstr "Der Artikel deines Landes"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "Your current order"
@@ -18204,7 +18204,7 @@ msgstr "Dein aktueller Auftrag"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:97
 msgid "Your current position"
-msgstr ""
+msgstr "Deine derzeitige Position"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1897
 msgid "Your daily missions have been reset! Complete them to earn rewards."
@@ -18216,19 +18216,19 @@ msgstr "Deine E-Mail"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:141
 msgid "Your employee's stats"
-msgstr ""
+msgstr "Die Fähigkeiten deiner Mitarbeiter"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:63
 msgid "Your employees produce nothing right now, so a manager would add nothing."
-msgstr ""
+msgstr "Deine Angestellten produzieren derzeit nichts, daher würde ein Manager auch nichts beitragen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:514
 msgid "Your employees' estimated daily profit, at market prices."
-msgstr ""
+msgstr "Der geschätzte Tagesgewinn Ihrer Mitarbeiter zu Marktpreisen."
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:43
 msgid "Your employer cut your pay to"
-msgstr ""
+msgstr "Dein Arbeitgeber hat deinen Lohn gekürzt auf"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
@@ -18238,7 +18238,7 @@ msgstr "Dein Arbeitgeber möchte deinen Lohn in <0/> von <1>{0}</1. auf <2>{1}</
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1925
 msgid "Your encouragement makes it awkward. It fizzles out."
-msgstr ""
+msgstr "Deine Ermutigung macht die Situation unangenehm. Sie verpufft."
 
 #: src/components/_military/battle/EndedBattlesList.tsx:84
 msgid "Your enemies"
@@ -18246,15 +18246,15 @@ msgstr "Deine Feinde"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:411
 msgid "Your evenings together pay off, and then some."
-msgstr ""
+msgstr "Eure Abende zusammen zahlen sich aus - und noch viel mehr."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:409
 msgid "Your evenings together pay off: a real improvement."
-msgstr ""
+msgstr "Eure Abende zusammen zahlen sich aus: eine echte Verbesserung."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:537
 msgid "Your gear boosts them all."
-msgstr ""
+msgstr "Deine Ausrüstung verstärkt sie alle."
 
 #: src/components/_political/region/ResistanceFocusItem.tsx:248
 msgid "Your government asks you to push the resistance here."
