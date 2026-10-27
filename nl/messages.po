@@ -65,23 +65,23 @@ msgstr "- Het verdedigen van deze regio heeft een nadeel van <0>{0}</0>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:721
 msgid "-1 to every stat"
-msgstr ""
+msgstr "-1 in elke status"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% op het loon dat ze verwachten."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% op het loon dat ze verwachten."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% op het loon dat ze verwachten."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
-msgstr ""
+msgstr ""Ervaren medewerker" dus. Dat voldoet, voorlopig."
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:225
@@ -90,7 +90,7 @@ msgstr "(gemiddelde ledenontwikkeling)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr ""
+msgstr "(medewerker)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
