@@ -18274,7 +18274,7 @@ msgstr ""
 
 #: src/components/_military/hit/HitButton.tsx:460
 msgid "Your location"
-msgstr ""
+msgstr "Dein Standort"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:76
 #: src/components/_military/battle/LootSummaryCard.tsx:80
@@ -18291,11 +18291,11 @@ msgstr "Dein Glück hat gerade Urlaub"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:289
 msgid "Your milestones"
-msgstr ""
+msgstr "Deine Meilensteine"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:525
 msgid "Your military skills"
-msgstr ""
+msgstr "Deine militärischen Fähigkeiten"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
@@ -18307,7 +18307,7 @@ msgstr "Die Nationalität deiner Militäreinheit ist das Land, das sie vertritt.
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1921
 msgid "Your monthly missions have been reset! Complete them to earn rewards."
-msgstr ""
+msgstr "Deine monatlichen Missionen wurden zurückgesetzt! Schließe sie ab um Belohnungen zu verdienen."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:49
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
@@ -18315,11 +18315,11 @@ msgstr "Deine ME hat <0/> Ruf und kann nicht auf Söldnerverträge bieten. Bezah
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:107
 msgid "Your MU is registered"
-msgstr ""
+msgstr "Deine ME ist registriert"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:141
 msgid "Your MU is registered for this tournament"
-msgstr ""
+msgstr "Deine ME ist für dieses Turnier registriert"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:230
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
@@ -18331,7 +18331,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:341
 msgid "Your offer <0>{price}</0>"
-msgstr ""
+msgstr "Dein Angebot <0>{price}</0>"
 
 #: src/components/_economy/market/MarketHeader.tsx:14
 msgid "Your offers"
