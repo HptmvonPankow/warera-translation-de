@@ -65,19 +65,19 @@ msgstr "- Die Verteidigung dieser Region hat einen Malus von <0>{0}</0>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:721
 msgid "-1 to every stat"
-msgstr ""
+msgstr "-1 für jeden Wert"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% auf das von ihnen erwartete Gehalt"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% auf das von ihnen erwartete Gehalt"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% auf das von ihnen erwartete Gehalt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
@@ -90,7 +90,7 @@ msgstr "(Durchschnittliche Entwicklung aller Mitglieder)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr ""
+msgstr "(Kollege)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -103,63 +103,63 @@ msgstr "(eigene Entwicklung)"
 #. placeholder {0}: others.length
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:602
 msgid "{0, plural, one {# coworker} other {# coworkers}}"
-msgstr ""
+msgstr "{0, plural, one {# Kollege} other {# Kollegen}}"
 
 #. placeholder {0}: hours / 24
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:60
 msgid "{0, plural, one {# day} other {# days}}"
-msgstr ""
+msgstr "{0, plural, one {# Tag} other {# Tage}}"
 
 #. placeholder {0}: data.employeeCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:451
 msgid "{0, plural, one {# employee} other {# employees}}"
-msgstr ""
+msgstr "{0, plural, one {# Angestellter} other {# Angestellte}}"
 
 #. placeholder {0}: data.managerCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:470
 msgid "{0, plural, one {# manager} other {# managers}}"
-msgstr ""
+msgstr "{0, plural, one {# Manager} other {# Manager}}"
 
 #. placeholder {0}: conversation.memberCount
 #: src/components/_political/chat/ChatConversationItem.tsx:201
 msgid "{0, plural, one {# member} other {# members}}"
-msgstr ""
+msgstr "{0, plural, one {# Mitglied} other {# Mitglieder}}"
 
 #. placeholder {0}: proposition.skinItems.length
 #: src/components/_user/premium/AssetPropositionItem.tsx:298
 msgid "{0, plural, one {# skin} other {# skins}}"
-msgstr ""
+msgstr "{0, plural, one {# Skin} other {# Skins}}"
 
 #. placeholder {0}: poll.totalVoters
 #: src/components/_social/poll/PollCard.tsx:391
 msgid "{0, plural, one {# vote} other {# votes}}"
-msgstr ""
+msgstr "{0, plural, one {# Stimme} other {# Stimmen}}"
 
 #. placeholder {0}: giveaway.winnersQuantity ?? 0
 #: src/components/_other/giveaway/GiveawayItem.tsx:31
 msgid "{0, plural, one {# winner} other {# winners}}"
-msgstr ""
+msgstr "{0, plural, one {# Gewinner} other {# Gewinner}}"
 
 #. placeholder {0}: totalBattles - maxBattles
 #: src/components/_layout/LayoutBattles.tsx:137
 msgid "{0, plural, one {Battle} other {Battles}}"
-msgstr ""
+msgstr "{0, plural, one {Schlacht} other {Schlachten}}"
 
 #. placeholder {0}: Math.max(rows.length, 1)
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:266
 msgid "{0, plural, one {Put on sale} other {Put # items on sale}}"
-msgstr ""
+msgstr "{0, plural, one {zum Verkauf anbieten} other { # Gegenstände zum Verkauf anbieten}}"
 
 #. placeholder {0}: estimate.notOwnedCount
 #: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "{0, plural, one {Unlock # skin} other {Unlock # skins}}"
-msgstr ""
+msgstr "{0, plural, one { # Skin freigeschaltet} other { # Skins freigeschaltet}}"
 
 #. placeholder {0}: damagesPercent(effects.bunkerBonusDelta)
 #. placeholder {1}: upgradeName(EUpgrade.BUNKER)
 #: src/components/_political/govType/govType.frontConfig.tsx:269
 msgid "{0} {1} bonus"
-msgstr ""
+msgstr "{0} {1} Bonus"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -174,17 +174,17 @@ msgstr "{0} aktive Bürger erforderlich"
 #. placeholder {0}: getTimeAgo(entry.pickedAt, 'fromNow', undefined, true, true)
 #: src/components/_economy/employee/TrainingHistory.tsx:184
 msgid "{0} ago"
-msgstr ""
+msgstr "{0} zuvor"
 
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr ""
+msgstr "{0} Allianz Bonus, wenn für einen Verbündeten gekämpft wird"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:331
 msgid "{0} away"
-msgstr ""
+msgstr "{0} entfernt"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:669
@@ -194,7 +194,7 @@ msgstr "{0} hat dein Item-Angebot gekauft"
 #. placeholder {0}: upgradeName(EUpgrade.BASE)
 #: src/components/_political/govType/govType.frontConfig.tsx:340
 msgid "{0} can't be activated"
-msgstr ""
+msgstr "{0} kann nicht deaktiviert werden"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:127
@@ -204,22 +204,22 @@ msgstr "{0} Tage Abklingzeit"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr ""
+msgstr "{0} Entwicklungseinkommen"
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr ""
+msgstr "{0} Entwicklungseinkommen von besetzten Gebieten"
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr ""
+msgstr "{0} Entwicklungseinkommen von Kerngebieten"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr ""
+msgstr "{0} Energie für das Update, einmal pro Account"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -229,7 +229,7 @@ msgstr "{0} Kostenlos"
 #. placeholder {0}: meta.label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:110
 msgid "{0} guide"
-msgstr ""
+msgstr "{0} Anleitung"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
@@ -241,7 +241,7 @@ msgstr "{0} Stunden"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr ""
+msgstr "{0} warted auf deine Entscheidung."
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -262,7 +262,7 @@ msgstr "{0} hat ein neues Gesetz vorgeschlagen <0/>"
 #. placeholder {0}: presetPointCost(preset.skills)
 #: src/components/_user/user/SkillPresetsModal.tsx:251
 msgid "{0} pts"
-msgstr ""
+msgstr "{0} Punkte"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -272,12 +272,12 @@ msgstr "{0} Runden werden benötigt, um die Schlacht zu gewinnen."
 #. placeholder {0}: moneyPercent(effects.strategicResourceIncomeMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:225
 msgid "{0} strategic resource income"
-msgstr ""
+msgstr "{0} strategischen Ressourceneinkommen"
 
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} Werkzeug"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
@@ -293,7 +293,7 @@ msgstr "{0}/{1} aktiv"
 #. placeholder {0}: userMapLootConfig.lootChancePercent
 #: src/components/_layout/LayoutMapUserMenu.tsx:451
 msgid "{0}% base chance, plus your Luck skill"
-msgstr ""
+msgstr "{0}% Grundwahrscheinlichkeit, zuzüglich deiner Glücksfertigkeit"
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
 #: src/components/_economy/company/CompanyDropdown.tsx:512
@@ -304,21 +304,21 @@ msgstr "{0}% des Investierten"
 #. placeholder {1}: specializationBonusPercent(employee, code)
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:68
 msgid "{0}d worked: <0>{1}</0>"
-msgstr ""
+msgstr "{0}T gearbeitet: <0>{1}</0>"
 
 #. placeholder {0}: contract.unpaidHours
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:223
 msgid "{0}h unpaid"
-msgstr ""
+msgstr "{0}Std ungezahlt"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:913
 msgid "{answerWithin} to answer"
-msgstr ""
+msgstr "{answerWithin} zu antworten"
 
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
 msgid "{chaptersDone} of {0} guides done"
-msgstr ""
+msgstr "{chaptersDone} von {0} Anleitungen erledigt"
 
 #: src/components/_user/mission/MissionsList.tsx:229
 msgid "{completedCount}/{totalCount} completed"
@@ -454,7 +454,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} hat {toolboxes} gefunden die du beanspruchen kannst"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:887
 msgid "{flightRiskQuitThreshold} happiness, not {quitThreshold}"
@@ -463,7 +463,7 @@ msgstr ""
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
 msgid "{freeMoves} free"
-msgstr ""
+msgstr "{freeMoves} kostenlos"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1169
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
@@ -1689,35 +1689,35 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1833
 msgid "{name} says soup is a drink. {partnerName} says it is food. They have not spoken in three days."
-msgstr ""
+msgstr "{name} sagt, dass Suppe ein Getränk ist. {partnerName} sagt es ist Essen. Sie haben seit 3 Tagen nicht gesprochen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3720
 msgid "{name} wants the thermostat at 18 degrees, {partnerName} at 26. Half the workshop wears coats, the other half shorts."
-msgstr ""
+msgstr "{name} wollte den Temperaturregler auf 18 Grad, {partnerName} auf 26. Die Hälfte der Firma trägt Mäntel, die andere kurze Hosen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3776
 msgid "{name} wears the hat proudly. {partnerName} wanted the hat."
-msgstr ""
+msgstr "{name} trägt diesen Hut stolz. {partnerName} wollte diesen Hut."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:606
 msgid "{named} and {counted}"
-msgstr ""
+msgstr "{named} und {counted}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventInbox.tsx:123
 msgid "{names}: decided while you were away"
-msgstr ""
+msgstr "{names}: haben sich entschieden während du weg warst"
 
 #: src/components/_user/user/Level.tsx:137
 msgid "{nextLevelSkillPoints} Skill Points"
-msgstr ""
+msgstr "{nextLevelSkillPoints} Fertigkeitspunkte"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1891
 msgid "{partnerName} backs off. The fort stands."
-msgstr ""
+msgstr "{partnerName} weicht zurück. Die Festung steht noch."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1875
 msgid "{partnerName} has decided to become friends with {name}. {name} has responded by building a wall of crates."
-msgstr ""
+msgstr "{partnerName} hat sich entschieden mit {name} befreundet zu sein. {name} hat reagiert indem er einen Mauer aus Kisten erbaut hat."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3842
 msgid "{partnerName} is cleared. {name} now guards the fridge alone."
@@ -1725,32 +1725,32 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3835
 msgid "{partnerName} is officially the lunch thief. {name} eats in peace."
-msgstr ""
+msgstr "{partnerName} ist offiziell der Mittagsessensdieb. {name} isst in Ruhe."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1846
 msgid "{partnerName} is vindicated. {name} is not."
-msgstr ""
+msgstr "{partnerName} hat Recht behalten. {name} nicht."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:915
 msgid "{partnerName} learns fast, and wants to learn more."
-msgstr ""
+msgstr "{partnerName} lernt schnell und will mehr lernen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:913
 msgid "{partnerName} learns fast."
-msgstr ""
+msgstr "{partnerName} lernt schnell."
 
 #: src/components/_user/premium/UserHeaderFakeContent.tsx:155
 msgid "{premiumMonthsCount, plural, one {# month} other {# months}}"
-msgstr ""
+msgstr "{premiumMonthsCount, plural, one {# Monat} other {# Monate}}"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:280
 #: src/components/_political/map/MapMenu.tsx:193
 msgid "{quantity, plural, =1 {Wooden case collected!} one {# wooden case collected!} other {# wooden cases collected!}}"
-msgstr ""
+msgstr "{quantity, plural, =1 {Holzkiste eingesammelt!} one {# Holzkiste eingesammelt!} other {# Holzkisten eingesammelt !}}"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:208
 msgid "{rareCount, plural, one {# of them is rare or better} other {# of them are rare or better}}"
-msgstr ""
+msgstr "{rareCount, plural, one {# ist selten oder besser} other {# sind selten oder besser}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:702
 msgid "{raw} of the company's good, {product} if it is a product"
@@ -1763,15 +1763,15 @@ msgstr ""
 #: src/components/_layout/LayoutMapUserMenu.tsx:370
 #: src/components/_political/map/MapMenu.tsx:680
 msgid "{regionsAway, plural, one {# region away} other {# regions away}}"
-msgstr ""
+msgstr "{regionsAway, plural, one {# Region entfernt} other {# Regionen entfernt}}"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
-msgstr ""
+msgstr "{registeredCount} Länder angemeldet"
 
 #: src/pages/events/index.tsx:95
 msgid "{registeredCount} MUs registered"
-msgstr ""
+msgstr "{registeredCount} MEs angemeldet"
 
 #: src/components/_military/battle/BattleTimeline.tsx:83
 msgid "{roundsToWin} Rounds to win "
