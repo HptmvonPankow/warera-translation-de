@@ -11707,7 +11707,7 @@ msgstr "Okej okej, nieźle"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Old Friends"
-msgstr "Starzy Przyjaciele"
+msgstr "Dobrzy Przyjaciele"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
