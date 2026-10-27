@@ -15235,7 +15235,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3558
 msgid "The birthday card"
-msgstr ""
+msgstr "بطاقة الميلاد"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3406
 msgid "The box burns. Nobody suggests anything for another three years."
@@ -15267,7 +15267,7 @@ msgstr "نجحت الحرب الأهلية التي بدأها <0/> في <1/> ب
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1525
 msgid "The coffee machine"
-msgstr ""
+msgstr "ألة القهوة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3083
 msgid "The company adopts the curse as a mascot. Morale is oddly up."
