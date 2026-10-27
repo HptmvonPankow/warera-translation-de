@@ -103,47 +103,47 @@ msgstr "(eigen ontwikkeling)"
 #. placeholder {0}: others.length
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:602
 msgid "{0, plural, one {# coworker} other {# coworkers}}"
-msgstr ""
+msgstr "{0, plural, one {# medewerker} other {# medewerkers}}"
 
 #. placeholder {0}: hours / 24
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:60
 msgid "{0, plural, one {# day} other {# days}}"
-msgstr ""
+msgstr "{0, plural, one {# dag} other {# dagen}}"
 
 #. placeholder {0}: data.employeeCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:451
 msgid "{0, plural, one {# employee} other {# employees}}"
-msgstr ""
+msgstr "{0, plural, one {# werknemer} other {# werknemers}}"
 
 #. placeholder {0}: data.managerCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:470
 msgid "{0, plural, one {# manager} other {# managers}}"
-msgstr ""
+msgstr "{0, plural, one {# directeur} other {# directeurs}}"
 
 #. placeholder {0}: conversation.memberCount
 #: src/components/_political/chat/ChatConversationItem.tsx:201
 msgid "{0, plural, one {# member} other {# members}}"
-msgstr ""
+msgstr "{0, plural, one {# lid} other {# leden}}"
 
 #. placeholder {0}: proposition.skinItems.length
 #: src/components/_user/premium/AssetPropositionItem.tsx:298
 msgid "{0, plural, one {# skin} other {# skins}}"
-msgstr ""
+msgstr "{0, plural, one {# skin} other {# skins}}"
 
 #. placeholder {0}: poll.totalVoters
 #: src/components/_social/poll/PollCard.tsx:391
 msgid "{0, plural, one {# vote} other {# votes}}"
-msgstr ""
+msgstr "{0, plural, one {# stem} other {# stemmen}}"
 
 #. placeholder {0}: giveaway.winnersQuantity ?? 0
 #: src/components/_other/giveaway/GiveawayItem.tsx:31
 msgid "{0, plural, one {# winner} other {# winners}}"
-msgstr ""
+msgstr "{0, plural, one {# winnaar} other {# winnaars}}"
 
 #. placeholder {0}: totalBattles - maxBattles
 #: src/components/_layout/LayoutBattles.tsx:137
 msgid "{0, plural, one {Battle} other {Battles}}"
-msgstr ""
+msgstr "{0, plural, one {Gevecht} other {Gevechten}}"
 
 #. placeholder {0}: Math.max(rows.length, 1)
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:266
