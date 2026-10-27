@@ -14886,7 +14886,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:67
 msgid "Support"
-msgstr ""
+msgstr "الدعم"
 
 #: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
@@ -14952,12 +14952,12 @@ msgstr "القائد الأعلى"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:285
 msgid "Swap employees?"
-msgstr ""
+msgstr "تغيير العامل؟"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:261
 #: src/components/_economy/manager/MoveManagerModal.tsx:206
 msgid "Swap with"
-msgstr ""
+msgstr "تغيير مع"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:231
 msgid "Swap your managers?"
@@ -14965,7 +14965,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Sweethearts"
-msgstr ""
+msgstr "محبوب"
 
 #: src/components/_political/map/MapLibre.tsx:634
 msgid "Switched back to the flat map."
@@ -14990,7 +14990,7 @@ msgstr "ثورة نظام"
 #: src/components/_economy/employee/ToolSelectorPopover.tsx:195
 #: src/components/_economy/inventory/Inventory.tsx:737
 msgid "Take back"
-msgstr ""
+msgstr "أخد قسط من الراحة"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:788
 msgid "Take Care"
@@ -15025,11 +15025,11 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:94
 msgid "Take this position?"
-msgstr ""
+msgstr "أخد هذاالمكان؟"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1752
 msgid "Take your kid to work"
-msgstr ""
+msgstr "جلب إبنك للعمل"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:90
 msgid "Taken: a swap is the only way in"
@@ -15057,7 +15057,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:546
 msgid "Tap any region on the map to open its menu."
-msgstr ""
+msgstr "إضغط على اي مكان في الخارطة لفتح القائمة"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:96
 msgid "Tap Companies to start."
@@ -15070,7 +15070,7 @@ msgstr "اضغط لعرض تفاصيل الفئات بالكامل"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:203
 msgid "Tap Inventory."
-msgstr ""
+msgstr "إضغط على المخزون"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:558
 msgid "Tap Move to travel there."
@@ -15086,7 +15086,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:418
 msgid "Tap the chat."
-msgstr ""
+msgstr "إضغط على المحادثة"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:134
 msgid "Tap them to see who they are."
@@ -15102,7 +15102,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:215
 msgid "Tap to see what's inside."
-msgstr ""
+msgstr "إضغط لرؤية ما بالداخل"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:424
 msgid "Tap your country's conversation."
@@ -15143,7 +15143,7 @@ msgstr "الضرائب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:406
 msgid "Teach them yourself"
-msgstr ""
+msgstr "علمهم بنفسك"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:95
 msgid "Teaches a trait, named on the card. It needs a free trait slot."
