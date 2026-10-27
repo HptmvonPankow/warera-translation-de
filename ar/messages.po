@@ -14153,7 +14153,7 @@ msgstr "بعها، أنت بحاجة لشراء المزيد من الصنادي
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:59
 msgid "Sell items"
-msgstr ""
+msgstr "بيع العناصر"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Sell Items"
@@ -14208,11 +14208,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:371
 msgid "Send them home to rest"
-msgstr ""
+msgstr "أرسلهم الى المنزل للراحة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:527
 msgid "Send them to a doctor"
-msgstr ""
+msgstr "أرسلهم الى الطبيب"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -14251,11 +14251,11 @@ msgstr "تعيين لون الدولة إلى <0>{0}</0>"
 #: src/components/_political/law/law.frontConfig.tsx:629
 #: src/components/_political/law/lawNames.tsx:43
 msgid "Set government type"
-msgstr ""
+msgstr "تعيين نوع الحكومة"
 
 #: src/components/_political/law/law.frontConfig.tsx:638
 msgid "Set government type to <0/>"
-msgstr ""
+msgstr "تعيين نوع الحكومة الى"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:491
 msgid "Set it up!"
@@ -14320,7 +14320,7 @@ msgstr "بريق"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:649
 msgid "Shoo it away"
-msgstr ""
+msgstr "طرده بعيدا"
 
 #: src/components/_layout/LayoutRightIcons.tsx:195
 #: src/components/_layout/MoreButtonNav.tsx:70
@@ -14340,7 +14340,7 @@ msgstr "إظهار كافة المزايدات الـ {0}"
 
 #: src/pages/user/[userId]/settings.tsx:82
 msgid "Show email"
-msgstr ""
+msgstr "اظهار البريد"
 
 #: src/components/_economy/work/WorkList.tsx:113
 #: src/components/_military/damageRanking/DamageRankingList.tsx:189
@@ -14363,7 +14363,7 @@ msgstr "إظهار المقالات ذات التقييم الإيجابي فق�
 
 #: src/components/_social/poll/PollCard.tsx:408
 msgid "Show results"
-msgstr ""
+msgstr "إظهار النتيجة"
 
 #: src/components/_military/mu/MuMemberList.tsx:199
 msgid "Showing monthly"
@@ -14421,7 +14421,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2066
 msgid "Sit down and negotiate"
-msgstr ""
+msgstr "الجلوس للتفاوض"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:884
 msgid "Sit them down together"
@@ -14438,7 +14438,7 @@ msgstr "مشكلة في المهارة؟"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:184
 msgid "Skill presets"
-msgstr ""
+msgstr "تشكيلة المهارات"
 
 #: src/components/_user/user/SkillBar.tsx:32
 #: src/components/_user/user/SkillValue.tsx:69
@@ -14540,7 +14540,7 @@ msgstr "قناص"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:91
 msgid "Sociable"
-msgstr ""
+msgstr "إجتماعي"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:642
 msgid "Social"
@@ -14593,7 +14593,7 @@ msgstr "المؤثرات الصوتية"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1836
 msgid "Soup is a drink"
-msgstr ""
+msgstr "الحساء عبارة عن مشروب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1843
 msgid "Soup is food"
