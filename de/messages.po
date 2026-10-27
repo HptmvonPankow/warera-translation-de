@@ -3406,7 +3406,7 @@ msgstr "Ein {comic} mit mindestens einem Kollegen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:484
 msgid "A {diamond} or a {lateBloomer}, with training potential left."
-msgstr "Ein {diamond} oder ein {lateBloomer}, mit noch vorhandenem Ausbildungspotenzial."
+msgstr "Ein {diamond} oder ein {lateBloomer}, mit noch vorhandenem Trainingspotenzial."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:252
 msgid "A {foreman} with at least one coworker."
@@ -3426,7 +3426,7 @@ msgstr "Ein {luckyCharm} mit mindestens einem Kollegen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:228
 msgid "A {mentor} or an employee with Production {high} or more, and a coworker with Production {low} or less and training potential left."
-msgstr "Ein {mentor} oder ein Angestellter mit Produktion {high} oder mehr, und ein Kollege mit Produktion {low} oder weniger und übrigen Ausbildungspotenzial."
+msgstr "Ein {mentor} oder ein Angestellter mit Produktion {high} oder mehr, und ein Kollege mit Produktion {low} oder weniger und übrigen Trainingspotenzial."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:256
 msgid "A {primaDonna} with at least one coworker."
