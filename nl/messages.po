@@ -81,7 +81,7 @@ msgstr "-5% op het loon dat ze verwachten."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
-msgstr ""Ervaren medewerker" dus. Dat voldoet, voorlopig."
+msgstr "“Ervaren medewerker” dus. Dat voldoet, voorlopig."
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:225
