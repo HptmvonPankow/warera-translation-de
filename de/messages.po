@@ -1887,7 +1887,7 @@ msgstr "{who}: {value} auf einen zufälligen Wert (benutzt Potenzial)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:409
 msgid "{who}: {value} training potential"
-msgstr "{who}: {value} Ausbildungspotenzial"
+msgstr "{who}: {value} Trainingspotenzial"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
