@@ -17130,15 +17130,15 @@ msgstr "Verifizieren"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:298
 msgid "Verifying you're human..."
-msgstr ""
+msgstr "Verifiziere, dass du ein Mensch bist..."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:115
 msgid "Veteran"
-msgstr ""
+msgstr "Veteran"
 
 #: src/components/_layout/LayoutOptions.tsx:203
 msgid "Vibrations"
-msgstr ""
+msgstr "Vibrationen"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:131
 msgid "Vice Admiral"
@@ -17153,7 +17153,7 @@ msgstr "Vizepräsident"
 
 #: src/components/_user/user/UserBadges.tsx:217
 msgid "Vice president of <0/>"
-msgstr ""
+msgstr "Vize Präsident von <0/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:60
 msgid "View details"
@@ -17165,24 +17165,24 @@ msgstr "Auf Karte anzeigen"
 
 #: src/components/_military/battle/BattleHeader.tsx:268
 msgid "Viewers"
-msgstr ""
+msgstr "Betrachter"
 
 #: src/components/_social/announcement/Announcement.tsx:59
 msgid "Views"
-msgstr ""
+msgstr "Aufrufe"
 
 #: src/components/_political/election/Election.tsx:272
 #: src/components/_user/mission/mission.frontConfig.tsx:678
 msgid "Vote"
-msgstr ""
+msgstr "Abstimmen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:679
 msgid "Vote in an election"
-msgstr ""
+msgstr "Stimme in einer Wahl ab"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:151
 msgid "Vote in elections"
-msgstr ""
+msgstr "Stimme in Wahlen ab"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:103
 msgid "Voter"
@@ -17191,7 +17191,7 @@ msgstr "Wähler"
 #: src/components/_political/election/Election.tsx:130
 #: src/components/_political/election/Election.tsx:220
 msgid "Votes"
-msgstr ""
+msgstr "Stimmen"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
@@ -17213,7 +17213,7 @@ msgstr "Lohn geändert"
 
 #: src/components/_economy/employee/employeeTags.tsx:154
 msgid "Wage expectation"
-msgstr ""
+msgstr "Lohnerwartung"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2216
 msgid "Wage reduction proposed"
@@ -17221,7 +17221,7 @@ msgstr "Lohnkürzung vorgeschlagen"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:61
 msgid "Wages"
-msgstr ""
+msgstr "Löhne"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3162
 msgid "Wait for it to restart"
