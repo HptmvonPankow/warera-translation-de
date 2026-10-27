@@ -18327,7 +18327,7 @@ msgstr "Deine ME braucht genug Geld für die Kaution, um bieten zu können. Abge
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:253
 msgid "Your next unlock"
-msgstr ""
+msgstr "Deine nächste Freischaltung"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:341
 msgid "Your offer <0>{price}</0>"
@@ -18345,15 +18345,15 @@ msgstr "Dein Parteiname"
 #. placeholder {1}: data.newWage
 #: src/components/_user/notification/notification.frontConfig.tsx:481
 msgid "Your pay at <0/> went from <1>{0}</1> to <2>{1}</2> per hour"
-msgstr ""
+msgstr "Dein Stundenlohn bei <0/> stieg von <1>{0}</1> auf <2>{1}</2>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3801
 msgid "Your prank goes too far. Work slows to a crawl while everyone cleans up."
-msgstr ""
+msgstr "Dein Streich geht zu weit. Die Arbeit kommt fast zum Erliegen, während alle aufräumen. "
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3799
 msgid "Your prank is the best yet. The whole workshop is in stitches."
-msgstr ""
+msgstr "Dein Streich ist der beste bisher. Die ganze Firma lacht sich kaputt."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1196
 msgid "Your premium subscription has been activated!"
@@ -18365,11 +18365,11 @@ msgstr "Dein Premium-Abonnement ist abgelaufen!"
 
 #: src/components/_other/tour/TutorialStep.tsx:441
 msgid "Your progress is kept. Finish it later to earn the reward."
-msgstr ""
+msgstr "Dein Fortschritt wird gespeichert. Beende es später um deine Belohnung zu erhalten."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:223
 msgid "Your progression"
-msgstr ""
+msgstr "Dein Fortschritt "
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
 msgid "Your rank"
@@ -18381,7 +18381,7 @@ msgstr "Dein Empfehlungslink"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:251
 msgid "Your reward"
-msgstr ""
+msgstr "Deine Belohnung"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1581
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -18397,7 +18397,7 @@ msgstr "Dein Team:"
 
 #: src/components/_political/election/Election.tsx:230
 msgid "Your vote"
-msgstr ""
+msgstr "Deine Stimme"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
@@ -18411,7 +18411,7 @@ msgstr "Deine wöchentlichen Missionen wurden zurückgesetzt! Schließe sie ab, 
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:512
 msgid "Your workforce"
-msgstr ""
+msgstr "Deine Arbeitskraft"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
