@@ -342,7 +342,7 @@ msgstr "{count, plural, one {<0>Draag bij aan verzet <1/> maal</0>} other {<2>Dr
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr "{count, plural, one {<0>Maak <1/> voorwerp</0>} other {<2>Maak <3/> voorwerpen</2>}}"
+msgstr "{count, plural, one {<0>Maak <1/> voorwerp</0>} other {<2>Maak <3/> voorwerpen </2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
@@ -350,7 +350,7 @@ msgstr "{count, plural, one {<0>Kruis <1/> regio op de map</0>} other {<2>Kruis 
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr "{count, plural, one {<0>Demonteer <1/> voorwerp</0>} other {<2>Demonteer <3/> voorwerpen</2>}}""
+msgstr "{count, plural, one {<0>Demonteer <1/> voorwerp</0>} other {<2>Demonteer <3/> voorwerpen </2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
@@ -358,7 +358,7 @@ msgstr "{count, plural, one {<0>Ontwijk <1/> aanval</0>} other {<2>Ontwijk <3/> 
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr "{count, plural, one {<0>Eet <1/> voeding voorwerp</0>} other {<2>Eet <3/> voeding voorwerpen</2>}}"
+msgstr "{count, plural, one {<0>Eet <1/> voeding voorwerp</0>} other {<2>Eet <3/> voeding voorwerpen </2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
