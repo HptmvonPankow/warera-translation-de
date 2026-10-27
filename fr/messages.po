@@ -1371,8 +1371,7 @@ msgstr "{gender, select, male {Le faire travailler quand même} female {La faire
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2804
 msgid "{gender, select, male {Most of it is about the job, and some of it is right. {name} learns something about the trade.} female {Most of it is about the job, and some of it is right. {name} learns something about the trade.} other {Most of it is about the job, and some of it is right. {name} learns something about the trade.}}"
-msgstr "gender, select, male {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} female {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} other {L'essentiel porte sur le travail, et certains points sont justes. {name} apprennent des choses sur le métier.}}"
-
+msgstr "{gender, select, male {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} female {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} other {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.}}"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:499
 msgid "{gender, select, male {Nobody asked {name} to stay, so he did not. He is gone.} female {Nobody asked {name} to stay, so she did not. She is gone.} other {Nobody asked {name} to stay, so they did not. They are gone.}}"
 msgstr "{gender, select, male {Personne n'a demandé à {name} de rester, il est donc parti.} female {Personne n'a demandé à {name} de rester, elle est donc partie.} other {Personne n'a demandé à {name} de rester, ils sont donc partis.}}"
@@ -1430,8 +1429,7 @@ msgstr "{gender, select, male {La voiture démarre, toujours en feu. {name} le p
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1527
 msgid "{gender, select, male {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} female {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} other {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.}}"
-msgstr "{gender, select, male {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} female {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} other {La machine à café est en panne. Personne n'a parlé depuis deux heures}. {name} s'en approchent avec un marteau.}"
-
+msgstr "{gender, select, male {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} female {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} other {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.}}"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2399
 msgid "{gender, select, male {The coworkers are relieved. {name} is not.} female {The coworkers are relieved. {name} is not.} other {The coworkers are relieved. {name} is not.}}"
 msgstr "{gender, select, male {Les collègues sont soulagés. {name} ne l'est pas.} female {Les collègues sont soulagés. {name} ne l'est pas.} other {Les collègues sont soulagés. {name} ne le sont pas.}}"
@@ -3446,7 +3444,7 @@ msgstr "Un {veteran} avec au moins un collègue."
 #. placeholder {0}: ts.cocain
 #: src/components/_layout/loadingTips.tsx:152
 msgid "A <0>{0}</0> boosts your <1>Attack</1> by {pillAttack}% for {pillBuffHours}h, then lowers it just as much for {pillDebuffHours}h. Save it for the battle that matters."
-msgstr "Une <0>{0}</0> augmente ton <1>Attaque</1> de {pillAttack}% pendant {pillBuffHours}h, puis la réduit d'autant pendant {pillDebuffHours h. Gardez-la pour le combat qui compte."
+msgstr "Une <0>{0}</0> augmente ton <1>Attaque</1> de {pillAttack}% pendant {pillBuffHours}h, puis la réduit d'autant pendant {pillDebuffHours}h . Gardez-la pour le combat qui compte."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:80
 msgid "A <0>supporter badge</0>"
@@ -16162,7 +16160,7 @@ msgstr "Tank Petit pixel"
 #: src/components/_layout/LoadingTip.tsx:46
 msgctxt "noun: loading screen hint"
 msgid "Tip"
-msgstr "Soutenir financièrement"
+msgstr "Astuce"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:433
 msgid "Tip Article"
