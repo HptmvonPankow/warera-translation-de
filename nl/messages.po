@@ -313,7 +313,7 @@ msgstr "{0}u onbetaald"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:913
 msgid "{answerWithin} to answer"
-msgstr ""{answerWithin} om te antwoorden""
+msgstr "{answerWithin} om te antwoorden"
 
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
@@ -330,8 +330,7 @@ msgstr "{contribution} wanneer iedereen in het evenement het heeft."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr {count, plural, one {<0>Answer <1/> werknemer evenement</0>} other {<2>Answer <3/> werknemer evenementen</2>}}"
-""
+msgstr "{count, plural, one {<0>Answer <1/> werknemer evenement</0>} other {<2>Answer <3/> werknemer evenementen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
