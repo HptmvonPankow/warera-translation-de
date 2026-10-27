@@ -63,9 +63,9 @@ msgstr " Offrir un abonnement"
 msgid "- Defending this region will have a malus of <0>{0}</0>."
 msgstr "- Défendre cette région aura un malus de <0>{0}</0>."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:721
-msgid "-1 to every stat"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:483
+msgid "-1 to every stat every 20 days in the same company, down to -3."
+msgstr "-1 à chaque stat tous les 20 jours dans la même entreprise, jusqu’à -3"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
@@ -141,7 +141,7 @@ msgid "{0, plural, one {# winner} other {# winners}}"
 msgstr "{0, plural, one {# gagnant} other {# gagnants}}"
 
 #. placeholder {0}: totalBattles - maxBattles
-#: src/components/_layout/LayoutBattles.tsx:137
+#: src/components/_layout/LayoutBattles.tsx:141
 msgid "{0, plural, one {Battle} other {Battles}}"
 msgstr "{0, plural, one {Bataille} other {Batailles}}"
 
@@ -182,7 +182,7 @@ msgid "{0} alliance bonus when fighting for an ally"
 msgstr "Bonus d'alliance de {0} en combattant pour un allié"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
-#: src/components/_layout/LayoutMapUserMenu.tsx:331
+#: src/components/_layout/LayoutMapUserMenu.tsx:332
 msgid "{0} away"
 msgstr "{0} de distance"
 
@@ -291,7 +291,7 @@ msgid "{0}/{1} active"
 msgstr "{0}/{1} actives"
 
 #. placeholder {0}: userMapLootConfig.lootChancePercent
-#: src/components/_layout/LayoutMapUserMenu.tsx:451
+#: src/components/_layout/LayoutMapUserMenu.tsx:452
 msgid "{0}% base chance, plus your Luck skill"
 msgstr "{0}% de chance de base, plus ta compétence Chance"
 
@@ -307,7 +307,7 @@ msgid "{0}d worked: <0>{1}</0>"
 msgstr "{0}j travaillés: <0>{1}</0>"
 
 #. placeholder {0}: contract.unpaidHours
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:223
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:225
 msgid "{0}h unpaid"
 msgstr "{0}h non payées"
 
@@ -455,10 +455,6 @@ msgstr "{finder} et d’autres personnes ont trouvé des {toolboxes} que tu peux
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
 msgstr "{finder} a trouvé des {toolboxes} que tu peux récupérer."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:887
-msgid "{flightRiskQuitThreshold} happiness, not {quitThreshold}"
-msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
@@ -1187,379 +1183,379 @@ msgstr "{gender, select, male {Un pigeon a élu domicile dans les combles. {name
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:426
 msgid "{gender, select, male {A rival firm has offered {name} a job. He has not said yes, but he has not said no either.} female {A rival firm has offered {name} a job. She has not said yes, but she has not said no either.} other {A rival firm has offered {name} a job. They have not said yes, but they have not said no either.}}"
-msgstr ""
+msgstr "{gender, select, male {Une entreprise concurrente a proposé un poste à {name}. Il n’a pas dit oui, mais il n’a pas dit non non plus.} female {Une entreprise concurrente a proposé un poste à {name}. Elle n’a pas dit oui, mais elle n’a pas dit non non plus.} other {Une entreprise concurrente a proposé un poste à {name}. Ces personnes n’ont pas dit oui, mais ils n’ont pas dit non non plus.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:929
 msgid "{gender, select, male {A week has passed. {name} is packing, trusting your promise of a trip home.} female {A week has passed. {name} is packing, trusting your promise of a trip home.} other {A week has passed. {name} is packing, trusting your promise of a trip home.}}"
-msgstr ""
+msgstr "{gender, select, male {Une semaine s'est écoulée. {name} prépare ses affaires, se fiant à ta promesse d'un retour à la maison.} female {Une semaine s'est écoulée. {name} prépare ses affaires, se fiant à ta promesse d'un retour à la maison.} other {Une semaine s'est écoulée. {name} préparent leurs affaires, se fiant à ta promesse d'un retour à la maison.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2472
 msgid "{gender, select, male {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.} female {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.} other {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.}}"
-msgstr ""
+msgstr "{gender, select, male {Une fenêtre vole en éclats tout près. {name} n'est qu'égratigné, mais il reste chez lui quelque temps pour se remettre.} female {Une fenêtre vole en éclats tout près. {name} n'est qu'égratignée, mais elle reste chez elle quelque temps pour se remettre.} other {Une fenêtre vole en éclats tout près. {name} ne sont qu'égratignés, mais ils restent chez eux quelque temps pour se remettre.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2416
 msgid "{gender, select, male {Against all odds, it pays out. {name} is delighted.} female {Against all odds, it pays out. {name} is delighted.} other {Against all odds, it pays out. {name} is delighted.}}"
-msgstr ""
+msgstr "{gender, select, male {Contre toute attente, ça rapporte. {name} est ravi.} female {Contre toute attente, ça rapporte. {name} est ravie.} other {Contre toute attente, ça rapporte. {name} sont ravis.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2941
 msgid "{gender, select, male {Another paper promises a day of great success. {name} believes it, and works faster.} female {Another paper promises a day of great success. {name} believes it, and works faster.} other {Another paper promises a day of great success. {name} believes it, and works faster.}}"
-msgstr ""
+msgstr "{gender, select, male {Un autre document promet une journée couronnée de grand succès. {name} y croit et travaille plus vite.} female {Un autre document promet une journée couronnée de grand succès. {name} y croit et travaille plus vite.} other {Un autre document promet une journée couronnée de grand succès. {name} y croient et travaillent plus vite.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2592
 msgid "{gender, select, male {Ask him for a second shift} female {Ask her for a second shift} other {Ask them for a second shift}}"
-msgstr ""
+msgstr "{gender, select, male {Demande-lui d'effectuer une deuxième vacation} female {Demande-lui d'effectuer une deuxième vacation} other {Demande-leur d'effectuer une deuxième vacation}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2225
 msgid "{gender, select, male {Ask him why} female {Ask her why} other {Ask them why}}"
-msgstr ""
+msgstr "{gender, select, male {Demande-lui pourquoi} female {Demande-lui pourquoi} other {Demande-leur pourquoi}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3596
 msgid "{gender, select, male {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.} female {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.} other {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.}}"
-msgstr ""
+msgstr "{gender, select, male {Avant chaque prise de poste, ses collègues font la queue pour lui frotter la tête, en guise de porte-bonheur. La file ne cesse de s'allonger de jour en jour.} female {Avant chaque prise de poste, ses collègues font la queue pour lui frotter la tête, en guise de porte-bonheur. La file ne cesse de s'allonger de jour en jour.} other {Avant chaque prise de poste, ses collègues font la queue pour leur frotter la tête, en guise de porte-bonheur. La file ne cesse de s'allonger de jour en jour.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3187
 msgid "{gender, select, male {Bet on him} female {Bet on her} other {Bet on them}}"
-msgstr ""
+msgstr "{gender, select, male {Parie sur lui} female {Parie sur elle} other {Parie sur eux}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:249
 msgid "{gender, select, male {Better than new: {name} found a trick of his own and works faster for it.} female {Better than new: {name} found a trick of her own and works faster for it.} other {Better than new: {name} found a trick of their own and works faster for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Mieux que neuf: {name} a trouvé sa propre astuce et travaille plus vite grâce à elle.} female {Mieux que neuf: {name} a trouvé sa propre astuce et travaille plus vite grâce à elle.} other {Mieux que neuf: {name} ont trouvé leur propre astuce et travaille plus vite grâce à elle.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2825
 msgid "{gender, select, male {Buy him a notebook} female {Buy her a notebook} other {Buy them a notebook}}"
-msgstr ""
+msgstr "{gender, select, male {Achète-lui un carnet} female {Achète-lui un carnet} other {Achète-leur un carnet}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1620
 msgid "{gender, select, male {Confront him} female {Confront her} other {Confront them}}"
-msgstr ""
+msgstr "{gender, select, male {Affronte-le} female {Affronte-la} other {Affronte-les}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1051
 msgid "{gender, select, male {Do an impression of him} female {Do an impression of her} other {Do an impression of them}}"
-msgstr ""
+msgstr "{gender, select, male {Imite-le} female {Imite-la} other {Imite-les}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2522
 msgid "{gender, select, male {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} female {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} other {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.}}"
-msgstr ""
+msgstr "{gender, select, male {Des avions ennemis ont largué des tracts de propagande dans tout l'atelier. {name} en lit un avec grand intérêt.} female {Des avions ennemis ont largué des tracts de propagande dans tout l'atelier. {name} en lit un avec grand intérêt.} other {Des avions ennemis ont largué des tracts de propagande dans tout l'atelier. {name} en lisent un avec grand intérêt.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2947
 msgid "{gender, select, male {Every paper agrees: doom. {name} is more worried than before.} female {Every paper agrees: doom. {name} is more worried than before.} other {Every paper agrees: doom. {name} is more worried than before.}}"
-msgstr ""
+msgstr "{gender, select, male {Tous les articles s'accordent: catastrophe. {name} est plus inquiet qu'avant.} female {Tous les articles s'accordent: catastrophe. {name} est plus inquiet qu'avant.} other {Tous les articles s'accordent: catastrophe. {name} sont plus inquiets qu'avant.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3617
 msgid "{gender, select, male {Everyone feels luckier. {name} gets little work done between rubs.} female {Everyone feels luckier. {name} gets little work done between rubs.} other {Everyone feels luckier. {name} gets little work done between rubs.}}"
-msgstr ""
+msgstr "{gender, select, male {Tout le monde se sent plus chanceux. {name} n'avance pas beaucoup dans son travail entre deux caresses.} female {Tout le monde se sent plus chanceux. {name} n'avance pas beaucoup dans son travail entre deux caresses.} other {Tout le monde se sent plus chanceux. {name} n'avancent pas beaucoup dans leur travail entre deux caresses.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3253
 msgid "{gender, select, male {For once, {name} reaches the ending. The others applaud, mostly from relief.} female {For once, {name} reaches the ending. The others applaud, mostly from relief.} other {For once, {name} reaches the ending. The others applaud, mostly from relief.}}"
-msgstr ""
+msgstr "{gender, select, male {Pour une fois, {name} atteint la fin. Les autres applaudissent, surtout par soulagement.} female {Pour une fois, {name} atteint la fin. Les autres applaudissent, surtout par soulagement.} other {Pour une fois, {name} atteignent la fin. Les autres applaudissent, surtout par soulagement.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2573
 msgid "{gender, select, male {For one shift, {name} works like a legend. Everything he touches comes out right.} female {For one shift, {name} works like a legend. Everything she touches comes out right.} other {For one shift, {name} works like a legend. Everything they touch comes out right.}}"
-msgstr ""
+msgstr "{gender, select, male {Le temps d’un service, {name} travaille comme une légende. Tout ce qu’il touche est une réussite.} female {Le temps d’un service, {name} travaille comme une légende. Tout ce qu’elle touche est une réussite.} other {Le temps d’un service, {name} travaillent comme des légendes. Tout ce qu’ils touchent est une réussite.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2923
 msgid "{gender, select, male {Give him the day off} female {Give her the day off} other {Give them the day off}}"
-msgstr ""
+msgstr "{gender, select, male {Donne-lui un jour de congé} female {Donne-lui un jour de congé} other {Donne-leur un jour de congé}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:264
 msgid "{gender, select, male {Good as new, and {name} is so pleased with it that he works faster.} female {Good as new, and {name} is so pleased with it that she works faster.} other {Good as new, and {name} is so pleased with it that they work faster.}}"
-msgstr ""
+msgstr "{gender, select, male {Comme neuf, et {name} en est tellement content qu'il travaille plus vite.} female {Comme neuf, et {name} en est tellement contente qu'elle travaille plus vite.} other {Comme neuf, et {name} en sont tellement contents qu'ils travaillent plus vite.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2286
 msgid "{gender, select, male {Have {name} give the tour} female {Have {name} give the tour} other {Have {name} give the tour}}"
-msgstr ""
+msgstr "{gender, select, male {Demande à {name} de faire visiter} female {Demande à {name} de faire visiter} other {Demande à {name} de faire visiter}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1964
 msgid "{gender, select, male {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.} female {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.} other {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.}}"
-msgstr ""
+msgstr "{gender, select, male {Si tout le monde est commandant suprême, alors personne ne l’est. {name} le prend étonnamment bien.} female {Si tout le monde est commandant suprême, alors personne ne l’est. {name} le prend étonnamment bien.} other {Si tout le monde est commandant suprême, alors personne ne l’est. {name} le prennent étonnamment bien.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1475
 msgid "{gender, select, male {It is {name}'s work anniversary. Nobody remembers the date, including {name}.} female {It is {name}'s work anniversary. Nobody remembers the date, including {name}.} other {It is {name}'s work anniversary. Nobody remembers the date, including {name}.}}"
-msgstr ""
+msgstr "{gender, select, male {C'est l'anniversaire d'embauche de {name}. Personne ne se souvient de la date, y compris {name}.} female {C'est l'anniversaire d'embauche de {name}. Personne ne se souvient de la date, y compris {name}.} other {C'est les anniversaires d'embauche de {name}. Personne ne se souvient de la date, y compris {name}.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3294
 msgid "{gender, select, male {It is a delicacy. {name} is beaming, and the others want the recipe.} female {It is a delicacy. {name} is beaming, and the others want the recipe.} other {It is a delicacy. {name} is beaming, and the others want the recipe.}}"
-msgstr ""
+msgstr "{gender, select, male {C'est un mets délicat. {name} rayonne, et les autres veulent la recette.} female {C'est un mets délicat. {name} rayonne, et les autres veulent la recette.} other {C'est un mets délicat. {name} rayonnent, et les autres veulent la recette.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3300
 msgid "{gender, select, male {It is a war crime. {name} saw your face.} female {It is a war crime. {name} saw your face.} other {It is a war crime. {name} saw your face.}}"
-msgstr ""
+msgstr "{gender, select, male {C'est un crime de guerre. {name} a vu ton visage.} female {C'est un crime de guerre. {name} a vu ton visage.} other {C'est un crime de guerre. {name} ont vu ton visage.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2422
 msgid "{gender, select, male {It pays out handsomely. {name} is beside himself with joy.} female {It pays out handsomely. {name} is beside herself with joy.} other {It pays out handsomely. {name} is beside themself with joy.}}"
-msgstr ""
+msgstr "{gender, select, male {Cela rapporte gros. {name} est fou de joie.} female {Cela rapporte gros. {name} est folle de joie.} other {Cela rapporte gros. {name} sont fous de joie.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2810
 msgid "{gender, select, male {It really was the solution to something. {name} is a better worker for it.} female {It really was the solution to something. {name} is a better worker for it.} other {It really was the solution to something. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {C'était vraiment la solution à un problème. {name} travaille mieux grâce à cela.} female {C'était vraiment la solution à un problème. {name} travaille mieux grâce à cela.} other {C'était vraiment la solution à un problème. {name} travaillent mieux grâce à cela.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2816
 msgid "{gender, select, male {It says “buy milk”. {name} is crushed.} female {It says “buy milk”. {name} is crushed.} other {It says “buy milk”. {name} is crushed.}}"
-msgstr ""
+msgstr "{genre, sélectionner, masculin {Il est écrit « acheter du lait ». {nom} est écrasé.} féminin {Il est écrit « acheter du lait ». {nom} est écrasée.} autre {Il est écrit « acheter du lait ». {nom} sont écrasés.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2405
 msgid "{gender, select, male {It shuts down, and {name} calls it a crime against free enterprise.} female {It shuts down, and {name} calls it a crime against free enterprise.} other {It shuts down, and {name} calls it a crime against free enterprise.}}"
-msgstr ""
+msgstr "{gender, select, male {Ça ferme, et {name} qualifie ça de crime contre la libre entreprise.} female {Ça ferme, et {name} qualifie ça de crime contre la libre entreprise.} other {Ça ferme, et {name} qualifient ça de crime contre la libre entreprise.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1252
 msgid "{gender, select, male {It sinks in. {name} almost smiles.} female {It sinks in. {name} almost smiles.} other {It sinks in. {name} almost smiles.}}"
-msgstr ""
+msgstr "{genre, sélectionner, masculin {Ça fait son chemin. {nom} esquisse presque un sourire.} féminin {Ça fait son chemin. {nom} esquisse presque un sourire.} autre {Ça fait son chemin. {nom} esquissent presque un sourire.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2028
 msgid "{gender, select, male {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} female {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} other {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.}}"
-msgstr ""
+msgstr "{gender, select, male {Il s'avère que le chat n'était pas gros. Il y a cinq chatons sous l'établi, et {name} leur a déjà donné des noms.} female {Il s'avère que le chat n'était pas gros. Il y a cinq chatons sous l'établi, et {name} leur a déjà donné des noms.} other {Il s'avère que le chat n'était pas gros. Il y a cinq chatons sous l'établi, et {name} leur ont déjà donné des noms.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3573
 msgid "{gender, select, male {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} female {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} other {It was {name}'s birthday, and nobody knew. {name} is quietly moved.}}"
-msgstr ""
+msgstr "{gender, select, male {C'était l'anniversaire de {name}, et personne ne le savait. {name} est discrètement ému.} female {C'était l'anniversaire de {name}, et personne ne le savait. {name} est discrètement émue.} other {C'était les anniversaires de {name}, et personne ne le savait. {name} sont discrètement émus.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2697
 msgid "{gender, select, male {It was a prank on the whole bar, and {name} fell for it.} female {It was a prank on the whole bar, and {name} fell for it.} other {It was a prank on the whole bar, and {name} fell for it.}}"
-msgstr ""
+msgstr "{gender, select, male {C'était une blague à tout le bar, et {name} s'est fait avoir.} female {C'était une blague à tout le bar, et {name} s'est faite avoir.} other {C'était une blague à tout le bar, et {name} se sont fait avoir.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1700
 msgid "{gender, select, male {It was last week's draw. {name} returns to work, very quietly.} female {It was last week's draw. {name} returns to work, very quietly.} other {It was last week's draw. {name} returns to work, very quietly.}}"
-msgstr ""
+msgstr "{gender, select, male {C'était le tirage de la semaine dernière. {name} retourne au travail, très discrètement.} female {C'était le tirage de la semaine dernière. {name} retourne au travail, très discrètement.} other {C'était le tirage de la semaine dernière. {name} retournent au travail, très discrètement.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:307
 msgid "{gender, select, male {It works beautifully, and {name} is already thinking about the next one.} female {It works beautifully, and {name} is already thinking about the next one.} other {It works beautifully, and {name} is already thinking about the next one.}}"
-msgstr ""
+msgstr "{gender, select, male {Ça fonctionne à merveille, et {name} pense déjà au prochain.} female {Ça fonctionne à merveille, et {name} pense déjà au prochain.} other {Ça fonctionne à merveille, et {name} pensent déjà au prochain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2757
 msgid "{gender, select, male {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.} female {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.} other {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.}}"
-msgstr ""
+msgstr "{gender, select, male {Cela fonctionne à merveille. {name} apprend plus en un après-midi qu'au cours des deux dernières semaines.} female {Cela fonctionne à merveille. {name} apprend plus en un après-midi qu'au cours des deux dernières semaines.} other {Cela fonctionne à merveille. {name} en apprennent plus en un après-midi qu'au cours des deux dernières semaines.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:301
 msgid "{gender, select, male {It works. {name} is a better worker for it.} female {It works. {name} is a better worker for it.} other {It works. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Ça fonctionne. {name} est plus performant avec ce système.} female {Ça fonctionne. {name} est plus performante avec ce système.} other {Ça fonctionne. {name} sont plus performants avec ce système.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2751
 msgid "{gender, select, male {It works. {name} learns days' worth of the trade in an afternoon.} female {It works. {name} learns days' worth of the trade in an afternoon.} other {It works. {name} learns days' worth of the trade in an afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {Ça marche. {name} apprend en un après-midi l'équivalent de plusieurs jours de métier.} female {Ça marche. {name} apprend en un après-midi l'équivalent de plusieurs jours de métier.} other {Ça marche. {name} apprennent en un après-midi l'équivalent de plusieurs jours de métier.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3065
 msgid "{gender, select, male {Keep him away from the machines} female {Keep her away from the machines} other {Keep them away from the machines}}"
-msgstr ""
+msgstr "{gender, select, male {L'éloigner des machines} female {L'éloigner des machines} other {Les éloigner des machines}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:240
 msgid "{gender, select, male {Let him finish} female {Let her finish} other {Let them finish}}"
-msgstr ""
+msgstr "{gender, select, male {Le laisser terminer} female {La laisser terminer} other {Les laisser terminer}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1535
 msgid "{gender, select, male {Let him fix it} female {Let her fix it} other {Let them fix it}}"
-msgstr ""
+msgstr "{gender, select, male {Qu'il le répare} female {Qu'elle le répare} other {Qu'ils le réparent}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2341
 msgid "{gender, select, male {Let him handle it} female {Let her handle it} other {Let them handle it}}"
-msgstr ""
+msgstr "{gender, select, male {Laisse-le s'en occuper} female {Laisse-la s'en occuper} other {Laisse-les s'en occuper}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1225
 msgid "{gender, select, male {Let him keep the chicken} female {Let her keep the chicken} other {Let them keep the chicken}}"
-msgstr ""
+msgstr "{gender, select, male {Qu'il garde le poulet} female {Qu'elle garde le poulet} other {Qu'ils gardent le poulet}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2546
 msgid "{gender, select, male {Let him read} female {Let her read} other {Let them read}}"
-msgstr ""
+msgstr "{gender, select, male {Qu'il lise} female {Qu'elle lise} other {Qu'ils lisent}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1110
 msgid "{gender, select, male {Make a chart of his chart-making} female {Make a chart of her chart-making} other {Make a chart of their chart-making}}"
-msgstr ""
+msgstr "{gender, select, male {Établir un graphique de sa façon d'élaborer des graphiques} female {Établir un graphique de sa façon d'élaborer des graphiques} other {Établir un graphique de sa façon d'élaborer des graphiques}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2956
 msgid "{gender, select, male {Make him work anyway} female {Make her work anyway} other {Make them work anyway}}"
-msgstr ""
+msgstr "{gender, select, male {Le faire travailler quand même} female {La faire travailler quand même} other {Les faire travailler quand même}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2804
 msgid "{gender, select, male {Most of it is about the job, and some of it is right. {name} learns something about the trade.} female {Most of it is about the job, and some of it is right. {name} learns something about the trade.} other {Most of it is about the job, and some of it is right. {name} learns something about the trade.}}"
-msgstr ""
+msgstr "gender, select, male {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} female {L'essentiel porte sur le travail, et certains points sont justes. {name} apprend des choses sur le métier.} other {L'essentiel porte sur le travail, et certains points sont justes. {name} apprennent des choses sur le métier.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:499
 msgid "{gender, select, male {Nobody asked {name} to stay, so he did not. He is gone.} female {Nobody asked {name} to stay, so she did not. She is gone.} other {Nobody asked {name} to stay, so they did not. They are gone.}}"
-msgstr ""
+msgstr "{gender, select, male {Personne n'a demandé à {name} de rester, il est donc parti.} female {Personne n'a demandé à {name} de rester, elle est donc partie.} other {Personne n'a demandé à {name} de rester, ils sont donc partis.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1401
 msgid "{gender, select, male {Nobody reads the leaflets. {name} takes it personally.} female {Nobody reads the leaflets. {name} takes it personally.} other {Nobody reads the leaflets. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {Personne ne lit les prospectus. {name} le prend personnellement.} female {Personne ne lit les prospectus. {name} le prend personnellement.} other {Personne ne lit les prospectus. {name} le prennent personnellement.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:554
 msgid "{gender, select, male {Nobody stepped in, and {name} burned out. It will stay with him.} female {Nobody stepped in, and {name} burned out. It will stay with her.} other {Nobody stepped in, and {name} burned out. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {Personne n’est intervenu, et {name} a fait un burn-out. Cela le marquera.} female {Personne n’est intervenu, et {name} a fait un burn-out. Cela la marquera.} other {Personne n’est intervenu, et {name} ont fait un burn-out. Cela les marquera.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1311
 msgid "{gender, select, male {Perfect. {name} sits down with a sigh and makes up for lost time.} female {Perfect. {name} sits down with a sigh and makes up for lost time.} other {Perfect. {name} sits down with a sigh and makes up for lost time.}}"
-msgstr ""
+msgstr "{gender, select, male {Parfait. {name} s’assoit en soupirant et rattrape le temps perdu.} female {Parfait. {name} s’assoit en soupirant et rattrape le temps perdu.} other {Parfait. {name} s’assoient en soupirant et rattrapent le temps perdu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3002
 msgid "{gender, select, male {Send him alone} female {Send her alone} other {Send them alone}}"
-msgstr ""
+msgstr "{gender, select, male {L'envoyer seul} female {L'envoyer seule} other {Les envoyer seuls}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1070
 msgid "{gender, select, male {Silence. Someone coughs. {name} looks delighted.} female {Silence. Someone coughs. {name} looks delighted.} other {Silence. Someone coughs. {name} looks delighted.}}"
-msgstr ""
+msgstr "{gender, select, male {Silence. Quelqu’un tousse. {name} a l’air ravi.} female {Silence. Quelqu’un tousse. {name} a l’air ravie.} other {Silence. Quelqu’un tousse. {name} ont l’air ravis.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3040
 msgid "{gender, select, male {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.} female {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.} other {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.}}"
-msgstr ""
+msgstr "{gender, select, male {Depuis l'arrivée de {name}, trois échelles sont tombées, l'horloge tourne à l'envers et le chat est parti.} female {Depuis l'arrivée de {name}, trois échelles sont tombées, l'horloge tourne à l'envers et le chat est parti.} other {Depuis les arrivées de {name}, trois échelles sont tombées, l'horloge tourne à l'envers et le chat est parti.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2261
 msgid "{gender, select, male {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} female {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} other {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.}}"
-msgstr ""
+msgstr "{gender, select, male {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} male {Quelqu'un le trouve et le lit à voix haute à midi. {name} a plus que jamais envie de sortir.} other {Quelqu'un le trouve et le lit à voix haute à midi. {name} ont plus que jamais envie de sortir.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3124
 msgid "{gender, select, male {Talk him through it} female {Talk her through it} other {Talk them through it}}"
-msgstr ""
+msgstr "{gender, select, male {L'accompagner par la parole} female {L'accompagner par la parole} other {Les accompagner par la parole}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1321
 msgid "{gender, select, male {Tell him it is just a chair} female {Tell her it is just a chair} other {Tell them it is just a chair}}"
-msgstr ""
+msgstr "{gender, select, male {Lui dire que ce n'est qu'une chaise} female {Lui dire que ce n'est qu'une chaise} other {Leur dire que ce n'est qu'une chaise}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3462
 msgid "{gender, select, male {Tell him Kevin is plastic} female {Tell her Kevin is plastic} other {Tell them Kevin is plastic}}"
-msgstr ""
+msgstr "{gender, select, male {Lui dire que Kevin est en plastique} female {Lui dire que Kevin est en plastique} other {Leur dire que Kevin est en plastique}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1424
 msgid "{gender, select, male {Tell him you love it} female {Tell her you love it} other {Tell them you love it}}"
-msgstr ""
+msgstr "{gender, select, male {Lui dire que tu adores ça} female {Lui dire que tu adores ça} other {Leur dire que tu adores ça}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2451
 msgid "{gender, select, male {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.} female {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.} other {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.}}"
-msgstr ""
+msgstr "{gender, select, male {La sirène d'alerte aérienne retentit en plein milieu du service. {name} te regarde, puis regarde la porte de l'abri.} female {La sirène d'alerte aérienne retentit en plein milieu du service. {name} te regarde, puis regarde la porte de l'abri.} other {La sirène d'alerte aérienne retentit en plein milieu du service. {name} te regardent, puis regardent la porte de l'abri.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3706
 msgid "{gender, select, male {The car drives off, still on fire. {name} takes it personally.} female {The car drives off, still on fire. {name} takes it personally.} other {The car drives off, still on fire. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {La voiture démarre, toujours en feu. {name} le prend mal.} female {La voiture démarre, toujours en feu. {name} le prend mal.} other {La voiture démarre, toujours en feu. {name} le prennent mal.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1527
 msgid "{gender, select, male {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} female {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} other {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.}}"
-msgstr ""
+msgstr "{gender, select, male {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} female {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approche avec un marteau.} other {La machine à café est en panne. Personne n'a parlé depuis deux heures. {name} s'en approchent avec un marteau.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2399
 msgid "{gender, select, male {The coworkers are relieved. {name} is not.} female {The coworkers are relieved. {name} is not.} other {The coworkers are relieved. {name} is not.}}"
-msgstr ""
+msgstr "{gender, select, male {Les collègues sont soulagés. {name} ne l'est pas.} female {Les collègues sont soulagés. {name} ne l'est pas.} other {Les collègues sont soulagés. {name} ne le sont pas.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3115
 msgid "{gender, select, male {The crowbar bends. {name} spends the afternoon in the lift.} female {The crowbar bends. {name} spends the afternoon in the lift.} other {The crowbar bends. {name} spends the afternoon in the lift.}}"
-msgstr ""
+msgstr "{gender, select, male {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} female {Le pied-de-biche se tord. {name} passe l'après-midi dans l'ascenseur.} other {Le pied-de-biche se tord. {name} passent l'après-midi dans l'ascenseur.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3085
 msgid "{gender, select, male {The curse embraces you back: {name}'s tool falls off a ladder.} female {The curse embraces you back: {name}'s tool falls off a ladder.} other {The curse embraces you back: {name}'s tool falls off a ladder.}}"
-msgstr ""
+msgstr "{gender, select, male {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.} female {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.} other {La malédiction te rend la pareille : l'outil de {name} tombe d'une échelle.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3050
 msgid "{gender, select, male {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.} female {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.} other {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.}}"
-msgstr ""
+msgstr "{gender, select, male {La malédiction est levée. L'horloge avance de nouveau, et {name} a autant de chance que n'importe qui.} female {La malédiction est levée. L'horloge avance de nouveau, et {name} a autant de chance que n'importe qui.} other {La malédiction est levée. L'horloge avance de nouveau, et {name} ont autant de chance que n'importe qui.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3109
 msgid "{gender, select, male {The doors give. {name} hugs the first coworker in sight.} female {The doors give. {name} hugs the first coworker in sight.} other {The doors give. {name} hugs the first coworker in sight.}}"
-msgstr ""
+msgstr "{gender, select, male {Les portes s'ouvrent. {name} serre dans ses bras le premier collègue qu'il aperçoit.} female {Les portes s'ouvrent. {name} serre dans ses bras le premier collègue qu'elle aperçoit.} other {Les portes s'ouvrent. {name} serre dans ses bras le premier collègue qu'ils aperçoient.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3695
 msgid "{gender, select, male {The fire is out and the cousin is safe. {name} is very grateful.} female {The fire is out and the cousin is safe. {name} is very grateful.} other {The fire is out and the cousin is safe. {name} is very grateful.}}"
-msgstr ""
+msgstr "{gender, select, male {L'incendie est éteint et le cousin est en sécurité. {name} est très reconnaissant.} female {L'incendie est éteint et le cousin est en sécurité. {name} est très reconnaissante.} other {L'incendie est éteint et le cousin est en sécurité. {name} sont très reconnaissants.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3056
 msgid "{gender, select, male {The fortune teller takes one look at {name} and runs, which hurts.} female {The fortune teller takes one look at {name} and runs, which hurts.} other {The fortune teller takes one look at {name} and runs, which hurts.}}"
-msgstr ""
+msgstr "{gender, select, male {La diseuse de bonne aventure jette un coup d'œil à {name} et s'enfuit, ce qui est blessant.} female {La diseuse de bonne aventure jette un coup d'œil à {name} et s'enfuit, ce qui est blessant.} other {La diseuse de bonne aventure jette un coup d'œil à {name} et s'enfuit, ce qui est blessant.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1740
 msgid "{gender, select, male {The General won. {name} needs the afternoon to recover.} female {The General won. {name} needs the afternoon to recover.} other {The General won. {name} needs the afternoon to recover.}}"
-msgstr ""
+msgstr "{gender, select, male {Le Général a gagné. {name} a besoin de l'après-midi pour récupérer.} female {Le Général a gagné. {name} a besoin de l'après-midi pour récupérer.} other {Le Général a gagné. {name} ont besoin de l'après-midi pour récupérer.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2969
 msgid "{gender, select, male {The horoscope was right: {name}'s tool takes a nasty knock.} female {The horoscope was right: {name}'s tool takes a nasty knock.} other {The horoscope was right: {name}'s tool takes a nasty knock.}}"
-msgstr ""
+msgstr "{gender, select, male {L'horoscope avait raison : l'attribut de {name} prend un sacré coup.} female {L'horoscope avait raison : l'attribut de {name} prend un sacré coup.} other {L'horoscope avait raison : les attributs de {name} prennent un sacré coup.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2299
 msgid "{gender, select, male {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.} female {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.} other {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {L’inspecteur repart sous le charme, et tout le personnel applaudit {name} tout l’après-midi.} female {L’inspectrice repart sous le charme, et tout le personnel applaudit {name} tout l’après-midi.} other {L’inspecteur ou l’inspectrice repart sous le charme, et tout le personnel applaudit {name} tout l’après-midi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2867
 msgid "{gender, select, male {The lessons pay off. {name} is a better worker for it.} female {The lessons pay off. {name} is a better worker for it.} other {The lessons pay off. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Les leçons portent leurs fruits. {name} est un meilleur employé grâce à cela.} female {Les leçons portent leurs fruits. {name} est une meilleure employée grâce à cela.} other {Les leçons portent leurs fruits. {name} sont de meilleurs employés grâce à cela.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2255
 msgid "{gender, select, male {The letter never turns up, and {name} stays on edge.} female {The letter never turns up, and {name} stays on edge.} other {The letter never turns up, and {name} stays on edge.}}"
-msgstr ""
+msgstr "{gender, select, male {La lettre n'arrive jamais, et {name} reste sur le qui-vive.} female {La lettre n'arrive jamais, et {name} reste sur le qui-vive.} other {La lettre n'arrive jamais, et {name} restent sur le qui-vive.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3099
 msgid "{gender, select, male {The lift broke down between two floors with {name} inside. He is reading his will through the door.} female {The lift broke down between two floors with {name} inside. She is reading her will through the door.} other {The lift broke down between two floors with {name} inside. They are reading their will through the door.}}"
-msgstr ""
+msgstr "{gender, select, male {L'ascenseur est tombé en panne entre deux étages avec {name} à l'intérieur. Il lit son testament à travers la porte.} female {L'ascenseur est tombé en panne entre deux étages avec {name} à l'intérieur. Elle lit son testament à travers la porte.} other {L'ascenseur est tombé en panne entre deux étages avec {name} à l'intérieur. Ils lisent leur testament à travers la porte.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3165
 msgid "{gender, select, male {The lift restarts at dusk. {name} takes the stairs from now on.} female {The lift restarts at dusk. {name} takes the stairs from now on.} other {The lift restarts at dusk. {name} takes the stairs from now on.}}"
-msgstr ""
+msgstr "{gender, select, male {L'ascenseur redémarre au crépuscule. {name} prendra les escaliers désormais.} female {L'ascenseur redémarre au crépuscule. {name} prendra les escaliers désormais.} other {L'ascenseur redémarre au crépuscule. {name} prendront les escaliers désormais.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2611
 msgid "{gender, select, male {The magic fades halfway through the night, but {name} still learned something.} female {The magic fades halfway through the night, but {name} still learned something.} other {The magic fades halfway through the night, but {name} still learned something.}}"
-msgstr ""
+msgstr "{gender, select, male {La magie s'estompe à mi-chemin de la nuit, mais {name} a tout de même appris quelque chose.} female {La magie s'estompe à mi-chemin de la nuit, mais {name} a tout de même appris quelque chose.} other {La magie s'estompe à mi-chemin de la nuit, mais {name} ont tout de même appris quelque chose.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2428
 msgid "{gender, select, male {The money vanishes up the pyramid. {name} is delighted anyway.} female {The money vanishes up the pyramid. {name} is delighted anyway.} other {The money vanishes up the pyramid. {name} is delighted anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {L'argent disparaît dans la pyramide. {name} est ravi malgré tout.} female {L'argent disparaît dans la pyramide. {name} est ravie malgré tout.} other {L'argent disparaît dans la pyramide. {name} sont ravis malgré tout.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3535
 msgid "{gender, select, male {The new poster looks like your mugshot. {name} misses the kitten.} female {The new poster looks like your mugshot. {name} misses the kitten.} other {The new poster looks like your mugshot. {name} misses the kitten.}}"
-msgstr ""
+msgstr "{gender, select, male {La nouvelle affiche ressemble à ta photo d'identité judiciaire. {name} regrette le chaton.} female {La nouvelle affiche ressemble à ta photo d'identité judiciaire. {name} regrette le chaton.} other {La nouvelle affiche ressemble à ta photo d'identité judiciaire. {name} regrettent le chaton.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1496
 msgid "{gender, select, male {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.} female {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.} other {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.}}"
-msgstr ""
+msgstr "{gender, select, male {Le seul gâteau restant disait « Bonne retraite ». {name} trouve ça hilarant. C'est devenu une tradition.} female {Le seul gâteau restant disait « Bonne retraite ». {name} trouve ça hilarant. C'est devenu une tradition.} other {Le seul gâteau restant disait « Bonne retraite ». {name} trouvent ça hilarant. C'est devenu une tradition.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1502
 msgid "{gender, select, male {The only cake left said “Happy Retirement”. {name} starts to wonder.} female {The only cake left said “Happy Retirement”. {name} starts to wonder.} other {The only cake left said “Happy Retirement”. {name} starts to wonder.}}"
-msgstr ""
+msgstr "{gender, select, male {Le seul gâteau restant disait « Bonne retraite ». {name} commence à se poser des questions.} female {Le seul gâteau restant disait « Bonne retraite ». {name} commence à se poser des questions.} other {Le seul gâteau restant disait « Bonne retraite ». {name} commencent à se poser des questions.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3898
 msgid "{gender, select, male {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.} female {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.} other {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.}}"
-msgstr ""
+msgstr "{gender, select, male {Le vrai Kevin a grandi dans le système de ventilation, et des feuilles sortent de chaque bouche d'aération. {name} est très fier.} female {Le vrai Kevin a grandi dans le système de ventilation, et des feuilles sortent de chaque bouche d'aération. {name} est très fière.} other {Le vrai Kevin a grandi dans le système de ventilation, et des feuilles sortent de chaque bouche d'aération. {name} sont très fiers.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:658
 msgid "{gender, select, male {The region is under attack. {name} wants to leave his post and help defend it.} female {The region is under attack. {name} wants to leave her post and help defend it.} other {The region is under attack. {name} wants to leave their post and help defend it.}}"
-msgstr ""
+msgstr "{gender, select, male {La région est attaquée. {name} souhaite quitter son poste et aider à la défendre.} female {La région est attaquée. {name} souhaite quitter son poste et aider à la défendre.} other {La région est attaquée. {name} souhaitent quitter leurs postes et aider à la défendre.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2708
 msgid "{gender, select, male {The rival sends a thank-you card. {name} is proud to have done the right thing.} female {The rival sends a thank-you card. {name} is proud to have done the right thing.} other {The rival sends a thank-you card. {name} is proud to have done the right thing.}}"
-msgstr ""
+msgstr "{gender, select, male {Le rival envoie une carte de remerciement. {name} est fier d'avoir fait ce qu'il fallait.} female {Le rival envoie une carte de remerciement. {name} est fière d'avoir fait ce qu'il fallait.} other {Le rival envoie une carte de remerciement. {name} sont fiers d'avoir fait ce qu'il fallait.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2714
 msgid "{gender, select, male {The rival thanks your company in the paper. {name} has never been prouder to work here.} female {The rival thanks your company in the paper. {name} has never been prouder to work here.} other {The rival thanks your company in the paper. {name} has never been prouder to work here.}}"
-msgstr ""
+msgstr "{gender, select, male {Le rival remercie ton entreprise dans la presse. {name} n’a jamais été aussi fier de travailler ici.} female {Le rival remercie ton entreprise dans la presse. {name} n’a jamais été aussi fière de travailler ici.} other {Les rivaux remercient ton entreprise dans la presse. {name} n’ont jamais été aussi fiers de travailler ici.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1058
 msgid "{gender, select, male {The room loses it. {name} laughs hardest.} female {The room loses it. {name} laughs hardest.} other {The room loses it. {name} laughs hardest.}}"
-msgstr ""
+msgstr "{genre, sélectionner, masculin {La salle explose de rire. {nom} rit le plus fort.} féminin {La salle explose de rire. {nom} rit le plus fort.} autre {La salle explose de rire. {nom} rient le plus fort.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2873
 msgid "{gender, select, male {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} female {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} other {The teacher has never seen anything like it. {name} improves, and has room to grow even further.}}"
-msgstr ""
+msgstr "{gender, select, male {L'enseignant n'a jamais rien vu de tel. {name} progresse et a encore une marge de progression.} female {L'enseignant n'a jamais rien vu de tel. {name} progresse et a encore une marge de progression.} other {L'enseignant n'a jamais rien vu de tel. {name} progressent et ont encore une marge de progression.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3154
 msgid "{gender, select, male {The technician arrives a few hours later, and {name} walks out shaking.} female {The technician arrives a few hours later, and {name} walks out shaking.} other {The technician arrives a few hours later, and {name} walks out shaking.}}"
-msgstr ""
+msgstr "{gender, select, male {Le technicien arrive quelques heures plus tard, et {name} sort en tremblant.} female {Le technicien arrive quelques heures plus tard, et {name} sort en tremblant.} other {Les techniciens arrivent quelques heures plus tard, et {name} sortent en tremblant.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3606
 msgid "{gender, select, male {The till fills up. {name} hates being a coin-operated charm.} female {The till fills up. {name} hates being a coin-operated charm.} other {The till fills up. {name} hates being a coin-operated charm.}}"
-msgstr ""
+msgstr "{gender, select, male {La caisse est pleine. {name} déteste être un charme à pièces.} female {La caisse est pleine. {name} déteste être un charme à pièces.} other {La caisse est pleine. {name} détestent être des charmes à pièces.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2366
 msgid "{gender, select, male {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} female {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} other {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.}}"
-msgstr ""
+msgstr "{gender, select, male {L'outil part en fumée dans un nuage noir, et {name} a besoin de tout l'après-midi pour se débarrasser de la suie.} female {L'outil part en fumée dans un nuage noir, et {name} a besoin de tout l'après-midi pour se débarrasser de la suie.} other {L'outil part en fumée dans un nuage noir, et {name} ont besoin de tout l'après-midi pour se débarrasser de la suie.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2082
 msgid "{gender, select, male {The union is dissolved, and {name}, oddly relieved, works harder for it.} female {The union is dissolved, and {name}, oddly relieved, works harder for it.} other {The union is dissolved, and {name}, oddly relieved, works harder for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Le syndicat est dissous, et {name}, étrangement soulagé, redouble d’efforts.} female {Le syndicat est dissous, et {name}, étrangement soulagée, redouble d’efforts.} other {Le syndicat est dissous, et {name}, étrangement soulagés, redoublent d’efforts.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2088
 msgid "{gender, select, male {The union is dissolved. {name} takes it personally.} female {The union is dissolved. {name} takes it personally.} other {The union is dissolved. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {Le syndicat est dissous. {name} le prend personnellement.} female {Le syndicat est dissous. {name} le prend personnellement.} other {Le syndicat est dissous. {name} le prennent personnellement.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2142
 msgid "{gender, select, male {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.} female {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.} other {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.}}"
-msgstr ""
+msgstr "{gender, select, male {Un syndicat composé d’une seule personne est en grève. {name} manifeste seul devant le portail, avec une pancarte sur laquelle est écrit : « De meilleures chaises, tout de suite ! »} female {Un syndicat composé d’une seule personne est en grève. {name} manifeste seule devant le portail, avec une pancarte sur laquelle est écrit : « De meilleures chaises, tout de suite ! »} other {Un syndicat composé d’une seule personne est en grève. {name} manifestent seuls devant le portail, avec une pancarte sur laquelle est écrit : « De meilleures chaises, tout de suite ! »}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2486
 msgid "{gender, select, male {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.} female {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.} other {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.}}"
-msgstr ""
+msgstr "{gender, select, male {Le rationnement de guerre a atteint la cantine : uniquement des aliments beiges jusqu’à nouvel ordre. {name} a commencé à classer les nuances.} female {Le rationnement de guerre a atteint la cantine : uniquement des aliments beiges jusqu’à nouvel ordre. {name} a commencé à classer les nuances.} other {Le rationnement de guerre a atteint la cantine : uniquement des aliments beiges jusqu’à nouvel ordre. {name} ont commencé à classer les nuances.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3495
 msgid "{gender, select, male {Water Kevin with him} female {Water Kevin with her} other {Water Kevin with them}}"
@@ -1599,7 +1595,7 @@ msgstr "{gender, select, male {Tu as dit à {name} qu'il avait fait du bon trava
 msgid "{grainPerBread} <0>{0}</0> make one <1>{1}</1>, {ironPerSteel} <2>{2}</2> one <3>{3}</3> and {limestonePerConcrete} <4>{4}</4> one <5>{5}</5>."
 msgstr "{grainPerBread} <0>{0}</0> permettent de produire un <1>{1}</1>, {ironPerSteel} <2>{2}</2> permettent de produire un <3>{3}</3> et {limestonePerConcrete} <4>{4}</4> permettent de produire un <5>{5}</5>."
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:325
+#: src/components/_layout/LayoutMapUserMenu.tsx:326
 msgid "{homeRegionsAway, plural, one {# region away} other {# regions away}}"
 msgstr "{homeRegionsAway, plural, one {# région de distance} other {# régions de distance}}"
 
@@ -1623,7 +1619,7 @@ msgstr "{lead} et d’autres attendent ta décision."
 msgid "{lead} is waiting for your decision."
 msgstr "{lead} attend votre décision."
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:441
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:443
 msgid "{managerTax}% manager tax is withheld from this pay when the manager collects it, for the country the company sits in."
 msgstr "Une taxe de {managerTax}% est prélevée sur cette rémunération au moment où le manager la perçoit, conformément à la législation du pays où l'entreprise est établie."
 
@@ -1743,7 +1739,7 @@ msgstr "{partnerName} apprend vite."
 msgid "{premiumMonthsCount, plural, one {# month} other {# months}}"
 msgstr "{premiumMonthsCount, plural, one {# mois} other {# mois}}"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:280
+#: src/components/_layout/LayoutMapUserMenu.tsx:281
 #: src/components/_political/map/MapMenu.tsx:193
 msgid "{quantity, plural, =1 {Wooden case collected!} one {# wooden case collected!} other {# wooden cases collected!}}"
 msgstr "{quantity, plural, =1 {Caisse en bois récupérée!} one {# caisse en bois récupérée!} other {# caisses en bois récupérées!}}"
@@ -1760,7 +1756,7 @@ msgstr "{raw} pour le bien de l'entreprise, {product} s'il s'agit d'un produit"
 msgid "{regionLootCount, plural, =1 {Collect the wooden case lying on this region} one {Collect the # wooden case lying on this region} other {Collect the # wooden cases lying on this region}}"
 msgstr "{regionLootCount, plural, =1 {Récupère la caisse en bois qui se trouve dans cette région} one {Récupère la caisse en bois qui se trouve dans cette région} other {Récupère les # caisses en bois qui se trouvent dans cette région}}"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:370
+#: src/components/_layout/LayoutMapUserMenu.tsx:371
 #: src/components/_political/map/MapMenu.tsx:680
 msgid "{regionsAway, plural, one {# region away} other {# regions away}}"
 msgstr "{regionsAway, plural, one {# région de distance} other {# régions de distance}}"
@@ -1794,6 +1790,14 @@ msgstr "{selectedCount, plural, one {Démonter # objet pour} other {Démonter # 
 msgid "{selectedCount} selected"
 msgstr "{selectedCount} sélectionnés"
 
+#: src/components/_economy/employee/EmployeeTraitArg.tsx:54
+msgid "{step} every {perDays} days in the same company, up to {cap}."
+msgstr "{step} tous les {perDays} jours au sein de la même entreprise, jusqu’à {cap}."
+
+#: src/components/_economy/employee/EmployeeTraitArg.tsx:43
+msgid "{step} every {perDays} days in the same company."
+msgstr "{step} tous les {perDays} jours au sein de la même entreprise."
+
 #: src/components/_social/poll/PollCard.tsx:221
 msgid "{timeLeft} left"
 msgstr "{timeLeft} restant"
@@ -1805,7 +1809,7 @@ msgstr "{trainable} pour former"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:341
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:317
 msgid "{trainingsLeft} training sessions left ({0}/{1} used)."
 msgstr "{trainingsLeft} séances de formation restantes ({0}/{1} utilisées)."
 
@@ -1814,7 +1818,7 @@ msgstr "{trainingsLeft} séances de formation restantes ({0}/{1} utilisées)."
 msgid "{value} days of experience"
 msgstr "{value} jours d'expérience"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:127
+#: src/components/_layout/LayoutMapUserMenu.tsx:128
 msgid "{value} km"
 msgstr "{value} km"
 
@@ -1854,7 +1858,7 @@ msgstr "{who}: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:401
 msgid "{who}: {value} (uses Potential)"
-msgstr "{who}: {valuz} (utilise le Potentiel)"
+msgstr "{who}: {value} (utilise le Potentiel)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:709
 msgid "{who}: {value} days of experience"
@@ -1867,47 +1871,47 @@ msgstr "{who}: {value} jours d'expérience"
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:627
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:636
 msgid "{who}: {value} for {0}"
-msgstr ""
+msgstr "{who}: {value} pour {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:386
 msgid "{who}: {value} to a random stat"
-msgstr ""
+msgstr "{who}: {value} à une statistique aléatoire"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:394
 msgid "{who}: {value} to a random stat (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} à une statistique aléatoire (utilise le Potentiel)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:409
 msgid "{who}: {value} training potential"
-msgstr ""
+msgstr "{who}: {value} potentiel de formation"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:377
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:644
 msgid "{who}: <0>away</0> for {0} (no work, no wage)"
-msgstr ""
+msgstr "{who}: <0>absent(e)</0> pour {0} (pas de travail, pas de salaire)""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:690
 msgid "{who}: asks for more pay"
-msgstr ""
+msgstr "{who}: demande une augmentation de salaire"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:702
 msgid "{who}: experience in {good} lost"
-msgstr ""
+msgstr "{qui} : expérience en matière de {good} perdue"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:428
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:668
 msgid "{who}: gains <0/>"
-msgstr ""
+msgstr "{who}: gagne <0/>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:423
 msgid "{who}: gains a random <0>bad trait</0>"
-msgstr ""
+msgstr "{who} : obtient un <0>trait négatif</0> aléatoire"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:417
 msgid "{who}: gains a random <0>good trait</0>"
-msgstr ""
+msgstr "{who} : obtient un <0>trait positif</0> aléatoire"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:440
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:674
@@ -1940,20 +1944,20 @@ msgstr "*Peut brûler"
 
 #: src/components/_user/SavedSlotsUsage.tsx:37
 msgid "/{max, plural, one {# slot} other {# slots}}"
-msgstr "/{max, plural, one {# slot} other {# slots}}"
+msgstr "/{max, plural, one {# emplacement} other {# emplacements}}"
 
 #: src/components/_economy/employee/EmployeeList.tsx:229
 #: src/components/_economy/employee/EmployeeList.tsx:235
 #: src/components/_economy/employee/EstimatedProfit.tsx:146
 #: src/components/_economy/employee/WorkforceSummary.tsx:520
 #: src/components/_economy/employee/WorkforceSummary.tsx:555
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:92
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:136
 #: src/components/_political/government/Government.tsx:232
 msgid "/day"
 msgstr "/jour"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:429
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:456
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:431
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:458
 #: src/components/_economy/manager/ManagerBestOfferLine.tsx:41
 #: src/components/_economy/manager/ManagerOfferRow.tsx:192
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:45
@@ -1965,7 +1969,7 @@ msgstr "/h"
 msgid "/h at {points} Management points"
 msgstr "/h à {points} points de Gestion"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:383
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:385
 msgid "/h max"
 msgstr "/h maximum"
 
@@ -1985,13 +1989,9 @@ msgstr "+{skillPerLevel}% par niveau de Direction."
 msgid "+{xpBonusPercent}%"
 msgstr "+{xpBonusPercent}%"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:998
-msgid "+1 candidate"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:708
-msgid "+1 to one stat"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:478
+msgid "+1 to one stat every 10 days in the same company, up to +4."
+msgstr "+1 à une stat tous les 10 jours au sein de la même entreprise, jusqu’à +4."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:47
 msgid "+1 to one stat."
@@ -2469,6 +2469,18 @@ msgstr "La priorité pour <0/> se termine dans <1/>"
 msgid "<0>-{0}%</0> Resistance growth per hour"
 msgstr "<0>-{0}%</0> Croissance de résistance par heure"
 
+#: src/components/_economy/employee/employee.frontConfig.tsx:546
+msgid "<0>-1%</0> per 1% employee tax in the country, down to <1>-30%</1>."
+msgstr ""
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:385
+msgid "<0>-15%</0> per female coworker, down to <1>-30%</1>. Men only."
+msgstr ""
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:375
+msgid "<0>-15%</0> per male coworker, down to <1>-30%</1>. Women only."
+msgstr ""
+
 #. placeholder {0}: sideBonus.muHqBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:157
 msgid "<0>{0}</0> <1/> in <2/>"
@@ -2503,6 +2515,11 @@ msgstr "<0>{0}</0> car <1/> a perdu <2/>"
 #: src/components/_military/battle/BattleDamageBonuses.tsx:251
 msgid "<0>{0}</0> because <1/> occupies at least one of <2/> regions"
 msgstr "<0>{0}</0> car <1/> occupe au moins une des régions de <2/>"
+
+#. placeholder {0}: 3
+#: src/components/_economy/employee/employee.frontConfig.tsx:601
+msgid "<0>{0}</0> but <1>-15%</1>. Twice as many critical successes and failures in events."
+msgstr ""
 
 #. placeholder {0}: levelConfig.stats.defenseBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:52
@@ -2551,6 +2568,28 @@ msgstr "<0>{0}</0> venant des ordres de <1/>"
 msgid "<0>{0}</0> ground are required to win a round, points are gained every tick"
 msgstr "<0>{0}</0> points de terrain sont requis pour gagner une manche, les points sont gagnés à chaque tick"
 
+#. placeholder {0}: 2
+#: src/components/_economy/employee/employee.frontConfig.tsx:490
+msgid "<0>{0}</0> per 10 years of age past 40."
+msgstr ""
+
+#. placeholder {0}: -2
+#: src/components/_economy/employee/employee.frontConfig.tsx:500
+msgid "<0>{0}</0> per 10 years of age past 50."
+msgstr ""
+
+#. placeholder {0}: -5
+#. placeholder {1}: -10
+#: src/components/_economy/employee/employee.frontConfig.tsx:323
+msgid "<0>{0}</0> per coworker paid more than them, down to <1>{1}</1>."
+msgstr ""
+
+#. placeholder {0}: 2
+#. placeholder {1}: 4
+#: src/components/_economy/employee/employee.frontConfig.tsx:222
+msgid "<0>{0}</0> per foreign nationality on the roster, up to <1>{1}</1>."
+msgstr ""
+
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:217
 msgid "<0>{0}</0> prestige point to spend on a skill."
@@ -2572,13 +2611,19 @@ msgstr "<0>{0}</0> Capacité de stockage"
 msgid "<0>{0}</0> to level {1}"
 msgstr "<0>{0}</0> au niveau {1}"
 
+#. placeholder {0}: -1
+#. placeholder {1}: 10
+#: src/components/_economy/employee/employee.frontConfig.tsx:255
+msgid "<0>{0}</0> to themselves, but <1>{1}</1> to every coworker."
+msgstr "<0>{0}</0> pour eux-mêmes, mais <1>{1}</1> pour chaque collègue."
+
 #. placeholder {0}: lawConfig.maintenanceCost
 #: src/components/_political/law/Law.tsx:125
 msgid "<0>{0}</0>/day"
 msgstr "<0>{0}</0>/jour"
 
 #. placeholder {0}: companiesLimit ?? 99
-#: src/components/_economy/company/CompanyList.tsx:199
+#: src/components/_economy/company/CompanyList.tsx:188
 msgid "<0>{activeCompaniesCount}/{0}</0> Companies"
 msgstr "<0>{activeCompaniesCount}/{0}</0> Entreprises"
 
@@ -2610,6 +2655,18 @@ msgstr ""
 #: src/components/_economy/employee/employeeStats.tsx:470
 msgid "<0>{v}</0> Responsibility = <1>{shieldPct}% less</1> <2>Happiness</2> loss."
 msgstr ""
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:356
+msgid "<0>+15%</0> per female coworker (max <1>+30%</1>). Women only."
+msgstr "<0>+15 %</0> par collègue féminine (max. <1>+30 %</1>). Femmes uniquement."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:366
+msgid "<0>+15%</0> per male coworker (max <1>+30%</1>). Men only."
+msgstr "<0>+15 %</0> par collègue masculin (max. <1>+30 %</1>). Hommes uniquement."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:245
+msgid "<0>+25%</0> per coworker (max <1>+50%</1>). Unhappy alone."
+msgstr "<0>+25 %</0> par collègue (max. <1>+50 %</1>). Malheureux seul."
 
 #: src/components/_layout/loadingTips.tsx:225
 msgid "<0>Armor</0> and <1>Dodge</1> have diminishing returns: each point is worth a bit less than the one before."
@@ -2660,7 +2717,7 @@ msgstr "<0>À chaque <1/> point de dégâts total infligé par les deux camps aj
 #. placeholder {0}: contract.productionBonusPercent
 #. placeholder {1}: employeeConfig.skills.managementBonusPercentPerLevel
 #. placeholder {2}: contract.isInactive && ( <p>They are away, so none of it applies right now.</p> )
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:172
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:173
 msgid "<0>Every employee of this company produces <1>{0}</1> more.</0><2><3>{1}</3> per Management point, and they have <4/>.</2>{2}"
 msgstr "<0>Chaque employé de cette entreprise produit <1>{0}</1> de plus.</0><2><3>{1}</3> par point de gestion, et ils disposent de <4/>.</2>{2}"
 
@@ -2706,7 +2763,7 @@ msgstr "Le <0>mécontentement</0> représente la tension interne dans le pays.<1
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Ton compte nécessite une vérification supplémentaire. Vérifies ton numéro de téléphone dès que possible pour continuer à utiliser ton compte normalement. Les comptes non vérifiés verront leur accès restreint après 48 heures et pourront être suspendus de façon permanente après 5 jours.</0><1>Les numéros de téléphone sont chiffrés et ne sont visibles par aucun administrateur.</1>"
 
-#: src/components/_layout/LayoutOptions.tsx:103
+#: src/components/_layout/LayoutOptions.tsx:105
 msgid "= consumes more power"
 msgstr "= consomme plus d'énergie"
 
@@ -2985,10 +3042,6 @@ msgstr "Il fait 26 degrés. {partnerName} est content(e), {name} est en train de
 #: src/components/_social/poll/PollEditorModal.tsx:117
 msgid "3 days"
 msgstr "3 jours"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:695
-msgid "3 days after a transfer"
-msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:113
 msgid "3 hours"
@@ -3295,6 +3348,12 @@ msgstr "Un collègue"
 msgid "A coworker inherits one of their <0>good traits</0>"
 msgstr "Un collègue hérite de l’un de ses <0>bons traits</0>"
 
+#. placeholder {0}: -2
+#. placeholder {1}: -5
+#: src/components/_economy/employee/employee.frontConfig.tsx:213
+msgid "A coworker of a different nationality: <0>{0}</0> <1>{1}</1>."
+msgstr "Un collègue d’une autre nationalité : <0>{0}</0> <1>{1}</1>."
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1567
 msgid "A cursed tool"
 msgstr "Un outil maudit"
@@ -3352,16 +3411,16 @@ msgstr ""
 msgid "A fight over nothing. {name} and {partnerName} cannot stand each other now."
 msgstr ""
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:263
-msgid "A foreign coworker"
-msgstr ""
-
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:845
 msgid "A friendship blooming"
 msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:108
 msgid "A full bar turns into items."
+msgstr ""
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:438
+msgid "A full storage does not bother them."
 msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:944
@@ -3500,10 +3559,6 @@ msgstr "Un tirage de formation est prêt."
 #: src/components/_economy/employee/EmployeeNameTags.tsx:42
 msgid "A training hand is waiting for your pick."
 msgstr "Une main de formation attend que tu la choisisse."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:686
-msgid "A transfer resets it."
-msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2057
 msgid "A union of one"
@@ -3727,13 +3782,13 @@ msgstr "Casque avancé"
 msgid "Advanced Pants"
 msgstr "Pantalon avancé"
 
-#: src/components/_economy/company/CompanyList.tsx:211
+#: src/components/_economy/company/CompanyList.tsx:200
 msgid "Advanced view"
 msgstr ""
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:682
-msgid "After 30 days in a company"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:461
+msgid "After 30 days in the same company: <0>+20%</0>. A transfer resets it."
+msgstr "Après 30 jours dans la même entreprise: <0>+20 %</0>. Un transfert réinitialise ce compteur."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
@@ -3910,22 +3965,6 @@ msgstr "On dirait presque de la triche"
 msgid "Almost ready..."
 msgstr "Presque prêt..."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:326
-msgid "Alone"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:469
-msgid "Alongside their friend"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:481
-msgid "Alongside their nemesis"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:493
-msgid "Alongside their sweetheart"
-msgstr ""
-
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
 msgstr "Testeur Alpha"
@@ -4041,10 +4080,6 @@ msgstr "Toute tentative de contourner ces règles peut entraîner la suppression
 msgid "Anyone moved cannot be fired for {fireLockHours} hours"
 msgstr "Toute personne déplacée ne peut être licenciée pendant {fireLockHours} heures."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:625
-msgid "Anything manufactured"
-msgstr ""
-
 #: src/components/_economy/employee/employeeTags.tsx:167
 msgid "Anywhere between -{spreadPercent}% and +{spreadPercent}%."
 msgstr "N'importe quelle valeur comprise entre -{spreadPercent}% et +{spreadPercent}%."
@@ -4069,7 +4104,7 @@ msgstr "Jetons API"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Les jetons API permettent aux applications externes d'accéder à l'API en ton nom. Utilisez le jeton dans l'en-tête <0>X-API-Key</0>. Chaque jeton a une limite de 200 requêtes par minute."
 
-#: src/components/_layout/LayoutOptions.tsx:334
+#: src/components/_layout/LayoutOptions.tsx:344
 msgid "App pattern"
 msgstr "Motif de l'application"
 
@@ -4216,6 +4251,10 @@ msgstr "Demande-leur de persévérer"
 msgid "Asks for {value} pay from now on"
 msgstr "Demande une rémunération de {value} à partir de maintenant"
 
+#: src/components/_economy/employee/employee.frontConfig.tsx:570
+msgid "Asks for 15% less pay than the market rate."
+msgstr "Demande une rémunération inférieure de 15 % au taux du marché."
+
 #: src/components/_other/shop/skin.frontConfig.tsx:305
 msgid "AT Ammo"
 msgstr "Munitions AT"
@@ -4308,7 +4347,7 @@ msgstr "En guerre avec"
 msgid "At your Management level"
 msgstr "À ton niveau de Gestion"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:514
+#: src/components/_layout/LayoutMapUserMenu.tsx:515
 msgid "Atlas"
 msgstr "Atlas"
 
@@ -4363,7 +4402,7 @@ msgstr "Échec de l'authentification. Veuillez réessayer."
 msgid "Auto approval"
 msgstr "Approbation automatique"
 
-#: src/components/_layout/LayoutOptions.tsx:255
+#: src/components/_layout/LayoutOptions.tsx:265
 #: src/components/_user/kits/KitsPopover.tsx:227
 msgid "Auto-equip when item breaks"
 msgstr "Équiper automatiquement lorsque l'objet se casse"
@@ -4389,7 +4428,7 @@ msgstr "Machine automatisée"
 msgid "Automated Engine"
 msgstr "Machine automatisée"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:321
+#: src/components/_layout/LayoutMapUserMenu.tsx:322
 msgid "Available in"
 msgstr "Disponible dans"
 
@@ -4408,11 +4447,11 @@ msgstr "Avatar supprimé"
 msgid "Average development"
 msgstr "Développement moyen"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:251
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:230
 msgid "Away"
 msgstr "Absent"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:245
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:224
 msgid "Away for <0/>: no work, no wage."
 msgstr "Absent pour <0/>: pas de travail, pas de salaire."
 
@@ -4432,11 +4471,11 @@ msgstr "Baby Boomer"
 msgid "Back the reinvention"
 msgstr "Soutenir la réinvention"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:401
+#: src/components/_layout/LayoutMapUserMenu.tsx:402
 msgid "Back to home region"
 msgstr "Revenir à la maison"
 
-#: src/components/_layout/LayoutOptions.tsx:187
+#: src/components/_layout/LayoutOptions.tsx:197
 msgid "Background pattern"
 msgstr "Motif d'arrière-plan"
 
@@ -4581,7 +4620,7 @@ msgstr "Bataille pour {regionName} {score}"
 msgid "Battle Hero"
 msgstr "Héros de guerre"
 
-#: src/components/_layout/LayoutOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:239
 msgid "Battle hit effects"
 msgstr "Effets des coups au combat"
 
@@ -4615,11 +4654,11 @@ msgstr "Butin du champ de bataille"
 msgid "Battles"
 msgstr "Batailles"
 
-#: src/components/_layout/LayoutOptions.tsx:130
+#: src/components/_layout/LayoutOptions.tsx:132
 msgid "Battles on layout"
 msgstr "Batailles sur l'interface"
 
-#: src/components/_layout/LayoutOptions.tsx:125
+#: src/components/_layout/LayoutOptions.tsx:127
 msgid "Battles on map"
 msgstr "Batailles sur la carte"
 
@@ -4660,12 +4699,8 @@ msgstr "Croire {name}"
 msgid "Believe {partnerName}"
 msgstr "Croire {partnerName}"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:905
-msgid "Below {quitThreshold} happiness"
-msgstr ""
-
 #: src/components/_economy/manager/managerStats.tsx:68
-#: src/components/_layout/LayoutOptions.tsx:275
+#: src/components/_layout/LayoutOptions.tsx:285
 #: src/components/_user/kits/KitsPopover.tsx:249
 msgid "Best"
 msgstr "Meilleur"
@@ -4715,6 +4750,10 @@ msgstr "Bloquer (masquer le contenu)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Bâton bleu"
+
+#: src/components/_layout/LayoutOptions.tsx:189
+msgid "Blur"
+msgstr "Flou"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
@@ -4810,7 +4849,7 @@ msgstr "Ce mec a gagné le dernier tournoi."
 msgid "broken"
 msgstr "cassé"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:380
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:356
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
 msgstr "Cassé"
@@ -4832,7 +4871,7 @@ msgid "Buff ended"
 msgstr "Bonus terminé"
 
 #: src/components/_user/user/UserHeader.tsx:334
-#: src/components/_user/user/UserTooltip.tsx:138
+#: src/components/_user/user/UserTooltip.tsx:140
 msgid "Buff ends"
 msgstr "Le bonus se termine"
 
@@ -4852,7 +4891,7 @@ msgstr "Bonus:"
 msgid "Bug finder"
 msgstr "Dénicheur de bugs"
 
-#: src/components/_economy/company/CompanyList.tsx:272
+#: src/components/_economy/company/CompanyList.tsx:261
 msgid "Build a company"
 msgstr "Créer une entreprise"
 
@@ -5081,20 +5120,6 @@ msgstr "Candidat"
 msgid "Candidates"
 msgstr "Candidats"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:288
-#: src/components/_economy/employee/employee.frontConfig.tsx:322
-#: src/components/_economy/employee/employee.frontConfig.tsx:457
-#: src/components/_economy/employee/employee.frontConfig.tsx:510
-#: src/components/_economy/employee/employee.frontConfig.tsx:527
-#: src/components/_economy/employee/employee.frontConfig.tsx:544
-#: src/components/_economy/employee/employee.frontConfig.tsx:561
-#: src/components/_economy/employee/employee.frontConfig.tsx:710
-#: src/components/_economy/employee/employee.frontConfig.tsx:723
-#: src/components/_economy/employee/employee.frontConfig.tsx:823
-#: src/components/_economy/employee/EmployeeTraitArg.tsx:50
-msgid "Cap"
-msgstr ""
-
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
 msgstr "Capitale"
@@ -5226,7 +5251,7 @@ msgstr "Changer la rémunération du manager"
 msgid "Change nationality"
 msgstr "Changer la nationalité"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:246
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:248
 msgid "Change pay"
 msgstr "Modifier la rémunération"
 
@@ -5495,7 +5520,7 @@ msgstr "Grimpeur"
 msgid "Close"
 msgstr "Fermer"
 
-#: src/components/_layout/LayoutOptions.tsx:167
+#: src/components/_layout/LayoutOptions.tsx:169
 msgid "Clouds"
 msgstr "Nuages"
 
@@ -5545,7 +5570,7 @@ msgstr "Palette de couleurs mise à jour"
 msgid "Color schemes are a Supporter Plan feature."
 msgstr "Les jeux de couleurs sont une fonctionnalité du plan Supporter."
 
-#: src/components/_layout/LayoutOptions.tsx:211
+#: src/components/_layout/LayoutOptions.tsx:221
 msgid "Colorblind mode"
 msgstr "Mode daltonien"
 
@@ -5589,7 +5614,7 @@ msgstr "Communauté"
 #: src/components/_user/user/MyAvatar.tsx:50
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
-#: src/pages/companies.tsx:153
+#: src/pages/companies.tsx:144
 msgid "Companies"
 msgstr "Entreprises"
 
@@ -5603,7 +5628,7 @@ msgstr "Entreprises (actives, non désactivées)"
 msgid "Companies limit"
 msgstr "Limite d'entreprises"
 
-#: src/components/_economy/company/CompanyList.tsx:177
+#: src/components/_economy/company/CompanyList.tsx:166
 msgid "Companies limit reached"
 msgstr "Limite d'entreprises atteinte"
 
@@ -5783,7 +5808,7 @@ msgstr "Le consommer augmente ton <0>Attaque</0> pendant {0}h.<1/> Puis diminue 
 msgid "Content Mod"
 msgstr "Modérateur de contenu"
 
-#: src/components/_layout/LayoutOptions.tsx:135
+#: src/components/_layout/LayoutOptions.tsx:137
 msgid "Contextual borders"
 msgstr "Frontières contextuelles"
 
@@ -5821,7 +5846,7 @@ msgstr "Contrats"
 msgid "Contracts & Auctions"
 msgstr "Contrats et enchères"
 
-#: src/components/_political/region/ResistanceFocusItem.tsx:218
+#: src/components/_political/region/ResistanceFocusItem.tsx:221
 msgid "Contribute to the resistance"
 msgstr "Contribuer à la résistance"
 
@@ -5995,11 +6020,7 @@ msgstr "Guerres entre pays"
 msgid "Coworker fired"
 msgstr "Collègue licencié"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:1008
-msgid "Coworker trainings per day"
-msgstr ""
-
-#: src/components/_economy/employee/EmployeeModal.tsx:181
+#: src/components/_economy/employee/EmployeeModal.tsx:182
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:141
 msgid "Coworkers"
@@ -6118,10 +6139,6 @@ msgstr "Chance de critique"
 msgid "Crit. damages"
 msgstr "Dégâts critiques"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:931
-msgid "Critical event outcomes"
-msgstr ""
-
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:193
 msgid "Critical failure"
 msgstr "Échec critique"
@@ -6218,19 +6235,19 @@ msgstr "Entretien quotidien"
 msgid "Daily Missions Reset"
 msgstr "Réinitialisation des missions quotidiennes"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:764
+#: src/components/_economy/employee/EmployeeModal.tsx:777
 msgid "Daily output"
 msgstr "Production quotidienne"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:514
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:516
 msgid "Daily pay"
 msgstr "Paiement quotidien"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:135
+#: src/components/_economy/employee/EmployeeModal.tsx:136
 msgid "Daily production"
 msgstr "Production quotidienne"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:778
+#: src/components/_economy/employee/EmployeeModal.tsx:791
 msgid "Daily profit"
 msgstr "Profit quotidien"
 
@@ -6238,11 +6255,7 @@ msgstr "Profit quotidien"
 msgid "Daily revenue"
 msgstr "Revenu quotidien"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:997
-msgid "Daily shortlist, every company"
-msgstr ""
-
-#: src/components/_economy/employee/EmployeeModal.tsx:773
+#: src/components/_economy/employee/EmployeeModal.tsx:786
 msgid "Daily wage"
 msgstr "Salaire quotidien"
 
@@ -6301,7 +6314,7 @@ msgstr "Ère sombre"
 msgid "Dark Era Pack"
 msgstr "Pack Ère sombre"
 
-#: src/components/_layout/LayoutOptions.tsx:172
+#: src/components/_layout/LayoutOptions.tsx:174
 msgid "Dark map"
 msgstr "Carte sombre"
 
@@ -6366,7 +6379,7 @@ msgid "Debuff ended"
 msgstr "Le malus est terminé"
 
 #: src/components/_user/user/UserHeader.tsx:342
-#: src/components/_user/user/UserTooltip.tsx:147
+#: src/components/_user/user/UserTooltip.tsx:149
 msgid "Debuff ends"
 msgstr "Le malus se termine"
 
@@ -6584,7 +6597,7 @@ msgstr "Diamant brut"
 msgid "Diamonds"
 msgstr "Diamants"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:102
+#: src/components/_economy/employee/employee.frontConfig.tsx:99
 msgid "Died in a battle fought over the region they worked in."
 msgstr "A péri lors d’une bataille qui s’est déroulée dans la région où ces personnes travaillaient."
 
@@ -6666,7 +6679,7 @@ msgstr "Désactiver l'ordre"
 msgid "Disabled"
 msgstr "Désactivée"
 
-#: src/components/_layout/LayoutOptions.tsx:157
+#: src/components/_layout/LayoutOptions.tsx:159
 msgid "Disabled upgrades"
 msgstr "Mises à niveau désactivées"
 
@@ -6695,7 +6708,7 @@ msgstr "Démanteler des objets"
 msgid "Dismiss"
 msgstr "Fermer"
 
-#: src/components/_economy/employee/useConfirmFire.tsx:37
+#: src/components/_economy/employee/useConfirmFire.tsx:63
 msgid "Dismiss {name}? This cannot be undone."
 msgstr "Supprimer {name}? Cette action est irréversible."
 
@@ -6864,7 +6877,7 @@ msgstr "Chacun mène au suivant."
 msgid "Each point is a {LUCK_PER_POINT_PCT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PCT}%), tilts training draws toward the rarer cards, and adds {0}% to the Luck checks of employee events, {1}% to every other check."
 msgstr ""
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:154
+#: src/components/_economy/employee/employee.frontConfig.tsx:151
 msgid "Each point is a {LUCK_PERCENT_PER_POINT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PERCENT}%), tilts training draws toward the rarer cards, and improves the odds of every employee event, Luck checks most."
 msgstr ""
 
@@ -7049,10 +7062,10 @@ msgstr "Pantalon d'élite"
 msgid "Embrace the curse"
 msgstr "Accepte la malédiction"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:643
+#: src/components/_economy/employee/EmployeeModal.tsx:649
 #: src/components/_economy/employee/EmployeeName.tsx:70
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:189
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:272
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:171
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:251
 #: src/components/_economy/employee/employeeTags.tsx:262
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:86
 msgid "Employee"
@@ -7102,9 +7115,10 @@ msgstr "Employé renommé!"
 msgid "Employee tax"
 msgstr "Taxe sur les employés"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:835
-msgid "Employee tax 20% or more"
-msgstr ""
+#. placeholder {0}: 2
+#: src/components/_economy/employee/employee.frontConfig.tsx:555
+msgid "Employee tax at 20% or more: <0>{0}</0>."
+msgstr "Taxe sur les employés à 20 % ou plus: <0>{0}</0>."
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:287
 #: src/components/_economy/work/WorkChart.tsx:252
@@ -7232,7 +7246,7 @@ msgstr "Kit d'équipement"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:65
 #: src/components/_economy/inventory/ItemGridFilters.tsx:199
-#: src/components/_layout/LayoutOptions.tsx:249
+#: src/components/_layout/LayoutOptions.tsx:259
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/user/[userId]/index.tsx:105
 #: src/pages/user/[userId]/inventory.tsx:92
@@ -7288,8 +7302,8 @@ msgid "Estimated minimum time for this side to win the current round if all tick
 msgstr "Temps minimum estimé pour que ce côté gagne la manche en cours si tous les ticks sont remportés."
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:65
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:53
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:57
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:97
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:101
 msgid "Estimated profit"
 msgstr "Profit estimé"
 
@@ -7322,43 +7336,53 @@ msgstr "Événements"
 msgid "Events about {lead} and others were decided while you were away."
 msgstr "Des événements concernant {lead} et d’autres personnes ont été tranchés pendant votre absence."
 
-#: src/components/_economy/employee/EmployeeTraitArg.tsx:40
-msgid "Every {perDays} days, same company"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:707
-msgid "Every 10 days, same company"
-msgstr ""
-
 #: src/components/_other/tour/tuto.frontConfig.tsx:336
 msgid "Every 2 minutes, the side with more <0>Damages</0> gains <1>Ground</1>. Your hits count."
 msgstr "Toutes les 2 minutes, le camp ayant infligé le plus de <0>Dégâts</0> gagne du <1>Terrain</1>. Tes coups comptent."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:720
-msgid "Every 20 days, same company"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:650
+msgid "Every coworker can train twice a day instead of once."
+msgstr "Chaque collègue peut s’entraîner deux fois par jour au lieu d’une seule."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:342
-#: src/components/_economy/employee/employee.frontConfig.tsx:378
-#: src/components/_economy/employee/employee.frontConfig.tsx:440
-#: src/components/_economy/employee/employee.frontConfig.tsx:971
-#: src/components/_economy/employee/employee.frontConfig.tsx:983
-msgid "Every coworker"
-msgstr ""
+#. placeholder {0}: 3
+#: src/components/_economy/employee/employee.frontConfig.tsx:279
+msgid "Every coworker gets <0>{0}</0>. Nothing for themselves."
+msgstr "Chaque collègue reçoit <0>{0}</0>. Rien pour lui-même."
 
-#: src/components/_economy/employee/useConfirmFire.tsx:39
+#: src/components/_economy/employee/useConfirmFire.tsx:65
 msgid "Every coworker still working in this company loses {coworkerHappinessPenalty} happiness for {penaltyHours} hours. Firing again restarts the timer, it does not stack."
 msgstr "Chaque collègue encore présent dans l'entreprise perd {coworkerHappinessPenalty} points de bonheur pendant {penaltyHours} heures. Procéder à un nouveau licenciement réinitialise le compte à rebours; les effets ne se cumulent pas."
 
+#. placeholder {0}: 2
+#. placeholder {1}: -1
+#: src/components/_economy/employee/employee.frontConfig.tsx:267
+msgid "Every coworker weaker than them gets <0>{0}</0>. Costs the mentor <1>{1}</1>."
+msgstr "Chaque collègue plus faible qu'eux reçoit <0>{0}</0>. Cela coûte <1>{1}</1> au mentor."
+
+#. placeholder {0}: -2
+#. placeholder {0}: 3
+#: src/components/_economy/employee/employee.frontConfig.tsx:627
+#: src/components/_economy/employee/employee.frontConfig.tsx:634
+msgid "Every coworker: <0>{0}</0>."
+msgstr "Chaque collègue: <0>{0}</0>."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:434
+msgid "Every day worked counts double toward specialization."
+msgstr "Chaque journée travaillée compte double pour la spécialisation."
+
 #. placeholder {0}: contract.productionBonusPercent
 #. placeholder {1}: employeeConfig.skills.managementBonusPercentPerLevel
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:524
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:526
 msgid "Every employee of this company produces <0>{0}</0> more: <1>{1}</1> per Management point, and they have <2/>."
 msgstr "Chaque employé de cette entreprise génère <0>{0}</0> en plus : <1>{1}</1> par point de Gestion, et ils disposent de <2/>."
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:79
 msgid "Every employee rolls 1 to 3 of these at hire, hidden until training reveals them."
 msgstr "Chaque employé en obtient entre 1 et 3 lors de son embauche; ces éléments restent cachés jusqu’à ce que la formation les révèle."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:580
+msgid "Every happiness loss hits them half as hard."
+msgstr "Chaque perte de bonheur les affecte deux fois moins."
 
 #: src/components/_layout/loadingTips.tsx:115
 msgid "Every hit in battle costs <0>{healthCost}</0>. Eat food to get back in the fight."
@@ -7407,10 +7431,6 @@ msgstr "Chaque pourcentage qui augmente ce que leur <0>Production</0> génère, 
 #: src/pages/market/equipments.tsx:88
 msgid "Every price here is what you pay, tax included: the seller's price plus the {0}% market tax of your country <0/>, which goes to it."
 msgstr "Chaque prix indiqué ici correspond au montant que tu payes, taxes incluses: il s'agit du prix fixé par le vendeur, auquel s'ajoute la taxe de marché de {0}% propre à ton pays <0/>, qui lui est inversée."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:358
-msgid "Every weaker coworker"
-msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:261
 msgid "Everyone can vote"
@@ -7485,15 +7505,6 @@ msgstr "Expatrié"
 msgid "Expected loot"
 msgstr "Butin attendu"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:851
-#: src/components/_economy/employee/employee.frontConfig.tsx:858
-msgid "Expected pay vs market"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:866
-msgid "Expected pay, per week hired"
-msgstr ""
-
 #: src/components/_economy/employee/TrainingCard.tsx:282
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
@@ -7503,6 +7514,14 @@ msgstr "Salaire attendu"
 #: src/components/_economy/employee/TrainingHistory.tsx:141
 msgid "Expected wage <0>-{0}%</0>"
 msgstr "Salaire attendu <0>-{0}%</0>"
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:574
+msgid "Expects 2% more pay every week since they were hired."
+msgstr "S’attend à une augmentation de salaire de 2% chaque semaine depuis son embauche."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:567
+msgid "Expects 20% more pay than the market rate."
+msgstr "S’attend à une rémunération supérieure de 20% au taux du marché."
 
 #: src/components/_user/milestone/milestone.frontConfig.tsx:28
 msgid "Experience"
@@ -7713,7 +7732,7 @@ msgstr "Financer la résistance dans <0/>"
 msgid "Find a better horoscope"
 msgstr "Trouve un meilleur horoscope"
 
-#: src/pages/companies.tsx:86
+#: src/pages/companies.tsx:81
 msgid "Find a job"
 msgstr "Trouver un emploi"
 
@@ -7745,8 +7764,8 @@ msgstr "Les missions terminées rapportent de l'EXP. Récupére-les toutes."
 msgid "Finished: your reward is waiting"
 msgstr "Terminé: ta récompense t'attend"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:394
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:264
+#: src/components/_economy/employee/EmployeeModal.tsx:396
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:266
 #: src/components/_political/government/Government.tsx:263
 msgid "Fire"
 msgstr "Licencier"
@@ -7756,7 +7775,7 @@ msgctxt "username effect: flames"
 msgid "Fire"
 msgstr "Feu"
 
-#: src/components/_economy/employee/useConfirmFire.tsx:35
+#: src/components/_economy/employee/useConfirmFire.tsx:61
 msgid "Fire employee?"
 msgstr "Licencier ton employé?"
 
@@ -7764,7 +7783,7 @@ msgstr "Licencier ton employé?"
 msgid "Fire government member"
 msgstr "Révoquer un membre du gouvernement"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:269
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:271
 msgid "Fire your manager?"
 msgstr "Licencier ton manager?"
 
@@ -7776,9 +7795,9 @@ msgstr "Renvoyé du gouvernement"
 msgid "Firestorm Skillet"
 msgstr "Poêle Tempête de feu"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:670
-msgid "First day in a company"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:452
+msgid "First day in a new company: <0>+50%</0>. Nothing after that."
+msgstr "Premier jour dans une nouvelle entreprise: <0>+50 %</0>. Rien par la suite."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:325
 msgid "First side to reach <0>{pointsToWinRound}</0> Ground wins the round."
@@ -7796,7 +7815,7 @@ msgstr "Poisson"
 msgid "Fixed. It looks great."
 msgstr "C’est corrigé. Le résultat est superbe."
 
-#: src/components/_layout/LayoutOptions.tsx:147
+#: src/components/_layout/LayoutOptions.tsx:149
 msgid "Flags"
 msgstr "Drapeaux"
 
@@ -7812,7 +7831,7 @@ msgstr "Flasque"
 msgid "Flight Risk"
 msgstr "Risque de fuite"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:391
+#: src/components/_layout/LayoutMapUserMenu.tsx:392
 msgid "Focus on you"
 msgstr "Centrer sur toi"
 
@@ -7833,11 +7852,11 @@ msgstr "Suivre les ordres de bataille de ton pays et de ton unité militaire: ch
 msgid "Follow-up"
 msgstr "Suivi"
 
-#: src/components/_layout/LayoutOptions.tsx:295
+#: src/components/_layout/LayoutOptions.tsx:305
 msgid "Font"
 msgstr "Police"
 
-#: src/components/_layout/LayoutOptions.tsx:312
+#: src/components/_layout/LayoutOptions.tsx:322
 msgid "Font size"
 msgstr "Taille de police"
 
@@ -7849,7 +7868,7 @@ msgstr "Style de police"
 msgid "Font updated"
 msgstr "Police mise à jour"
 
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:86
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:130
 msgid "for"
 msgstr ""
 
@@ -7864,6 +7883,10 @@ msgstr "pendant {penaltyDays} jours, à l’encontre de chaque employé de l’e
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:66
 msgid "for {penaltyDays} days, on everyone who changes desk"
 msgstr "pendant {penaltyDays} jours, pour chaque personne qui change de bureau"
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:470
+msgid "For 3 days after a transfer: <0>-30%</0>."
+msgstr "Pendant les 3 jours suivant un transfert : <0>-30 %</0>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3594
 msgid "For luck"
@@ -7934,10 +7957,6 @@ msgstr "de"
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:390
 msgid "From <0>{0}</0> to <1>{1}</1> before tax."
 msgstr "De <0>{0}</0> à <1>{1}</1> hors taxes."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:644
-msgid "Full storage"
-msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
@@ -8151,7 +8170,7 @@ msgstr "Tirage au sort gagné!"
 msgid "Gives <0>{0}</0>"
 msgstr "Donne <0>{0}</0>"
 
-#: src/components/_layout/LayoutOptions.tsx:108
+#: src/components/_layout/LayoutOptions.tsx:110
 msgid "Globe (experimental)"
 msgstr "Globe (expérimental)"
 
@@ -8177,7 +8196,7 @@ msgstr "Va jouer au loto maintenant"
 msgid "Go to ordered battle"
 msgstr ""
 
-#: src/components/_economy/company/CompanyList.tsx:191
+#: src/components/_economy/company/CompanyList.tsx:180
 msgid "Go to skills"
 msgstr "Aller aux compétences"
 
@@ -8190,7 +8209,7 @@ msgstr "Va te cacher toi-même"
 msgid "Gold"
 msgstr "Or"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:117
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:99
 msgid "Gone"
 msgstr "Disparu"
 
@@ -8251,7 +8270,7 @@ msgstr "Céréales"
 msgid "Grant the title"
 msgstr "Accorder le titre"
 
-#: src/components/_layout/LayoutOptions.tsx:115
+#: src/components/_layout/LayoutOptions.tsx:117
 msgid "Graticule"
 msgstr "Graticule"
 
@@ -8421,9 +8440,11 @@ msgstr "Pistolet"
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
 msgstr "h. Glorification, promotion ou encouragement de la violation des règles ou de la tricherie"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:242
-msgid "Half or more compatriots"
-msgstr ""
+#. placeholder {0}: 2
+#. placeholder {1}: 5
+#: src/components/_economy/employee/employee.frontConfig.tsx:199
+msgid "Half or more coworkers share their nationality: <0>{0}</0> <1>{1}</1>."
+msgstr "La moitié ou plus des collègues partagent leur nationalité: <0>{0}</0> <1>{1}</1>."
 
 #: src/utils/translations.tsx:266
 msgid "Hammer"
@@ -8480,10 +8501,6 @@ msgstr "Bonheur {mood} ou plus."
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:113
 msgid "Happiness {value}"
 msgstr "Bonheur {value}"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:876
-msgid "Happiness losses"
-msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -8592,7 +8609,7 @@ msgstr "Aider les membres de l'UM"
 msgid "Help the game to grow"
 msgstr "Aide le jeu à grandir"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:749
+#: src/components/_economy/employee/EmployeeModal.tsx:755
 msgid "hidden"
 msgstr "caché"
 
@@ -8618,7 +8635,7 @@ msgid "Hire"
 msgstr "Embaucher"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:299
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:144
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:145
 msgid "Hire a manager"
 msgstr "Embaucher un manager"
 
@@ -8658,6 +8675,10 @@ msgstr "Embauché il y a 7 jours ou plus, avec bonheur {mood} ou moins. Toujours
 msgid "Hired 7 days ago or more, with happiness {mood} or more."
 msgstr "Embauché il y a 7 jours ou plus, avec bonheur {mood} ou plus."
 
+#: src/components/_economy/employee/useConfirmFire.tsx:73
+msgid "Hired less than {rerollWithinHours}h ago, so this counts as a reroll: it costs <0>{energyCost}</0>."
+msgstr "Embauché il y a moins de {rerollWithinHours}h, donc cela compte comme une relance: cela coûte <0>{Coût énergétique}</0>."
+
 #: src/components/_layout/loadingTips.tsx:375
 msgid "Hiring an employee costs <0>{hireEnergyCost}</0> and no money. New candidates show up every day."
 msgstr "Embaucher un employé coûte <0>{hireEnergyCost}</0> et pas d'argent. De nouveaux candidats se présentent chaque jour."
@@ -8683,10 +8704,6 @@ msgstr "Tape jusqu'à ce que ta <0>Santé</0> retombe à zéro."
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Taper pour ton propre pays pendant que tu es au gouvernement donne {0}% d'efficacité de prime."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:216
-msgid "Holding a tool"
-msgstr ""
-
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
 msgstr "Tenir un outil dont la durabilité est tombée à 40 ou moins. La probabilité est doublée si le personnage possède le trait {jinx} ou {handy}."
@@ -8703,9 +8720,13 @@ msgstr "Tenant un outil, et {handy} ou {improviser}."
 msgid "Holding a tool. Twice as likely for a {gambler}."
 msgstr "Tenir un outil. Deux fois plus probable chez un {gambler}."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:228
-msgid "Holding no tool"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:179
+msgid "Holding any tool: <0>+40%</0>. Nothing bare-handed."
+msgstr "En tenant un outil quelconque : <0>+40 %</0>. Rien à mains nues."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:188
+msgid "Holding no tool: <0>+25%</0>. Give the tool to somebody else."
+msgstr "Sans outil en main: <0>+25 %</0>. Donne l’outil à quelqu’un d’autre."
 
 #: src/components/_military/mu/MuHeader.tsx:149
 #: src/components/_military/tournament/TournamentHeader.tsx:145
@@ -8735,7 +8756,7 @@ msgstr "Faucille affûtée"
 msgid "Honor their career"
 msgstr "Honore leur parcours professionnel"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:508
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:510
 msgid "Hourly pay"
 msgstr "Rémunération horaire"
 
@@ -8784,7 +8805,7 @@ msgstr "Je suis fier de toi"
 msgid "ID No."
 msgstr "N° d’identification"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:382
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:358
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
 msgstr "Inactif"
@@ -8856,9 +8877,15 @@ msgstr "Impressionnant"
 msgid "Improviser"
 msgstr "Improvisateur"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:763
-msgid "In a homeland core region"
-msgstr ""
+#. placeholder {0}: 3
+#. placeholder {1}: 5
+#: src/components/_economy/employee/employee.frontConfig.tsx:396
+msgid "In a company producing their good: <0>{0}</0> <1>{1}</1>."
+msgstr "Dans une entreprise produisant son bien: <0>{0}</0> <1>{1}</1>."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:442
+msgid "In a company with a small storage: <0>-20%</0>."
+msgstr "Dans une entreprise disposant d’une capacité de stockage réduite: <0>-20 %</0>."
 
 #: src/components/_layout/loadingTips.tsx:458
 msgid "In a Military Unit, ask your mates for help every {helpCooldownHours}h: each help gives you <0>{healthPerHelp}</0>."
@@ -8868,11 +8895,11 @@ msgstr "Au sein d'une unité militaire, sollicite l'aide de tes camarades toutes
 msgid "In progress"
 msgstr "En progression"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:216
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:218
 msgid "inactive"
 msgstr "inactif"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:207
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:209
 #: src/components/_user/apiToken/ApiTokenList.tsx:174
 msgid "Inactive"
 msgstr "Inactif"
@@ -8923,10 +8950,10 @@ msgid "Introduce yourself!"
 msgstr "Présente-toi!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
-#: src/components/_layout/LayoutUserMenu.tsx:173
+#: src/components/_layout/LayoutUserMenu.tsx:169
 #: src/components/_user/user/MyAvatar.tsx:38
 #: src/components/_user/user/UserHeader.tsx:177
-#: src/pages/companies.tsx:136
+#: src/pages/companies.tsx:129
 #: src/pages/country/[countryId]/account.tsx:25
 #: src/pages/market/index.tsx:55
 #: src/pages/user/[userId]/account.tsx:20
@@ -9099,7 +9126,7 @@ msgstr "Tank de la boîte surprise"
 msgid "Jinx"
 msgstr "Porte-poisse"
 
-#: src/pages/companies.tsx:67
+#: src/pages/companies.tsx:65
 msgid "Job"
 msgstr "Emploi"
 
@@ -9192,7 +9219,7 @@ msgstr "Juste 1 de plus..."
 msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
 msgstr "Ce n'est pas parce que quelque chose n'est pas explicitement indiqué dans les règles que tu peux en abuser. Les tentatives de contourner les règles ou d'exploiter des failles seront toujours punies."
 
-#: src/components/_economy/employee/useConfirmFire.tsx:18
+#: src/components/_economy/employee/useConfirmFire.tsx:19
 msgid "Just moved: can be fired in {hours}h"
 msgstr "Viens d'être déplacé: peut être déclenché dans {heures}h"
 
@@ -9244,6 +9271,10 @@ msgstr "Continue à les former pour accroître tes profits."
 msgid "Keep working"
 msgstr "Continue à travailler"
 
+#: src/components/_economy/employee/employee.frontConfig.tsx:620
+msgid "Keeps finding toolboxes while the storage is full and nobody works."
+msgstr "Il continue de trouver des boîtes à outils alors que l'espace de stockage est plein et que personne ne travaille."
+
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:124
 msgid "Kept between {minChance}% and {maxChance}%. Fixed when the event appeared."
 msgstr "Maintenu entre {minChance}% et {maxChance}%. Fixé au moment de l'apparition de l'événement."
@@ -9278,7 +9309,7 @@ msgstr "Exclure le pays"
 msgid "Kick Member"
 msgstr "Exclure le membre"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:100
+#: src/components/_economy/employee/employee.frontConfig.tsx:97
 msgid "Killed"
 msgstr "Tué"
 
@@ -9302,7 +9333,7 @@ msgstr "Les couteaux n'acceptent pas de munitions"
 msgid "Laborer"
 msgstr "Ouvrier"
 
-#: src/components/_layout/LayoutOptions.tsx:238
+#: src/components/_layout/LayoutOptions.tsx:248
 #: src/components/_user/auth/WelcomeModal.tsx:277
 msgid "Language"
 msgstr "Langue"
@@ -9337,7 +9368,7 @@ msgstr "Dernière utilisation"
 msgid "Last used:"
 msgstr "Dernière utilisation:"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:154
+#: src/components/_economy/employee/EmployeeModal.tsx:155
 msgid "Last works"
 msgstr "Dernières œuvres"
 
@@ -9658,7 +9689,7 @@ msgstr "Calcaire"
 msgid "Limit of food consumption"
 msgstr "Limite de consommation de nourriture"
 
-#: src/components/_economy/company/CompanyList.tsx:275
+#: src/components/_economy/company/CompanyList.tsx:264
 msgid "Limit reached"
 msgstr "Limite atteinte"
 
@@ -9666,7 +9697,7 @@ msgstr "Limite atteinte"
 msgid "Limited:"
 msgstr "Limité :"
 
-#: src/components/_layout/LayoutOptions.tsx:348
+#: src/components/_layout/LayoutOptions.tsx:358
 msgid "Line"
 msgstr "Ligne"
 
@@ -9803,8 +9834,7 @@ msgstr "Lieutenant-Colonel"
 msgid "Lt. General"
 msgstr "Général de corps d'armée"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:152
-#: src/components/_economy/employee/employee.frontConfig.tsx:919
+#: src/components/_economy/employee/employee.frontConfig.tsx:149
 #: src/components/_economy/employee/employeeStats.tsx:432
 msgid "Luck"
 msgstr "Chance"
@@ -9877,8 +9907,8 @@ msgid "Management {value}"
 msgstr "Gestion {value}"
 
 #: src/components/_economy/employee/employeeStats.tsx:583
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:281
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:489
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:283
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:491
 #: src/pages/company/[companyId]/index.tsx:57
 msgid "Manager"
 msgstr "Manager"
@@ -9904,7 +9934,7 @@ msgid "Manager resigned"
 msgstr ""
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:208
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:437
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:439
 #: src/components/_political/country/CountryTaxes.tsx:27
 #: src/components/_political/law/law.frontConfig.tsx:67
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:68
@@ -9915,12 +9945,14 @@ msgstr ""
 msgid "Manager Tax"
 msgstr ""
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:378
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:380
 msgid "Manager wanted"
 msgstr ""
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:597
-msgid "Manufactured goods"
+#. placeholder {0}: 3
+#. placeholder {1}: -1
+#: src/components/_economy/employee/employee.frontConfig.tsx:410
+msgid "Manufactured goods: <0>{0}</0>. Raw resources: <1>{1}</1>."
 msgstr ""
 
 #: src/components/_layout/LoadingScreenContent.tsx:26
@@ -9928,7 +9960,7 @@ msgid "map"
 msgstr "carte"
 
 #: src/components/_layout/LayoutMapOptions.tsx:84
-#: src/components/_layout/LayoutOptions.tsx:105
+#: src/components/_layout/LayoutOptions.tsx:107
 #: src/components/_other/tour/tuto.frontConfig.tsx:652
 msgid "Map"
 msgstr "Carte"
@@ -9938,11 +9970,11 @@ msgstr "Carte"
 msgid "Map Accent"
 msgstr "Carte des accents"
 
-#: src/components/_layout/LayoutOptions.tsx:152
+#: src/components/_layout/LayoutOptions.tsx:154
 msgid "Map icons"
 msgstr "Icônes sur la carte"
 
-#: src/components/_layout/LayoutOptions.tsx:162
+#: src/components/_layout/LayoutOptions.tsx:164
 msgid "Map textures"
 msgstr "Textures de la carte"
 
@@ -9993,7 +10025,7 @@ msgstr "Niveau maximum atteint !"
 msgid "Max rarity"
 msgstr "Rareté maximale"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:369
+#: src/components/_economy/employee/EmployeeModal.tsx:371
 msgid "Maxed"
 msgstr "Au maximum"
 
@@ -10129,11 +10161,6 @@ msgstr "Adhésion suspendue"
 msgid "Memorandum"
 msgstr "Mémorandum"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:531
-#: src/components/_economy/employee/employee.frontConfig.tsx:565
-msgid "Men only."
-msgstr ""
-
 #: src/components/_user/notification/notification.frontConfig.tsx:2367
 msgid "Mentioned in message"
 msgstr "Mentionné dans un message"
@@ -10166,7 +10193,7 @@ msgid "Mercenary earnings"
 msgstr "Gains mercenaires"
 
 #: src/components/_military/mu/MuHeader.tsx:116
-#: src/components/_military/mu/MuTooltip.tsx:123
+#: src/components/_military/mu/MuTooltip.tsx:124
 msgid "Mercenary reputation"
 msgstr "Réputation de mercenaire"
 
@@ -10388,7 +10415,7 @@ msgstr "Misogyne"
 msgid "Missing <0>{missing}</0> to produce"
 msgstr "Manque <0>{missing}</0> pour produire"
 
-#: src/components/_layout/LayoutOptions.tsx:219
+#: src/components/_layout/LayoutOptions.tsx:229
 msgid "Mission tags"
 msgstr "Étiquettes de mission"
 
@@ -10485,7 +10512,7 @@ msgstr "Moral (0-100). Au-dessus du seuil {neutral}, il confère un bonus de <0>
 msgid "Morale is set live by traits and conditions."
 msgstr "Le moral est déterminé par des traits et des conditions."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:142
+#: src/components/_economy/employee/employee.frontConfig.tsx:139
 msgid "Morale shield: cancels a share of every happiness loss, ramping from 0 to {RESP_MAX_SHIELD_PERCENT}% at {RESP_FULL_AT} Responsibility. Does not affect output."
 msgstr "Bouclier de moral: annule une partie de chaque perte de bonheur, avec un effet progressant de 0 à {RESP_MAX_SHIELD_PERCENT}% à {RESP_FULL_AT} points de Responsabilité. N'affecte pas la production."
 
@@ -10536,8 +10563,8 @@ msgstr "Motion proposée"
 msgid "Motions"
 msgstr "Motions"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:388
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:255
+#: src/components/_economy/employee/EmployeeModal.tsx:390
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:257
 #: src/components/_political/region/MoveButton.tsx:119
 #: src/components/_political/region/MoveButton.tsx:131
 msgid "Move"
@@ -10777,7 +10804,7 @@ msgstr "Nationalité"
 msgid "Nationality updated"
 msgstr "Nationalité mise à jour"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:338
+#: src/components/_layout/LayoutMapUserMenu.tsx:339
 msgid "Nearest wooden case"
 msgstr "Caisse de bois la plus proche"
 
@@ -10823,10 +10850,6 @@ msgstr "Aucun de vous n’en avait l’énergie. Rien n’est resté."
 msgid "Nemesis"
 msgstr "Némésis"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:902
-msgid "Never"
-msgstr ""
-
 #. placeholder {0}: ts.lightAmmo
 #. placeholder {1}: ts.ammo
 #. placeholder {2}: ts.heavyAmmo
@@ -10841,6 +10864,10 @@ msgstr "N'abandonne jamais !"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:16
 msgid "Never stop gambling"
 msgstr "N'arrête jamais de jouer"
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:592
+msgid "Never walks out. Below {quitThreshold} happiness, produces half as much."
+msgstr "Ne s'en va jamais. En dessous du seuil de bonheur {quitThreshold}, sa production est réduite de moitié."
 
 #: src/components/_economy/itemOffer/itemOffer.frontConfig.tsx:10
 #: src/components/_other/shop/SkinPackItem.tsx:93
@@ -11008,7 +11035,7 @@ msgid "Next tier {currentTier}"
 msgstr "Palier suivant {currentTier}"
 
 #. placeholder {0}: nextToTrain.count
-#: src/components/_economy/employee/EmployeeModal.tsx:418
+#: src/components/_economy/employee/EmployeeModal.tsx:422
 msgid "Next to train ({0} left)"
 msgstr "Reste à former ({0} restant(s))"
 
@@ -11157,7 +11184,7 @@ msgstr "Pas encore de classement de terrain."
 msgid "No helmets"
 msgstr "Pas de casques"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:316
+#: src/components/_layout/LayoutMapUserMenu.tsx:317
 msgid "No home region set"
 msgstr "Aucune région d'origine établie"
 
@@ -11263,10 +11290,6 @@ msgstr "Aucun pantalon"
 msgid "No parties found"
 msgstr "Aucun parti trouvé"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:645
-msgid "No penalty"
-msgstr ""
-
 #: src/components/_user/user/SkillPresetsModal.tsx:311
 msgid "No presets saved yet."
 msgstr "Aucun préréglage n’a encore été enregistré."
@@ -11279,7 +11302,7 @@ msgstr "Plus de points de prestige; appuis pour réinitialiser les points accumu
 msgid "No prize, but the whole company sang together. Spirits are high."
 msgstr "Pas de prix, mais toute l’entreprise a chanté en chœur. Le moral est au beau fixe."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:145
+#: src/components/_economy/employee/EmployeeModal.tsx:146
 msgid "No production yet"
 msgstr "Aucune production pour l'instant"
 
@@ -11328,7 +11351,7 @@ msgstr "Aucun outil"
 msgid "No trading orders"
 msgstr "Aucun ordre d'échange"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:743
+#: src/components/_economy/employee/EmployeeModal.tsx:749
 msgid "No traits"
 msgstr ""
 
@@ -11496,10 +11519,6 @@ msgstr ""
 msgid "Notes on an arm"
 msgstr "Notes sur un bras"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:385
-msgid "Nothing"
-msgstr ""
-
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:748
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:228
 msgid "Nothing happens"
@@ -11512,11 +11531,6 @@ msgstr "Rien n’est touché, mais personne n’a apprécié de travailler sous 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:180
 msgid "Nothing in play. Hit in an ongoing battle to start earning, and take a top damage rank to claim a spot in its loot pool."
 msgstr "Aucun enjeu immédiat. Rejoins une bataille en cours pour commencer à accumuler des gains et visez le haut du classement des dégâts afin de prétendre à une part du butin."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:423
-#: src/components/_economy/employee/employee.frontConfig.tsx:444
-msgid "Nothing while alone."
-msgstr ""
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:145
@@ -11591,11 +11605,11 @@ msgstr "Baril"
 msgid "Oil the hinge"
 msgstr "Huiler la charnière"
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:216
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:198
 msgid "OK"
 msgstr "OK"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:466
+#: src/components/_economy/employee/EmployeeModal.tsx:470
 msgid "OK, remove them"
 msgstr "OK, retire-les"
 
@@ -11650,6 +11664,10 @@ msgstr "Une fois par employé"
 #: src/components/_layout/loadingTips.tsx:508
 msgid "One account per player. Multi-accounting can get you permanently banned."
 msgstr "Un seul compte par joueur. La possession de comptes multiples peut entraîner un bannissement définitif."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:643
+msgid "One extra candidate in the daily shortlist of every company you own."
+msgstr "Un candidat supplémentaire dans la sélection quotidienne de chaque entreprise que tu possèdes."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3819
 msgid "One prank goes too far. {name} and {partnerName} are sworn enemies now."
@@ -11709,10 +11727,6 @@ msgstr "Seulement un {stockpiler}."
 #: src/components/_social/poll/PollCard.tsx:232
 msgid "Only citizens of <0/> can vote."
 msgstr "Seuls des citoyens de <0/> peuvent voter."
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:497
-msgid "Only ever from an office romance."
-msgstr ""
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:164
 msgid "Only MU owners and commanders can register the unit"
@@ -11880,10 +11894,6 @@ msgstr "Origine"
 msgid "Other"
 msgstr "Autres"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:419
-msgid "Otherwise"
-msgstr ""
-
 #: src/components/_other/tour/tuto.frontConfig.tsx:369
 msgid "Out of Health?"
 msgstr "En manque de santé?"
@@ -11906,7 +11916,7 @@ msgstr "Surplus :"
 msgid "Overheard at the bar"
 msgstr "Entendu au bar"
 
-#: src/components/_layout/LayoutOptions.tsx:120
+#: src/components/_layout/LayoutOptions.tsx:122
 msgid "Overseas frontiers"
 msgstr "Frontières outre-mer"
 
@@ -11939,7 +11949,7 @@ msgstr "Unités militaires possédées"
 #: src/components/_economy/company/CompanyTooltip.tsx:67
 #: src/components/_military/mu/MuHeader.tsx:139
 #: src/components/_military/mu/MuMemberList.tsx:321
-#: src/components/_military/mu/MuTooltip.tsx:134
+#: src/components/_military/mu/MuTooltip.tsx:135
 msgid "Owner"
 msgstr "Propriétaire"
 
@@ -11985,9 +11995,10 @@ msgstr "Remboursé avec {interest}% d’intérêts"
 msgid "Paid back with interest: {value}"
 msgstr "Remboursé avec intérêts: {value}"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:415
-msgid "Paid more than every coworker"
-msgstr ""
+#. placeholder {0}: -10
+#: src/components/_economy/employee/employee.frontConfig.tsx:302
+msgid "Paid more than every coworker: <0>+20%</0>. Otherwise <1>{0}</1>. Nothing while alone."
+msgstr "Plus rémunéré(e) que tous les collègues: <0>+20 %</0>. Sinon <1>{0}</1>. Rien lorsque seul(e)."
 
 #: src/components/_economy/inventory/Inventory.tsx:501
 #: src/components/_user/UserEquipments.tsx:267
@@ -12138,7 +12149,7 @@ msgstr "Payer"
 msgid "Pay cut"
 msgstr "Baisse de salaire"
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:228
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:230
 msgid "pay cut pending"
 msgstr "baisse de salaire en vue"
 
@@ -12203,26 +12214,6 @@ msgstr "En attente"
 msgid "People are angry, an auto revolt has started in <0/>"
 msgstr "Le peuple est en colère, une révolte spontanée va éclater dans <0/>"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:819
-msgid "Per 1% employee tax"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:733
-msgid "Per 10 years past 40"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:749
-msgid "Per 10 years past 50"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:453
-msgid "Per better-paid coworker"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:318
-msgid "Per coworker"
-msgstr ""
-
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:84
 #: src/pages/country/[countryId]/index.tsx:386
 msgid "Per day"
@@ -12232,15 +12223,6 @@ msgstr "Par jour"
 msgid "per day to <0/>."
 msgstr "par jour à <0/>."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:506
-#: src/components/_economy/employee/employee.frontConfig.tsx:557
-msgid "Per female coworker"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:280
-msgid "Per foreign nationality"
-msgstr ""
-
 #: src/components/_economy/manager/managerStats.tsx:54
 msgid "Per hour, per Management point"
 msgstr "Par heure, par point de Gestion"
@@ -12248,11 +12230,6 @@ msgstr "Par heure, par point de Gestion"
 #: src/components/_economy/manager/managerStats.tsx:57
 msgid "Per hour. Allowed"
 msgstr "Par heure. Autorisé"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:523
-#: src/components/_economy/employee/employee.frontConfig.tsx:540
-msgid "Per male coworker"
-msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3636
 msgid "Perfectly good stuff"
@@ -12304,7 +12281,7 @@ msgstr "Choisir {cardTitle}"
 msgid "Pick a candidate!"
 msgstr "Choisir un candidat!"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:365
+#: src/components/_economy/employee/EmployeeModal.tsx:367
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
 msgstr "Choisir une carte"
@@ -12422,7 +12399,7 @@ msgstr "Sélectionne une région stp"
 msgid "Plutocracy"
 msgstr "Ploutocratie"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:106
+#: src/components/_economy/employee/employee.frontConfig.tsx:103
 msgid "Poached"
 msgstr "Poché"
 
@@ -12699,13 +12676,7 @@ msgstr "Objet produit"
 msgid "Produced item changed!"
 msgstr "Objet produit modifié !"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:576
-msgid "Producing their good"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:129
-#: src/components/_economy/employee/employee.frontConfig.tsx:927
-#: src/components/_economy/employee/employee.frontConfig.tsx:947
+#: src/components/_economy/employee/employee.frontConfig.tsx:126
 #: src/components/_economy/employee/employeeStats.tsx:281
 #: src/components/_economy/employee/employeeStats.tsx:298
 #: src/components/_economy/employee/employeeStats.tsx:849
@@ -12720,8 +12691,8 @@ msgstr "Production"
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:42
 #: src/components/_economy/employee/employeeStats.tsx:690
 #: src/components/_economy/employee/EmployeeTooltip.tsx:135
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:170
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:517
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:171
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:519
 #: src/pages/region/[regionId]/index.tsx:72
 msgid "Production bonus"
 msgstr "Bonus de production"
@@ -12920,7 +12891,7 @@ msgstr "Démontage rapide"
 msgid "Quick equip best items of any tier"
 msgstr "Équipe rapidement les meilleurs objets de n'importe quel niveau"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:476
+#: src/components/_layout/LayoutMapUserMenu.tsx:477
 msgid "Quick move & collect on case click"
 msgstr "Déplacement et collecte rapides au clic sur l'élément"
 
@@ -12936,17 +12907,9 @@ msgstr "Démanteler rapidement les équipements"
 msgid "Quintessence Still"
 msgstr "Quintessence immobile"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:94
+#: src/components/_economy/employee/employee.frontConfig.tsx:91
 msgid "Quit"
 msgstr "Quitter"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:885
-msgid "Quits below"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:901
-msgid "Quitting"
-msgstr ""
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
@@ -12964,7 +12927,7 @@ msgstr "Augmente une statistique."
 msgid "Random trait, +1 random stat"
 msgstr "Trait aléatoire, +1 à une statistique aléatoire"
 
-#: src/components/_user/user/UserTooltip.tsx:156
+#: src/components/_user/user/UserTooltip.tsx:158
 msgid "Rank"
 msgstr "Rang"
 
@@ -13029,10 +12992,11 @@ msgstr "Taux par 1K de dégâts"
 msgid "Rationing"
 msgstr "Rationnement"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:605
-#: src/components/_economy/employee/employee.frontConfig.tsx:617
-msgid "Raw resources"
-msgstr ""
+#. placeholder {0}: 3
+#. placeholder {1}: -1
+#: src/components/_economy/employee/employee.frontConfig.tsx:422
+msgid "Raw resources: <0>{0}</0>. Anything manufactured: <1>{1}</1>."
+msgstr "Ressources brutes : <0>{0}</0>. Tout produit manufacturé : <1>{1}</1>."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:292
 msgid "Reach a tier, claim its XP."
@@ -13255,7 +13219,7 @@ msgstr "Refuser"
 msgid "Refuse and leave?"
 msgstr "Refuser et quitter?"
 
-#: src/components/_layout/LayoutUserMenu.tsx:224
+#: src/components/_layout/LayoutUserMenu.tsx:220
 msgid "Regen in..."
 msgstr "Régénération dans..."
 
@@ -13385,11 +13349,11 @@ msgstr "Le rejeter"
 msgid "Rejected"
 msgstr "Rejetée"
 
-#: src/components/_layout/LayoutUserMenu.tsx:250
+#: src/components/_layout/LayoutUserMenu.tsx:246
 msgid "Remaining buff duration"
 msgstr "Durée restante du bonus"
 
-#: src/components/_layout/LayoutUserMenu.tsx:263
+#: src/components/_layout/LayoutUserMenu.tsx:259
 msgid "Remaining debuff duration"
 msgstr "Durée restante du malus"
 
@@ -13482,7 +13446,7 @@ msgid "Removed from saved"
 msgstr "Retiré des éléments enregistrés"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:461
-#: src/components/_economy/employee/EmployeeModal.tsx:381
+#: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:83
 #: src/components/_user/user/SkillPresetsModal.tsx:228
 msgid "Rename"
@@ -13532,7 +13496,7 @@ msgstr "Rejouer"
 msgid "Report"
 msgstr "Signaler"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:502
+#: src/components/_economy/employee/EmployeeModal.tsx:506
 msgid "Report name"
 msgstr "Reporter le nom"
 
@@ -13596,11 +13560,11 @@ msgstr "Réinitialiser"
 msgid "Reset CAPTCHA"
 msgstr "Réinitialiser le CAPTCHA"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:509
+#: src/components/_economy/employee/EmployeeModal.tsx:513
 msgid "Reset name"
 msgstr "Réinitialiser le nom"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:515
+#: src/components/_economy/employee/EmployeeModal.tsx:519
 msgid "Reset Name"
 msgstr "Réinitialiser le nom"
 
@@ -13646,7 +13610,7 @@ msgstr "Démissionner de ce poste?"
 msgid "Resist"
 msgstr "Résister"
 
-#: src/components/_political/region/ResistanceFocusItem.tsx:105
+#: src/components/_political/region/ResistanceFocusItem.tsx:107
 #: src/components/_political/region/ResistanceFocusSection.tsx:25
 #: src/pages/region/[regionId]/index.tsx:128
 msgid "Resistance"
@@ -13661,7 +13625,7 @@ msgstr "Contributions de la résistance {0} dans ses régions légitimes occupé
 msgid "Resistance Contributors"
 msgstr "Contributeurs à la résistance"
 
-#: src/components/_political/region/ResistanceFocusItem.tsx:244
+#: src/components/_political/region/ResistanceFocusItem.tsx:247
 msgid "Resistance focus"
 msgstr "Priorité de résistance"
 
@@ -13691,7 +13655,7 @@ msgstr "Ressources redistribuées"
 msgid "Response to message"
 msgstr "Réponse au message"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:140
+#: src/components/_economy/employee/employee.frontConfig.tsx:137
 #: src/components/_economy/employee/employeeStats.tsx:492
 msgid "Responsibility"
 msgstr "Responsabilité"
@@ -13728,11 +13692,11 @@ msgstr "Reprends-le à tout moment depuis l’onglet Guides de la page Progressi
 msgid "Resume it anytime from your inventory to earn its reward."
 msgstr "Reprends-le à tout moment depuis ton inventaire pour en obtenir la récompense."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:110
+#: src/components/_economy/employee/employee.frontConfig.tsx:107
 msgid "Retired"
 msgstr "À la retraite"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:111
+#: src/components/_economy/employee/employee.frontConfig.tsx:108
 msgid "Retired at the end of a long career."
 msgstr "À la retraite au terme d’une longue carrière."
 
@@ -14468,7 +14432,7 @@ msgstr "Passer le guide"
 msgid "Skip this guide?"
 msgstr "Passer ce guide ?"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:454
+#: src/components/_layout/LayoutMapUserMenu.tsx:455
 msgid "Skipped"
 msgstr "Ignoré"
 
@@ -14484,13 +14448,9 @@ msgstr "Pierres à fronde"
 msgid "Slots"
 msgstr "Emplacements"
 
-#: src/components/_layout/LayoutOptions.tsx:224
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Small GIFs"
 msgstr "GIFs miniatures"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:656
-msgid "Small storage"
-msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2493
 msgid "Smuggle in some spices"
@@ -14516,17 +14476,19 @@ msgstr "Réseaux sociaux et messages"
 msgid "Sold by"
 msgstr "Vendu par"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:304
-msgid "Sole employee"
-msgstr ""
+#: src/components/_economy/employee/employee.frontConfig.tsx:236
+msgid "Sole employee of the company: <0>+100%</0>. Nothing once a coworker joins."
+msgstr "Unique employé de l’entreprise : <0>+100 %</0>. Plus rien dès qu’un collègue rejoint l’équipe."
 
-#: src/components/_economy/company/CompanyList.tsx:182
+#: src/components/_economy/company/CompanyList.tsx:171
 msgid "Some of your companies are disabled."
 msgstr "Certaines de tes entreprises sont désactivées."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:395
-msgid "Somebody out-produces them"
-msgstr ""
+#. placeholder {0}: 3
+#. placeholder {1}: -1
+#: src/components/_economy/employee/employee.frontConfig.tsx:290
+msgid "Somebody out-produces them: <0>{0}</0>. Top of the roster: <1>{1}</1>."
+msgstr "Quelqu’un les surpasse en termes de production: <0>{0}</0>. En tête de liste: <1>{1}</1>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1217
 msgid "Someone else was hoarding too: a wooden case, never opened."
@@ -14545,9 +14507,9 @@ msgstr "Quelque chose suit dans {0}"
 msgid "Something follows soon"
 msgstr "Quelque chose arrive bientôt"
 
-#: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:1017
-msgid "Something happens to an employee, or to two coworkers, and you choose what to do: up to {maxPerDay} a day. Left unanswered, an event picks its “If ignored” answer after {expires}. The odds depend on the employee and your skills, and show when it happens."
-msgstr ""
+#: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:1018
+msgid "Something happens to an employee, or to two coworkers, and you choose what to do: up to {maxPerDay} a day, never to someone hired less than {hired} ago. Left unanswered, an event picks its “If ignored” answer after {expires}. The odds depend on the employee and your skills, and show when it happens."
+msgstr "Un événement survient, impliquant un employé ou deux collègues, et tu dois décider de la marche à suivre: tu peux intervenir jusqu’à {maxPerDay} fois par jour, mais jamais auprès d’une personne embauchée il y a moins de {hired}. Si aucun choix n’est effectué, une issue par défaut — définie par le paramètre « Si ignoré » — est automatiquement retenue après un délai de {expires}. Les probabilités de réussite dépendent de l’employé concerné ainsi que de tes propres compétences, et sont affichées au moment où l’événement se produit."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:610
 msgid "Something in the storeroom"
@@ -14557,7 +14519,7 @@ msgstr "Quelque chose dans le local de stockage"
 msgid "Something snapped. The tool is worse off than before."
 msgstr "Quelque chose a lâché. L’outil est en plus mauvais état qu’auparavant."
 
-#: src/components/_layout/LayoutOptions.tsx:195
+#: src/components/_layout/LayoutOptions.tsx:205
 msgid "Sound effects"
 msgstr "Effets sonores"
 
@@ -14578,10 +14540,6 @@ msgstr "Spécialiste"
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:54
 msgid "Specialization"
 msgstr "Spécialisation"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:635
-msgid "Specialization progress"
-msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
@@ -14722,6 +14680,10 @@ msgstr "Commence"
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
 msgstr "commence à 1 % et augmente de +1 % par jour jusqu'à <0>{0}</0>"
 
+#: src/components/_economy/employee/employee.frontConfig.tsx:584
+msgid "Starts looking for the door at {flightRiskQuitThreshold} happiness, not {quitThreshold}."
+msgstr "Commence à chercher la sortie au niveau de bonheur de {flightRiskQuitThreshold}, et non de {quitThreshold}."
+
 #: src/components/_social/poll/PollCard.tsx:218
 msgid "Starts when the article is published"
 msgstr "Débute au moment de la publication de l’article"
@@ -14738,14 +14700,14 @@ msgstr "Statistiquement impossible de rester aussi malchanceux"
 msgid "Statistically rigged"
 msgstr "Statistiquement truqué"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:761
+#: src/components/_economy/employee/EmployeeModal.tsx:774
 #: src/components/_economy/employee/EmployeeTooltip.tsx:123
 #: src/pages/company/[companyId]/index.tsx:69
 #: src/pages/war/[warId]/index.tsx:65
 msgid "Stats"
 msgstr "Statistiques"
 
-#: src/components/_layout/LayoutUserMenu.tsx:225
+#: src/components/_layout/LayoutUserMenu.tsx:221
 msgid "Stats regenerate every hour"
 msgstr "Les statistiques se régénèrent toutes les heures"
 
@@ -14776,10 +14738,6 @@ msgstr "Steak"
 msgid "Steel"
 msgstr "Acier"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:960
-msgid "Still finds toolboxes"
-msgstr ""
-
 #: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Stockpiler"
 msgstr "Accumulateur"
@@ -14796,10 +14754,6 @@ msgstr "Stockage"
 #: src/components/_economy/employee/employeeStats.tsx:738
 msgid "Storage full"
 msgstr "Stockage plein"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:959
-msgid "Storage full, nobody working"
-msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:36
 msgid "Story"
@@ -14884,7 +14838,7 @@ msgstr "Soutiens-nous"
 msgid "Supporter"
 msgstr "Supporter"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:383
+#: src/components/_economy/employee/EmployeeModal.tsx:385
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
 #: src/components/_user/user/UserDropdown.tsx:241
 #: src/components/_user/user/UserDropdown.tsx:250
@@ -15175,7 +15129,7 @@ msgstr "Conditions"
 msgid "Terms of Service"
 msgstr "Conditions d'utilisation"
 
-#: src/components/_layout/LayoutOptions.tsx:359
+#: src/components/_layout/LayoutOptions.tsx:369
 msgid "Texture"
 msgstr "Texture"
 
@@ -15589,7 +15543,7 @@ msgstr "Les farces deviennent légendaires. {name} et {partnerName} sont désorm
 msgid "The price must be positive"
 msgstr "Le prix doit être positif"
 
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:54
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:98
 msgid "The production a manager's Management adds to your employees as they are now, at the market value of a point, minus a day of their pay at this rate. It moves with your roster."
 msgstr ""
 
@@ -15637,7 +15591,7 @@ msgstr "La révolution dans <0/> a réussi ! Le gouvernement a été renversé."
 msgid "The rival assumes it is a trick and slams the door."
 msgstr "Le rival suppose qu’il s’agit d’un piège et claque la porte."
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:450
+#: src/components/_layout/LayoutMapUserMenu.tsx:451
 msgid "The roll is skipped while you hold {maxLoots} uncollected cases"
 msgstr "Le tirage est ignoré tant que tu détiens {maxLoots} caisses non récupérées."
 
@@ -15794,9 +15748,9 @@ msgstr "L’atelier est devenu une jungle. Tout le monde adore, mais personne ne
 msgid "Their coworkers"
 msgstr "Leurs collègues"
 
-#: src/components/_economy/employee/EmployeeTraitArg.tsx:85
-msgid "Their good"
-msgstr ""
+#: src/components/_economy/employee/EmployeeTraitArg.tsx:82
+msgid "Their good: {good}"
+msgstr "Leur bien : {good}"
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:197
 msgid "Their Luck"
@@ -15806,20 +15760,13 @@ msgstr "Leur Chance"
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one point per hour, before bonuses."
 msgstr "Leur rendement : chaque {OUTPUT_DIVISOR} génère un point par heure, avant bonus."
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:131
+#: src/components/_economy/employee/employee.frontConfig.tsx:128
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one production point per hour, before bonuses."
 msgstr "Leur rendement : chaque {OUTPUT_DIVISOR} génère un point de production par heure, avant bonus."
 
-#: src/components/_economy/employee/EmployeeTraitArg.tsx:100
-msgid "Their stat"
-msgstr ""
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:338
-#: src/components/_economy/employee/employee.frontConfig.tsx:366
-#: src/components/_economy/employee/employee.frontConfig.tsx:385
-#: src/components/_economy/employee/employee.frontConfig.tsx:432
-msgid "Themselves"
-msgstr ""
+#: src/components/_economy/employee/EmployeeTraitArg.tsx:97
+msgid "Their stat: {stat}"
+msgstr "Leur stat: {stat}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3399
 msgid "There is no desk. Everyone now suspects everyone of being Gerald."
@@ -15837,7 +15784,7 @@ msgstr "Ils tirent un salaire de ton <0>Argent</0>."
 msgid "They get through it somehow, and nobody mentions it again."
 msgstr "Ils finissent par surmonter l’épreuve, et plus personne n’en reparle."
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:270
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:272
 msgid "They keep what they earned."
 msgstr "Ils gardent ce qu’ils ont gagné."
 
@@ -15845,11 +15792,11 @@ msgstr "Ils gardent ce qu’ils ont gagné."
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
 msgstr "Ils rient aussi. {name} et {partnerName} sont désormais de vieux amis et fréquentent le même coiffeur."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:652
+#: src/components/_economy/employee/EmployeeModal.tsx:658
 msgid "They left the company"
 msgstr "Ils ont quitté l’entreprise."
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:120
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:102
 msgid "They left the company."
 msgstr "Ils ont quitté l’entreprise."
 
@@ -15954,7 +15901,7 @@ msgid "This dude is moderator."
 msgstr "Ce type est modérateur."
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:288
-#: src/components/_economy/employee/useConfirmFire.tsx:32
+#: src/components/_economy/employee/useConfirmFire.tsx:58
 msgid "this employee"
 msgstr "cet employé"
 
@@ -16024,7 +15971,7 @@ msgstr "Ce membre ne pourra pas être nommé de nouveau avant {0, plural, one {#
 msgid "This no longer applies: someone it was about is gone."
 msgstr "Cela ne s’applique plus : la personne concernée n’est plus là."
 
-#: src/components/_economy/manager/CompanyManagerSlot.tsx:209
+#: src/components/_economy/manager/CompanyManagerSlot.tsx:211
 msgid "This player has not connected for days. Until they come back they add no production to the roster and earn nothing."
 msgstr "Ce joueur ne s’est pas connecté depuis plusieurs jours. Tant qu’il n’est pas de retour, il n’apporte aucune contribution à l’effectif et ne gagne rien."
 
@@ -16089,7 +16036,7 @@ msgstr "C'est l'heure de produire !"
 msgid "Time to retire"
 msgstr "L'heure de la retraite"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:460
+#: src/components/_layout/LayoutMapUserMenu.tsx:461
 msgid "Time until the next case roll"
 msgstr "Temps restant avant le prochain tirage de caisse"
 
@@ -16194,7 +16141,7 @@ msgstr "Tome des orages"
 msgid "Tome of Tides"
 msgstr "Tome des océans"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:107
+#: src/components/_economy/employee/employee.frontConfig.tsx:104
 msgid "Took a job offer from a rival firm."
 msgstr "J'ai accepté une offre d'emploi auprès d'une entreprise concurrente."
 
@@ -16227,10 +16174,6 @@ msgstr "Outil : {value} de durabilité"
 #: src/utils/translations.tsx:119
 msgid "Toolbox"
 msgstr "Boîte à outils"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:943
-msgid "Toolbox chance and cap"
-msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:946
 msgid "Toolbox Finds"
@@ -16303,10 +16246,6 @@ msgstr "Tête de classement : il y a désormais bien plus de choses à travaille
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:97
 msgid "Top of the hill"
 msgstr "Sommet de la hiérarchie"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:403
-msgid "Top of the roster"
-msgstr ""
 
 #: src/components/_military/battle/BattleSystem.tsx:765
 msgid "total"
@@ -16442,7 +16381,7 @@ msgstr "Commerce"
 msgid "Trading transaction"
 msgstr "Transaction commerciale"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:367
+#: src/components/_economy/employee/EmployeeModal.tsx:369
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
 msgstr "Former"
@@ -16455,7 +16394,7 @@ msgstr "Forme chaque employé une fois par jour, avec une réinitialisation à 0
 msgid "Train Employees"
 msgstr "Former des employés"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:741
+#: src/components/_economy/employee/EmployeeModal.tsx:747
 msgid "Train to reveal traits"
 msgstr "Former pour révéler des traits"
 
@@ -16520,7 +16459,7 @@ msgstr "Potentiel de formation monté à <0>{0}</0>"
 msgid "Training raises them all."
 msgstr "La formation les élève tous."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:708
+#: src/components/_economy/employee/EmployeeModal.tsx:714
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:163
 msgid "Traits"
@@ -16587,6 +16526,10 @@ msgstr "Tutoriels"
 msgid "Tutorials reseted"
 msgstr "Tutoriels réinitialisés"
 
+#: src/components/_economy/employee/employee.frontConfig.tsx:612
+msgid "Twice the chance to find a toolbox, and twice its cap. <0>-25%</0>."
+msgstr "Deux fois plus de chances de trouver une boîte à outils, et une limite doublée. <0>-25 %</0>."
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1316
 msgid "Two centimeters off. It is worse now."
 msgstr "Deux centimètres d’écart. C’est pire maintenant."
@@ -16632,7 +16575,7 @@ msgstr "Type"
 msgid "Tyrannosaurus Rex"
 msgstr "Tyrannosaure Rex"
 
-#: src/components/_layout/LayoutOptions.tsx:181
+#: src/components/_layout/LayoutOptions.tsx:183
 msgid "UI"
 msgstr "UI"
 
@@ -16640,7 +16583,7 @@ msgstr "UI"
 msgid "Unblock (show content)"
 msgstr "Débloquer (afficher le contenu)"
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:438
+#: src/components/_layout/LayoutMapUserMenu.tsx:439
 msgid "Uncollected cases waiting on the map, out of {maxLoots}"
 msgstr "Caisses non récupérées en attente sur la carte, sur un total de {maxLoots}"
 
@@ -16792,8 +16735,8 @@ msgid "Upgrade your skills!"
 msgstr "Améliore tes compétences !"
 
 #: src/components/_economy/company/CompanyTags.tsx:195
-#: src/components/_economy/company/CompanyTooltip.tsx:84
-#: src/components/_military/mu/MuTooltip.tsx:146
+#: src/components/_economy/company/CompanyTooltip.tsx:85
+#: src/components/_military/mu/MuTooltip.tsx:147
 #: src/components/_political/region/RegionTooltip.tsx:138
 #: src/pages/company/[companyId]/index.tsx:75
 #: src/pages/region/[regionId]/index.tsx:147
@@ -16944,7 +16887,7 @@ msgstr "Nom d'utilisateur supprimé"
 msgid "Users"
 msgstr "Joueurs"
 
-#: src/components/_layout/LayoutUserMenu.tsx:276
+#: src/components/_layout/LayoutUserMenu.tsx:272
 msgid "Users online"
 msgstr "Utilisateurs en ligne"
 
@@ -17129,7 +17072,7 @@ msgstr "Vérifie si tu es humain..."
 msgid "Veteran"
 msgstr "Vétéran"
 
-#: src/components/_layout/LayoutOptions.tsx:203
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Vibrations"
 msgstr "Vibrations"
 
@@ -17229,7 +17172,7 @@ msgstr "Attendre que ça passe"
 msgid "Waiting for level {0}"
 msgstr "En attente du niveau {0}"
 
-#: src/components/_economy/employee/employee.frontConfig.tsx:96
+#: src/components/_economy/employee/employee.frontConfig.tsx:93
 msgid "Walked out: they were too unhappy to keep working for you."
 msgstr "Ils sont partis : ils étaient trop malheureux pour continuer à travailler pour toi."
 
@@ -17348,7 +17291,8 @@ msgstr "Bravo ! Voici ta récompense."
 msgid "What a day of the extra production this tool gives is worth at the market value of a point. An estimate: what you really earn depends on what you make and the price you sell it at."
 msgstr ""
 
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:102
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:55
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:146
 msgid "What a day of the production this manager adds is worth at the market value of a point, minus a day of their pay. An estimate: it follows your roster as it is now."
 msgstr ""
 
@@ -17409,9 +17353,9 @@ msgstr "Vainqueur"
 msgid "Winter Soldier Pack"
 msgstr "Pack Soldat de l'hiver"
 
-#: src/components/_economy/employee/EmployeeTraitArg.tsx:105
-msgid "With"
-msgstr ""
+#: src/components/_economy/employee/EmployeeTraitArg.tsx:102
+msgid "With {partner}"
+msgstr "Avec {partner}"
 
 #: src/components/_layout/loadingTips.tsx:499
 msgid "With a Supporter Plan, your color scheme paints the whole app, this loading screen included."
@@ -17421,6 +17365,12 @@ msgstr "Avec le Plan Supporter, ta palette de couleurs s’applique à l’ensem
 #: src/components/_military/battle/ActiveBattlesList.tsx:148
 msgid "With bounty"
 msgstr "Avec prime"
+
+#. placeholder {0}: 2
+#. placeholder {1}: -10
+#: src/components/_economy/employee/employee.frontConfig.tsx:311
+msgid "With coworkers: <0>{0}</0> for themselves, <1>{1}</1> for everyone else."
+msgstr "Avec des collègues : <0>{0}</0> pour eux-mêmes, <1>{1}</1> pour tous les autres."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:262
 msgid "With the right parts, the tool is as good as new."
@@ -17460,11 +17410,6 @@ msgstr "En moins d’une heure, tout le monde comprend le mot."
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
 msgstr "Chapeau de sorcier"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:514
-#: src/components/_economy/employee/employee.frontConfig.tsx:548
-msgid "Women only."
-msgstr ""
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
@@ -17517,18 +17462,13 @@ msgstr "Travailleur parti"
 msgid "Workers"
 msgstr "Employés"
 
-#: src/pages/companies.tsx:109
+#: src/pages/companies.tsx:104
 msgid "Workforce"
 msgstr "Force de travail"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:115
 msgid "Workforce chart"
 msgstr "Graphique des effectifs"
-
-#: src/components/_economy/employee/employee.frontConfig.tsx:784
-#: src/components/_economy/employee/employee.frontConfig.tsx:801
-msgid "Working abroad"
-msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
@@ -17538,15 +17478,44 @@ msgstr "Travailler à l’étranger, en tant qu’{expat} ou personne {cosmopoli
 msgid "Working abroad, with happiness {mood} or less. Always possible abroad for a {homesick}, and twice as likely."
 msgstr "Travailler à l’étranger, avec le bonheur à {mood} ou moins. C’est une éventualité toujours présente — et même deux fois plus probable — pour quiconque souffre du {homesick}."
 
+#. placeholder {0}: -2
+#. placeholder {1}: -10
+#: src/components/_economy/employee/employee.frontConfig.tsx:524
+msgid "Working abroad: <0>{0}</0> <1>{1}</1>."
+msgstr "Travaille à l'étranger : <0>{0}</0> <1>{1}</1>."
+
+#. placeholder {0}: 2
+#: src/components/_economy/employee/employee.frontConfig.tsx:533
+msgid "Working abroad: <0>{0}</0>."
+msgstr "Travaille à l’étranger : <0>{0}</0>."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:339
+msgid "Working alongside the one they cannot stand: <0>-15%</0>."
+msgstr "Travaille aux côtés de quelqu’un qu’ils ne peuvent pas supporter : <0>-15 %</0>."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:331
+msgid "Working alongside their friend: <0>+15%</0>."
+msgstr "Travaille aux côtés de leur ami : <0>+15 %</0>."
+
+#: src/components/_economy/employee/employee.frontConfig.tsx:347
+msgid "Working alongside their sweetheart: <0>+20%</0>. Only ever from an office romance."
+msgstr "Travaille aux côtés de son âme sœur : <0>+20 %</0>. Uniquement dans le cadre d’une romance au bureau."
+
 #: src/components/_other/tour/tuto.frontConfig.tsx:105
 msgid "Working fills its <0>Production</0> bar."
 msgstr "Le travail remplit sa barre de <0>Production</0>."
+
+#. placeholder {0}: 2
+#. placeholder {1}: 10
+#: src/components/_economy/employee/employee.frontConfig.tsx:510
+msgid "Working in a core region of their homeland: <0>{0}</0> <1>{1}</1>."
+msgstr "Travaille dans une région légitime de leur terre natale : <0>{0}</0> <1>{1}</1>."
 
 #: src/components/_layout/loadingTips.tsx:303
 msgid "Working in your own company costs <0>{energyCostPerAction}</0> and adds your <1>Production</1> to its storage."
 msgstr "Travailler dans ta propre entreprise coûte <0>{energyCostPerAction}</0> et ajoute ta <1>Production</1> à son stock."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:188
+#: src/components/_economy/employee/EmployeeModal.tsx:189
 msgid "Works alone"
 msgstr "Travaille seul"
 
@@ -17566,7 +17535,7 @@ msgstr "Faux de la Racine du Monde"
 msgid "Worn Out"
 msgstr "Épuisé"
 
-#: src/components/_layout/LayoutOptions.tsx:287
+#: src/components/_layout/LayoutOptions.tsx:297
 #: src/components/_user/kits/KitsPopover.tsx:263
 msgid "Worst"
 msgstr "Pire"
@@ -17645,7 +17614,7 @@ msgstr "T'es un sacré veinard"
 msgid "You are already congress member of another country. Resign first."
 msgstr "Tu es déjà parlementaire dans un autre pays. Démissionnes d'abord."
 
-#: src/components/_layout/LayoutMapUserMenu.tsx:318
+#: src/components/_layout/LayoutMapUserMenu.tsx:319
 msgid "You are already home"
 msgstr "Tu es déjà à la maison"
 
@@ -17663,7 +17632,7 @@ msgstr "Tu es déjà vice-président d'un autre pays. Démissionnes d'abord."
 msgid "You are here"
 msgstr "Tu es ici"
 
-#: src/pages/companies.tsx:82
+#: src/pages/companies.tsx:77
 msgid "You are jobless"
 msgstr "Tu es au chômage"
 
@@ -18220,7 +18189,7 @@ msgstr "Ton e-mail"
 msgid "Your employee's stats"
 msgstr "Les stats de ton employé"
 
-#: src/components/_economy/manager/ManagerProfitEstimate.tsx:63
+#: src/components/_economy/manager/ManagerProfitEstimate.tsx:107
 msgid "Your employees produce nothing right now, so a manager would add nothing."
 msgstr ""
 
@@ -18258,7 +18227,7 @@ msgstr "Tes soirées passées ensemble portent leurs fruits : une réelle améli
 msgid "Your gear boosts them all."
 msgstr "Ton équipement les renforce tous."
 
-#: src/components/_political/region/ResistanceFocusItem.tsx:248
+#: src/components/_political/region/ResistanceFocusItem.tsx:251
 msgid "Your government asks you to push the resistance here."
 msgstr "Ton gouvernement te demande de durcir la résistance ici"
 
