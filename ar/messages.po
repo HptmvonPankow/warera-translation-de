@@ -14255,7 +14255,7 @@ msgstr "تعيين نوع الحكومة"
 
 #: src/components/_political/law/law.frontConfig.tsx:638
 msgid "Set government type to <0/>"
-msgstr "تعيين نوع الحكومة الى"
+msgstr "تعيين نوع الحكومة إلى <0/>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:491
 msgid "Set it up!"
