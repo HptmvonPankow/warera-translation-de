@@ -65,7 +65,7 @@ msgstr "- Ginant šį regioną bus taikomas <0>{0}</0> malusas."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:721
 msgid "-1 to every stat"
-msgstr ""
+msgstr "-1 visiems rodikliams"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
@@ -458,7 +458,7 @@ msgstr "{finder} rado tau atsiimti: {toolboxes}."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:887
 msgid "{flightRiskQuitThreshold} happiness, not {quitThreshold}"
-msgstr ""
+msgstr "{flightRiskQuitThreshold} pasitenkinimo, o ne {quitThreshold}"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
@@ -1987,11 +1987,11 @@ msgstr "+{xpBonusPercent}%"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:998
 msgid "+1 candidate"
-msgstr ""
+msgstr "+1 kandidatas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:708
 msgid "+1 to one stat"
-msgstr ""
+msgstr "+1 vienam rodikliui"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:47
 msgid "+1 to one stat."
@@ -2592,7 +2592,7 @@ msgstr "<0>{depositBonus}</0> iš telkinių išteklių <1/>."
 
 #: src/components/_economy/employee/employeeStats.tsx:349
 msgid "<0>{luck}</0> Luck. It finds toolboxes, improves training draws and moves the odds of every employee event."
-msgstr ""
+msgstr "<0>{luck}</0> Sėkmė. Randa įrankių dėžes, pagerina mokymo traukimus ir keičia kiekvieno darbuotojų įvykio tikimybes."
 
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:41
 msgid "<0>{percentPerDay}</0> per day worked in a good, up to <1>{maxPercent}</1>. Each good keeps its own days, so a moved employee starts over in the new good and keeps the old bonus for later."
@@ -2988,7 +2988,7 @@ msgstr "3 dienos"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:695
 msgid "3 days after a transfer"
-msgstr ""
+msgstr "3 dienas po perkėlimo"
 
 #: src/components/_social/poll/PollEditorModal.tsx:113
 msgid "3 hours"
@@ -3354,7 +3354,7 @@ msgstr "Barnis dėl nieko. Dabar {name} ir {partnerName} vienas kito nepakenčia
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:263
 msgid "A foreign coworker"
-msgstr ""
+msgstr "Kitos tautybės bendradarbis"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:845
 msgid "A friendship blooming"
@@ -3503,7 +3503,7 @@ msgstr "Išdalintos mokymo kortos laukia tavo pasirinkimo."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:686
 msgid "A transfer resets it."
-msgstr ""
+msgstr "Perkėlus į kitą įmonę, skaičiuojama iš naujo."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2057
 msgid "A union of one"
@@ -3729,11 +3729,11 @@ msgstr "Patobulintos Kelnės"
 
 #: src/components/_economy/company/CompanyList.tsx:211
 msgid "Advanced view"
-msgstr ""
+msgstr "Išplėstinis vaizdas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:682
 msgid "After 30 days in a company"
-msgstr ""
+msgstr "Po 30 dienų įmonėje"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
@@ -3912,19 +3912,19 @@ msgstr "Beveik paruošta..."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:326
 msgid "Alone"
-msgstr ""
+msgstr "Dirbant vienam"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:469
 msgid "Alongside their friend"
-msgstr ""
+msgstr "Kartu su draugu"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:481
 msgid "Alongside their nemesis"
-msgstr ""
+msgstr "Kartu su nemezide"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:493
 msgid "Alongside their sweetheart"
-msgstr ""
+msgstr "Kartu su antrąja puse"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:115
 msgid "Alpha Tester"
@@ -4043,7 +4043,7 @@ msgstr "Perkelto darbuotojo negalima atleisti {fireLockHours} val."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:625
 msgid "Anything manufactured"
-msgstr ""
+msgstr "Bet kokia perdirbta produkcija"
 
 #: src/components/_economy/employee/employeeTags.tsx:167
 msgid "Anywhere between -{spreadPercent}% and +{spreadPercent}%."
@@ -4662,7 +4662,7 @@ msgstr "Tiesą sako {partnerName}"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:905
 msgid "Below {quitThreshold} happiness"
-msgstr ""
+msgstr "Pasitenkinimas žemiau {quitThreshold}"
 
 #: src/components/_economy/manager/managerStats.tsx:68
 #: src/components/_layout/LayoutOptions.tsx:275
@@ -4817,7 +4817,7 @@ msgstr "Sugedęs"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:228
 msgid "Broken: no longer boosts Production"
-msgstr ""
+msgstr "Sugedęs: nebedidina Gamybos"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:216
 msgid "Browse Packs"
@@ -5093,7 +5093,7 @@ msgstr "Kandidatai"
 #: src/components/_economy/employee/employee.frontConfig.tsx:823
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:50
 msgid "Cap"
-msgstr ""
+msgstr "Riba"
 
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
@@ -5997,7 +5997,7 @@ msgstr "Atleistas bendradarbis"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:1008
 msgid "Coworker trainings per day"
-msgstr ""
+msgstr "Bendradarbio mokymai per dieną"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:181
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
@@ -6120,7 +6120,7 @@ msgstr "Krit. žala"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:931
 msgid "Critical event outcomes"
-msgstr ""
+msgstr "Kritinės įvykių baigtys"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:193
 msgid "Critical failure"
@@ -6240,7 +6240,7 @@ msgstr "Dienos pajamos"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:997
 msgid "Daily shortlist, every company"
-msgstr ""
+msgstr "Kiekvienos įmonės dienos kandidatų sąrašas"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:773
 msgid "Daily wage"
@@ -6862,11 +6862,11 @@ msgstr "Kiekviena nuves prie kitos."
 #. placeholder {1}: LUCK_CHECK.luckPerPoint
 #: src/components/_economy/employee/employeeStats.tsx:330
 msgid "Each point is a {LUCK_PER_POINT_PCT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PCT}%), tilts training draws toward the rarer cards, and adds {0}% to the Luck checks of employee events, {1}% to every other check."
-msgstr ""
+msgstr "Kiekvienas taškas – tai {LUCK_PER_POINT_PCT}% tikimybė per dirbtą valandą rasti įrankių dėžę (iki {LUCK_MAX_PCT}%); be to, jis pakreipia mokymo traukimus retesnių kortų link ir prideda {0}% prie darbuotojų įvykių Sėkmės patikrų bei {1}% prie visų kitų patikrų."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:154
 msgid "Each point is a {LUCK_PERCENT_PER_POINT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PERCENT}%), tilts training draws toward the rarer cards, and improves the odds of every employee event, Luck checks most."
-msgstr ""
+msgstr "Kiekvienas taškas – tai {LUCK_PERCENT_PER_POINT}% tikimybė per dirbtą valandą rasti įrankių dėžę (iki {LUCK_MAX_PERCENT}%); be to, jis pakreipia mokymo traukimus retesnių kortų link ir pagerina visų darbuotojų įvykių tikimybes, labiausiai – Sėkmės patikrų."
 
 #: src/components/_user/user/SkillUpgrade.tsx:319
 msgid "Each prestige point gives the equivalent of {skillBonusLevels} level of the selected skill"
@@ -7104,7 +7104,7 @@ msgstr "Darbuotojų mokestis"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:835
 msgid "Employee tax 20% or more"
-msgstr ""
+msgstr "Darbuotojų mokestis 20% ar daugiau"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:287
 #: src/components/_economy/work/WorkChart.tsx:252
@@ -7324,11 +7324,11 @@ msgstr "Kol tavęs nebuvo, buvo išspręsti įvykiai: {lead} ir kiti."
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:40
 msgid "Every {perDays} days, same company"
-msgstr ""
+msgstr "Kas {perDays} d. toje pačioje įmonėje"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:707
 msgid "Every 10 days, same company"
-msgstr ""
+msgstr "Kas 10 dienų toje pačioje įmonėje"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:336
 msgid "Every 2 minutes, the side with more <0>Damages</0> gains <1>Ground</1>. Your hits count."
@@ -7336,7 +7336,7 @@ msgstr "Kas 2 minutes daugiau <0>Žalos</0> padariusi pusė gauna <1>Sausumos</1
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:720
 msgid "Every 20 days, same company"
-msgstr ""
+msgstr "Kas 20 dienų toje pačioje įmonėje"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:342
 #: src/components/_economy/employee/employee.frontConfig.tsx:378
@@ -7344,7 +7344,7 @@ msgstr ""
 #: src/components/_economy/employee/employee.frontConfig.tsx:971
 #: src/components/_economy/employee/employee.frontConfig.tsx:983
 msgid "Every coworker"
-msgstr ""
+msgstr "Kiekvienas bendradarbis"
 
 #: src/components/_economy/employee/useConfirmFire.tsx:39
 msgid "Every coworker still working in this company loses {coworkerHappinessPenalty} happiness for {penaltyHours} hours. Firing again restarts the timer, it does not stack."
@@ -7410,7 +7410,7 @@ msgstr "Visos kainos čia – tai, ką moki su mokesčiais: pardavėjo kaina pli
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:358
 msgid "Every weaker coworker"
-msgstr ""
+msgstr "Kiekvienas silpnesnis bendradarbis"
 
 #: src/components/_social/poll/PollEditorModal.tsx:261
 msgid "Everyone can vote"
@@ -7488,11 +7488,11 @@ msgstr "Numatomas grobis"
 #: src/components/_economy/employee/employee.frontConfig.tsx:851
 #: src/components/_economy/employee/employee.frontConfig.tsx:858
 msgid "Expected pay vs market"
-msgstr ""
+msgstr "Pageidaujamas atlyginimas, palyginti su rinka"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:866
 msgid "Expected pay, per week hired"
-msgstr ""
+msgstr "Pageidaujamas atlyginimas, kas savaitę nuo pasamdymo"
 
 #: src/components/_economy/employee/TrainingCard.tsx:282
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
@@ -7778,7 +7778,7 @@ msgstr "Ugnies Audros Keptuvė"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:670
 msgid "First day in a company"
-msgstr ""
+msgstr "Pirma diena įmonėje"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:325
 msgid "First side to reach <0>{pointsToWinRound}</0> Ground wins the round."
@@ -7937,7 +7937,7 @@ msgstr "Nuo <0>{0}</0> iki <1>{1}</1> be mokesčių."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:644
 msgid "Full storage"
-msgstr ""
+msgstr "Pilnas sandėlis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
@@ -8423,7 +8423,7 @@ msgstr "h. Taisyklių pažeidimų ar sukčiavimo šlovinimas, skatinimas ar ragi
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:242
 msgid "Half or more compatriots"
-msgstr ""
+msgstr "Bent pusė bendradarbių – tėvynainiai"
 
 #: src/utils/translations.tsx:266
 msgid "Hammer"
@@ -8483,7 +8483,7 @@ msgstr "Pasitenkinimas {value}"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:876
 msgid "Happiness losses"
-msgstr ""
+msgstr "Pasitenkinimo praradimai"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -8685,7 +8685,7 @@ msgstr "Kovodamas už savo šalį būdamas valdžioje gauni {0}% premijos efekty
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:216
 msgid "Holding a tool"
-msgstr ""
+msgstr "Turint įrankį"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
@@ -8705,7 +8705,7 @@ msgstr "Turi įrankį. Dvigubai tikėtiniau turintiems bruožą {gambler}."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:228
 msgid "Holding no tool"
-msgstr ""
+msgstr "Neturint įrankio"
 
 #: src/components/_military/mu/MuHeader.tsx:149
 #: src/components/_military/tournament/TournamentHeader.tsx:145
@@ -8858,7 +8858,7 @@ msgstr "Improvizatorius"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:763
 msgid "In a homeland core region"
-msgstr ""
+msgstr "Pagrindiniame tėvynės regione"
 
 #: src/components/_layout/loadingTips.tsx:458
 msgid "In a Military Unit, ask your mates for help every {helpCooldownHours}h: each help gives you <0>{healthPerHelp}</0>."
@@ -9921,7 +9921,7 @@ msgstr "Ieškomas vadovas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:597
 msgid "Manufactured goods"
-msgstr ""
+msgstr "Perdirbtos prekės"
 
 #: src/components/_layout/LoadingScreenContent.tsx:26
 msgid "map"
@@ -10132,7 +10132,7 @@ msgstr "Memorandumas"
 #: src/components/_economy/employee/employee.frontConfig.tsx:531
 #: src/components/_economy/employee/employee.frontConfig.tsx:565
 msgid "Men only."
-msgstr ""
+msgstr "Tik vyrams."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2367
 msgid "Mentioned in message"
@@ -10825,7 +10825,7 @@ msgstr "Nemezidė"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:902
 msgid "Never"
-msgstr ""
+msgstr "Niekada"
 
 #. placeholder {0}: ts.lightAmmo
 #. placeholder {1}: ts.ammo
@@ -11265,7 +11265,7 @@ msgstr "Partijų nerasta"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:645
 msgid "No penalty"
-msgstr ""
+msgstr "Jokios baudos"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:311
 msgid "No presets saved yet."
@@ -11330,7 +11330,7 @@ msgstr "Nėra prekybos užsakymų"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:743
 msgid "No traits"
-msgstr ""
+msgstr "Bruožų nėra"
 
 #: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
@@ -11490,7 +11490,7 @@ msgstr "netinka šiai įmonei"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:230
 msgid "Not usable in this company"
-msgstr ""
+msgstr "Netinka šiai įmonei"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2792
 msgid "Notes on an arm"
@@ -11498,7 +11498,7 @@ msgstr "Užrašai ant rankos"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:385
 msgid "Nothing"
-msgstr ""
+msgstr "Nieko"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:748
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:228
@@ -11516,7 +11516,7 @@ msgstr "Kol kas nieko nelaimėta. Suduok vykstančiame mūšyje, kad pradėtum u
 #: src/components/_economy/employee/employee.frontConfig.tsx:423
 #: src/components/_economy/employee/employee.frontConfig.tsx:444
 msgid "Nothing while alone."
-msgstr ""
+msgstr "Dirbant vienam – nieko."
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:145
@@ -11712,7 +11712,7 @@ msgstr "Balsuoti gali tik šalies <0/> piliečiai."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:497
 msgid "Only ever from an office romance."
-msgstr ""
+msgstr "Atsiranda tik iš romano darbe."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:164
 msgid "Only MU owners and commanders can register the unit"
@@ -11882,7 +11882,7 @@ msgstr "Kita"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:419
 msgid "Otherwise"
-msgstr ""
+msgstr "Kitu atveju"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:369
 msgid "Out of Health?"
@@ -11987,7 +11987,7 @@ msgstr "Grąžinta su palūkanomis: {value}"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:415
 msgid "Paid more than every coworker"
-msgstr ""
+msgstr "Uždirba daugiau už visus bendradarbius"
 
 #: src/components/_economy/inventory/Inventory.tsx:501
 #: src/components/_user/UserEquipments.tsx:267
@@ -12205,23 +12205,23 @@ msgstr "Žmonės įsiutę, <0/> prasidėjo automatinis maištas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:819
 msgid "Per 1% employee tax"
-msgstr ""
+msgstr "Už kiekvieną darbuotojų mokesčio procentą"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:733
 msgid "Per 10 years past 40"
-msgstr ""
+msgstr "Už kas 10 amžiaus metų po 40"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:749
 msgid "Per 10 years past 50"
-msgstr ""
+msgstr "Už kas 10 amžiaus metų po 50"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:453
 msgid "Per better-paid coworker"
-msgstr ""
+msgstr "Už kiekvieną daugiau uždirbantį bendradarbį"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:318
 msgid "Per coworker"
-msgstr ""
+msgstr "Už kiekvieną bendradarbį"
 
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:84
 #: src/pages/country/[countryId]/index.tsx:386
@@ -12235,11 +12235,11 @@ msgstr "per dieną šaliai <0/>."
 #: src/components/_economy/employee/employee.frontConfig.tsx:506
 #: src/components/_economy/employee/employee.frontConfig.tsx:557
 msgid "Per female coworker"
-msgstr ""
+msgstr "Už kiekvieną bendradarbę"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:280
 msgid "Per foreign nationality"
-msgstr ""
+msgstr "Už kiekvieną kitą tautybę"
 
 #: src/components/_economy/manager/managerStats.tsx:54
 msgid "Per hour, per Management point"
@@ -12252,7 +12252,7 @@ msgstr "Per valandą. Leidžiama"
 #: src/components/_economy/employee/employee.frontConfig.tsx:523
 #: src/components/_economy/employee/employee.frontConfig.tsx:540
 msgid "Per male coworker"
-msgstr ""
+msgstr "Už kiekvieną bendradarbį vyrą"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3636
 msgid "Perfectly good stuff"
@@ -12701,7 +12701,7 @@ msgstr "Pakeista gaminama prekė!"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:576
 msgid "Producing their good"
-msgstr ""
+msgstr "Gaminant savo prekę"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:129
 #: src/components/_economy/employee/employee.frontConfig.tsx:927
@@ -12942,11 +12942,11 @@ msgstr "Išėjo"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:885
 msgid "Quits below"
-msgstr ""
+msgstr "Išeina nukritus žemiau"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:901
 msgid "Quitting"
-msgstr ""
+msgstr "Išėjimas"
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
@@ -13032,7 +13032,7 @@ msgstr "Normavimas"
 #: src/components/_economy/employee/employee.frontConfig.tsx:605
 #: src/components/_economy/employee/employee.frontConfig.tsx:617
 msgid "Raw resources"
-msgstr ""
+msgstr "Žaliavos"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:292
 msgid "Reach a tier, claim its XP."
@@ -13903,7 +13903,7 @@ msgstr "Laužo Rinkėjas"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:218
 msgid "Same price for all items"
-msgstr ""
+msgstr "Vienoda kaina visiems daiktams"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:135
@@ -14490,7 +14490,7 @@ msgstr "Maži GIF"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:656
 msgid "Small storage"
-msgstr ""
+msgstr "Mažas sandėlis"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2493
 msgid "Smuggle in some spices"
@@ -14518,7 +14518,7 @@ msgstr "Pardavėjas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:304
 msgid "Sole employee"
-msgstr ""
+msgstr "Vienintelis darbuotojas"
 
 #: src/components/_economy/company/CompanyList.tsx:182
 msgid "Some of your companies are disabled."
@@ -14526,7 +14526,7 @@ msgstr "Kai kurios tavo įmonės yra išjungtos."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:395
 msgid "Somebody out-produces them"
-msgstr ""
+msgstr "Kas nors pagamina daugiau"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1217
 msgid "Someone else was hoarding too: a wooden case, never opened."
@@ -14547,7 +14547,7 @@ msgstr "Netrukus kažkas nutiks"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:1017
 msgid "Something happens to an employee, or to two coworkers, and you choose what to do: up to {maxPerDay} a day. Left unanswered, an event picks its “If ignored” answer after {expires}. The odds depend on the employee and your skills, and show when it happens."
-msgstr ""
+msgstr "Darbuotojui ar dviem bendradarbiams kažkas nutinka, o tu sprendi, ką daryti: iki {maxPerDay} per dieną. Jei neatsakai per {expires}, įvykis pats pasirenka atsakymą „Jei ignoruosi“. Tikimybės priklauso nuo darbuotojo ir tavo įgūdžių, ir matomos, kai įvykis nutinka."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:610
 msgid "Something in the storeroom"
@@ -14581,7 +14581,7 @@ msgstr "Specializacija"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:635
 msgid "Specialization progress"
-msgstr ""
+msgstr "Specializacijos progresas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
@@ -14778,7 +14778,7 @@ msgstr "Plienas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:960
 msgid "Still finds toolboxes"
-msgstr ""
+msgstr "Vis tiek randa įrankių dėžes"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Stockpiler"
@@ -14799,7 +14799,7 @@ msgstr "Sandėlis pilnas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:959
 msgid "Storage full, nobody working"
-msgstr ""
+msgstr "Sandėlis pilnas, niekas nedirba"
 
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:36
 msgid "Story"
@@ -15796,7 +15796,7 @@ msgstr "Bendradarbiai"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:85
 msgid "Their good"
-msgstr ""
+msgstr "Prekė"
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:197
 msgid "Their Luck"
@@ -15812,14 +15812,14 @@ msgstr "Našumas: kas {OUTPUT_DIVISOR} Gamybos per valandą duoda vieną gamybos
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:100
 msgid "Their stat"
-msgstr ""
+msgstr "Rodiklis"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:338
 #: src/components/_economy/employee/employee.frontConfig.tsx:366
 #: src/components/_economy/employee/employee.frontConfig.tsx:385
 #: src/components/_economy/employee/employee.frontConfig.tsx:432
 msgid "Themselves"
-msgstr ""
+msgstr "Sau"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3399
 msgid "There is no desk. Everyone now suspects everyone of being Gerald."
@@ -16230,7 +16230,7 @@ msgstr "Įrankių Dėžė"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:943
 msgid "Toolbox chance and cap"
-msgstr ""
+msgstr "Įrankių dėžės tikimybė ir riba"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:946
 msgid "Toolbox Finds"
@@ -16306,7 +16306,7 @@ msgstr "Kalno viršūnėje"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:403
 msgid "Top of the roster"
-msgstr ""
+msgstr "Geriausias kolektyve"
 
 #: src/components/_military/battle/BattleSystem.tsx:765
 msgid "total"
@@ -17346,7 +17346,7 @@ msgstr "Puiku! Štai tavo apdovanojimas."
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:240
 msgid "What a day of the extra production this tool gives is worth at the market value of a point. An estimate: what you really earn depends on what you make and the price you sell it at."
-msgstr ""
+msgstr "Kiek verta šio įrankio duodama papildoma dienos gamyba, skaičiuojant taško rinkos verte. Tai tik įvertis: kiek iš tikrųjų uždirbsi, priklauso nuo to, ką gamini ir už kiek parduodi."
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:102
 msgid "What a day of the production this manager adds is worth at the market value of a point, minus a day of their pay. An estimate: it follows your roster as it is now."
@@ -17411,7 +17411,7 @@ msgstr "Žiemos Kario Rinkinys"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:105
 msgid "With"
-msgstr ""
+msgstr "Bendradarbis"
 
 #: src/components/_layout/loadingTips.tsx:499
 msgid "With a Supporter Plan, your color scheme paints the whole app, this loading screen included."
@@ -17464,7 +17464,7 @@ msgstr "Burtininko Skrybėlė"
 #: src/components/_economy/employee/employee.frontConfig.tsx:514
 #: src/components/_economy/employee/employee.frontConfig.tsx:548
 msgid "Women only."
-msgstr ""
+msgstr "Tik moterims."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
@@ -17528,7 +17528,7 @@ msgstr "Darbuotojų diagrama"
 #: src/components/_economy/employee/employee.frontConfig.tsx:784
 #: src/components/_economy/employee/employee.frontConfig.tsx:801
 msgid "Working abroad"
-msgstr ""
+msgstr "Dirbant užsienyje"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
