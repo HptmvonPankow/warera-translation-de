@@ -9522,7 +9522,7 @@ msgstr ""
 #: src/components/_user/user/skills.frontConfig.tsx:214
 #: src/components/_user/user/skills.frontConfig.tsx:215
 msgid "Leadership"
-msgstr "Führung"
+msgstr "Führungskompetenz"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2520
 msgid "Leaflets from the sky"
