@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1220
 msgid "You find nothing but resentment."
-msgstr ""
+msgstr "Solo encuentras resentimiento"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
@@ -77,7 +77,7 @@ msgstr "-5% en el salario esperado."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
-msgstr ""
+msgstr "“Trabajador senior” será. Por ahora, servirá."
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:225
@@ -86,7 +86,7 @@ msgstr "(desarrollo promedio de los miembros)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr ""
+msgstr "(compañero de trabajo)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -99,7 +99,7 @@ msgstr "(desarrollo propio)"
 #. placeholder {0}: others.length
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:602
 msgid "{0, plural, one {# coworker} other {# coworkers}}"
-msgstr ""
+msgstr "{0, plural, one {# compañero de trabajo} other {# compañeros de trabajo}}"
 
 #. placeholder {0}: hours / 24
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:60
@@ -109,12 +109,12 @@ msgstr "{0, plural, one {# día} other {# días}}"
 #. placeholder {0}: data.employeeCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:451
 msgid "{0, plural, one {# employee} other {# employees}}"
-msgstr ""
+msgstr "{0, plural, one {# empleado} other {# empleados}}"
 
 #. placeholder {0}: data.managerCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:470
 msgid "{0, plural, one {# manager} other {# managers}}"
-msgstr ""
+msgstr "{0, plural, one {# gerente} other {# gerentes}}"
 
 #. placeholder {0}: conversation.memberCount
 #: src/components/_political/chat/ChatConversationItem.tsx:201
@@ -124,7 +124,7 @@ msgstr "{0, plural, one {# miembro} other {# miembros}}"
 #. placeholder {0}: proposition.skinItems.length
 #: src/components/_user/premium/AssetPropositionItem.tsx:298
 msgid "{0, plural, one {# skin} other {# skins}}"
-msgstr ""
+msgstr "{0, plural, one {# aspecto} other {# aspectos}}"
 
 #. placeholder {0}: poll.totalVoters
 #: src/components/_social/poll/PollCard.tsx:391
@@ -139,7 +139,7 @@ msgstr "{0, plural, one {# ganador} other {# ganadores}}"
 #. placeholder {0}: totalBattles - maxBattles
 #: src/components/_layout/LayoutBattles.tsx:139
 msgid "{0, plural, one {Battle} other {Battles}}"
-msgstr ""
+msgstr "{0, plural, one {Batalla} other {Batallas}}"
 
 #. placeholder {0}: Math.max(rows.length, 1)
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:266
@@ -149,7 +149,7 @@ msgstr "{0, plural, one {Poner en oferta} other {Poner # artículos en oferta}}"
 #. placeholder {0}: estimate.notOwnedCount
 #: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "{0, plural, one {Unlock # skin} other {Unlock # skins}}"
-msgstr ""
+msgstr "{0, plural, one {Desbloquear aspecto #} other {Desbloquear aspectos #}}"
 
 #. placeholder {0}: damagesPercent(effects.bunkerBonusDelta)
 #. placeholder {1}: upgradeName(EUpgrade.BUNKER)
@@ -190,7 +190,7 @@ msgstr "{0} compró tu oferta de objeto"
 #. placeholder {0}: upgradeName(EUpgrade.BASE)
 #: src/components/_political/govType/govType.frontConfig.tsx:340
 msgid "{0} can't be activated"
-msgstr ""
+msgstr "{0} no puede ser activado"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:127
@@ -200,22 +200,22 @@ msgstr "{0} días de enfriamiento"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr ""
+msgstr "{0} ingresos generados"
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr ""
+msgstr "{0} ingreso desarrollo de regiones conquistadas"
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr ""
+msgstr "{0} ingreso desarrollo de regiones propias"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr ""
+msgstr "{0} energía por la actualización, uno por jugador"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -225,7 +225,7 @@ msgstr "{0} Gratis"
 #. placeholder {0}: meta.label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:110
 msgid "{0} guide"
-msgstr ""
+msgstr "{0} guía"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
@@ -237,7 +237,7 @@ msgstr "{0} horas"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr ""
+msgstr "{0} está esperando tu desición"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -248,7 +248,7 @@ msgstr "{0} te superó en la oferta a ${1}/K"
 #. placeholder {0}: moneyPercent(effects.incomeTaxMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:235
 msgid "{0} payroll and manager tax income"
-msgstr ""
+msgstr "{0} ingresos de sueldos e impuestos de gerentes"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:692
@@ -268,12 +268,12 @@ msgstr "Se necesitan {0} rondas para ganar la batalla."
 #. placeholder {0}: moneyPercent(effects.strategicResourceIncomeMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:225
 msgid "{0} strategic resource income"
-msgstr ""
+msgstr "{0} ingresos de recursos estratégicos"
 
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} herramienta"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
@@ -300,21 +300,21 @@ msgstr "{0}% de lo invertido"
 #. placeholder {1}: specializationBonusPercent(employee, code)
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:68
 msgid "{0}d worked: <0>{1}</0>"
-msgstr ""
+msgstr "{0}d trabajados: <0>{1}</0>"
 
 #. placeholder {0}: contract.unpaidHours
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:223
 msgid "{0}h unpaid"
-msgstr ""
+msgstr "{0}h sin sueldo"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:913
 msgid "{answerWithin} to answer"
-msgstr ""
+msgstr "{answerWithin} por responder"
 
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
 msgid "{chaptersDone} of {0} guides done"
-msgstr ""
+msgstr "{chaptersDone} de {0} guías completadas"
 
 #: src/components/_user/mission/MissionsList.tsx:229
 msgid "{completedCount}/{totalCount} completed"
@@ -322,119 +322,119 @@ msgstr "{completedCount}/{totalCount} completadas"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:307
 msgid "{contribution} when anyone in the event has it."
-msgstr ""
+msgstr "{contribution} cuando alguien del evento lo tenga."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Responder <1/> evento de empleado</0>} other {<2>Responder <3/> eventos de empleados</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Contribuir a contrucciones <1/> vez</0>} other {<2>Contribuir a construcciones <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Contribuir a resistencia <1/> vez</0>} other {<2>Contribuir a resistencia <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Fabricar <1/> equipamiento</0>} other {<2>Fabricar <3/> equipamientos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Cruza <1/> region en el mapa</0>} other {<2>Cruza <3/> regiones en el mapa</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Desmantelar <1/> equipamiento</0>} other {<2>Desmantelar <3/> equipamientos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Esquivar <1/> ataque</0>} other {<2>Esquivar <3/> ataques</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Come <1/> alimento</0>} other {<2>Come <3/> alimentos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Ayuda a <1/> miembro de tu UM</0>} other {<2>Ayuda a <3/> miembros de tu UM</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Ataca <1/> vez en batallas</0>} other {<2>Ataca <3/> veces en batallas</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Acesta <1/> ataque crítico</0>} other {<2>Acesta <3/> ataques críticos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Da Me Gusta a <1/> artículo</0>} other {<2>Da Me Gusta a <3/> artículos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Da Me Gusta a <1/> mensaje</0>} other {<2>Da Me Gusta a <3/> mensajes</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:467
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Saquea <1/> objeto en el campo de batalla</0>} other {<2>Saquea <3/> objetos en el campo de batalla</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:322
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Participa en <1/> batalla</0>} other {<2>Participa en <3/> batallas</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:704
 msgid "{count, plural, one {<0>Produce items <1/> time</0>} other {<2>Produce items <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Produce objetos <1/> vez</0>} other {<2>Produce objetos <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:521
 msgid "{count, plural, one {<0>Read <1/> article</0>} other {<2>Read <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Lee <1/> articulo</0>} other {<2>Lee <3/> articulos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Trabaja <1/> vez en tus empresas</0>} other {<2>Trabaja <3/> veces en tus empresas</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Envía <1/> mensaje</0>} other {<2>Envía <3/> mensajes</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Atiende a un empleado <1/> vez en la empresa donde trabajas</0>} other {<2>Atiende a un empleado <3/> veces en la empresa donde trabajas</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Da tip a <1/> articulo</0>} other {<2>Da tip a <3/> articulos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Entrena a tus empleados <1/> vez</0>} other {<2>Entrena a tus empleados <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Viaja a otra región <1/> vez</0>} other {<2>Viaja a otra región <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Mejora tus habilidades <1/> vez</0>} other {<2>Mejora tus habilidades <3/> veces</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Trabaja <1/> vez en tus empresas</0>} other {<2>Trabaja <3/> veces en tus emresas</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
-msgstr ""
+msgstr "{days, plural, one {# día de su salario} other {# días de su salario}}"
 
 #: src/components/_user/notification/NotificationList.tsx:92
 msgid "{daysAgo, plural, one {# day ago} other {# days ago}}"
-msgstr ""
+msgstr "{daysAgo, plural, one {# día atrás} other {# días atrás}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:631
 msgid "{delay} after you pick {answer} in {source}."
-msgstr ""
+msgstr "{delay} después de elegir {answer} en {source}."
 
 #: src/components/_user/user/SkillUpgrade.tsx:293
 msgid "{draftPrestigeCount} prestige point(s) on this skill ({savedPrestigeCount} saved, locked until reset)"
@@ -446,16 +446,16 @@ msgstr "{equippedCount, plural, one {# de ellos está equipado} other {# de ello
 
 #: src/components/_user/notification/notification.frontConfig.tsx:579
 msgid "{finder} and others found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} y otros encontraron {toolboxes} para que reclames."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} encontró {toolboxes} para que reclames."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
 msgid "{freeMoves} free"
-msgstr ""
+msgstr "{freeMoves} gratis"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
@@ -467,59 +467,59 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1169
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} acepta uvas variadas, bajo protesta.} female {{name} acepta uvas variadas, bajo protesta.} other {{name} acepta uvas variadas, bajo protesta.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:847
 msgid "{gender, select, male {{name} and {partnerName} have been eating lunch together every day. He clearly enjoys it.} female {{name} and {partnerName} have been eating lunch together every day. She clearly enjoys it.} other {{name} and {partnerName} have been eating lunch together every day.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} y {partnerName} han estado almorzando juntos todos los días. A él claramente le gusta.} female {{name} y {partnerName} han estado almorzando juntos todos los días. A ella claramente le gusta.} other {{name} y {partnerName} han estado almorzando juntos todos los días.}}""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1258
 msgid "{gender, select, male {{name} apologizes harder.} female {{name} apologizes harder.} other {{name} apologizes harder.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se disculpa con más insistencia.} female {{name} se disculpa con más insistencia} other {{name} se disculpa con más insistencia.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1291
 msgid "{gender, select, male {{name} apologizes until the end of the shift.} female {{name} apologizes until the end of the shift.} other {{name} apologizes until the end of the shift.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se disculpa hasta el final de la jornada.} female {{name} se disculpa hasta el final de la jornada.} other {{name} se disculpa hasta el final de la jornada.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3851
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se comió el cebo por error y necesita la tarde libre.} female {{name} se comió el cebo por error y necesita la tarde libre.} other {{name} se comió el cebo por error y necesita la tarde libre.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1431
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sonríe de oreja a oreja y se pone manos a la obra durante el resto de la semana.} female {{name} sonríe de oreja a oreja y se pone manos a la obra durante el resto de la semana.} other {{name} sonríe de oreja a oreja y se pone manos a la obra durante el resto de la semana.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:736
 msgid "{gender, select, male {{name} bought a motorbike, dyed his hair and wants to reinvent himself.} female {{name} bought a motorbike, dyed her hair and wants to reinvent herself.} other {{name} bought a motorbike, dyed their hair and wants to reinvent themselves.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} compró una moto, tinturó su cabello y quiere reinventarse.} female {{name} compró una moto, tinturó su cabello y quiere reinventarse} other {{name} compró una moto, tinturó su cabello y quiere reinventarse}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1064
 msgid "{gender, select, male {{name} bows and hands you the title. The workshop talks of nothing else.} female {{name} bows and hands you the title. The workshop talks of nothing else.} other {{name} bows and hands you the title. The workshop talks of nothing else.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} hace una reverencia y te entrega el título. En el taller no se habla de otra cosa.} female {{name} hace una reverencia y te entrega el título. En el taller no se habla de otra cosa.} other {{name} hace una reverencia y te entrega el título. En el taller no se habla de otra cosa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:541
 msgid "{gender, select, male {{name} breaks down. It will stay with him.} female {{name} breaks down. It will stay with her.} other {{name} breaks down. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se derrumba emocionalmente. No lo olvidará.} female {{name} se derrumba emocionalmente. No lo olvidará.} other {{name} se derrumba emocionalmente. No lo olvidará.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3009
 msgid "{gender, select, male {{name} brings the house down, solo, and talks about it all week.} female {{name} brings the house down, solo, and talks about it all week.} other {{name} brings the house down, solo, and talks about it all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se roba el protagonismo por su cuenta y habla de ello toda la semana.} female {{name} se roba el protagonismo por su cuenta y habla de ello toda la semana.} other {{name} se roba el protagonismo por su cuenta y habla de ello toda la semana}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3284
 msgid "{gender, select, male {{name} brought a snack from home to share. It is either a delicacy or a war crime.} female {{name} brought a snack from home to share. It is either a delicacy or a war crime.} other {{name} brought a snack from home to share. It is either a delicacy or a war crime.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} trajo algo de comer de casa para compartir. O es un manjar o es un crimen de guerra.} female {{name} trajo algo de comer de casa para compartir. O es un manjar o es un crimen de guerra.} other {{name} trajo algo de comer de casa para compartir. O es un manjar o es un crimen de guerra.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1754
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} llevó a su hijo al trabajo. Para las diez de la mañana, el niño ya había reorganizado el almacén y vendido algo a un transeúnte.} female {{name} llevó a su hijo al trabajo. Para las diez de la mañana, el niño ya había reorganizado el almacén y vendido algo a un transeúnte.} other {{name} llevó a su hijo al trabajo. Para las diez de la mañana, el niño ya había reorganizado el almacén y vendido algo a un transeúnte.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:363
 msgid "{gender, select, male {{name} burns out completely, and it will stay with him.} female {{name} burns out completely, and it will stay with her.} other {{name} burns out completely, and it will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se agota por completo y lo ocurrido lo marcará.} female {{name} se agota por completo y lo ocurrido la marcará.} other {{name} se agota por completo y lo ocurrido lo marcará.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:291
 msgid "{gender, select, male {{name} bursts into your office: he has an idea to change how the work is done, and needs a little room to try it.} female {{name} bursts into your office: she has an idea to change how the work is done, and needs a little room to try it.} other {{name} bursts into your office: they have an idea to change how the work is done, and need a little room to try it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} entra con energía a tu oficina: tiene una idea para cambiar la forma de trabajar, necesita un poco de apoyo para ponerla a prueba.} female {{name} entra con energía a tu oficina: tiene una idea para cambiar la forma de trabajar, necesita un poco de apoyo para ponerla a prueba.} other {{name} entra con energía a tu oficina: tiene una idea para cambiar la forma de trabajar, necesita un poco de apoyo para ponerla a prueba.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3131
 msgid "{gender, select, male {{name} calms down and breathes. The lift starts again on its own.} female {{name} calms down and breathes. The lift starts again on its own.} other {{name} calms down and breathes. The lift starts again on its own.}}"
@@ -527,15 +527,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3137
 msgid "{gender, select, male {{name} calms down so well that small rooms no longer scare him at all.} female {{name} calms down so well that small rooms no longer scare her at all.} other {{name} calms down so well that small rooms no longer scare them at all.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} logra calmarse tan bien que un espacio pequeño ya no lo asusta.} female {{name} logra calmarse tan bien que un espacio pequeño ya no la asusta.} other {{name} logra calmarse tan bien que un espacio pequeño ya no lo asusta}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1443
 msgid "{gender, select, male {{name} can tell.} female {{name} can tell.} other {{name} can tell.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se da cuenta.} female {{name} se da cuenta.} other {{name} se da cuenta.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2879
 msgid "{gender, select, male {{name} cannot do it while anyone is watching, the teacher included.} female {{name} cannot do it while anyone is watching, the teacher included.} other {{name} cannot do it while anyone is watching, the teacher included.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} no puede hacerlo mientras alguien lo esté mirando, nisiquiera el profesor.} female {{name} no puede hacerlo mientras alguien la esté mirando, nisiquiera el profesor.} other {{name} no puede hacerlo mientras alguien lo esté mirando, nisiquiera el profesor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3910
 msgid "{gender, select, male {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} female {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} other {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.}}"
@@ -543,11 +543,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:668
 msgid "{gender, select, male {{name} comes back a day later, proud and steadier than before.} female {{name} comes back a day later, proud and steadier than before.} other {{name} comes back a day later, proud and steadier than before.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} regresó un día después, más estable y orgulloso que antes.} female {{name} regresó un día después, más estable y orgullosa que antes.} other {{name} regresó un día después, más estable y orgulloso que antes.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:674
 msgid "{gender, select, male {{name} comes back wounded, and shaken.} female {{name} comes back wounded, and shaken.} other {{name} comes back wounded, and shaken.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} regresa herido y conmocionado.} female {{name} regresa herida y conmocionada.} other {{name} regresa herido y conmocionado.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1016
 msgid "{gender, select, male {{name} comes out changed, and not for the better.} female {{name} comes out changed, and not for the better.} other {{name} comes out changed, and not for the better.}}"
