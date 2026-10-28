@@ -2636,7 +2636,7 @@ msgstr ""
 #: src/components/_economy/employee/employee.frontConfig.tsx:560
 #: src/components/_economy/employee/employee.frontConfig.tsx:572
 msgid "<0>{0}</0> on raw resources"
-msgstr "<0>{0}</0> on raw resources"
+msgstr "<0>{0}</0> عندما يكون عنصر خام"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 6
