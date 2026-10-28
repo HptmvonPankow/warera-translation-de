@@ -1713,7 +1713,7 @@ msgstr "{nextLevelSkillPoints} Fähigkeitspunkte"
 
 #: src/components/_economy/employee/employeeStats.tsx:370
 msgid "{otherPct} on other checks"
-msgstr ""
+msgstr "{otherPct} bei sonstigen Prüfungen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1890
 msgid "{partnerName} backs off. The fort stands."
@@ -2753,7 +2753,7 @@ msgstr "<0>{depositBonus}</0> durch Vorkommen-Ressourcen in <1/>."
 
 #: src/components/_economy/employee/employeeStats.tsx:333
 msgid "<0>{luck}</0> Luck: finds toolboxes, draws rarer training cards and tilts employee events."
-msgstr ""
+msgstr "<0>{luck}</0> Glück: findet Werkzeugkisten, zieht seltenere Trainingskarten und beeinflusst Mitarbeiterereignisse."
 
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:41
 msgid "<0>{percentPerDay}</0> per day worked in a good, up to <1>{maxPercent}</1>. Each good keeps its own days, so a moved employee starts over in the new good and keeps the old bonus for later."
@@ -7276,7 +7276,7 @@ msgstr "Mitarbeiter"
 #: src/components/_political/map/MapMenu.tsx:588
 #: src/components/_political/region/RegionHeader.tsx:126
 msgid "Employees (in active companies)"
-msgstr ""
+msgstr "Mitarbeiter (in aktiven Unternehmen)"
 
 #: src/components/_layout/loadingTips.tsx:384
 msgid "Employees below {happinessQuitThreshold} happiness may quit."
@@ -7478,7 +7478,7 @@ msgstr "Ereignis"
 
 #: src/components/_economy/employee/employeeStats.tsx:369
 msgid "Event Luck checks"
-msgstr ""
+msgstr "Glücksprüfungen bei Ereignissen"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:180
 #: src/components/_layout/LayoutRightIcons.tsx:265
@@ -13064,7 +13064,7 @@ msgstr "Selten. Ein Mitarbeiter, der vor mindestens 7 Tagen eingestellt wurde un
 
 #: src/components/_economy/employee/employeeStats.tsx:362
 msgid "Rare+ training card"
-msgstr ""
+msgstr "Seltene oder bessere Trainingskarte"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:98
 msgid "Rarer cards when you train your employees. Each level moves card odds off Common: <0/>."
@@ -16250,7 +16250,7 @@ msgstr "Werkzeugkiste gefunden"
 
 #: src/components/_economy/employee/employeeStats.tsx:355
 msgid "Toolbox per hour"
-msgstr ""
+msgstr "Werkzeugkisten pro Stunde"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:43
 #: src/components/_economy/inventory/Inventory.tsx:852
