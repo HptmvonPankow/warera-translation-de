@@ -170,12 +170,12 @@ msgstr "Se requieren al menos {0} ciudadanos activos"
 #. placeholder {0}: getTimeAgo(entry.pickedAt, 'fromNow', undefined, true, true)
 #: src/components/_economy/employee/TrainingHistory.tsx:184
 msgid "{0} ago"
-msgstr ""
+msgstr "Hace {0}"
 
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr ""
+msgstr "{0} de bonificación de alianza cuando se pelea por un aliado"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:331
@@ -258,7 +258,7 @@ msgstr "{0} propuso una nueva ley <0/>"
 #. placeholder {0}: presetPointCost(preset.skills)
 #: src/components/_user/user/SkillPresetsModal.tsx:251
 msgid "{0} pts"
-msgstr ""
+msgstr "{0} pts"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
