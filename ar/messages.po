@@ -18156,7 +18156,7 @@ msgstr "بلدك يركز بالفعل على <0/>. وتحديد هذه المن
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:277
 msgid "Your country has its own Discord. Join your fellow citizens there."
-msgstr "بلد لديها ديسكور خاص بها. انضم الى أبناء بلد هناك"
+msgstr "بلدك لديها ديسكورد خاص بها. انضم الى أبناء بلدك هناك"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
