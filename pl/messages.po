@@ -7497,7 +7497,7 @@ msgstr "Co każde 2 minuty, strona z większymi <0>Obrażeniami</0> zysukje <1>T
 
 #: src/components/_economy/employee/useConfirmFire.tsx:39
 msgid "Every coworker still working in this company loses {coworkerHappinessPenalty} happiness for {penaltyHours} hours. Firing again restarts the timer, it does not stack."
-msgstr "Każdy współpracownik wciąż pracujący w tej firmie traci {coworkerHappinessPenalty} zadowolenia przez {penaltyHours} godzin. Zwalnianie rozpoczyna odliczanie na nowo, nie łączy się."
+msgstr "Każdy współpracownik wciąż pracujący w tej firmie traci {coworkerHappinessPenalty} zadowolenia na {penaltyHours} godziny. Zwalnianie rozpoczyna odliczanie na nowo, nie łączy się."
 
 #. placeholder {0}: contract.productionBonusPercent
 #. placeholder {1}: employeeConfig.skills.managementBonusPercentPerLevel
