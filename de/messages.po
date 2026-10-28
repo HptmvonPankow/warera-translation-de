@@ -2526,19 +2526,19 @@ msgstr ""
 #. placeholder {1}: -5
 #: src/components/_economy/employee/employee.frontConfig.tsx:266
 msgid "<0>{0}</0> and <1>{1}</1> when any coworker is foreign"
-msgstr ""
+msgstr "<0>{0}</0> und <1>{1}</1> wenn ein Kollege aus dem Ausland ist"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:248
 msgid "<0>{0}</0> and <1>{1}</1> when half or more coworkers are compatriots"
-msgstr ""
+msgstr "<0>{0}</0> und <1>{1}</1> ,wenn die Hälfte oder mehr der Kollegen Landsleute sind"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:732
 msgid "<0>{0}</0> and <1>{1}</1> when working abroad"
-msgstr ""
+msgstr "<0>{0}</0> und <1>{1}</1> wenn er im Ausland arbeitet"
 
 #. placeholder {0}: 3
 #. placeholder {1}: 5
