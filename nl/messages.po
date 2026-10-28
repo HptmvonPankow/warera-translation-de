@@ -48,7 +48,7 @@ msgstr " - Herhaalde donaties van middelen of geld aan een militaire eenheid of 
 
 #: src/components/_common/GameRules.tsx:175
 msgid " - Repeatedly tipping articles"
-msgstr " - Herhaaldelijk fooien geven aan artikelen"
+msgstr " - Herhaaldelijk fooien geven aan artikels"
 
 #: src/components/_common/GameRules.tsx:167
 msgid " - Using outside market standards or manipulated trade prices"
@@ -370,7 +370,7 @@ msgstr "{count, plural, one {<0>Deel <1/> kritieke treffer uit</0>} other {<2>De
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>Vind <1/> artikel leuk</0>} other {<2>Vind <3/> artikelen leuk</2>}}"
+msgstr "{count, plural, one {<0>Vind <1/> artikel</0> leuk} other {<2>Vind <3/> artikels</2>} leuk}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
@@ -394,35 +394,35 @@ msgstr "{count, plural, one {<0>Lees <1/> artikel</0>} other {<2>Lees <3/> artik
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>Zelf werk <1/> maal in je bedrijven</0>} other {<2>Zelf werk <3/> maal in je eigen bedrijven</2>}}"
+msgstr "{count, plural, one {<0>Werk <1/> keer zelf in je bedrijven</0>} other {<2>Werk <3/> keer zelf in je eigen bedrijven</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Zendt <1/> bericht</0>} other {<2>Zendt <3/> berichten</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Zorg <1/> keer voor een werknemer keer in één van jouw bedrijven</0>} other {<2>Zorg <3/> keer voor een werknemer keer in één van jouw bedrijven</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Geef fooi aan <1/> artikel</0>} other {<2>Geef fooi aan <3/> artikels</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Train jouw werknemer <1/> keer</0>} other {<2>Train jouw werknemers <3/> keer</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Reis <1/> keer naar een andere region</0>} other {<2>Reis <3/> keer naar een andere regio</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr ""
+msgstr {count, plural, one {<0>Upgrade jouw vaardigheid <1/> keer</0>} other {<2>Upgrade jouw vaardigheden <3/> keer</2>}}""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Werk <1/> keer in jouw bedrijf</0>} other {<2>Werk <3/> keer in jouw bedrijven</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
@@ -446,96 +446,96 @@ msgstr "{equippedCount, plural, one {# ervan is uitgerust} other {# ervan zijn u
 
 #: src/components/_user/notification/notification.frontConfig.tsx:579
 msgid "{finder} and others found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} en anderen vonden {toolboxes} voor u om te claimen."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} vond {toolboxes} om te claimen."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
 msgid "{freeMoves} free"
-msgstr ""
+msgstr "Gratis {freeMoves}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr ""
+msgstr "{gain} elke {perDays} dagen bij hetzelfde bedrijf"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
-msgstr ""
+msgstr "{gain} elke {perDays} dagen bij hetzelfde bedrijf, tot maximaal {cap}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1169
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} aanvaardt de niet-pitloze druiven, onder protest.} female {{name} aanvaardt de niet-pitloze druiven, onder protest.} other {{name} aanvaardt de niet-pitloze druiven, onder protest.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:847
 msgid "{gender, select, male {{name} and {partnerName} have been eating lunch together every day. He clearly enjoys it.} female {{name} and {partnerName} have been eating lunch together every day. She clearly enjoys it.} other {{name} and {partnerName} have been eating lunch together every day.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} en {partnerName} hebben altijd samen geluncht. Hij geniet daar duidelijk van.} female {{name} en {partnerName} hebben altijd samen geluncht. Zij geniet daar duidelijk van.} other {{name} en {partnerName} hebben altijd samen geluncht.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1258
 msgid "{gender, select, male {{name} apologizes harder.} female {{name} apologizes harder.} other {{name} apologizes harder.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} verontschuldigt zich grondiger.} female {{name} verontschuldigt zich grondiger.} other {{name} verontschuldigt zich grondiger.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1291
 msgid "{gender, select, male {{name} apologizes until the end of the shift.} female {{name} apologizes until the end of the shift.} other {{name} apologizes until the end of the shift.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} blijft zich verontschuldigen, tot het einde van de werkdag.} female {{name} blijft zich verontschuldigen, tot het einde van de werkdag.} other {{name} blijft zich verontschuldigen, tot het einde van de werkdag.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3851
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.} female {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.} other {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1431
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} straalt en stropt de mouwen op voor de rest van de week.} female {{name} straalt en stropt de mouwen op voor de rest van de week.} other {{name} straalt en stropt de mouwen op voor de rest van de week.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:736
 msgid "{gender, select, male {{name} bought a motorbike, dyed his hair and wants to reinvent himself.} female {{name} bought a motorbike, dyed her hair and wants to reinvent herself.} other {{name} bought a motorbike, dyed their hair and wants to reinvent themselves.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} heeft een motor gekocht, zijn haar gekleurd en wil zichzelf heruitvinden.} female {{name} heeft een motor gekocht, haar haar gekleurd en wil zichzelf heruitvinden.} other {{name} heeft een motor gekocht, haar gekleurd en wil zichzelf heruitvinden.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1064
 msgid "{gender, select, male {{name} bows and hands you the title. The workshop talks of nothing else.} female {{name} bows and hands you the title. The workshop talks of nothing else.} other {{name} bows and hands you the title. The workshop talks of nothing else.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} buigt zich en schenkt jouw de titel. Op de werkplaats wordt over niets anders meer gesproken.} female {{name} buigt zich en schenkt jouw de titel. Op de werkplaats wordt over niets anders meer gesproken.} other {{name} buigt zich en schenkt jouw de titel. Op de werkplaats wordt over niets anders meer gesproken.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:541
 msgid "{gender, select, male {{name} breaks down. It will stay with him.} female {{name} breaks down. It will stay with her.} other {{name} breaks down. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} krijgt een inzinking. Het zal bij hem blijven hangen.} female {{name} krijgt een inzinking. Het zal bij haar blijven hangen.} other {{name} krijgt een inzinking. Het zal blijven hangen.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3009
 msgid "{gender, select, male {{name} brings the house down, solo, and talks about it all week.} female {{name} brings the house down, solo, and talks about it all week.} other {{name} brings the house down, solo, and talks about it all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} brengt het publiek in vervoering, op zijn eentje, en spreekt er nog de hele week over.} female {{name} brengt het publiek in vervoering, op haar eentje, en spreekt er nog de hele week over.} other {{name} brengt het publiek in vervoering, helemaal alleen, en spreekt er nog de hele week over.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3284
 msgid "{gender, select, male {{name} brought a snack from home to share. It is either a delicacy or a war crime.} female {{name} brought a snack from home to share. It is either a delicacy or a war crime.} other {{name} brought a snack from home to share. It is either a delicacy or a war crime.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bracht een zelfgebakken cake mee naar het werk. Er is twijfel of het een daad van liefdadigheid is, of een oorlogsmisdaad.} female {{name} bracht een zelfgebakken cake mee naar het werk. Er is twijfel of het een daad van liefdadigheid is, of een oorlogsmisdaad.} other {{name} bracht een zelfgebakken cake mee naar het werk. Er is twijfel of het een daad van liefdadigheid is, of een oorlogsmisdaad.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1754
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} nam zijn kind mee naar het werk. Tegen tien uur had het kind de opslagruimte naar eigen smaak heringericht, en iets daarvan verkocht aan een passant.} female {{name} nam haar kind mee naar het werk. Tegen tien uur had het kind de opslagruimte naar eigen smaak heringericht, en iets daarvan verkocht aan een passant.} other {{name} nam hun kind mee naar het werk. Tegen tien uur had het kind de opslagruimte naar eigen smaak heringericht, en iets daarvan verkocht aan een passant.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:363
 msgid "{gender, select, male {{name} burns out completely, and it will stay with him.} female {{name} burns out completely, and it will stay with her.} other {{name} burns out completely, and it will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} krijgt een burn-out, het zal blijven hangen.} female {{name} krijgt een burn-out, het zal blijven hangen.} other {{name} krijgt een burn-out, het zal blijven hangen.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:291
 msgid "{gender, select, male {{name} bursts into your office: he has an idea to change how the work is done, and needs a little room to try it.} female {{name} bursts into your office: she has an idea to change how the work is done, and needs a little room to try it.} other {{name} bursts into your office: they have an idea to change how the work is done, and need a little room to try it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} valt jouw kantoor binnen: hij heeft een idee hoe het werk anders aangepakt kan worden, en vraagt speelruimte om het uit te proberen.} female {{name} valt jouw kantoor binnen: ze heeft een idee hoe het werk anders aangepakt kan worden, en vraagt speelruimte om het uit te proberen.} other {{name} valt jouw kantoor binnen met een idee hoe het werk anders aangepakt kan worden, en vraagt speelruimte om het uit te proberen.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3131
 msgid "{gender, select, male {{name} calms down and breathes. The lift starts again on its own.} female {{name} calms down and breathes. The lift starts again on its own.} other {{name} calms down and breathes. The lift starts again on its own.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kalmeert en ademt rustiger. De lift beweegt weer.} female {{name} kalmeert en ademt rustiger. De lift beweegt weer.} other {{name} kalmeert en ademt rustiger. De lift beweegt weer.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3137
 msgid "{gender, select, male {{name} calms down so well that small rooms no longer scare him at all.} female {{name} calms down so well that small rooms no longer scare her at all.} other {{name} calms down so well that small rooms no longer scare them at all.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kalmeert dusdanig dat kleine ruimtes hem niet langer beknellen.} female {{name} kalmeert dusdanig dat kleine ruimtes haar niet langer beknellen.} other {{name} kalmeert dusdanig dat kleine ruimtes niet langer beknellen.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1443
 msgid "{gender, select, male {{name} can tell.} female {{name} can tell.} other {{name} can tell.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} merkt het.} female {{name} merkt het.} other {{name} merkt het.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2879
 msgid "{gender, select, male {{name} cannot do it while anyone is watching, the teacher included.} female {{name} cannot do it while anyone is watching, the teacher included.} other {{name} cannot do it while anyone is watching, the teacher included.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kan het niet wanneer anderen kijken, ook niet bij de leraar.} female {{name} kan het niet wanneer anderen kijken, ook niet bij de leraar.} other {{name} kan het niet wanneer anderen kijken, ook niet bij de leraar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3910
 msgid "{gender, select, male {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} female {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} other {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.}}"
@@ -543,19 +543,19 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:668
 msgid "{gender, select, male {{name} comes back a day later, proud and steadier than before.} female {{name} comes back a day later, proud and steadier than before.} other {{name} comes back a day later, proud and steadier than before.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} komt een dag later terug, trots en vastberadener dan ooit.} female {{name} komt een dag later terug, trots en vastberadener dan ooit.} other {{name} komt een dag later terug, trots en vastberadener dan ooit.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:674
 msgid "{gender, select, male {{name} comes back wounded, and shaken.} female {{name} comes back wounded, and shaken.} other {{name} comes back wounded, and shaken.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} komt gewond en bevend terug.} female {{name} komt gewond en bevend terug.} other {{name} komt gewond en bevend terug.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1016
 msgid "{gender, select, male {{name} comes out changed, and not for the better.} female {{name} comes out changed, and not for the better.} other {{name} comes out changed, and not for the better.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} komt er veranderd uit, maar niet ten goede.} female {{name} komt er veranderd uit, maar niet ten goede.} other {{name} komt er veranderd uit, maar niet ten goede.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1328
 msgid "{gender, select, male {{name} copes. Barely.} female {{name} copes. Barely.} other {{name} copes. Barely.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} houdt zich sterk. Amper.} female {{name} houdt zich sterk. Amper.} other {{name} houdt zich sterk. Amper.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1818
 msgid "{gender, select, male {{name} crosses out “Supreme” and keeps drafting.} female {{name} crosses out “Supreme” and keeps drafting.} other {{name} crosses out “Supreme” and keeps drafting.}}"
@@ -563,7 +563,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2244
 msgid "{gender, select, male {{name} denies everything, and avoids you all week.} female {{name} denies everything, and avoids you all week.} other {{name} denies everything, and avoids you all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} ontkent alles, en ontloopt je de hele week.} female {{name} ontkent alles, en ontloopt je de hele week.} other {{name} ontkent alles, en ontloopt je de hele week.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1633
 msgid "{gender, select, male {{name} denies everything. The mustache stays on.} female {{name} denies everything. The mustache stays on.} other {{name} denies everything. The mustache stays on.}}"
@@ -18131,7 +18131,7 @@ msgstr "Je banner \"{0}\" is geaccepteerd en is nu verkrijgbaar in de winkel! He
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:398
 msgid "Your bars"
-msgstr ""
+msgstr "Jouw balkjes"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:880
 msgid "Your buff(s) will expire in less than 1 hour. The debuff phase will begin soon."
@@ -18156,7 +18156,7 @@ msgstr "Uw land richt zich al op <0/>. Dit instellen, zal het veranderen"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:277
 msgid "Your country has its own Discord. Join your fellow citizens there."
-msgstr ""
+msgstr "Jouw land heeft zijn eigen (erg actieve!) Discord. Sluit je aan bij je medeburgers!"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
@@ -18188,7 +18188,7 @@ msgstr "Je land begon in <0/> een opstand tegen <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2231
 msgid "Your country's article"
-msgstr ""
+msgstr "Het artikel van jouw land"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "Your current order"
@@ -18208,19 +18208,19 @@ msgstr "Je e-mailadres"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:141
 msgid "Your employee's stats"
-msgstr ""
+msgstr "De statistieken van jouw werknemer"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:63
 msgid "Your employees produce nothing right now, so a manager would add nothing."
-msgstr ""
+msgstr "Jouw werknemers produceren niets op dit moment, een manager zou niets bijdragen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:514
 msgid "Your employees' estimated daily profit, at market prices."
-msgstr ""
+msgstr "Geschatte dagelijkse winst van jouw werknemers, volgens de marktprijzen."
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:43
 msgid "Your employer cut your pay to"
-msgstr ""
+msgstr "Jouw werkgever verlaagde uw loon naar"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
@@ -18230,7 +18230,7 @@ msgstr "Je werkgever wil je loon in <0/> verlagen van <1>{0}</1> naar <2>{1}</2>
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1925
 msgid "Your encouragement makes it awkward. It fizzles out."
-msgstr ""
+msgstr "Jouw aanmoedigingen maken het ongemakkelijk. Het loopt op niets uit."
 
 #: src/components/_military/battle/EndedBattlesList.tsx:84
 msgid "Your enemies"
@@ -18238,11 +18238,11 @@ msgstr "Je vijanden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:411
 msgid "Your evenings together pay off, and then some."
-msgstr ""
+msgstr "Jullie avonden samen lonen de moeite, en nog veel meer."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:409
 msgid "Your evenings together pay off: a real improvement."
-msgstr ""
+msgstr "Jullie avonden samen lonen de moeite: een echte verbetering."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:537
 msgid "Your gear boosts them all."
@@ -18258,11 +18258,11 @@ msgstr "Je gegevens zijn opgeslagen."
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:171
 msgid "Your Leadership"
-msgstr ""
+msgstr "Je leiderschap"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:87
 msgid "Your Leadership {value}"
-msgstr ""
+msgstr "Je leiderschap {value}"
 
 #: src/components/_military/hit/HitButton.tsx:460
 msgid "Your location"
@@ -18283,11 +18283,11 @@ msgstr "Je geluk is op vakantie"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:289
 msgid "Your milestones"
-msgstr ""
+msgstr "Je mijlpalen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:525
 msgid "Your military skills"
-msgstr ""
+msgstr "Je militaire vaardigheden"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
@@ -18323,7 +18323,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:341
 msgid "Your offer <0>{price}</0>"
-msgstr ""
+msgstr "Je aanbieding <0>{price}</0>"
 
 #: src/components/_economy/market/MarketHeader.tsx:14
 msgid "Your offers"
@@ -18357,11 +18357,11 @@ msgstr "Je premiumabonnement is verlopen!"
 
 #: src/components/_other/tour/TutorialStep.tsx:441
 msgid "Your progress is kept. Finish it later to earn the reward."
-msgstr ""
+msgstr "Je vooruitgang is bewaard. Voltooi het later om de beloning te verdienen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:223
 msgid "Your progression"
-msgstr ""
+msgstr "Je vooruitgang"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
 msgid "Your rank"
@@ -18373,7 +18373,7 @@ msgstr "Je verwijzingslink"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:251
 msgid "Your reward"
-msgstr ""
+msgstr "Je beloning"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1581
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -18389,7 +18389,7 @@ msgstr "Je team:"
 
 #: src/components/_political/election/Election.tsx:230
 msgid "Your vote"
-msgstr ""
+msgstr "Uw stem"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
@@ -18407,7 +18407,7 @@ msgstr ""
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
-msgstr "your@email.com"
+msgstr "jouw@email.com"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:52
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
