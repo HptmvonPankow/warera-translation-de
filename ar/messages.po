@@ -8062,13 +8062,13 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:48
 msgid "from"
-msgstr ""
+msgstr "من"
 
 #. placeholder {0}: range.min
 #. placeholder {1}: range.max
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:390
 msgid "From <0>{0}</0> to <1>{1}</1> before tax."
-msgstr ""
+msgstr ".من <0>{0}</0> الى <1>{1}</1> قبل الضرائب"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
@@ -8084,11 +8084,11 @@ msgstr "حقيقة: صاحب الكازينو يفوز دائمًا"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2638
 msgid "Fund proper research"
-msgstr ""
+msgstr "نمويل البحث المناسب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:298
 msgid "Fund the idea"
-msgstr ""
+msgstr "تمويل الفكرة"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
@@ -8116,11 +8116,11 @@ msgstr "احصل على <0>خبرة</0> بإنهاء مهامك!"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Gambler"
-msgstr ""
+msgstr "مقامر"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:566
 msgid "Gambling debts"
-msgstr ""
+msgstr "ديون المقامرة"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:109
 #: src/components/_user/user/UserBadges.tsx:53
@@ -8251,7 +8251,7 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:839
 msgid "Give a tool to one of your employees"
-msgstr ""
+msgstr "اعطاء اداة لاحد عمالك"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
@@ -8263,7 +8263,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:520
 msgid "Give them two days off"
-msgstr ""
+msgstr "اعطائهم يومين عطلة"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:251
 msgid "Give your token a descriptive name so you can identify it later."
@@ -8323,7 +8323,7 @@ msgstr "ذهب"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:117
 msgid "Gone"
-msgstr ""
+msgstr "اختفى"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3649
 msgid "Good scrap, and at the bottom, a whole toolbox."
@@ -8356,7 +8356,7 @@ msgstr "عقوبة حكومية"
 #: src/components/_political/law/LawFormModal.tsx:335
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:75
 msgid "Government type"
-msgstr ""
+msgstr "نوع الحكومة"
 
 #: src/components/_political/government/Government.tsx:220
 msgid "Government wage"
@@ -8388,7 +8388,7 @@ msgstr "شبكة الإحداثيات"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:129
 msgid "Greedy"
-msgstr ""
+msgstr "جشع"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1146
 msgid "Green grapes only"
@@ -8554,7 +8554,7 @@ msgstr "ح. تمجيد أو ترويج أو تشجيع مخالفة القواع
 
 #: src/utils/translations.tsx:266
 msgid "Hammer"
-msgstr ""
+msgstr "مطرقة"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
@@ -8701,7 +8701,7 @@ msgstr "خوذة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2801
 msgid "Help decipher it"
-msgstr ""
+msgstr "ساعد لفك الشفرة"
 
 #: src/components/_military/mu/MuMemberList.tsx:375
 msgid "Help for Mu"
