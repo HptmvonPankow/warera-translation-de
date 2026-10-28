@@ -11596,7 +11596,7 @@ msgstr "in diesem Unternehmen nicht verwendbar"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:230
 msgid "Not usable in this company"
-msgstr ""
+msgstr "In diesem Unternehmen nicht verwendbar"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
@@ -11774,56 +11774,56 @@ msgstr "Nur {0} % der aktiven Spieler haben bei diesem Meilenstein Stufe {1} err
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:501
 msgid "Only a {claustrophobe}."
-msgstr ""
+msgstr "Nur bei einem {claustrophobe}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:268
 msgid "Only a {creatureOfHabit}."
-msgstr ""
+msgstr "Nur bei einem {creatureOfHabit}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:155
 msgid "Only a {gambler}."
-msgstr ""
+msgstr "Nur bei einem {gambler}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:497
 msgid "Only a {jinx}."
-msgstr ""
+msgstr "Nur bei einem {jinx}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:264
 msgid "Only a {modest}."
-msgstr ""
+msgstr "Nur bei einem {modest}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:553
 msgid "Only a {recruiter}."
-msgstr ""
+msgstr "Nur bei einem {recruiter}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:505
 msgid "Only a {sprinter}."
-msgstr ""
+msgstr "Nur bei einem {sprinter}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:260
 msgid "Only a {stockpiler}."
-msgstr ""
+msgstr "Nur bei einem {stockpiler}."
 
 #: src/components/_social/poll/PollCard.tsx:232
 msgid "Only citizens of <0/> can vote."
-msgstr ""
+msgstr "Nur Bürger von <0/> dürfen abstimmen."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:470
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:121
 msgid "Only ever from an office romance."
-msgstr ""
+msgstr "Nur durch eine Romanze am Arbeitsplatz."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:164
 msgid "Only MU owners and commanders can register the unit"
-msgstr ""
+msgstr "Nur Eigentümer und Kommandeure einer Militäreinheit können die Einheit registrieren"
 
 #: src/components/_social/poll/PollEditorModal.tsx:262
 msgid "Only players who are already citizens when the poll starts can vote."
-msgstr ""
+msgstr "Nur Spieler, die bei Beginn der Umfrage bereits Bürger sind, dürfen abstimmen."
 
 #: src/components/_social/poll/PollCard.tsx:244
 msgid "Only players who were already citizens of <0/> when the poll started can vote."
-msgstr ""
+msgstr "Nur Spieler, die bei Beginn der Umfrage bereits Bürger von <0/> waren, dürfen abstimmen."
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:56
 msgid "Only supporters can see their spending and income breakdown."
@@ -11831,7 +11831,7 @@ msgstr "Nur Supporter können ihre Ausgaben- und Einnahmenaufschlüsselung sehen
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:168
 msgid "Only the government, or an owner/commander of an MU of this country, can register it"
-msgstr ""
+msgstr "Nur die Regierung oder ein Eigentümer/Kommandeur einer Militäreinheit dieses Landes kann sie registrieren"
 
 #: src/components/_military/mu/MuSettings.tsx:99
 msgid "Only the owner and commanders can change the nationality."
@@ -11844,19 +11844,19 @@ msgstr "Öffnen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:311
 msgid "Open <0/>"
-msgstr ""
+msgstr "<0/> öffnen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2332
 msgid "Open a toolbox"
-msgstr ""
+msgstr "Eine Werkzeugkiste öffnen"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:581
 msgid "Open all"
-msgstr ""
+msgstr "Alle öffnen"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:103
 msgid "Open all cases"
-msgstr ""
+msgstr "Alle Kisten öffnen"
 
 #: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
@@ -11884,7 +11884,7 @@ msgstr "Öffne es, um einen zufälligen Gegenstand zu erhalten"
 
 #: src/utils/translations.tsx:121
 msgid "Open it to get a random tool for one of your employees"
-msgstr ""
+msgstr "Öffne sie, um ein zufälliges Werkzeug für einen deiner Mitarbeiter zu erhalten"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:68
 msgid "Open multiple <0>Cases</0> at same time"
@@ -11892,7 +11892,7 @@ msgstr "Mehrere <0>Kisten</0> gleichzeitig öffnen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3644
 msgid "Open the bag"
-msgstr ""
+msgstr "Die Tasche öffnen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:550
 msgid "Open the chat"
@@ -11900,7 +11900,7 @@ msgstr "Öffne den Chat"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:370
 msgid "Open this menu to eat."
-msgstr ""
+msgstr "Öffne dieses Menü, um zu essen."
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:214
 msgid "Open to all"
@@ -11912,7 +11912,7 @@ msgstr "Öffne deine Kiste!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:458
 msgid "Open your company's menu."
-msgstr ""
+msgstr "Öffne das Menü deines Unternehmens."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:61
 msgid "Operative"
@@ -11924,11 +11924,11 @@ msgstr "Optionen"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:370
 msgid "or"
-msgstr ""
+msgstr "oder"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:261
 msgid "Or swap with"
-msgstr ""
+msgstr "Oder tauschen mit"
 
 #: src/components/_military/order/BattleOrderTags.tsx:28
 msgid "Order"
@@ -11936,15 +11936,15 @@ msgstr "Befehl"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3307
 msgid "Order a crate for everyone"
-msgstr ""
+msgstr "Eine Kiste für alle bestellen"
 
 #: src/components/_military/order/BattleOrderActions.tsx:49
 msgid "Order disabled successfully!"
-msgstr ""
+msgstr "Befehl erfolgreich deaktiviert!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:273
 msgid "Order the tool put back together"
-msgstr ""
+msgstr "Anweisen, das Werkzeug wieder zusammenzubauen"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:83
 msgid "Orders"
@@ -11961,16 +11961,16 @@ msgstr "Aufträge abgebrochen"
 #: src/pages/orders.tsx:24
 #: src/pages/orders.tsx:35
 msgid "Orders of <0/>"
-msgstr ""
+msgstr "Befehle von <0/>"
 
 #. placeholder {0}: costMultiplier(effects.allyOrderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:318
 msgid "Orders on allies' and pact partners' battles cost {0}"
-msgstr ""
+msgstr "Befehle für Schlachten von Verbündeten und Paktpartnern kosten {0}"
 
 #: src/components/_political/map/MapMenu.tsx:459
 msgid "Origin"
-msgstr ""
+msgstr "Ursprung"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:68
 #: src/components/_military/battle/ActiveBattlesList.tsx:119
@@ -11981,7 +11981,7 @@ msgstr "Andere"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:369
 msgid "Out of Health?"
-msgstr ""
+msgstr "Keine Gesundheit mehr?"
 
 #: src/components/_political/allianceLaw/AllianceLaw.tsx:72
 #: src/components/_political/law/Law.tsx:78
@@ -11999,11 +11999,11 @@ msgstr "Überlauf:"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2676
 msgid "Overheard at the bar"
-msgstr ""
+msgstr "An der Bar aufgeschnappt"
 
 #: src/components/_layout/LayoutOptions.tsx:120
 msgid "Overseas frontiers"
-msgstr ""
+msgstr "Überseegebiete"
 
 #: src/components/_military/war/WarHeader.tsx:79
 msgid "Overview"
@@ -12011,11 +12011,11 @@ msgstr "Übersicht"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:271
 msgid "Overwrite with current"
-msgstr ""
+msgstr "Mit aktuellem Wert überschreiben"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:53
 msgid "Own country first, no alliance"
-msgstr ""
+msgstr "Eigenes Land zuerst, keine Allianz"
 
 #: src/components/_other/shop/SkinPackItem.tsx:108
 msgid "Owned"
@@ -12024,7 +12024,7 @@ msgstr "Im Besitz"
 #. placeholder {0}: badgeStat.percent
 #: src/components/_user/badgeCollection/Badge.tsx:81
 msgid "Owned by {0}% of players"
-msgstr ""
+msgstr "Im Besitz von {0} % der Spieler"
 
 #: src/pages/user/[userId]/index.tsx:192
 msgid "Owned Military Units"
@@ -12040,7 +12040,7 @@ msgstr "Besitzer"
 
 #: src/components/_user/user/UserBadges.tsx:338
 msgid "Owner of this conversation."
-msgstr ""
+msgstr "Eigentümer dieser Unterhaltung."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1347
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
@@ -12062,23 +12062,23 @@ msgstr "Pakete"
 #. placeholder {0}: costMultiplier(effects.pactUpkeepMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:428
 msgid "Pact upkeep {0}"
-msgstr ""
+msgstr "Paktunterhalt {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:499
 msgid "Paid back in full"
-msgstr ""
+msgstr "Vollständig zurückgezahlt"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:513
 msgid "Paid back in full: {value}"
-msgstr ""
+msgstr "Vollständig zurückgezahlt: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:497
 msgid "Paid back with {interest}% interest"
-msgstr ""
+msgstr "Mit {interest} % Zinsen zurückgezahlt"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:511
 msgid "Paid back with interest: {value}"
-msgstr ""
+msgstr "Mit Zinsen zurückgezahlt: {value}"
 
 #: src/components/_economy/inventory/Inventory.tsx:501
 #: src/components/_user/UserEquipments.tsx:267
@@ -12105,7 +12105,7 @@ msgstr "Parteien"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:108
 msgid "Parties can no longer start resistance"
-msgstr ""
+msgstr "Parteien können keinen Widerstand mehr beginnen"
 
 #: src/components/_layout/LayoutRightIcons.tsx:242
 #: src/components/_layout/MoreButtonNav.tsx:137
@@ -12157,7 +12157,7 @@ msgstr "Parteiabstimmung geöffnet"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:79
 msgid "Party ethics were replaced by government types"
-msgstr ""
+msgstr "Parteienethik wurde durch Regierungsformen ersetzt"
 
 #: src/components/_political/election/election.frontConfig.tsx:33
 msgid "Party Leader election"
@@ -12193,82 +12193,82 @@ msgstr "Füge einen Link zu deinem Wahlkampfartikel ein oder lasse das Feld leer
 
 #: src/components/_economy/employee/employee.traitMeta.ts:122
 msgid "Patriot"
-msgstr ""
+msgstr "Patriot"
 
 #. placeholder {0}: damagesPercent(base, false)
 #. placeholder {1}: damagesPercent(next, false)
 #: src/components/_political/govType/govType.frontConfig.tsx:249
 msgid "Patriotic bonus {0} → {1}"
-msgstr ""
+msgstr "Patriotischer Bonus {0} → {1}"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:51
 #: src/components/_user/user/Level.tsx:200
 msgid "Paused"
-msgstr ""
+msgstr "Pausiert"
 
 #. placeholder {0}: position.position
 #. placeholder {1}: position.total
 #: src/components/_other/tour/TutorialGuidesList.tsx:50
 msgid "Paused at step {0} of {1}"
-msgstr ""
+msgstr "Bei Schritt {0} von {1} pausiert"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:88
 msgid "Paused: nobody manages here"
-msgstr ""
+msgstr "Pausiert: Niemand verwaltet dieses Unternehmen"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:118
 msgid "Paused: nobody produces here"
-msgstr ""
+msgstr "Pausiert: Niemand produziert hier"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:149
 msgid "Pay"
-msgstr ""
+msgstr "Bezahlen"
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:39
 #: src/components/_user/notification/notification.frontConfig.tsx:2205
 msgid "Pay cut"
-msgstr ""
+msgstr "Gehaltskürzung"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:228
 msgid "pay cut pending"
-msgstr ""
+msgstr "Gehaltskürzung ausstehend"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1450
 msgid "Pay for a correction"
-msgstr ""
+msgstr "Für eine Korrektur bezahlen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2003
 msgid "Pay for a dinner for two"
-msgstr ""
+msgstr "Ein Abendessen für zwei bezahlen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:712
 msgid "Pay for a short visit home"
-msgstr ""
+msgstr "Für einen kurzen Besuch zu Hause bezahlen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:703
 msgid "Pay for a trip home"
-msgstr ""
+msgstr "Für eine Heimreise bezahlen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2863
 msgid "Pay for proper lessons"
-msgstr ""
+msgstr "Für ordentlichen Unterricht bezahlen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:394
 msgid "Pay for the course"
-msgstr ""
+msgstr "Für den Kurs bezahlen"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:152
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:120
 msgid "Pay per Management point"
-msgstr ""
+msgstr "Bezahlung pro Managementpunkt"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2204
 msgid "Pay raised"
-msgstr ""
+msgstr "Gehalt erhöht"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2277
 msgid "Pay the “inspection fee”"
-msgstr ""
+msgstr "Die „Inspektionsgebühr“ bezahlen"
 
 #: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
@@ -12280,7 +12280,7 @@ msgstr "Auszahlung"
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:99
 msgid "Payroll"
-msgstr ""
+msgstr "Gehaltsabrechnung"
 
 #: src/components/_political/event/EventList.tsx:106
 msgid "Peace made"
@@ -12297,27 +12297,27 @@ msgstr "Die Menschen sind wütend, eine automatische Revolte hat in <0/> begonne
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:84
 #: src/pages/country/[countryId]/index.tsx:386
 msgid "Per day"
-msgstr ""
+msgstr "Pro Tag"
 
 #: src/pages/country/[countryId]/index.tsx:421
 msgid "per day to <0/>."
-msgstr ""
+msgstr "pro Tag an <0/>."
 
 #: src/components/_economy/manager/managerStats.tsx:54
 msgid "Per hour, per Management point"
-msgstr ""
+msgstr "Pro Stunde und Managementpunkt"
 
 #: src/components/_economy/manager/managerStats.tsx:57
 msgid "Per hour. Allowed"
-msgstr ""
+msgstr "Pro Stunde. Erlaubt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3635
 msgid "Perfectly good stuff"
-msgstr ""
+msgstr "Völlig brauchbare Sachen"
 
 #: src/components/_user/user/UserSkills.tsx:208
 msgid "Permanent <0>{nextBonus}</0> XP bonus, paused while you are at level {MAX_LEVEL}."
-msgstr ""
+msgstr "Dauerhafter <0>{nextBonus}</0>-EP-Bonus, der pausiert, solange du Stufe {MAX_LEVEL} erreicht hast."
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:169
 msgid "Permanently dissolve the alliance."
@@ -12333,7 +12333,7 @@ msgstr "Unteroffizier"
 
 #: src/utils/translations.tsx:280
 msgid "Philosopher's Flask"
-msgstr ""
+msgstr "Fläschchen des Philosophen"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:60
 msgid "Phone number verified!"
@@ -12353,22 +12353,22 @@ msgstr "Telefonverifizierung erforderlich"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:481
 msgid "Pick {cardTitle}"
-msgstr ""
+msgstr "{cardTitle} auswählen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:120
 #: src/components/_other/tour/tuto.frontConfig.tsx:477
 #: src/components/_other/tour/tuto.frontConfig.tsx:506
 msgid "Pick a candidate!"
-msgstr ""
+msgstr "Wähle einen Kandidaten!"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:365
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
-msgstr ""
+msgstr "Wähle eine Karte"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:170
 msgid "Pick a card!"
-msgstr ""
+msgstr "Wähle eine Karte!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:309
 msgid "Pick a fight!"
@@ -12376,40 +12376,40 @@ msgstr "Such dir einen Kampf aus!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:347
 msgid "Pick a side and hit until your <0>Health</0> runs out."
-msgstr ""
+msgstr "Wähle eine Seite und greife an, bis deine <0>Gesundheit</0> aufgebraucht ist."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:441
 msgid "Pick an article!"
-msgstr ""
+msgstr "Wähle einen Artikel!"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:687
 msgid "Pick an option"
-msgstr ""
+msgstr "Wähle eine Option"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:404
 msgid "Pick one card, the other is lost."
-msgstr ""
+msgstr "Wähle eine Karte; die andere geht verloren."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:478
 #: src/components/_other/tour/tuto.frontConfig.tsx:507
 msgid "Pick the one you like best."
-msgstr ""
+msgstr "Wähle die, die dir am besten gefällt."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:197
 msgid "Pick up to {maxItemsPerListing} weapons or equipment in perfect condition to put on sale."
-msgstr ""
+msgstr "Wähle bis zu {maxItemsPerListing} Waffen oder Ausrüstungsgegenstände in perfektem Zustand aus, die du zum Verkauf anbieten möchtest."
 
 #: src/utils/translations.tsx:248
 msgid "Pickaxe"
-msgstr ""
+msgstr "Spitzhacke"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:169
 msgid "Picked for you if you do not answer in time."
-msgstr ""
+msgstr "Wird für dich ausgewählt, wenn du nicht rechtzeitig antwortest."
 
 #: src/components/_economy/employee/ToolSelectorPopover.tsx:156
 msgid "Picking it takes it from them."
-msgstr ""
+msgstr "Wenn du es auswählst, wird es ihnen weggenommen."
 
 #: src/utils/translations.tsx:123
 msgid "Pill"
@@ -12417,28 +12417,28 @@ msgstr "Pille"
 
 #: src/components/_social/PinArticleModal.tsx:107
 msgid "Pin"
-msgstr ""
+msgstr "Anheften"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1101
 msgid "Pin it up"
-msgstr ""
+msgstr "Es anheften"
 
 #: src/components/_social/Article.tsx:306
 #: src/components/_social/PinArticleModal.tsx:70
 msgid "Pin on news"
-msgstr ""
+msgstr "In den Nachrichten anheften"
 
 #: src/components/_social/PinArticleModal.tsx:38
 msgid "Pin updated"
-msgstr ""
+msgstr "Anheftung aktualisiert"
 
 #: src/pages/news/index.tsx:40
 msgid "Pinned by admin"
-msgstr ""
+msgstr "Vom Administrator angeheftet"
 
 #: src/pages/news/index.tsx:52
 msgid "Pinned by government"
-msgstr ""
+msgstr "Von der Regierung angeheftet"
 
 #: src/components/_social/PinArticleModal.tsx:76
 msgid "Pinned until <0/>"
