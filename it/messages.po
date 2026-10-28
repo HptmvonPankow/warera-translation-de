@@ -8768,7 +8768,7 @@ msgstr "Assumi il tuo primo dipendente!"
 
 #: src/components/_economy/employee/employeeTags.tsx:271
 msgid "hired {hiredDaysAgo}d ago"
-msgstr "assunto {hiredDaysAgo, plural, one {#g} other {#gg} fa"
+msgstr "assunto {hiredDaysAgo, plural, one {#g fa} other {#gg fa}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:314
 msgid "Hired 7 days ago or more, and {greedy}, {climber} or with happiness {mood} or less."
