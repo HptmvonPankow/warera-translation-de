@@ -16646,11 +16646,11 @@ msgstr "Nicht eingesammelte Kisten auf der Karte, von maximal {maxLoots}"
 #: src/components/_economy/employee/employeeStats.tsx:130
 #: src/components/_user/user/EcoSkillEffects.tsx:26
 msgid "Uncommon"
-msgstr ""
+msgstr "Ungewöhnlich"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1588
 msgid "Uncursed, certified, and the exorcist fixed the squeak too."
-msgstr ""
+msgstr "Entflucht und zertifiziert – der Exorzist hat auch das Quietschen behoben."
 
 #: src/components/_user/UserEquipments.tsx:167
 msgid "Unequip all"
@@ -16658,7 +16658,7 @@ msgstr "Alle ablegen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1854
 msgid "United in outrage against you, {name} and {partnerName} are inseparable now."
-msgstr ""
+msgstr "Vereint in ihrer Empörung über dich sind {name} und {partnerName} jetzt unzertrennlich."
 
 #: src/pages/region/[regionId]/index.tsx:197
 msgid "Unlinked"
@@ -16678,7 +16678,7 @@ msgstr "'Allen helfen'-Button freischalten"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:197
 msgid "Unlock more skill presets"
-msgstr ""
+msgstr "Weitere Fähigkeitsprofile freischalten"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:107
 msgid "Unlock Produce all button"
@@ -16686,7 +16686,7 @@ msgstr "'Alle produzieren'-Button freischalten"
 
 #: src/components/_user/level/LevelUpExtra.tsx:15
 msgid "Unlocked"
-msgstr ""
+msgstr "Freigeschaltet"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2194
 msgid "Unlocked pack"
@@ -16698,11 +16698,11 @@ msgstr "<0/> entstummt"
 
 #: src/components/_economy/employee/employeeStats.tsx:739
 msgid "Unpaid"
-msgstr ""
+msgstr "Unbezahlt"
 
 #: src/components/_social/PinArticleModal.tsx:99
 msgid "Unpin"
-msgstr ""
+msgstr "Lösen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -16715,7 +16715,7 @@ msgstr "Unruhe"
 #. placeholder {0}: unrestMultiplier(effects.unrestIncreaseMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:365
 msgid "Unrest contributions {0} when pushing the bar up"
-msgstr ""
+msgstr "Unruhebeiträge {0} beim Erhöhen der Leiste"
 
 #: src/components/_political/contribution/ContributionList.tsx:196
 msgid "Unrest Contributors"
@@ -16723,7 +16723,7 @@ msgstr "Unruhe-Unterstützer"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:121
 msgid "Unrestricted chat"
-msgstr ""
+msgstr "Uneingeschränkter Chat"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:278
 msgid "Unselect all"
@@ -16740,11 +16740,11 @@ msgstr "Aktualisieren"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:146
 msgid "Update focus"
-msgstr ""
+msgstr "Fokus aktualisieren"
 
 #: src/components/_user/user/EnergyGiftAlert.tsx:30
 msgid "Update gift"
-msgstr ""
+msgstr "Geschenk aktualisieren"
 
 #: src/pages/user/[userId]/settings.tsx:91
 msgid "Update infos"
@@ -16752,7 +16752,7 @@ msgstr "Infos aktualisieren"
 
 #: src/components/_social/PinArticleModal.tsx:107
 msgid "Update pin"
-msgstr ""
+msgstr "Anheftung aktualisieren"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:581
 msgid "Upgrade a company"
@@ -16764,7 +16764,7 @@ msgstr "Verbessere Automatisierte Engine"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:375
 msgid "Upgrade break room"
-msgstr ""
+msgstr "Aufenthaltsraum verbessern"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:580
 msgid "Upgrade Company"
@@ -16780,7 +16780,7 @@ msgstr "Lager verbessern"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:463
 msgid "Upgrade the break room"
-msgstr ""
+msgstr "Den Aufenthaltsraum verbessern"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:234
 msgid "Upgrade to supporter"
@@ -16801,27 +16801,27 @@ msgstr "Verbesserungen"
 
 #: src/components/_user/auth/WelcomeModal.tsx:224
 msgid "Upload an avatar"
-msgstr ""
+msgstr "Ein Profilbild hochladen"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:25
 msgid "Uranium"
-msgstr ""
+msgstr "Uran"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:760
 msgid "Use <0/>"
-msgstr ""
+msgstr "<0/> verwenden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2685
 msgid "Use it"
-msgstr ""
+msgstr "Es verwenden"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:758
 msgid "Use Pills"
-msgstr ""
+msgstr "Pillen verwenden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2537
 msgid "Use them as notepaper"
-msgstr ""
+msgstr "Sie als Notizzettel verwenden"
 
 #: src/utils/translations.tsx:94
 #: src/utils/translations.tsx:100
@@ -16916,23 +16916,23 @@ msgstr "Benutzername"
 #: src/components/_user/user/UserDropdown.tsx:265
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
-msgstr ""
+msgstr "Benutzernamenseffekt"
 
 #: src/components/_user/user/UserEffectModal.tsx:11
 msgid "Username Effect"
-msgstr ""
+msgstr "Benutzernamenseffekt"
 
 #: src/components/_user/user/UserEffectSelector.tsx:71
 msgid "Username effect updated"
-msgstr ""
+msgstr "Benutzernamenseffekt aktualisiert"
 
 #: src/components/_user/user/UserEffectSelector.tsx:136
 msgid "Username effects are a Supporter Plan feature."
-msgstr ""
+msgstr "Benutzernamenseffekte sind eine Funktion des Unterstützer-Abos."
 
 #: src/pages/user/[userId]/settings.tsx:113
 msgid "Username font"
-msgstr ""
+msgstr "Schriftart des Benutzernamens"
 
 #: src/components/_user/user/UserDropdown.tsx:158
 msgid "Username removed"
@@ -17021,87 +17021,87 @@ msgstr "Wertvolle Beiträge werden mit dem \"Bug Finder\"-Abzeichen anerkannt."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Vampirmunition"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Vampirarsenal"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Vampirsarg"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Vampirgraf"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Stiefel des Vampirgrafen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Handschuhe des Vampirgrafen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Maske des Vampirgrafen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Hose des Vampirgrafen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Gehrock des Vampirgrafen"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Stiefel der Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Korsett der Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Strumpfbänder der Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Handschuhe der Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Zylinder der Vampirgräfin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Vampirarmbrust"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Vampirdolch"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Schwere Vampirmunition"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Leichte Vampirmunition"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Vampirpistole"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Vampir-Scharfschützengewehr"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -17187,7 +17187,7 @@ msgstr "Stimmen"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
-msgstr ""
+msgstr "Die Abstimmung wird jetzt für alle geschlossen. Das kann nicht rückgängig gemacht werden."
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
@@ -17217,11 +17217,11 @@ msgstr "Löhne"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3161
 msgid "Wait for it to restart"
-msgstr ""
+msgstr "Warten, bis es neu startet"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2182
 msgid "Wait it out"
-msgstr ""
+msgstr "Abwarten"
 
 #. placeholder {0}: gameConfig?.referral.levelNeededForBadge
 #: src/components/_user/referral/ReferralList.tsx:112
@@ -17230,7 +17230,7 @@ msgstr "Warte auf Level {0}"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:95
 msgid "Walked out: they were too unhappy to keep working for you."
-msgstr ""
+msgstr "Sie sind gegangen: Sie waren zu unzufrieden, um weiter für dich zu arbeiten."
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:161
 msgid "wants"
@@ -17250,7 +17250,7 @@ msgstr "War Era ist zu 100 % kostenlos spielbar und hat keine <0>Werbung</0> ode
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3229
 msgid "War stories"
-msgstr ""
+msgstr "Kriegsgeschichten"
 
 #: src/components/_user/userReports/ReportFormModal.tsx:87
 msgid "Warning"
@@ -17266,7 +17266,7 @@ msgstr "Kriege"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:493
 msgid "We picked Steel: it's made from your Iron. Tap to build."
-msgstr ""
+msgstr "Wir haben Stahl ausgewählt: Er wird aus deinem Eisen hergestellt. Tippe, um ihn zu produzieren."
 
 #: src/components/_user/user/UserRankingsPanel.tsx:49
 #: src/pages/user/[userId]/index.tsx:142
@@ -17291,11 +17291,11 @@ msgstr "Waffen"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:104
 msgid "Weapons, ammo and gear above {maxRarityLabel} rarity cannot be used in this tournament's battles."
-msgstr ""
+msgstr "Waffen, Munition und Ausrüstung mit einer Seltenheit über {maxRarityLabel} dürfen in den Schlachten dieses Turniers nicht verwendet werden."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:120
 msgid "Weapons, ammo and gear above this rarity cannot be used in this tournament's battles."
-msgstr ""
+msgstr "Waffen, Munition und Ausrüstung mit einer höheren Seltenheit dürfen in den Schlachten dieses Turniers nicht verwendet werden."
 
 #: src/components/_military/mu/MuMemberList.tsx:192
 #: src/components/_user/mission/MissionsList.tsx:270
@@ -17325,11 +17325,11 @@ msgstr "Willkommen zurück, {username}!"
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:95
 msgid "Welcome back, <0/>"
-msgstr ""
+msgstr "Willkommen zurück, <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:989
 msgid "Welcome to <0/>! Read its article when you have a moment: <1/>"
-msgstr ""
+msgstr "Willkommen bei <0/>! Lies den Artikel, wenn du Zeit hast: <1/>"
 
 #: src/components/_user/auth/WelcomeModal.tsx:162
 msgid "Welcome to War Era!"
@@ -17341,43 +17341,43 @@ msgstr "Willkommen in deiner Wirtschaft!"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:185
 msgid "Well done! Here is your reward."
-msgstr ""
+msgstr "Gut gemacht! Hier ist deine Belohnung."
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:240
 msgid "What a day of the extra production this tool gives is worth at the market value of a point. An estimate: what you really earn depends on what you make and the price you sell it at."
-msgstr ""
+msgstr "Der Marktwert der zusätzlichen Tagesproduktion, die dieses Werkzeug ermöglicht. Ein Schätzwert: Was du tatsächlich verdienst, hängt davon ab, was du herstellst und zu welchem Preis du es verkaufst."
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:102
 msgid "What a day of the production this manager adds is worth at the market value of a point, minus a day of their pay. An estimate: it follows your roster as it is now."
-msgstr ""
+msgstr "Der Marktwert der zusätzlichen Tagesproduktion durch diesen Manager abzüglich eines Tagesgehalts. Ein Schätzwert, der sich nach deiner aktuellen Belegschaft richtet."
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:184
 msgid "What a day of their production is worth at the market value of a point, minus a day of their wage. An estimate: what you really earn depends on what you make and the price you sell it at."
-msgstr ""
+msgstr "Der Marktwert ihrer Tagesproduktion abzüglich eines Tageslohns. Ein Schätzwert: Was du tatsächlich verdienst, hängt davon ab, was du herstellst und zu welchem Preis du es verkaufst."
 
 #: src/components/_economy/employee/EmployeeList.tsx:136
 msgid "What a day of this company's production is worth at the market value of a point, minus the day's whole payroll, employees and manager. An estimate: what you really earn depends on what it makes and the price you sell it at."
-msgstr ""
+msgstr "Der Marktwert der Tagesproduktion dieses Unternehmens abzüglich der gesamten Tageslöhne von Mitarbeitern und Manager. Ein Schätzwert: Der tatsächliche Gewinn hängt davon ab, was es produziert und zu welchem Preis du es verkaufst."
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:70
 msgid "What a day of your employees' production is worth at the market value of a point, minus the day's whole payroll, employees and managers. An estimate: what you really earn depends on what you make and the price you sell it at."
-msgstr ""
+msgstr "Der Marktwert der Tagesproduktion deiner Mitarbeiter abzüglich der gesamten Tageslöhne von Mitarbeitern und Managern. Ein Schätzwert: Der tatsächliche Gewinn hängt davon ab, was du herstellst und zu welchem Preis du es verkaufst."
 
 #: src/components/_social/poll/PollEditorModal.tsx:188
 msgid "What do you want to ask?"
-msgstr ""
+msgstr "Was möchtest du fragen?"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:246
 msgid "What each level opens"
-msgstr ""
+msgstr "Was jede Stufe freischaltet"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:172
 msgid "What the battles you are fighting in have paid you so far (hits, damage, cases, bounty and contract money), plus the loot pool items you are currently in line for. Pool items are not won yet: they follow the damage rankings and are only yours once the pool is distributed."
-msgstr ""
+msgstr "Was dir die Schlachten, an denen du teilnimmst, bisher eingebracht haben (Treffer, Schaden, Kisten, Kopfgeld und Vertragsgeld), zuzüglich der Gegenstände aus dem Beutepool, auf die du aktuell Anspruch hast. Diese Gegenstände hast du noch nicht gewonnen: Sie werden anhand der Schadensrangliste verteilt und gehören dir erst nach der Ausschüttung des Beutepools."
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:541
 msgid "What your employees' Luck is expected to find in a day, at their current Luck and traits. Only hours that bank production roll a find, so a full storage or a disabled company finds nothing (Salvagers keep looking while the storage is full)."
-msgstr ""
+msgstr "Wie viele Werkzeugkisten deine Mitarbeiter mit ihrem aktuellen Glück und ihren Eigenschaften voraussichtlich täglich finden. Nur Stunden, in denen Produktion eingelagert wird, zählen für die Suche. Bei vollem Lager oder deaktiviertem Unternehmen wird nichts gefunden (Bergungsspezialisten suchen auch bei vollem Lager weiter)."
 
 #: src/components/_common/GameRules.tsx:124
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
@@ -17385,11 +17385,11 @@ msgstr "Tools zur Datenerfassung und Anzeige, die die offizielle öffentliche AP
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr ""
+msgstr "Weißer Anzug, alles in Gold"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:315
 msgid "Who's winning?"
-msgstr ""
+msgstr "Wer liegt vorn?"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:134
 #: src/components/_political/law/LawFormModal.tsx:213
@@ -17398,11 +17398,11 @@ msgstr "Warum möchtest du dieses Gesetz vorschlagen?"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:113
 msgid "Wild card"
-msgstr ""
+msgstr "Joker"
 
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:39
 msgid "Winner"
-msgstr ""
+msgstr "Gewinner"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier Pack"
@@ -17410,7 +17410,7 @@ msgstr "Wintersoldaten-Paket"
 
 #: src/components/_layout/loadingTips.tsx:499
 msgid "With a Supporter Plan, your color scheme paints the whole app, this loading screen included."
-msgstr ""
+msgstr "Mit einem Unterstützer-Abo färbt dein Farbschema die gesamte App ein, einschließlich dieses Ladebildschirms."
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:113
 #: src/components/_military/battle/ActiveBattlesList.tsx:148
@@ -17419,38 +17419,38 @@ msgstr "Mit Kopfgeld"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:261
 msgid "With the right parts, the tool is as good as new."
-msgstr ""
+msgstr "Mit den richtigen Teilen ist das Werkzeug wie neu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3345
 msgid "With you sweating along, the whole shift works harder, and grumbles."
-msgstr ""
+msgstr "Wenn du selbst mit anpackst, arbeitet die ganze Schicht härter – und murrt dabei."
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:105
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:242
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:103
 msgid "Withdraw"
-msgstr ""
+msgstr "Zurückziehen"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:48
 msgid "Withdraw all"
-msgstr ""
+msgstr "Alle zurückziehen"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:43
 msgid "Withdraw all your offers?"
-msgstr ""
+msgstr "Alle deine Angebote zurückziehen?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3022
 msgid "Withdraw the company"
-msgstr ""
+msgstr "Das Unternehmen zurückziehen"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:100
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:237
 msgid "Withdraw this offer?"
-msgstr ""
+msgstr "Dieses Angebot zurückziehen?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3881
 msgid "Within the hour, everyone understands the note."
-msgstr ""
+msgstr "Innerhalb einer Stunde versteht jeder die Notiz."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
@@ -17459,7 +17459,7 @@ msgstr "Zaubererhut"
 #: src/components/_economy/employee/employee.frontConfig.tsx:484
 #: src/components/_economy/employee/employee.frontConfig.tsx:512
 msgid "Women only."
-msgstr ""
+msgstr "Nur für Frauen."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
@@ -17472,15 +17472,15 @@ msgstr "Holz"
 
 #: src/utils/translations.tsx:113
 msgid "Wooden Case"
-msgstr ""
+msgstr "Holzkiste"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:566
 msgid "Wooden cases are waiting near you. Open this menu."
-msgstr ""
+msgstr "In deiner Nähe warten Holzkisten. Öffne dieses Menü."
 
 #: src/components/_layout/loadingTips.tsx:292
 msgid "Wooden cases vanish after {woodenCaseExpiryHours}h, and no new one drops while {maxWoodenCases} are waiting. Go collect them!"
-msgstr ""
+msgstr "Holzkisten verschwinden nach {woodenCaseExpiryHours} Std. und es erscheint keine neue, solange {maxWoodenCases} Kisten warten. Sammle sie ein!"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
@@ -17498,11 +17498,11 @@ msgstr "Arbeit"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:184
 msgid "Work 3 times. Each one costs <0>Energy</0>."
-msgstr ""
+msgstr "Arbeite 3-mal. Jeder Einsatz kostet <0>Energie</0>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1472
 msgid "Work anniversary"
-msgstr ""
+msgstr "Betriebsjubiläum"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2200
 msgid "Worker left"
@@ -17518,31 +17518,31 @@ msgstr "Arbeitskräfte"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:115
 msgid "Workforce chart"
-msgstr ""
+msgstr "Belegschaftsdiagramm"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
-msgstr ""
+msgstr "Arbeitet im Ausland, ist ein {expat} oder {cosmopolitan} und hat mindestens einen Kollegen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:177
 msgid "Working abroad, with happiness {mood} or less. Always possible abroad for a {homesick}, and twice as likely."
-msgstr ""
+msgstr "Arbeitet im Ausland und hat höchstens {mood} Wohlbefinden. Bei einem {homesick} im Ausland immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:105
 msgid "Working fills its <0>Production</0> bar."
-msgstr ""
+msgstr "Arbeit füllt die <0>Produktions</0>leiste."
 
 #: src/components/_layout/loadingTips.tsx:303
 msgid "Working in your own company costs <0>{energyCostPerAction}</0> and adds your <1>Production</1> to its storage."
-msgstr ""
+msgstr "Die Arbeit in deinem eigenen Unternehmen kostet <0>{energyCostPerAction}</0> und fügt deine <1>Produktion</1> dessen Lager hinzu."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:188
 msgid "Works alone"
-msgstr ""
+msgstr "Arbeitet allein"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:145
 msgid "World"
-msgstr ""
+msgstr "Welt"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:65
 msgid "World <0/>"
@@ -17550,11 +17550,11 @@ msgstr "Welt <0/>"
 
 #: src/utils/translations.tsx:245
 msgid "Worldroot Scythe"
-msgstr ""
+msgstr "Weltenwurzelsense"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:120
 msgid "Worn Out"
-msgstr ""
+msgstr "Erschöpft"
 
 #: src/components/_layout/LayoutOptions.tsx:287
 #: src/components/_user/kits/KitsPopover.tsx:263
@@ -17572,11 +17572,11 @@ msgstr "Ein Gesetz verfassen"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:49
 msgid "Write articles"
-msgstr ""
+msgstr "Artikel schreiben"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:436
 msgid "Written by players. Tap News."
-msgstr ""
+msgstr "Von Spielern geschrieben. Tippe auf „Nachrichten“."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:65
 msgid "Wtf"
@@ -17592,7 +17592,7 @@ msgstr "X. Strafen und Einsprüche"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:88
 msgid "Xenophobe"
-msgstr ""
+msgstr "Fremdenfeindlich"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:55
 msgid "XP"
@@ -17600,15 +17600,15 @@ msgstr "XP"
 
 #: src/components/_user/user/Level.tsx:180
 msgid "XP bonus"
-msgstr ""
+msgstr "EP-Bonus"
 
 #: src/components/_user/mission/ProgressHeader.tsx:127
 msgid "XP earned"
-msgstr ""
+msgstr "Verdiente EP"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:247
 msgid "XP raises your level. Tap Levels."
-msgstr ""
+msgstr "EP erhöhen deine Stufe. Tippe auf „Stufen“."
 
 #: src/components/_user/notification/NotificationList.tsx:90
 msgid "Yesterday"
