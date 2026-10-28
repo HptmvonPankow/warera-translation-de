@@ -5571,7 +5571,7 @@ msgstr "استلام {count} صناديق أدوات"
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:46
 msgid "Claim +{0}"
-msgstr ""
+msgstr "إستلام +{0}"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:325
 msgid "Claim reward"
