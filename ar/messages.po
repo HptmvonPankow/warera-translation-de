@@ -7099,7 +7099,7 @@ msgstr ""
 
 #: src/components/_military/order/BattleOrderActions.tsx:91
 msgid "Edit"
-msgstr ""
+msgstr "تعديل"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:148
 msgid "Edit country order"
