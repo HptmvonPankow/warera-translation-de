@@ -15247,7 +15247,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1303
 msgid "The chair"
-msgstr ""
+msgstr "الكرسي"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1093
 msgid "The chart"
@@ -15300,7 +15300,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1240
 msgid "The compliment"
-msgstr ""
+msgstr "اطراء"
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1849
@@ -15338,11 +15338,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:76
 msgid "the coworker"
-msgstr ""
+msgstr "العامل"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:325
 msgid "The coworker"
-msgstr ""
+msgstr "العامل"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2441
 msgid "The coworkers spend the day recruiting each other instead of working."
@@ -15362,7 +15362,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:987
 msgid "The demand"
-msgstr ""
+msgstr "المطلب"
 
 #: src/pages/region/[regionId]/index.tsx:73
 msgid "The deposit gives a production bonus of the following percentage."
@@ -15382,7 +15382,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:532
 msgid "The doctor prescribes rest, and not much else."
-msgstr ""
+msgstr "الطبيب يوصي بأخذ قسط من الراحة, ولا شيئ غيرها "
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:976
 msgid "The door locks behind them. A demand will follow soon."
@@ -15430,7 +15430,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2571
 msgid "The golden hour"
-msgstr ""
+msgstr "ساعة الذروة"
 
 #: src/components/_political/law/LawFormModal.tsx:356
 msgid "The government type changed less than {GOV_TYPE_CHANGE_COOLDOWN_DAYS} days ago. It can change again <0/>."
@@ -15438,23 +15438,23 @@ msgstr ""
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:44
 msgid "The government type of the target country forbids defensive pacts."
-msgstr ""
+msgstr "نوع الحكومة للبلد المحدد يمنع الدفاع المشترك."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:53
 msgid "The government type of this country forbids a sworn enemy."
-msgstr ""
+msgstr "نوع الحكومة لهذا البلد يمنع اختيار عدو لدود."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:27
 msgid "The government type of this country forbids alliances."
-msgstr ""
+msgstr "نوع الحكومة لهذا البلد يمنع اختيار تحالف."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:35
 msgid "The government type of this country forbids defensive pacts."
-msgstr ""
+msgstr "نوع الحكومة لهذا البلد يمنع اختيار دفاع مشترك."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:62
 msgid "The government type of this country forbids sending money to a country."
-msgstr ""
+msgstr "نوع الحكومة لهذا البلد يمنع ارسال الاموال لبلد اخر."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1831
 msgid "The great soup debate"
@@ -15462,7 +15462,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3759
 msgid "The haircut"
-msgstr ""
+msgstr "تسريحة الشعر"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:498
 msgid "The hour's whole payroll across all your companies, employees and managers, divided by the production it banks. Under the market value of a point your companies earn more than they spend; over it, they cost more than what they make is worth."
@@ -15495,7 +15495,7 @@ msgstr ""
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:101
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:238
 msgid "The item goes back to your inventory."
-msgstr ""
+msgstr "العنصر سيتم ارجاعه لمخزونك"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
@@ -15519,7 +15519,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3038
 msgid "The ladders"
-msgstr ""
+msgstr "السلالم"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2534
 msgid "The leaflets are too damp to burn. It is a sad little bonfire."
@@ -15535,7 +15535,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2198
 msgid "The lost letter"
-msgstr ""
+msgstr "الرسالة المفقودة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1382
 msgid "The lunch debates are the best show in town."
@@ -15543,7 +15543,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3827
 msgid "The lunch thief"
-msgstr ""
+msgstr "سارق الأكل"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2658
 msgid "The machine now smells of old tuna. Nobody else is pleased."
@@ -15565,7 +15565,7 @@ msgstr "سوف تسترد الوحدة العسكرية رسوم القبول، 
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1610
 msgid "The mustache"
-msgstr ""
+msgstr "الشارب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3433
 msgid "The neighbors buy every duck. You do not ask why."
@@ -15601,7 +15601,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3791
 msgid "The prank war"
-msgstr ""
+msgstr "حرب المقالب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3815
 msgid "The pranks become legend. {name} and {partnerName} are old friends now."
@@ -15665,19 +15665,19 @@ msgstr "يتم تخطي القرعة طالما لديك {maxLoots} صندوق �
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2273
 msgid "The safety inspector"
-msgstr ""
+msgstr "مفتش السلامة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2629
 msgid "The sandwich"
-msgstr ""
+msgstr "الساندويش"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:92
 msgid "The seat is free"
-msgstr ""
+msgstr "المقعد غير محجوز"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2739
 msgid "The shortcut"
-msgstr ""
+msgstr "الاختصار"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1865
 msgid "The silence continues. It is very loud."
@@ -15726,7 +15726,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3378
 msgid "The suggestion box"
-msgstr ""
+msgstr "صندوق الاقتراحات"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:890
 msgid "The talk goes badly. Now they are both angry."
@@ -15738,7 +15738,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3718
 msgid "The thermostat war"
-msgstr ""
+msgstr "الحرب على معدل الحرارة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3849
 msgid "The thief takes the bait, loudly. The whole workshop enjoys it."
@@ -15802,7 +15802,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1675
 msgid "The winning ticket"
-msgstr ""
+msgstr "البطاقة الرابحة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:645
 msgid "The workshop has a cat now, and everyone is in a better mood."
