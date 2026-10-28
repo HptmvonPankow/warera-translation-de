@@ -1633,7 +1633,7 @@ msgstr "تُخصم ضريبة المدير {managerTax}% عند استلام أ�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3828
 msgid "{name} accuses {partnerName} of eating a labeled lunch. The note on the fridge gets more threatening every day."
-msgstr "{name} يتهم {partnerName} بأكل غداء مُعلَّم. الملاحظة على الثلاجة تزداد تهديدًا كل يوم."
+msgstr "{name} يتهم {partnerName} بتناول غداءٍ كُتب عليه اسم شخص آخر. والملاحظة على الثلاجة تزداد تهديدًا يومًا بعد يوم."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:858
 msgid "{name} and {partnerName} are inseparable now."
