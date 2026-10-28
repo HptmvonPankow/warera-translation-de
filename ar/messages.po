@@ -15181,7 +15181,7 @@ msgstr "أخبر مواطنيك لماذا يجب إعطاء الأولوية ل
 
 #: src/utils/translations.tsx:251
 msgid "Tempered Pickaxe"
-msgstr ""
+msgstr "فأس مخرب"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:140
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:91
