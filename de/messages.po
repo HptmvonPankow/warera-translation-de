@@ -10326,54 +10326,54 @@ msgstr "Miami-Handschuhe"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:425
 msgid "Miami Pants"
-msgstr ""
+msgstr "Miami-Hose"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:401
 msgid "Miami Pistol"
-msgstr ""
+msgstr "Miami-Pistole"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:404
 msgid "Miami Rifle"
-msgstr ""
+msgstr "Miami-Gewehr"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:407
 msgid "Miami Sniper"
-msgstr ""
+msgstr "Miami-Scharfschützengewehr"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:413
 msgid "Miami Speedboat"
-msgstr ""
+msgstr "Miami-Schnellboot"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:410
 msgid "Miami Supercar"
-msgstr ""
+msgstr "Miami-Supersportwagen"
 
 #: src/utils/translations.tsx:289
 msgid "Micron Caliper"
-msgstr ""
+msgstr "Mikrometer-Messschieber"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:733
 msgid "Midlife crisis"
-msgstr ""
+msgstr "Midlife-Crisis"
 
 #: src/components/_user/mission/ProgressHeader.tsx:117
 #: src/components/_user/user/UserRankingsPanel.tsx:87
 msgid "Milestone tiers"
-msgstr ""
+msgstr "Meilensteinstufen"
 
 #: src/components/_user/mission/ProgressHeader.tsx:122
 msgid "Milestone tiers you claimed, across every ladder"
-msgstr ""
+msgstr "Abgeholte Meilensteinstufen über alle Pfade hinweg"
 
 #: src/components/_user/mission/ProgressHeader.tsx:75
 #: src/components/_user/user/UserHeader.tsx:224
 #: src/pages/user/[userId]/milestones.tsx:20
 msgid "Milestones"
-msgstr ""
+msgstr "Meilensteine"
 
 #: src/components/_layout/loadingTips.tsx:447
 msgid "Milestones are lifetime goals that never reset. Check Progression for tiers waiting to be claimed."
-msgstr ""
+msgstr "Meilensteine sind dauerhafte Lebensziele, die nie zurückgesetzt werden. Schau unter „Fortschritt“ nach Stufen, deren Belohnungen noch abgeholt werden müssen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:637
 msgid "Military"
@@ -10415,7 +10415,7 @@ msgstr "Militäreinheit"
 
 #: src/components/_social/announcement/AnnouncementModal.tsx:49
 msgid "Military unit announcement"
-msgstr ""
+msgstr "Ankündigung der Militäreinheit"
 
 #: src/components/_military/mu/MuFormModal.tsx:44
 msgid "Military unit created"
@@ -10433,27 +10433,27 @@ msgstr "Militäreinheiten"
 
 #: src/components/_user/user/UserBadges.tsx:238
 msgid "Min of Defense"
-msgstr ""
+msgstr "Verteidigungsminister"
 
 #: src/components/_user/user/UserBadges.tsx:241
 msgid "Min of defense of <0/>"
-msgstr ""
+msgstr "Verteidigungsminister von <0/>"
 
 #: src/components/_user/user/UserBadges.tsx:262
 msgid "Min of Economy"
-msgstr ""
+msgstr "Wirtschaftsminister"
 
 #: src/components/_user/user/UserBadges.tsx:265
 msgid "Min of economy of <0/>"
-msgstr ""
+msgstr "Wirtschaftsminister von <0/>"
 
 #: src/components/_user/user/UserBadges.tsx:286
 msgid "Min of Foreign Affairs"
-msgstr ""
+msgstr "Außenminister"
 
 #: src/components/_user/user/UserBadges.tsx:289
 msgid "Min of foreign affairs of <0/>"
-msgstr ""
+msgstr "Außenminister von <0/>"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:293
 msgid "Min reached"
@@ -10465,11 +10465,11 @@ msgstr "Mind. aktive Bürger"
 
 #: src/components/_social/poll/PollEditorModal.tsx:271
 msgid "Minimum level to vote"
-msgstr ""
+msgstr "Mindeststufe zum Abstimmen"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:165
 msgid "Minimum Management"
-msgstr ""
+msgstr "Mindestmanagement"
 
 #: src/components/_political/government/Government.tsx:110
 #: src/components/_political/government/GovernmentScroll.tsx:54
@@ -10488,15 +10488,15 @@ msgstr "Außenminister"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Misandrist"
-msgstr ""
+msgstr "Männerfeindlich"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Misogynist"
-msgstr ""
+msgstr "Frauenfeindlich"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:68
 msgid "Missing <0>{missing}</0> to produce"
-msgstr ""
+msgstr "Zum Produzieren fehlen <0>{missing}</0>"
 
 #: src/components/_layout/LayoutOptions.tsx:219
 msgid "Mission tags"
@@ -10510,20 +10510,20 @@ msgstr "Missionen"
 
 #: src/components/_layout/loadingTips.tsx:429
 msgid "Missions are claimed by hand: open Progression to collect your <0>XP</0>, cases and <1>Money</1>."
-msgstr ""
+msgstr "Missionen müssen manuell abgeholt werden: Öffne „Fortschritt“, um deine <0>EP</0>, Kisten und dein <1>Geld</1> einzusammeln."
 
 #: src/components/_user/mission/ProgressHeader.tsx:108
 #: src/components/_user/user/UserRankingsPanel.tsx:93
 msgid "Missions claimed"
-msgstr ""
+msgstr "Abgeholte Missionen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:224
 msgid "Missions, levels and skills. Tap here."
-msgstr ""
+msgstr "Missionen, Stufen und Fähigkeiten. Hier tippen."
 
 #: src/components/_user/mission/ProgressHeader.tsx:62
 msgid "Missions, milestones, levels, skills & guides"
-msgstr ""
+msgstr "Missionen, Meilensteine, Stufen, Fähigkeiten und Anleitungen"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:128
 msgid "Mobile phone number"
@@ -10531,15 +10531,15 @@ msgstr "Mobiltelefonnummer"
 
 #: src/components/_user/user/UserBadges.tsx:172
 msgid "Mod"
-msgstr ""
+msgstr "Moderator"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:130
 msgid "Modest"
-msgstr ""
+msgstr "Bescheiden"
 
 #: src/utils/translations.tsx:271
 msgid "Molten Maul"
-msgstr ""
+msgstr "Geschmolzener Vorschlaghammer"
 
 #: src/components/_user/user/WealthPanel.tsx:35
 msgid "Money"
@@ -10576,11 +10576,11 @@ msgstr "Monatlicher Schaden: <0>{monthlyDamages}</0>"
 
 #: src/components/_user/mission/MissionsList.tsx:318
 msgid "Monthly missions are not available yet"
-msgstr ""
+msgstr "Monatliche Missionen sind noch nicht verfügbar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2380
 msgid "Monthly Missions Reset"
-msgstr ""
+msgstr "Monatliche Missionen zurücksetzen"
 
 #: src/components/_military/mu/MuMemberList.tsx:355
 #: src/components/_military/mu/MuMemberList.tsx:390
@@ -10589,19 +10589,19 @@ msgstr "Monatlich:"
 
 #: src/components/_economy/employee/employeeStats.tsx:509
 msgid "Morale (0-100). Above {neutral} it adds a <0>Production</0> bonus (up to +{maxBonus}% at 100), below {neutral} a malus (down to {minBonus}% at 0). Below {quitBelow} from your choices they can quit, up to {maxQuit}%/h at 0."
-msgstr ""
+msgstr "Moral (0–100). Über {neutral} gewährt sie einen <0>Produktions</0>bonus (bis zu +{maxBonus} % bei 100), darunter einen Malus (bis auf {minBonus} % bei 0). Sinkt sie aufgrund deiner Entscheidungen unter {quitBelow}, können Mitarbeiter kündigen; bei 0 liegt die Chance bei bis zu {maxQuit} % pro Stunde."
 
 #: src/components/_economy/employee/employeeStats.tsx:800
 msgid "Morale is set live by traits and conditions."
-msgstr ""
+msgstr "Die Moral wird laufend durch Eigenschaften und Bedingungen bestimmt."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:141
 msgid "Morale shield: cancels a share of every happiness loss, ramping from 0 to {RESP_MAX_SHIELD_PERCENT}% at {RESP_FULL_AT} Responsibility. Does not affect output."
-msgstr ""
+msgstr "Moral-Schutz: Fängt einen Teil jedes Wohlbefindensverlusts ab und steigt von 0 auf {RESP_MAX_SHIELD_PERCENT} % bei {RESP_FULL_AT} Verantwortungsbewusstsein. Beeinflusst die Produktion nicht."
 
 #: src/components/_economy/employee/employeeStats.tsx:455
 msgid "Morale shield: cancels part of every <0>Happiness</0> loss, ramping to {maxShieldPct}% at {RESP_FULL_AT} Responsibility. It does not affect output."
-msgstr ""
+msgstr "Moral-Schutz: Fängt einen Teil jedes Verlusts an <0>Wohlbefinden</0> ab und steigt auf {maxShieldPct} % bei {RESP_FULL_AT} Verantwortungsbewusstsein. Beeinflusst die Produktion nicht."
 
 #: src/components/_layout/LayoutLeftIcons.tsx:225
 #: src/components/_layout/MoreButtonNav.tsx:191
@@ -10610,11 +10610,11 @@ msgstr "Mehr"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:267
 msgid "More <0>Energy</0> means more work, hires and training. Put 5 points in it."
-msgstr ""
+msgstr "Mehr <0>Energie</0> bedeutet mehr Arbeit, Einstellungen und Training. Investiere 5 Punkte darin."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:470
 msgid "More employees, more production."
-msgstr ""
+msgstr "Mehr Mitarbeiter, mehr Produktion."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "More premium features coming soon!"
@@ -10622,15 +10622,15 @@ msgstr "Weitere Premium-Funktionen folgen bald!"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:142
 msgid "More training sessions for this employee."
-msgstr ""
+msgstr "Mehr Trainingseinheiten für diesen Mitarbeiter."
 
 #: src/components/_economy/itemOffer/itemOffer.frontConfig.tsx:11
 msgid "Most expensive"
-msgstr ""
+msgstr "Am teuersten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3646
 msgid "Mostly scrap, but good scrap."
-msgstr ""
+msgstr "Größtenteils Schrott, aber guter Schrott."
 
 #: src/components/_political/partyMotion/PartyMotion.tsx:91
 msgid "Motion failed"
@@ -10651,22 +10651,22 @@ msgstr "Anträge"
 #: src/components/_political/region/MoveButton.tsx:119
 #: src/components/_political/region/MoveButton.tsx:131
 msgid "Move"
-msgstr ""
+msgstr "Bewegen"
 
 #. placeholder {0}: target.name
 #. placeholder {1}: -happinessPenalty
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:247
 msgid "Move {who} into {0}? They lose <0>{1}</0> happiness for {penaltyDays} days, and cannot be fired for {fireLockHours} hours."
-msgstr ""
+msgstr "{who} zu {0} versetzen? Der Mitarbeiter verliert {penaltyDays} Tage lang <0>{1}</0> Wohlbefinden und kann {fireLockHours} Stunden lang nicht entlassen werden."
 
 #: src/components/_political/map/MapMenu.tsx:715
 msgid "Move & collect"
-msgstr ""
+msgstr "Bewegen und einsammeln"
 
 #. placeholder {0}: target.name
 #: src/components/_economy/manager/MoveManagerModal.tsx:193
 msgid "Move <0/> into {0}? They keep their pay and what they have earned, and can resign straight afterwards."
-msgstr ""
+msgstr "<0/> zu {0} versetzen? Der Mitarbeiter behält seinen Lohn und das bereits Verdiente und kann unmittelbar danach kündigen."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:723
 msgid "Move a company to another region"
@@ -10683,20 +10683,20 @@ msgstr "Unternehmen verschieben"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:326
 msgid "Move employee"
-msgstr ""
+msgstr "Mitarbeiter versetzen"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:246
 msgid "Move employee?"
-msgstr ""
+msgstr "Mitarbeiter versetzen?"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:256
 #: src/components/_economy/manager/MoveManagerModal.tsx:201
 msgid "Move here"
-msgstr ""
+msgstr "Hierher bewegen"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:269
 msgid "Move manager"
-msgstr ""
+msgstr "Manager versetzen"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:108
 msgid "Move the company"
@@ -10704,11 +10704,11 @@ msgstr "Unternehmen verschieben"
 
 #: src/components/_economy/employee/MoveShell.tsx:95
 msgid "Move to"
-msgstr ""
+msgstr "Verschieben nach"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:360
 msgid "Move to the battle first (costs <0>Stamina</0>), then hit."
-msgstr ""
+msgstr "Bewege dich zuerst zum Kampf (kostet <0>Ausdauer</0>) und greife dann an."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:426
 msgid "Move to top"
@@ -10716,11 +10716,11 @@ msgstr "Nach oben verschieben"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:192
 msgid "Move your manager?"
-msgstr ""
+msgstr "Deinen Manager versetzen?"
 
 #: src/components/_economy/employee/employeeStats.tsx:741
 msgid "Moved recently"
-msgstr ""
+msgstr "Kürzlich versetzt"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2213
 msgid "Moved to a new company"
@@ -10728,19 +10728,19 @@ msgstr "In ein neues Unternehmen gewechselt"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:61
 msgid "Moves a trait one step up its ladder."
-msgstr ""
+msgstr "Verschiebt eine Eigenschaft eine Stufe auf ihrer Entwicklungsskala nach oben."
 
 #: src/components/_layout/loadingTips.tsx:401
 msgid "Moving an employee to another company is free, but costs them {movePenalty} happiness for {movePenaltyDays} days."
-msgstr ""
+msgstr "Einen Mitarbeiter in ein anderes Unternehmen zu versetzen ist kostenlos, kostet ihn aber {movePenalty} Wohlbefinden für {movePenaltyDays} Tage."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:576
 msgid "Moving costs <0>Stamina</0>, then Oil."
-msgstr ""
+msgstr "Bewegung kostet <0>Ausdauer</0>, danach Öl."
 
 #: src/components/_layout/loadingTips.tsx:270
 msgid "Moving your home to another region costs <0>{homeMoveConcreteCost}</0>."
-msgstr ""
+msgstr "Deinen Wohnsitz in eine andere Region zu verlegen kostet <0>{homeMoveConcreteCost}</0>."
 
 #: src/components/_layout/LayoutMenu.tsx:133
 #: src/components/_military/tournament/TournamentHeader.tsx:55
@@ -10783,7 +10783,7 @@ msgstr "ME hat Level {0} erreicht! Belohnung: {rewardDisplay}"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:49
 msgid "MU Tournament"
-msgstr ""
+msgstr "Militäreinheitsturnier"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:193
 msgid "MU Tournament Winner"
@@ -10791,7 +10791,7 @@ msgstr "ME-Turniersieger"
 
 #: src/components/_social/PinArticleModal.tsx:50
 msgid "Must be a whole number of hours"
-msgstr ""
+msgstr "Muss eine ganze Anzahl von Stunden sein"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:140
 msgid "My battle loot"
@@ -10808,11 +10808,11 @@ msgstr "Meine Unternehmen"
 #. placeholder {0}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:137
 msgid "My tier {0}"
-msgstr ""
+msgstr "Meine Stufe {0}"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:242
 msgid "My workforce"
-msgstr ""
+msgstr "Meine Belegschaft"
 
 #: src/utils/translations.tsx:124
 msgid "Mysterious Plant"
@@ -10849,7 +10849,7 @@ msgstr "Name"
 
 #: src/components/_economy/employee/employee.hooks.ts:133
 msgid "Name reset"
-msgstr ""
+msgstr "Name zurückgesetzt"
 
 #: src/components/_military/battle/BattleSystem.tsx:902
 msgid "National bounty"
@@ -10858,30 +10858,30 @@ msgstr "Nationales Kopfgeld"
 #. placeholder {0}: costMultiplier(effects.orderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:291
 msgid "National orders cost {0}"
-msgstr ""
+msgstr "Nationale Befehle kosten {0}"
 
 #. placeholder {0}: costMultiplier(effects.coreOrderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:308
 msgid "National orders for its core regions cost {0}"
-msgstr ""
+msgstr "Nationale Befehle für die Kernregionen kosten {0}"
 
 #. placeholder {0}: damagesMultiplier(effects.orderBonusMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:279
 msgid "National orders give {0} bonus (normal bonus while the capital is occupied)"
-msgstr ""
+msgstr "Nationale Befehle gewähren einen Bonus von {0} (normaler Bonus, solange die Hauptstadt besetzt ist)"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:87
 msgid "Nationalist"
-msgstr ""
+msgstr "Nationalistisch"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:52
 msgid "Nationalist State"
-msgstr ""
+msgstr "Nationalistischer Staat"
 
 #: src/components/_military/mu/MuHeader.tsx:104
 #: src/components/_user/auth/WelcomeModal.tsx:266
 msgid "Nationality"
-msgstr ""
+msgstr "Nationalität"
 
 #: src/components/_military/mu/MuSettings.tsx:30
 msgid "Nationality updated"
@@ -10889,24 +10889,24 @@ msgstr "Staatsbürgerschaft aktualisiert"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:338
 msgid "Nearest wooden case"
-msgstr ""
+msgstr "Nächste Holzkiste"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:561
 msgid "Needed under {chance}"
-msgstr ""
+msgstr "Benötigt unter {chance}"
 
 #. placeholder {0}: optionDef.requires?.traitsAny?.map((code, k) => ( <Fragment key={code}> {k > 0 && ' / '} <TraitName code={code} /> </Fragment> ))
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:151
 msgid "Needs {0}"
-msgstr ""
+msgstr "Benötigt {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:149
 msgid "Needs a tool"
-msgstr ""
+msgstr "Benötigt ein Werkzeug"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:196
 msgid "Needs Management"
-msgstr ""
+msgstr "Benötigt Management"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:46
 msgid "Negative mercenary reputation"
@@ -10914,7 +10914,7 @@ msgstr "Negativer Söldnerruf"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1165
 msgid "Negotiate: mixed grapes"
-msgstr ""
+msgstr "Verhandeln: gemischte Trauben"
 
 #: src/components/_economy/employee/employeeTags.tsx:182
 #: src/components/_economy/employee/training.frontConfig.tsx:131
@@ -10923,22 +10923,22 @@ msgstr "Verhandlung"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3768
 msgid "Neither of them laughs. Now it is your fault."
-msgstr ""
+msgstr "Keiner von beiden lacht. Jetzt bist du schuld."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:412
 msgid "Neither of you had the energy. Nothing stuck."
-msgstr ""
+msgstr "Keiner von euch hatte die Energie dazu. Nichts blieb hängen."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:100
 msgid "Nemesis"
-msgstr ""
+msgstr "Erzfeind"
 
 #. placeholder {0}: ts.lightAmmo
 #. placeholder {1}: ts.ammo
 #. placeholder {2}: ts.heavyAmmo
 #: src/components/_layout/loadingTips.tsx:139
 msgid "Never fight without ammo: <0>{0}</0> gives +{lightAmmoAttack}% <1>Attack</1>, <2>{1}</2> +{ammoAttack}% and <3>{2}</3> +{heavyAmmoAttack}%."
-msgstr ""
+msgstr "Kämpfe niemals ohne Munition: <0>{0}</0> gewährt +{lightAmmoAttack} % <1>Angriff</1>, <2>{1}</2> +{ammoAttack} % und <3>{2}</3> +{heavyAmmoAttack} %."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:26
 msgid "Never give up!"
@@ -10982,7 +10982,7 @@ msgstr "Neuer Mitarbeiter"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:93
 msgid "New habit"
-msgstr ""
+msgstr "Neue Gewohnheit"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:159
 msgid "New leader"
