@@ -7030,7 +7030,7 @@ msgstr "Każdy punkt daje {LUCK_PER_POINT_PCT}% szansy na znalezienie skrzynki z
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:153
 msgid "Each point is a {LUCK_PERCENT_PER_POINT}% chance per worked hour to find a toolbox (up to {LUCK_MAX_PERCENT}%), tilts training draws toward the rarer cards, and improves the odds of every employee event, Luck checks most."
-msgstr "Każdy punkt daje {LUCK_PER_POINT_PCT}% szansy na znalezienie skrzynki z narzędziami w ciągu każdej przepracowanej godziny (maksymalnie {LUCK_MAX_PCT}%) przechyla losowania treningów w stronę rzadszych oraz poprawia prawdopodobieństwo w każdym wydarzeniu pracowniczym – najbardziej w testach szczęścia."
+msgstr "Każdy punkt daje {LUCK_PERCENT_PER_POINT}% szansy na znalezienie skrzynki z narzędziami na każdą przepracowaną godzinę (maksymalnie {LUCK_MAX_PERCENT}%), zwiększa szansę na wylosowanie rzadszych kart szkoleniowych oraz poprawia prawdopodobieństwo powodzenia we wszystkich wydarzeniach pracowniczych, szczególnie w testach szczęścia."
 
 #: src/components/_user/user/SkillUpgrade.tsx:319
 msgid "Each prestige point gives the equivalent of {skillBonusLevels} level of the selected skill"
