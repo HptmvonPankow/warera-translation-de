@@ -12442,7 +12442,7 @@ msgstr "Von der Regierung angeheftet"
 
 #: src/components/_social/PinArticleModal.tsx:76
 msgid "Pinned until <0/>"
-msgstr ""
+msgstr "Angeheftet bis <0/>"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:153
 msgid "Plant a tree in the data center"
@@ -12450,7 +12450,7 @@ msgstr "Pflanze einen Baum im Rechenzentrum"
 
 #: src/components/_user/milestone/MilestoneItem.tsx:252
 msgid "Players"
-msgstr ""
+msgstr "Spieler"
 
 #: src/components/_common/GameRules.tsx:75
 msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
@@ -12462,7 +12462,7 @@ msgstr "Spieler dürfen eine IP-Adresse teilen, wenn sie als \"Familiengruppe\" 
 
 #: src/components/_military/battle/BattleHeader.tsx:269
 msgid "Players watching this battle right now (refreshes every 30 seconds)."
-msgstr ""
+msgstr "Spieler, die diese Schlacht gerade beobachten (Aktualisierung alle 30 Sekunden)."
 
 #: src/components/_user/auth/ConnectFromModal.tsx:107
 #: src/components/_user/auth/ConnectFromModal.tsx:127
@@ -12477,16 +12477,16 @@ msgstr "Bitte wähle eine Region aus"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:70
 msgid "Plutocracy"
-msgstr ""
+msgstr "Plutokratie"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:105
 msgid "Poached"
-msgstr ""
+msgstr "Abgeworben"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3318
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3702
 msgid "Politely decline"
-msgstr ""
+msgstr "Höflich ablehnen"
 
 #: src/components/_layout/map.frontConfig.tsx:31
 msgid "Political"
@@ -12506,7 +12506,7 @@ msgstr "Political Take Overs (PTOs) sind erlaubt. Sie zu missbrauchen, um Ressou
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:58
 msgid "Politics"
-msgstr ""
+msgstr "Politik"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:167
 msgid "Politics & Government"
@@ -12515,11 +12515,11 @@ msgstr "Politik & Regierung"
 #: src/components/_social/poll/PollCard.tsx:154
 #: src/components/_social/poll/PollCard.tsx:220
 msgid "Poll ended"
-msgstr ""
+msgstr "Umfrage beendet"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1683
 msgid "Pop the champagne"
-msgstr ""
+msgstr "Den Champagner öffnen"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:205
 msgid "Popular Article"
@@ -12533,19 +12533,19 @@ msgstr "Bevölkerung"
 
 #: src/components/_political/region/RegionHeader.tsx:105
 msgid "Population (currently here)"
-msgstr ""
+msgstr "Bevölkerung (derzeit hier)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2202
 msgid "Position ended"
-msgstr ""
+msgstr "Position beendet"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 msgid "Post"
-msgstr ""
+msgstr "Veröffentlichen"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:129
 msgid "Post a manager position"
-msgstr ""
+msgstr "Eine Managerstelle ausschreiben"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:21
 #: src/components/_social/announcement/AnnouncementList.tsx:48
@@ -12554,7 +12554,7 @@ msgstr "Ankündigung veröffentlichen"
 
 #: src/components/_economy/employee/employeeCards.tsx:235
 msgid "Potential"
-msgstr ""
+msgstr "Potenzial"
 
 #: src/components/_user/user/skills.frontConfig.tsx:154
 #: src/components/_user/user/skills.frontConfig.tsx:155
@@ -12563,7 +12563,7 @@ msgstr "Präzision"
 
 #: src/utils/translations.tsx:288
 msgid "Precision Caliper"
-msgstr ""
+msgstr "Präzisionsmessschieber"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
@@ -12603,16 +12603,16 @@ msgstr "Premium hat begonnen zu wirken"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:131
 msgid "Preset deleted."
-msgstr ""
+msgstr "Profil gelöscht."
 
 #: src/components/_user/user/SkillPresetsModal.tsx:119
 #: src/components/_user/user/SkillPresetsModal.tsx:125
 msgid "Preset saved!"
-msgstr ""
+msgstr "Profil gespeichert!"
 
 #: src/components/_user/user/UserSkills.tsx:307
 msgid "Presets"
-msgstr ""
+msgstr "Profile"
 
 #: src/components/_political/government/Government.tsx:92
 #: src/components/_political/government/GovernmentScroll.tsx:40
@@ -12622,7 +12622,7 @@ msgstr "Präsident"
 
 #: src/components/_user/user/UserBadges.tsx:193
 msgid "President of <0/>"
-msgstr ""
+msgstr "Präsident von <0/>"
 
 #: src/components/_political/election/election.frontConfig.tsx:23
 msgid "Presidential election"
@@ -12650,41 +12650,41 @@ msgstr "Präsidentschaftswahlen"
 #: src/components/_user/user/UserBadges.tsx:81
 #: src/components/_user/user/UserSkills.tsx:299
 msgid "Prestige"
-msgstr ""
+msgstr "Prestige"
 
 #: src/components/_user/user/Level.tsx:183
 msgid "Prestige to drop levels and re-activate your XP bonus."
-msgstr ""
+msgstr "Setze Prestige ein, um Stufen zu verlieren und deinen EP-Bonus wieder zu aktivieren."
 
 #: src/components/_user/user/SkillValue.tsx:82
 msgid "Prestige:"
-msgstr ""
+msgstr "Prestige:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2382
 msgid "Prestige!"
-msgstr ""
+msgstr "Prestige!"
 
 #: src/components/_user/user/UserSkills.tsx:198
 msgid "Prestige?"
-msgstr ""
+msgstr "Prestige?"
 
 #. placeholder {0}: user.leveling?.prestigeLevel
 #. placeholder {1}: user.leveling?.prestigeLevel ?? 0
 #: src/components/_user/user/UserBadges.tsx:84
 msgid "Prestiged <0>{0}</0> {1, plural, one {time} other {times}}"
-msgstr ""
+msgstr "Prestige eingesetzt: <0>{0}</0> {1, plural, one {Mal} other {Mal}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2312
 msgid "Pretend nobody is in"
-msgstr ""
+msgstr "So tun, als wäre niemand da"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1910
 msgid "Pretend not to notice"
-msgstr ""
+msgstr "So tun, als hätte man es nicht bemerkt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2251
 msgid "Pretend you know nothing"
-msgstr ""
+msgstr "So tun, als wüsstest du von nichts"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:379
 msgid "Price"
@@ -12696,15 +12696,15 @@ msgstr "Preis wird automatisch an bestehende Bestellungen angepasst"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:167
 msgid "Price for you, tax included"
-msgstr ""
+msgstr "Dein Preis inklusive Steuern"
 
 #: src/pages/market/equipments.tsx:87
 msgid "Prices include your tax"
-msgstr ""
+msgstr "Preise enthalten deine Steuer"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Prima Donna"
-msgstr ""
+msgstr "Diva"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -12738,7 +12738,7 @@ msgstr "Produzieren"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:91
 msgid "Produce all"
-msgstr ""
+msgstr "Alles produzieren"
 
 #: src/components/_economy/company/ProduceAllButton.tsx:128
 msgid "Produce All"
@@ -12787,11 +12787,11 @@ msgstr "Produktion ist voll"
 
 #: src/components/_economy/employee/employeeStats.tsx:301
 msgid "Production points made per day at the current rate, bonuses included."
-msgstr ""
+msgstr "Produktionspunkte pro Tag bei aktueller Rate, einschließlich Boni."
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:80
 msgid "Production value"
-msgstr ""
+msgstr "Produktionswert"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:208
 msgid "Professionals Only"
@@ -12815,11 +12815,11 @@ msgstr "Gewinn"
 #: src/components/_other/tour/tuto.frontConfig.tsx:647
 #: src/components/_user/mission/ProgressHeader.tsx:61
 msgid "Progression"
-msgstr ""
+msgstr "Fortschritt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:719
 msgid "Promise a trip later"
-msgstr ""
+msgstr "Eine Reise für später versprechen"
 
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
@@ -12900,23 +12900,23 @@ msgstr "Vorschläge"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1154
 msgid "Provide the grapes"
-msgstr ""
+msgstr "Die Trauben bereitstellen"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:40
 msgid "Provisional"
-msgstr ""
+msgstr "Vorläufig"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3904
 msgid "Prune Kevin"
-msgstr ""
+msgstr "Kevin zurückschneiden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3105
 msgid "Pry the doors open"
-msgstr ""
+msgstr "Die Türen aufhebeln"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Pumpkin Head"
-msgstr ""
+msgstr "Kürbiskopf"
 
 #: src/components/_common/GameRules.tsx:330
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
@@ -12924,7 +12924,7 @@ msgstr "Strafen und ihre Begründung sind auf Benutzerprofilen sichtbar. Spieler
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:323
 msgid "Pure chance"
-msgstr ""
+msgstr "Reiner Zufall"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -12932,19 +12932,19 @@ msgstr "Violetter Stab"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:134
 msgid "Push the resistance here before they dig in..."
-msgstr ""
+msgstr "Verstärke den Widerstand hier, bevor sie sich verschanzen …"
 
 #: src/components/_political/region/RegionResistance.tsx:218
 msgid "Push the resistance here first."
-msgstr ""
+msgstr "Verstärke zuerst hier den Widerstand."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1307
 msgid "Put it back exactly"
-msgstr ""
+msgstr "Es genau an seinen Platz zurücklegen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1265
 msgid "Put it in writing"
-msgstr ""
+msgstr "Es schriftlich festhalten"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:182
 msgid "Put yourself to work!"
@@ -12952,15 +12952,15 @@ msgstr "Mach dich an die Arbeit!"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:135
 msgid "Putting your company in one of your country's core regions gives <0>{coreRegionBonusPercent}</0> production to your employees and helps your country."
-msgstr ""
+msgstr "Wenn du dein Unternehmen in einer Kernregion deines Landes ansiedelst, erhalten deine Mitarbeiter <0>{coreRegionBonusPercent}</0> Produktion zusätzlich und du unterstützt dein Land."
 
 #: src/components/_social/poll/PollEditorModal.tsx:187
 msgid "Question"
-msgstr ""
+msgstr "Frage"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:528
 msgid "Quick animation"
-msgstr ""
+msgstr "Schnelle Animation"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:47
 #: src/components/_economy/inventory/DismantleModal.tsx:331
@@ -12973,11 +12973,11 @@ msgstr "Beste Gegenstände direkt ausrüsten"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:476
 msgid "Quick move & collect on case click"
-msgstr ""
+msgstr "Bei Klick auf eine Kiste schnell bewegen und einsammeln"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:110
 msgid "Quick Study"
-msgstr ""
+msgstr "Schneller Lerner"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:77
 msgid "Quickly dismantle items"
@@ -12985,31 +12985,31 @@ msgstr "Gegenstände schnell zerlegen"
 
 #: src/utils/translations.tsx:281
 msgid "Quintessence Still"
-msgstr ""
+msgstr "Quintessenz-Destille"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:93
 msgid "Quit"
-msgstr ""
+msgstr "Kündigen"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:835
 msgid "Quits below <0>{flightRiskQuitThreshold}</0> happiness instead of {quitThreshold}"
-msgstr ""
+msgstr "Kündigt bei weniger als <0>{flightRiskQuitThreshold}</0> Wohlbefinden statt bei {quitThreshold}."
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
-msgstr ""
+msgstr "Regenbogen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1949
 msgid "Raise the pay to match"
-msgstr ""
+msgstr "Gehalt entsprechend erhöhen"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:45
 msgid "Raises one stat."
-msgstr ""
+msgstr "Erhöht einen Wert."
 
 #: src/components/_economy/employee/TrainingCard.tsx:288
 msgid "Random trait, +1 random stat"
-msgstr ""
+msgstr "Zufällige Eigenschaft, +1 auf einen zufälligen Wert"
 
 #: src/components/_user/user/UserTooltip.tsx:156
 msgid "Rank"
@@ -13038,31 +13038,31 @@ msgstr "Ränge"
 #: src/components/_economy/employee/employeeStats.tsx:131
 #: src/components/_user/user/EcoSkillEffects.tsx:27
 msgid "Rare"
-msgstr ""
+msgstr "Selten"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:13
 msgid "Rare earths"
-msgstr ""
+msgstr "Seltene Erden"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:323
 msgid "Rare. Anyone hired 7 days ago or more, twice as likely for a {gambler}."
-msgstr ""
+msgstr "Selten. Jeder, der vor mindestens 7 Tagen eingestellt wurde; bei einem {gambler} doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:329
 msgid "Rare. Can happen to anyone, twice as likely while the company's region is under attack."
-msgstr ""
+msgstr "Selten. Kann jedem passieren; doppelt so wahrscheinlich, wenn die Region des Unternehmens angegriffen wird."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:450
 msgid "Rare. Hired 14 days ago or more, with happiness {mood} or more and training potential left."
-msgstr ""
+msgstr "Selten. Vor mindestens 14 Tagen eingestellt, Wohlbefinden mindestens {mood} und noch Trainingspotenzial vorhanden."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:239
 msgid "Rare. Someone hired 7 days ago or more who is {craftsman}, {specialist} or {handy}, or has 15 days of experience in the company's good, if a tool exists for that good."
-msgstr ""
+msgstr "Selten. Ein Mitarbeiter, der vor mindestens 7 Tagen eingestellt wurde und {craftsman}, {specialist} oder {handy} ist oder 15 Tage Erfahrung mit der Ware des Unternehmens hat, sofern es ein Werkzeug für diese Ware gibt."
 
 #: src/components/_user/user/EcoSkillEffects.tsx:98
 msgid "Rarer cards when you train your employees. Each level moves card odds off Common: <0/>."
-msgstr ""
+msgstr "Seltenere Karten beim Training deiner Mitarbeiter. Jede Stufe verschiebt die Kartenwahrscheinlichkeiten weg von „Gewöhnlich“: <0/>."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -13074,11 +13074,11 @@ msgstr "Preis pro 1K Schaden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2483
 msgid "Rationing"
-msgstr ""
+msgstr "Rationierung"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:292
 msgid "Reach a tier, claim its XP."
-msgstr ""
+msgstr "Erreiche eine Stufe und hole die EP ab."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:592
 msgid "Reach level 10"
@@ -13090,27 +13090,27 @@ msgstr "Erreiche Level 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:597
 msgid "Reach level 15"
-msgstr ""
+msgstr "Stufe 15 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:596
 msgid "Reach Level 15"
-msgstr ""
+msgstr "Stufe 15 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:602
 msgid "Reach level 20"
-msgstr ""
+msgstr "Stufe 20 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:601
 msgid "Reach Level 20"
-msgstr ""
+msgstr "Stufe 20 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:607
 msgid "Reach level 25"
-msgstr ""
+msgstr "Stufe 25 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:606
 msgid "Reach Level 25"
-msgstr ""
+msgstr "Stufe 25 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:587
 msgid "Reach level 5"
@@ -13130,27 +13130,27 @@ msgstr "Erreiche Militärrang 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:653
 msgid "Reach military rank 20"
-msgstr ""
+msgstr "Militärrang 20 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:652
 msgid "Reach Military Rank 20"
-msgstr ""
+msgstr "Militärrang 20 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:658
 msgid "Reach military rank 30"
-msgstr ""
+msgstr "Militärrang 30 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:657
 msgid "Reach Military Rank 30"
-msgstr ""
+msgstr "Militärrang 30 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:663
 msgid "Reach military rank 40"
-msgstr ""
+msgstr "Militärrang 40 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:662
 msgid "Reach Military Rank 40"
-msgstr ""
+msgstr "Militärrang 40 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:643
 msgid "Reach military rank 5"
@@ -13162,21 +13162,21 @@ msgstr "Erreiche Militärrang 5"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:668
 msgid "Reach military rank 50"
-msgstr ""
+msgstr "Militärrang 50 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:667
 msgid "Reach Military Rank 50"
-msgstr ""
+msgstr "Militärrang 50 erreichen"
 
 #: src/components/_user/milestone/MilestoneItem.tsx:144
 #: src/components/_user/milestone/MilestoneItem.tsx:286
 msgid "Reached by"
-msgstr ""
+msgstr "Erreicht von"
 
 #. placeholder {0}: tierStat.percent
 #: src/components/_user/milestone/MilestoneTiersModal.tsx:114
 msgid "Reached by {0}% (<0/>)"
-msgstr ""
+msgstr "Von {0} % erreicht (<0/>)"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:519
 msgid "Read Article"
@@ -13184,11 +13184,11 @@ msgstr "Artikel lesen"
 
 #: src/components/_user/auth/CountryWelcomeArticle.tsx:45
 msgid "Read the article"
-msgstr ""
+msgstr "Artikel lesen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:435
 msgid "Read the news!"
-msgstr ""
+msgstr "Lies die Nachrichten!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:303
 msgid "Ready for battle!"
@@ -13196,7 +13196,7 @@ msgstr "Bereit für die Schlacht!"
 
 #: src/utils/translations.tsx:244
 msgid "Reaper's Crescent"
-msgstr ""
+msgstr "Sichel des Schnitters"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:126
 msgid "Rear Admiral"
@@ -13215,11 +13215,11 @@ msgstr "Aktuelle Bewerbungen"
 
 #: src/components/_political/election/Election.tsx:250
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Kürzlicher Staatsbürgerschaftswechsel"
 
 #: src/pages/market/equipments.tsx:174
 msgid "Recent sales"
-msgstr ""
+msgstr "Letzte Verkäufe"
 
 #: src/pages/company/[companyId]/index.tsx:82
 msgid "Recipe"
@@ -13245,7 +13245,7 @@ msgstr "Rekrutieren"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:143
 msgid "Recruiter"
-msgstr ""
+msgstr "Anwerber"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Red Staff"
@@ -13282,7 +13282,7 @@ msgstr "Benutzername des Werbers"
 #: src/components/_user/user/MyAvatar.tsx:63
 #: src/components/_user/user/UserDropdown.tsx:301
 msgid "Refresh app"
-msgstr ""
+msgstr "App aktualisieren"
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13291,11 +13291,11 @@ msgstr "Jede Stunde aktualisieren"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:602
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:979
 msgid "Refuse"
-msgstr ""
+msgstr "Ablehnen"
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:71
 msgid "Refuse and leave?"
-msgstr ""
+msgstr "Ablehnen und gehen?"
 
 #: src/components/_layout/LayoutUserMenu.tsx:224
 msgid "Regen in..."
@@ -13336,7 +13336,7 @@ msgstr "Region befreit"
 
 #: src/components/_political/region/RegionHeader.tsx:49
 msgid "Region of"
-msgstr ""
+msgstr "Region von"
 
 #: src/components/_political/event/EventList.tsx:110
 msgid "Region transfer"
@@ -13344,7 +13344,7 @@ msgstr "Regionstransfer"
 
 #: src/components/_economy/employee/employeeStats.tsx:743
 msgid "Region under attack"
-msgstr ""
+msgstr "Region wird angegriffen"
 
 #: src/components/_layout/LoadingScreenContent.tsx:25
 msgid "regions"
@@ -13356,7 +13356,7 @@ msgstr "Regionen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:916
 msgid "Regions Crossed"
-msgstr ""
+msgstr "Durchquerte Regionen"
 
 #: src/pages/index.tsx:167
 msgid "Register"
@@ -13364,25 +13364,25 @@ msgstr "Registrieren"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:124
 msgid "Register my country"
-msgstr ""
+msgstr "Mein Land registrieren"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:122
 msgid "Register my MU"
-msgstr ""
+msgstr "Meine Militäreinheit registrieren"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:122
 msgid "Registered countries"
-msgstr ""
+msgstr "Registrierte Länder"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:65
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:120
 msgid "Registered MUs"
-msgstr ""
+msgstr "Registrierte Militäreinheiten"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:57
 msgid "Registration closes in"
-msgstr ""
+msgstr "Registrierung endet in"
 
 #: src/components/_military/tournament/TournamentItem.tsx:58
 msgid "Registration open"
