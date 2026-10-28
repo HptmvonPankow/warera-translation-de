@@ -2582,7 +2582,7 @@ msgstr "<0>{0}</0> opłaty zwróconej do JW."
 #: src/components/_economy/employee/employee.frontConfig.tsx:351
 #: src/components/_economy/employee/employee.frontConfig.tsx:411
 msgid "<0>{0}</0> for themselves"
-msgstr "<0>{0}</0> dla siebie"
+msgstr "<0>{0}</0> dla nich samych"
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
