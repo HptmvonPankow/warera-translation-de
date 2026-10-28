@@ -459,7 +459,7 @@ msgstr "{freeMoves} ücretsiz"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr "Aynı şirketteki her {preDays} gün {gain}"
+msgstr "Aynı şirketteki her {perDays} gün {gain}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
@@ -511,8 +511,7 @@ msgstr "{gender, select, male {{name} evden paylaşmak için bir atıştırmalı
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1753
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
-msgstr "{gender, select, male {{name} çocuğunu işe getirdi. Saat 10'a doğru, Çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} female {{name} çocuğunu işe getirdi. Saat 10'a doğru, Çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} other {{name} çocuğunu işe getirdi. Saat 10'a doğru, Çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.}"
-
+msgstr "{gender, select, male {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} female {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} other {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.}}"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:362
 msgid "{gender, select, male {{name} burns out completely, and it will stay with him.} female {{name} burns out completely, and it will stay with her.} other {{name} burns out completely, and it will stay with them.}}"
 msgstr "{gender, select, male {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.} female {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.} other {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.}}"
