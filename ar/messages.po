@@ -8852,11 +8852,11 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:508
 msgid "Hourly pay"
-msgstr ""
+msgstr "الاجر الساعي"
 
 #: src/components/_social/PinArticleModal.tsx:82
 msgid "Hours"
-msgstr ""
+msgstr "ساعات"
 
 #: src/components/_social/PinArticleModal.tsx:59
 msgid "Hours is required"
@@ -8906,7 +8906,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:177
 msgid "If ignored"
-msgstr ""
+msgstr "اذا تم تجاهله"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:39
 msgid "If negative, pay <0/> for <1/> (once per day)."
@@ -8922,7 +8922,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2119
 msgid "Ignore it"
-msgstr ""
+msgstr "تجاهله"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1398
 msgid "Ignore the leaflets"
@@ -8930,7 +8930,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1978
 msgid "Ignore the memos"
-msgstr ""
+msgstr "تجاهل المذكرات"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:51
 msgid "Imagine if you stop right before the Mythic"
@@ -8981,7 +8981,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:216
 msgid "inactive"
-msgstr ""
+msgstr "غير نشط"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:207
 #: src/components/_user/apiToken/ApiTokenList.tsx:174
@@ -9027,11 +9027,11 @@ msgstr "ستؤدي الانتهاكات المتعمدة أو المتكررة �
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3875
 msgid "Interview him"
-msgstr ""
+msgstr "اجراء مقابلة معه"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:429
 msgid "Introduce yourself!"
-msgstr ""
+msgstr "قدم نفسك"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
@@ -9077,7 +9077,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2324
 msgid "Is that smoke?"
-msgstr ""
+msgstr "هل هذا دخان؟"
 
 #: src/components/_user/auth/WelcomeModal.tsx:283
 msgid "Issued"
@@ -9121,11 +9121,11 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:500
 msgid "It needs employees to produce."
-msgstr ""
+msgstr "يحتاج عمال لكي ينتج"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1544
 msgid "It now only makes soup."
-msgstr ""
+msgstr "انه يصنع الحساء فقط"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
@@ -9208,7 +9208,7 @@ msgstr "دبابة المهرج المفاجئ"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:141
 msgid "Jinx"
-msgstr ""
+msgstr "منحوس"
 
 #: src/pages/companies.tsx:67
 msgid "Job"
@@ -9249,11 +9249,11 @@ msgstr "الانضمام إلى التحالف"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:295
 msgid "Join Discord"
-msgstr ""
+msgstr "انضم للديسكورد"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3796
 msgid "Join in"
-msgstr ""
+msgstr "انضمام"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3343
 msgid "Join in yourself"
@@ -9265,7 +9265,7 @@ msgstr "انضم للوحدة العسكرية (MU)"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:133
 msgid "Join resistances"
-msgstr ""
+msgstr "انضمام للمقاومة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1372
 msgid "Join the party"
