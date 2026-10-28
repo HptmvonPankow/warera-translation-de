@@ -2582,7 +2582,7 @@ msgstr "<0>{0}</0> opłaty zwróconej do JW."
 #: src/components/_economy/employee/employee.frontConfig.tsx:351
 #: src/components/_economy/employee/employee.frontConfig.tsx:411
 msgid "<0>{0}</0> for themselves"
-msgstr "<0>{0}</0> dla siebie"
+msgstr "<0>{0}</0> dla nich samych"
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
@@ -14003,7 +14003,7 @@ msgstr "Oszukany"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:138
 msgid "Scavenger"
-msgstr "Padlinożerca"
+msgstr "Szabrownik"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2642
 msgid "Science confirms it, and adds pickles. The whole shift runs faster, for longer."
@@ -14832,7 +14832,7 @@ msgstr "Strategiczny"
 
 #: src/pages/region/[regionId]/index.tsx:96
 msgid "Strategic resource"
-msgstr "Zasób strategiczne"
+msgstr "Zasób strategiczny"
 
 #: src/components/_layout/map.frontConfig.tsx:74
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:57
