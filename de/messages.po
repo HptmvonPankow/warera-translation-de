@@ -15354,15 +15354,15 @@ msgstr "Die Erhöhung des Schadensfaktors bei kritischen Treffern gegenüber nor
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:334
 msgid "The damage race"
-msgstr ""
+msgstr "Das Wettrennen um den Schaden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3333
 msgid "The dawn workout"
-msgstr ""
+msgstr "Das Morgentraining"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:986
 msgid "The demand"
-msgstr ""
+msgstr "Die Forderung"
 
 #: src/pages/region/[regionId]/index.tsx:73
 msgid "The deposit gives a production bonus of the following percentage."
@@ -15374,27 +15374,27 @@ msgstr "Das Vorkommen läuft in der folgenden Zeit ab."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2008
 msgid "The dinner ends early. {name} and {partnerName} go their separate ways."
-msgstr ""
+msgstr "Das Abendessen endet früh. {name} und {partnerName} gehen getrennte Wege."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:529
 msgid "The doctor finds the cause. The burnout is behind them."
-msgstr ""
+msgstr "Der Arzt findet die Ursache. Das Burnout liegt hinter ihnen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:531
 msgid "The doctor prescribes rest, and not much else."
-msgstr ""
+msgstr "Der Arzt verordnet Ruhe und sonst nicht viel."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:975
 msgid "The door locks behind them. A demand will follow soon."
-msgstr ""
+msgstr "Die Tür fällt hinter ihnen ins Schloss. Bald folgt eine Forderung."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3413
 msgid "The ducks"
-msgstr ""
+msgstr "Die Enten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3425
 msgid "The ducks go back. One of them is missing."
-msgstr ""
+msgstr "Die Enten kommen zurück. Eine fehlt."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:897
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
@@ -15410,15 +15410,15 @@ msgstr "Der Angestellte"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1590
 msgid "The exorcist says it is very cursed, and leaves quickly."
-msgstr ""
+msgstr "Der Exorzist erklärt es für stark verflucht und verschwindet schnell."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1872
 msgid "The fort"
-msgstr ""
+msgstr "Die Festung"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1897
 msgid "The fort grows. {partnerName} waits outside it with snacks."
-msgstr ""
+msgstr "Die Festung wächst. {partnerName} wartet draußen mit Snacks."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
@@ -15426,39 +15426,39 @@ msgstr "Der gesamte Bonus von <0/> gilt bis zu einem Anteil von <1/> der weltwei
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1737
 msgid "The General retreats in good order."
-msgstr ""
+msgstr "Der General zieht sich geordnet zurück."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2570
 msgid "The golden hour"
-msgstr ""
+msgstr "Die goldene Stunde"
 
 #: src/components/_political/law/LawFormModal.tsx:356
 msgid "The government type changed less than {GOV_TYPE_CHANGE_COOLDOWN_DAYS} days ago. It can change again <0/>."
-msgstr ""
+msgstr "Die Regierungsform wurde vor weniger als {GOV_TYPE_CHANGE_COOLDOWN_DAYS} Tagen geändert. Sie kann wieder geändert werden <0/>."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:44
 msgid "The government type of the target country forbids defensive pacts."
-msgstr ""
+msgstr "Die Regierungsform des Ziellandes verbietet Verteidigungspakte."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:53
 msgid "The government type of this country forbids a sworn enemy."
-msgstr ""
+msgstr "Die Regierungsform dieses Landes verbietet Erzfeindschaften."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:27
 msgid "The government type of this country forbids alliances."
-msgstr ""
+msgstr "Die Regierungsform dieses Landes verbietet Allianzen."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:35
 msgid "The government type of this country forbids defensive pacts."
-msgstr ""
+msgstr "Die Regierungsform dieses Landes verbietet Verteidigungspakte."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:62
 msgid "The government type of this country forbids sending money to a country."
-msgstr ""
+msgstr "Die Regierungsform dieses Landes verbietet Geldüberweisungen an andere Länder."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1830
 msgid "The great soup debate"
-msgstr ""
+msgstr "Die große Suppendebatte"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3758
 msgid "The haircut"
@@ -15466,96 +15466,96 @@ msgstr "Der Haarschnitt"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:498
 msgid "The hour's whole payroll across all your companies, employees and managers, divided by the production it banks. Under the market value of a point your companies earn more than they spend; over it, they cost more than what they make is worth."
-msgstr ""
+msgstr "Die gesamten Stundenlohnkosten aller Mitarbeiter und Manager deiner Unternehmen, geteilt durch die eingelagerten Produktionspunkte. Liegt der Wert unter dem Marktwert eines Punktes, verdienen deine Unternehmen mehr, als sie ausgeben; liegt er darüber, kosten sie mehr, als ihre Produktion wert ist."
 
 #: src/components/_economy/employee/CostPerPp.tsx:54
 msgid "The hour's whole payroll, employees and manager, divided by the production it banks. Under the market value of a point the company earns more than it spends; over it, the roster costs more than what it makes is worth."
-msgstr ""
+msgstr "Die gesamten Stundenlohnkosten von Mitarbeitern und Manager, geteilt durch die eingelagerten Produktionspunkte. Liegt der Wert unter dem Marktwert eines Punktes, verdient das Unternehmen mehr, als es ausgibt; liegt er darüber, kostet die Belegschaft mehr, als ihre Produktion wert ist."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1034
 msgid "The impression"
-msgstr ""
+msgstr "Der Eindruck"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2315
 msgid "The inspector comes back with a clipboard and a long list of safety drills."
-msgstr ""
+msgstr "Der Inspektor kommt mit Klemmbrett und einer langen Liste von Sicherheitsübungen zurück."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2280
 msgid "The inspector pockets the fee and admires the painting on the way out."
-msgstr ""
+msgstr "Der Inspektor steckt die Gebühr ein und bewundert beim Hinausgehen das Gemälde."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1931
 msgid "The inventory is checked a normal amount again. Nobody is happy about it."
-msgstr ""
+msgstr "Das Inventar wird wieder in normalem Umfang kontrolliert. Niemand ist damit zufrieden."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1913
 msgid "The inventory remains extremely well checked."
-msgstr ""
+msgstr "Das Inventar wird weiterhin äußerst gründlich kontrolliert."
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:101
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:238
 msgid "The item goes back to your inventory."
-msgstr ""
+msgstr "Der Gegenstand kommt zurück in dein Inventar."
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "Der Witz geht auf deine Kosten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1766
 msgid "The kid “fixed” the tool."
-msgstr ""
+msgstr "Das Kind hat das Werkzeug „repariert“."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1773
 msgid "The kid draws the whole workshop. You are in it, with horns."
-msgstr ""
+msgstr "Das Kind zeichnet die ganze Werkstatt. Du bist auch dabei – mit Hörnern."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1763
 msgid "The kid made a sale. Nobody is sure what was sold."
-msgstr ""
+msgstr "Das Kind hat etwas verkauft. Niemand weiß genau, was."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1765
 msgid "The kid negotiated better than you ever have."
-msgstr ""
+msgstr "Das Kind hat besser verhandelt als du je zuvor."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3037
 msgid "The ladders"
-msgstr ""
+msgstr "Die Ranglisten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2533
 msgid "The leaflets are too damp to burn. It is a sad little bonfire."
-msgstr ""
+msgstr "Die Flugblätter sind zu feucht zum Verbrennen. Ein trauriges kleines Lagerfeuer."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:915
 msgid "The lessons do not take."
-msgstr ""
+msgstr "Der Unterricht zeigt keine Wirkung."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1197
 msgid "The locker"
-msgstr ""
+msgstr "Der Spind"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2197
 msgid "The lost letter"
-msgstr ""
+msgstr "Der verlorene Brief"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1381
 msgid "The lunch debates are the best show in town."
-msgstr ""
+msgstr "Die Mittagspausendebatten sind die beste Unterhaltung der Stadt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3826
 msgid "The lunch thief"
-msgstr ""
+msgstr "Der Mittagessensdieb"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2657
 msgid "The machine now smells of old tuna. Nobody else is pleased."
-msgstr ""
+msgstr "Die Maschine riecht jetzt nach altem Thunfisch. Niemand sonst ist begeistert."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
-msgstr ""
+msgstr "Die Karte benötigt WebGL2, das dein Browser oder Gerät nicht unterstützt. Alles andere im Spiel funktioniert normal."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:589
 msgid "The money is gone for good, but the gratitude is real."
-msgstr ""
+msgstr "Das Geld ist endgültig weg, aber die Dankbarkeit ist echt."
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
@@ -15565,87 +15565,87 @@ msgstr "Die ME bekommt die Kaution zurück, dazu eine Teilauszahlung für verurs
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1609
 msgid "The mustache"
-msgstr ""
+msgstr "Der Schnurrbart"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3432
 msgid "The neighbors buy every duck. You do not ask why."
-msgstr ""
+msgstr "Die Nachbarn kaufen alle Enten. Du fragst nicht warum."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3434
 msgid "The neighbors want more ducks. You have made a profit on ducks."
-msgstr ""
+msgstr "Die Nachbarn wollen mehr Enten. Du hast mit Enten Gewinn gemacht."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3532
 msgid "The new poster is magnificent: a kitten in armor, hanging in there."
-msgstr ""
+msgstr "Das neue Poster ist großartig: ein Kätzchen in Rüstung, das tapfer durchhält."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:745
 msgid "The new them is an improvement, and an old habit is gone."
-msgstr ""
+msgstr "Ihr neues Ich ist eine Verbesserung, und eine alte Angewohnheit ist verschwunden."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:293
 msgid "The next tier opens right away."
-msgstr ""
+msgstr "Die nächste Stufe wird sofort freigeschaltet."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:229
 msgid "The night shift tinkerer"
-msgstr ""
+msgstr "Der Tüftler der Nachtschicht"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3861
 msgid "The note on the fridge now mentions lawyers."
-msgstr ""
+msgstr "Auf dem Zettel am Kühlschrank ist jetzt von Anwälten die Rede."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2467
 msgid "The planes pass over. Running on nerves, the team works faster."
-msgstr ""
+msgstr "Die Flugzeuge überfliegen das Gebiet. Von den Nerven getrieben arbeitet das Team schneller."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3790
 msgid "The prank war"
-msgstr ""
+msgstr "Der Streichkrieg"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3814
 msgid "The pranks become legend. {name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "Die Streiche werden legendär. {name} und {partnerName} sind jetzt alte Freunde."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:77
 msgid "The price must be positive"
-msgstr ""
+msgstr "Der Preis muss positiv sein"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:54
 msgid "The production a manager's Management adds to your employees as they are now, at the market value of a point, minus a day of their pay at this rate. It moves with your roster."
-msgstr ""
+msgstr "Der Produktionswert, den das Management eines Managers deiner aktuellen Belegschaft hinzufügt, bewertet zum Marktpreis pro Punkt, abzüglich eines Tageslöhne zu diesem Satz. Er verändert sich mit deiner Belegschaft."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:312
 msgid "The prototype never quite works. The money is gone."
-msgstr ""
+msgstr "Der Prototyp funktioniert nie richtig. Das Geld ist weg."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2438
 msgid "The pyramid quietly collapses on its own. Nobody talks about it."
-msgstr ""
+msgstr "Die Pyramide stürzt leise von selbst ein. Niemand spricht darüber."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3627
 msgid "The queue breaks up, muttering about bad luck."
-msgstr ""
+msgstr "Die Schlange löst sich auf; alle murmeln über das Pech."
 
 #: src/components/_economy/employee/TrainingCardList.tsx:118
 msgid "The rarity is rolled once for the whole hand, among the rarities the employee has enough cards in. Leadership tilts these odds."
-msgstr ""
+msgstr "Die Seltenheit wird einmal für die gesamte Kartenhand ausgewürfelt, und zwar unter den Seltenheiten, von denen der Mitarbeiter genügend Karten hat. Führung beeinflusst diese Wahrscheinlichkeiten."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:554
 msgid "The region menu"
-msgstr ""
+msgstr "Das Regionsmenü"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:748
 msgid "The reinvention fizzles out, and they sulk about it."
-msgstr ""
+msgstr "Die Neuausrichtung verläuft im Sande, und sie schmollen deswegen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:750
 msgid "The reinvention wipes out what they knew of the trade."
-msgstr ""
+msgstr "Die Neuausrichtung löscht ihr bisheriges Wissen über das Handwerk aus."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2644
 msgid "The research finds nothing. It was a coincidence, and an expensive one."
-msgstr ""
+msgstr "Die Forschung findet nichts. Es war Zufall – und ein teurer dazu."
 
 #: src/components/_political/event/event.frontConfig.tsx:88
 msgid "The revolution in <0/> has been suppressed. The government remains in power."
@@ -15657,60 +15657,60 @@ msgstr "Die Revolution in <0/> war erfolgreich! Die Regierung wurde gestürzt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2719
 msgid "The rival assumes it is a trick and slams the door."
-msgstr ""
+msgstr "Der Rivale hält es für einen Trick und schlägt die Tür zu."
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:450
 msgid "The roll is skipped while you hold {maxLoots} uncollected cases"
-msgstr ""
+msgstr "Der Wurf wird übersprungen, solange du {maxLoots} nicht abgeholte Kisten hast"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2272
 msgid "The safety inspector"
-msgstr ""
+msgstr "Der Sicherheitsinspektor"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2628
 msgid "The sandwich"
-msgstr ""
+msgstr "Das Sandwich"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:92
 msgid "The seat is free"
-msgstr ""
+msgstr "Der Platz ist frei"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2738
 msgid "The shortcut"
-msgstr ""
+msgstr "Die Abkürzung"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1864
 msgid "The silence continues. It is very loud."
-msgstr ""
+msgstr "Das Schweigen hält an. Es ist ohrenbetäubend."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3782
 msgid "The silence lasts until the hair grows back."
-msgstr ""
+msgstr "Das Schweigen hält an, bis die Haare nachgewachsen sind."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2504
 msgid "The speech runs long, and the beige goes cold."
-msgstr ""
+msgstr "Die Rede dauert zu lange, und das Beige wird kalt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3807
 msgid "The stapler comes out of the jelly. {name} and {partnerName} sulk."
-msgstr ""
+msgstr "Der Tacker kommt aus dem Wackelpudding. {name} und {partnerName} schmollen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3792
 msgid "The stapler is in jelly. {name} and {partnerName} are at war, and the pranks are getting bigger."
-msgstr ""
+msgstr "Der Tacker steckt im Wackelpudding. {name} und {partnerName} sind im Krieg, und die Streiche werden immer heftiger."
 
 #. placeholder {0}: roundTax(companyCountry.taxes.income)
 #: src/components/_economy/company/CompanyTags.tsx:63
 msgid "The state collects {0}% of this company's employee payroll, and every point of it costs each employee happiness."
-msgstr ""
+msgstr "Der Staat erhebt {0} % der Mitarbeiterlohnsumme dieses Unternehmens als Steuer, und jeder Prozentpunkt kostet jeden Mitarbeiter Wohlbefinden."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:198
 msgid "The state collects {taxPercent}% of your employees' wages as employee tax."
-msgstr ""
+msgstr "Der Staat erhebt {taxPercent} % der Löhne deiner Mitarbeiter als Mitarbeitersteuer."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:209
 msgid "The state withholds {managerTaxPercent}% of a hired manager's pay as manager tax."
-msgstr ""
+msgstr "Der Staat behält {managerTaxPercent} % des Gehalts eines angestellten Managers als Managersteuer ein."
 
 #: src/pages/region/[regionId]/index.tsx:113
 msgid "The strategic resource will be reshuffled in the following amount of time."
@@ -15718,47 +15718,47 @@ msgstr "Die strategische Ressource wird in der folgenden Zeit neu verteilt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:354
 msgid "The streak holds for days. Output is way up."
-msgstr ""
+msgstr "Die Serie hält tagelang an. Die Produktion steigt stark."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:352
 msgid "The streak holds. Output is way up."
-msgstr ""
+msgstr "Die Serie hält an. Die Produktion steigt stark."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3377
 msgid "The suggestion box"
-msgstr ""
+msgstr "Der Vorschlagskasten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:889
 msgid "The talk goes badly. Now they are both angry."
-msgstr ""
+msgstr "Das Gespräch läuft schlecht. Jetzt sind beide wütend."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3750
 msgid "The thermostat goes up and down all day. Nobody is comfortable."
-msgstr ""
+msgstr "Das Thermostat wird den ganzen Tag hoch- und heruntergedreht. Niemand fühlt sich wohl."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3717
 msgid "The thermostat war"
-msgstr ""
+msgstr "Der Thermostatkrieg"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3848
 msgid "The thief takes the bait, loudly. The whole workshop enjoys it."
-msgstr ""
+msgstr "Der Dieb schnappt lautstark nach dem Köder. Die ganze Werkstatt amüsiert sich."
 
 #: src/components/_social/poll/PollEditorModal.tsx:249
 msgid "The timer starts when the article is published."
-msgstr ""
+msgstr "Der Timer startet, sobald der Artikel veröffentlicht wird."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1586
 msgid "The tool is officially uncursed. There is a certificate."
-msgstr ""
+msgstr "Das Werkzeug gilt offiziell als entflucht. Es gibt sogar eine Bescheinigung."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:621
 msgid "The toolbox goes in the stores. They found it, and they will not let you forget it."
-msgstr ""
+msgstr "Die Werkzeugkiste kommt ins Lager. Sie haben sie gefunden und werden dich das nicht vergessen lassen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:269
 msgid "The toolbox helped only halfway: the tool is better, not new."
-msgstr ""
+msgstr "Die Werkzeugkiste hat nur teilweise geholfen: Das Werkzeug ist besser, aber nicht wie neu."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1554
 msgid "The tournament has ended for your team <0/>. Check the results!"
@@ -15766,15 +15766,15 @@ msgstr "Das Turnier für dein Team <0/> ist beendet. Überprüfe die Ergebnisse!
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2694
 msgid "The trick works for everyone. The whole shift runs faster."
-msgstr ""
+msgstr "Der Trick funktioniert bei allen. Die ganze Schicht arbeitet schneller."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:706
 msgid "The trip settles something: the homesickness is gone."
-msgstr ""
+msgstr "Die Reise klärt etwas: Das Heimweh ist verschwunden."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2079
 msgid "The union is dissolved without a fuss."
-msgstr ""
+msgstr "Die Gewerkschaft wird ohne Aufhebens aufgelöst."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:12
 msgid "The universe owes you something big"
@@ -15786,31 +15786,31 @@ msgstr "Die Nutzung von Bots, Scripts oder jeglicher Form von Automatisierung, u
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3176
 msgid "The van race"
-msgstr ""
+msgstr "Das Transporterennen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3199
 msgid "The van wins. So does the driver, who took your bet."
-msgstr ""
+msgstr "Der Transporter gewinnt. Ebenso der Fahrer, der deine Wette angenommen hat."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1881
 msgid "The wall is taller now."
-msgstr ""
+msgstr "Die Mauer ist jetzt höher."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1852
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
-msgstr ""
+msgstr "Der ganze Pausenraum ist sich in seiner Empörung über dich einig. Für ein paar Tage verstehen sich alle gut."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
-msgstr ""
+msgstr "Das Gewinnlos"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:644
 msgid "The workshop has a cat now, and everyone is in a better mood."
-msgstr ""
+msgstr "Die Werkstatt hat jetzt eine Katze, und alle sind besser gelaunt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3920
 msgid "The workshop is a jungle now. Everyone loves it, and nobody can find the stapler."
-msgstr ""
+msgstr "Die Werkstatt ist jetzt ein Dschungel. Alle lieben es, und niemand findet den Tacker."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:336
 msgid "Their coworkers"
