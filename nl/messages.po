@@ -394,7 +394,7 @@ msgstr "{count, plural, one {<0>Lees <1/> artikel</0>} other {<2>Lees <3/> artik
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>Zelf <1/> keer zelf in je bedrijven</0>} other {<2>Zelf <3/> keer zelf in je eigen bedrijven</2>}}"
+msgstr "{count, plural, one {<0>Werk <1/> keer zelf in je bedrijven</0>} other {<2>Werk <3/> keer zelf in je eigen bedrijven</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
