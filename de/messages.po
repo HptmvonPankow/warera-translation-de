@@ -459,11 +459,11 @@ msgstr "{freeMoves} kostenlos"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr "{gain} alle {perDays} Tage im selben Unternehmen"
+msgstr ""
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
-msgstr "{gain} alle {perDays} Tage im selben Unternehmen, bis zu {cap}"
+msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1168
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
@@ -1745,11 +1745,11 @@ msgstr "{premiumMonthsCount, plural, one {# Monat} other {# Monate}}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:115
 msgid "{production} alongside {partner}"
-msgstr "{production} neben {partner}"
+msgstr ""
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:90
 msgid "{production} and {mood} while producing {good}"
-msgstr "{production} und {mood} bei der Herstellung von {good}"
+msgstr ""
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:280
 #: src/components/_political/map/MapMenu.tsx:193
@@ -2029,7 +2029,7 @@ msgstr "+4 Trainingspotenzial: drei Trainingseinheiten mehr als bei der gerade v
 msgid "<0/> & <1/>"
 msgstr "<0/> & <1/>"
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -2520,31 +2520,31 @@ msgstr "<0>{0}</0> gegen Feind von <1/>"
 #. placeholder {1}: 10
 #: src/components/_economy/employee/employee.frontConfig.tsx:714
 msgid "<0>{0}</0> and <1>{1}</1> in a homeland core region"
-msgstr "<0>{0}</0> und <1>{1}</1> in einer Kernregion der Heimat"
+msgstr ""
 
 #. placeholder {0}: -2
 #. placeholder {1}: -5
 #: src/components/_economy/employee/employee.frontConfig.tsx:266
 msgid "<0>{0}</0> and <1>{1}</1> when any coworker is foreign"
-msgstr "<0>{0}</0> und <1>{1}</1>, wenn ein Kollege aus dem Ausland stammt"
+msgstr ""
 
 #. placeholder {0}: 2
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:248
 msgid "<0>{0}</0> and <1>{1}</1> when half or more coworkers are compatriots"
-msgstr "<0>{0}</0> und <1>{1}</1>, wenn mindestens die Hälfte der Kollegen Landsleute sind"
+msgstr ""
 
 #. placeholder {0}: -2
 #. placeholder {1}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:732
 msgid "<0>{0}</0> and <1>{1}</1> when working abroad"
-msgstr "<0>{0}</0> und <1>{1}</1> bei der Arbeit im Ausland"
+msgstr ""
 
 #. placeholder {0}: 3
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:536
 msgid "<0>{0}</0> and <1>{1}</1> while producing their good"
-msgstr "<0>{0}</0> und <1>{1}</1> bei der Herstellung ihrer Ware"
+msgstr ""
 
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:67
@@ -2582,7 +2582,7 @@ msgstr "<0>{0}</0> Kaution an die ME zurückgezahlt."
 #: src/components/_economy/employee/employee.frontConfig.tsx:351
 #: src/components/_economy/employee/employee.frontConfig.tsx:411
 msgid "<0>{0}</0> for themselves"
-msgstr "<0>{0}</0> für sich selbst"
+msgstr ""
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
@@ -2717,7 +2717,7 @@ msgstr "<0>{0}</0> wenn sie alleine arbeiten"
 #. placeholder {0}: -1
 #: src/components/_economy/employee/employee.frontConfig.tsx:383
 msgid "<0>{0}</0> while nobody out-produces them"
-msgstr "<0>{0}</0>, solange niemand mehr produziert als sie"
+msgstr ""
 
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:377
@@ -2770,56 +2770,56 @@ msgstr "<0>{v}</0> Verantwortung = <1>{shieldPct}% weniger als</1> <2>Zufriedenh
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:931
 msgid "<0>+1</0> candidate on every company's daily shortlist"
-msgstr "<0>+1</0> Kandidat auf der täglichen Auswahlliste jedes Unternehmens"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:658
 msgid "<0>+1</0> to one stat every 10 days at the same company, up to <1>+4</1>"
-msgstr "<0>+1</0> auf einen Wert alle 10 Tage im selben Unternehmen, bis zu <1>+4</1>"
+msgstr ""
 
 #. placeholder {0}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:296
 msgid "<0>+100%</0> and <1>{0}</1> when working alone"
-msgstr "<0>+100 %</0> und <1>{0}</1> bei alleiniger Arbeit"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:441
 msgid "<0>+15%</0> alongside their friend"
-msgstr "<0>+15 %</0> neben ihrem Freund"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:478
 msgid "<0>+15%</0> per female coworker, up to <1>+30%</1>"
-msgstr "<0>+15 %</0> pro Kollegin, bis zu <1>+30 %</1>"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:492
 msgid "<0>+15%</0> per male coworker, up to <1>+30%</1>"
-msgstr "<0>+15 %</0> pro Kollege, bis zu <1>+30 %</1>"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:634
 msgid "<0>+20%</0> after 30 days at the same company"
-msgstr "<0>+20 %</0> nach 30 Tagen im selben Unternehmen"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:465
 msgid "<0>+20%</0> alongside their sweetheart"
-msgstr "<0>+20 %</0> neben ihrem Schatz"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:395
 msgid "<0>+20%</0> when paid more than every coworker"
-msgstr "<0>+20 %</0>, wenn sie besser bezahlt werden als alle Kollegen"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:311
 msgid "<0>+25%</0> per coworker, up to <1>+50%</1>"
-msgstr "<0>+25 %</0> pro Kollege, bis zu <1>+50 %</1>"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:234
 msgid "<0>+25%</0> while holding no tool"
-msgstr "<0>+25 %</0>, solange kein Werkzeug gehalten wird"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:222
 msgid "<0>+40%</0> while holding a tool"
-msgstr "<0>+40 %</0>, solange ein Werkzeug gehalten wird"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:622
 msgid "<0>+50%</0> on their first day in a company"
-msgstr "<0>+50 %</0> am ersten Tag in einem Unternehmen"
+msgstr ""
 
 #: src/components/_layout/loadingTips.tsx:225
 msgid "<0>Armor</0> and <1>Dodge</1> have diminishing returns: each point is worth a bit less than the one before."
@@ -2880,7 +2880,7 @@ msgstr "<0>Wird durch deine Arbeit, deine Mitarbeiter und den automatisierten Ab
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:824
 msgid "<0>Half</0> Happiness losses"
-msgstr "<0>Halb so hohe</0> Wohlbefindensverluste"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:400
 msgid "<0>Health</0> to fight, <1>Hunger</1> to eat."
@@ -2892,7 +2892,7 @@ msgstr "<0>Luck</0>: findet Werkzeugkisten."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:847
 msgid "<0>Never</0> quits"
-msgstr "<0>Kündigt niemals</0>"
+msgstr ""
 
 #: src/components/_layout/loadingTips.tsx:199
 msgid "<0>Precision</0> caps at 100%: every point above turns into <1>{precisionOverflow}</1>."
@@ -2922,11 +2922,11 @@ msgstr "<0>Unruhen</0> stellen interne Spannungen im Land dar.<1/><2/>Bürger k�
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:590
 msgid "<0>x2</0> specialization speed"
-msgstr "<0>2-fache</0> Spezialisierungsgeschwindigkeit"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:881
 msgid "<0>x2</0> toolbox chance and cap"
-msgstr "<0>2-fache</0> Werkzeugkistenchance und -obergrenze"
+msgstr ""
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:113
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
@@ -4587,7 +4587,7 @@ msgstr "Verfügbar in"
 msgid "Available now"
 msgstr "Jetzt verfügbar"
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "Avatar entfernt"
 
@@ -4894,7 +4894,7 @@ msgstr "Geburtstagshut zum 1. Beta-Jahr"
 msgid "Blacksmith's Hammer"
 msgstr "Schmiedehammer"
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "Blockieren (Inhalt ausblenden)"
 
@@ -5704,7 +5704,7 @@ msgstr "Kisten auf der Karte einsammeln"
 msgid "Colonel"
 msgstr "Oberst"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "Farbschema"
@@ -5758,7 +5758,7 @@ msgstr "Community"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6288,7 +6288,7 @@ msgstr "Krit. Schaden"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:870
 msgid "Critical event outcomes, good or bad, twice as often"
-msgstr "Positive wie negative kritische Ereignisausgänge doppelt so häufig"
+msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:194
 msgid "Critical failure"
@@ -6714,7 +6714,7 @@ msgstr "Beschreibung"
 msgid "Description (Optional)"
 msgstr "Beschreibung (optional)"
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "Beschreibung entfernt"
 
@@ -7105,7 +7105,7 @@ msgstr "Bearbeiten"
 msgid "Edit country order"
 msgstr "Landesbefehl bearbeiten"
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "Beschreibung bearbeiten"
 
@@ -7633,15 +7633,15 @@ msgstr "Erwarteter Lohn <0>-{0} %</0>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:800
 msgid "Expects <0>15%</0> less pay than the market rate"
-msgstr "Erwartet <0>15 %</0> weniger Gehalt als den Marktüblichen Satz"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:811
 msgid "Expects <0>2%</0> more pay for every week hired"
-msgstr "Erwartet für jede Beschäftigungswoche <0>2 %</0> mehr Gehalt"
+msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:789
 msgid "Expects <0>20%</0> more pay than the market rate"
-msgstr "Erwartet <0>20 %</0> mehr Gehalt als den Marktüblichen Satz"
+msgstr ""
 
 #: src/components/_user/milestone/milestone.frontConfig.tsx:28
 msgid "Experience"
@@ -7976,7 +7976,7 @@ msgstr "Schriftart"
 msgid "Font size"
 msgstr "Schriftgröße"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "Schriftstil"
 
@@ -8228,7 +8228,7 @@ msgstr "Geschenk gesendet! Skin-Paket für Empfänger freigeschaltet!"
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Geschenk gesendet! Danke für die Unterstützung des Spiels <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "Supporter-Plan verschenken"
 
@@ -9035,7 +9035,7 @@ msgstr "Stell dich vor!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9679,7 +9679,7 @@ msgstr "Lass sie sich freiwillig melden"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:942
 msgid "Lets every coworker train <0>2</0> times a day"
-msgstr "Ermöglicht jedem Kollegen, <0>2</0>-mal täglich zu trainieren"
+msgstr ""
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:134
@@ -9852,7 +9852,7 @@ msgstr "Melde dich an, um abzustimmen."
 msgid "Login"
 msgstr "Anmelden"
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "Abmelden"
 
@@ -10968,6 +10968,10 @@ msgstr "Neuer API-Token erstellt"
 msgid "New article"
 msgstr "Neuer Artikel"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "Neuer Kommentar"
@@ -10976,7 +10980,7 @@ msgstr "Neuer Kommentar"
 msgid "New contract accepted"
 msgstr "Neuen Vertrag akzeptiert"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr "Neuer Mitarbeiter"
 
@@ -11261,7 +11265,7 @@ msgstr "Noch keine Boden-Rangliste."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:600
 msgid "No Happiness loss when storage is full"
-msgstr "Kein Verlust an Wohlbefinden bei vollem Lager"
+msgstr ""
 
 #: src/components/_economy/inventory/Inventory.tsx:525
 msgid "No helmets"
@@ -12343,7 +12347,7 @@ msgstr "Telefonnummer verifiziert!"
 msgid "Phone Verification"
 msgstr "Telefonverifizierung"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "Telefonverifizierung angefordert"
 
@@ -12801,7 +12805,7 @@ msgstr "Nur Profi-MEs"
 msgid "Professionals only (5+ rep)"
 msgstr "Nur Profi-MEs (5+ Ruf)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "Profil"
 
@@ -12993,7 +12997,7 @@ msgstr "Kündigen"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:835
 msgid "Quits below <0>{flightRiskQuitThreshold}</0> happiness instead of {quitThreshold}"
-msgstr "Kündigt bei weniger als <0>{flightRiskQuitThreshold}</0> Wohlbefinden statt bei {quitThreshold}."
+msgstr ""
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "Rekrut"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Rekrutieren"
@@ -13278,11 +13282,6 @@ msgstr "Werber wurde festgelegt"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "Benutzername des Werbers"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr "App aktualisieren"
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13473,7 +13472,7 @@ msgstr "Ein inaktives Kongressmitglied von seiner Position entfernen"
 msgid "Remove announcement"
 msgstr "Anzeige entfernen"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "Avatar entfernen"
 
@@ -13485,7 +13484,7 @@ msgstr "Kopfgeld entfernen"
 msgid "Remove council member"
 msgstr "Ratsmitglied entfernen"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "Beschreibung entfernen"
 
@@ -13582,7 +13581,7 @@ msgstr "Namen melden"
 msgid "Report the leak to the rival"
 msgstr "Das Leck dem Rivalen melden"
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "Benutzer melden"
 
@@ -13602,7 +13601,7 @@ msgstr "Der Ruf bewegt sich jede Woche um 20 % Richtung 0 (mindestens 1 Punkt)."
 msgid "Reputation purchased!"
 msgstr "Ruf erworben!"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "Telefonverifizierung anfordern"
 
@@ -13658,7 +13657,7 @@ msgstr "Reset-Überlebender"
 msgid "Reset tutorials"
 msgstr "Tutorials zurücksetzen"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "Benutzernamen zurücksetzen"
 
@@ -14099,7 +14098,7 @@ msgstr "Einen Gegenstand auswählen"
 msgid "Select an occupied region"
 msgstr "Wähle eine besetzte Region"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "Banner auswählen"
 
@@ -14125,7 +14124,7 @@ msgstr "Eine Antwort auswählen"
 msgid "Select one or more answers"
 msgstr "Eine oder mehrere Antworten auswählen"
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "Skin auswählen"
 
@@ -14180,7 +14179,7 @@ msgstr "verkauft"
 msgid "Send <0/> to <1/>"
 msgstr "<0/> an <1/> senden"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "Eine Nachricht senden"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "Lege deinen Benutzernamen fest"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "Einstellungen"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr "Pfanne"
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14804,7 +14803,7 @@ msgstr "Stahl"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:895
 msgid "Still finds toolboxes when storage is full"
-msgstr "Findet weiterhin Werkzeugkisten, wenn das Lager voll ist"
+msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Stockpiler"
@@ -14908,10 +14907,10 @@ msgstr "Supporter"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "Supporter-Funktion"
 
@@ -15800,6 +15799,10 @@ msgstr "Die Mauer ist jetzt höher."
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr "Der ganze Pausenraum ist sich in seiner Empörung über dich einig. Für ein paar Tage verstehen sich alle gut."
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr "Das Gewinnlos"
@@ -16063,7 +16066,7 @@ msgstr "Das verbraucht deine heutige Auswahl. Die nächste wird um 00:00 UTC fre
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Dies verleiht dir einen Buff für {cocainBuffHours} Std. und verursacht anschließend einen Malus für {cocainDebuffHours} Std."
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "Dies erfordert, dass der Benutzer seine Mobiltelefonnummer verifiziert."
 
@@ -16635,7 +16638,7 @@ msgstr "Tyrannosaurus Rex"
 msgid "UI"
 msgstr "Benutzeroberfläche"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "Entsperren (Inhalt anzeigen)"
 
@@ -16889,7 +16892,7 @@ msgstr "Nutzer & Fortschritt"
 msgid "User already owns all skins"
 msgstr "Benutzer besitzt bereits alle Skins"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "Benutzer blockiert"
 
@@ -16901,7 +16904,7 @@ msgstr "Beteiligung des Benutzers an den Bodenpunkten."
 msgid "User removed from family group"
 msgstr "Benutzer aus Familiengruppe entfernt"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "Benutzer entsperrt"
 
@@ -16934,7 +16937,7 @@ msgstr "Benutzernamenseffekte sind eine Funktion des Unterstützer-Abos."
 msgid "Username font"
 msgstr "Schriftart des Benutzernamens"
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "Benutzername entfernt"
 
@@ -18423,10 +18426,7 @@ msgstr "Vergrößern"
 msgid "Zoom out"
 msgstr "Verkleinern"
 
-#: src/components/_economy/employee/RecruitModal.tsx:115
-msgid "New candidates"
-msgstr "Neue Kandidaten"
-
-#: src/components/_economy/employee/RecruitModal.tsx:117
-msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
-msgstr "Die gesamte Kandidatenliste wird täglich um 00:00 UTC ersetzt. Durch eine Einstellung wird nur der Platz neu aufgefüllt, aus dem du den Kandidaten eingestellt hast."
+#: src/components/_user/user/MyAvatar.tsx:63
+#: src/components/_user/user/UserDropdown.tsx:301
+msgid "Refresh app"
+msgstr "App aktualisieren"
