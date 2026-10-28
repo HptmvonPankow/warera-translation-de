@@ -9,21 +9,21 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: the-nap\n"
-"Language-Team: \n"
+"Last-Translator: Laxvyn (Tetrazione)\n"
+"Language-Team: git-yhuman, GravStark, the-nap, Laxvyn (Tetrazione)\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1220
 msgid "You find nothing but resentment."
-msgstr ""
+msgstr "Non provi che rancore."
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
-msgstr " a. Scambiarsi equipaggiamento"
+msgstr "  a. Scambiarsi equipaggiamento"
 
 #: src/components/_common/GameRules.tsx:101
 msgid "  b. Working for each other"
-msgstr " b. Lavorare gli uni per gli altri"
+msgstr "  b. Lavorare gli uni per gli altri"
 
 #: src/components/_common/GameRules.tsx:173
 msgid " - Funneling assets without proper exchange"
@@ -35,7 +35,7 @@ msgstr " - Schemi di fusione dell'equipaggiamento*"
 
 #: src/components/_common/GameRules.tsx:161
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr "Lavoro a basso salario (meno di 0.8 e più di 1.2 volte tanto)"
+msgstr " - Lavoro a basso salario (meno di 0.8 e più di 1.2 volte tanto)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:465
@@ -65,15 +65,15 @@ msgstr "- Difendere questa regione avrà un malus di <0>{0}</0>."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% sullo stipendio atteso."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% sullo stipendio atteso."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% sullo stipendio atteso."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
@@ -86,7 +86,7 @@ msgstr "(media sviluppo per paese)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr ""
+msgstr "(collega)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -3816,7 +3816,7 @@ msgstr "Apri la guerra"
 #: src/pages/user/[userId]/account.tsx:32
 #: src/pages/user/[userId]/index.tsx:171
 msgid "Account"
-msgstr "Account"
+msgstr "Resoconto"
 
 #: src/components/_common/GameRules.tsx:155
 msgid "Accounts created solely to benefit a player, group, military unit or country are not permitted. Exploited accounts can take many forms. This includes, but is not limited to:"
@@ -3846,11 +3846,11 @@ msgstr "Battaglie attive"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:73
 msgid "Active citizen"
-msgstr ""
+msgstr "Cittadino attivo"
 
 #: src/components/_political/country/CountryHeader.tsx:233
 msgid "Active citizens"
-msgstr ""
+msgstr "Cittadini attivi"
 
 #: src/pages/country/[countryId]/citizens.tsx:36
 msgid "Active Citizens"
@@ -3874,19 +3874,19 @@ msgstr "Attività"
 
 #: src/components/_social/Tiptap.tsx:931
 msgid "Add a poll"
-msgstr ""
+msgstr "Aggiungi un sondaggio"
 
 #: src/components/_social/poll/PollEditorModal.tsx:239
 msgid "Add answer"
-msgstr ""
+msgstr "Aggiungi risposta"
 
 #: src/components/_social/poll/PollEditorModal.tsx:292
 msgid "Add poll"
-msgstr ""
+msgstr "Aggiungi sondaggio"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
-msgstr "Aggiungi utente"
+msgstr "Aggiungi Utente"
 
 #: src/components/_political/law/Law.tsx:111
 #: src/components/_political/law/LawFormModal.tsx:376
@@ -3947,7 +3947,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
-msgstr ""
+msgstr "Età"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "Age {input}"
@@ -3987,11 +3987,11 @@ msgstr "Tutte le categorie"
 
 #: src/components/_economy/employee/MoveShell.tsx:139
 msgid "All companies"
-msgstr ""
+msgstr "Tutte le aziende"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "Tutti gli stati"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -3999,7 +3999,7 @@ msgstr "Tutti i tipi di evento"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:212
 msgid "All guides done!"
-msgstr ""
+msgstr "Completate tutte le guide!"
 
 #: src/components/_user/notification/NotificationPrefsPanel.tsx:188
 msgid "All Ingame"
@@ -4126,7 +4126,7 @@ msgstr "Alpha Tester"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:224
 msgid "Already employed"
-msgstr ""
+msgstr "Già assunto"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:188
 msgid "Always, for every employee who turns {age}, then again every {every} while they stay. Each year past {age} takes {oddsPerYear}% off the odds of keeping them."
@@ -4568,7 +4568,7 @@ msgstr "Acquisto automatico quando è vuoto"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:76
 msgid "Autocracy"
-msgstr ""
+msgstr "Autocrazia"
 
 #: src/components/_economy/company/CompanyTags.tsx:162
 msgid "Automated engine"
@@ -4773,7 +4773,7 @@ msgstr "Eroe della battaglia"
 
 #: src/components/_layout/LayoutOptions.tsx:229
 msgid "Battle hit effects"
-msgstr ""
+msgstr "Effetti dei colpi in combattimento"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:61
 msgid "Battle loot pool"
@@ -5669,7 +5669,7 @@ msgstr "Chiudi"
 
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Clouds"
-msgstr ""
+msgstr "Nuvole"
 
 #: src/utils/translations.tsx:276
 msgid "Cloudy Flask"
@@ -5681,7 +5681,7 @@ msgstr "Clovis Point"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:21
 msgid "Coal"
-msgstr ""
+msgstr "Carbone"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
@@ -5768,7 +5768,7 @@ msgstr "Aziende"
 #: src/components/_political/map/MapMenu.tsx:576
 #: src/components/_political/region/RegionHeader.tsx:114
 msgid "Companies (active, not disabled)"
-msgstr ""
+msgstr "Aziende (attive, non disattivate)"
 
 #: src/components/_user/user/skills.frontConfig.tsx:134
 #: src/components/_user/user/skills.frontConfig.tsx:135
@@ -11981,7 +11981,7 @@ msgstr "Altro"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:369
 msgid "Out of Health?"
-msgstr ""
+msgstr "Non in salute?"
 
 #: src/components/_political/allianceLaw/AllianceLaw.tsx:72
 #: src/components/_political/law/Law.tsx:78
@@ -11999,11 +11999,11 @@ msgstr "Overflow:"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2677
 msgid "Overheard at the bar"
-msgstr ""
+msgstr "Sentito per caso al bar"
 
 #: src/components/_layout/LayoutOptions.tsx:120
 msgid "Overseas frontiers"
-msgstr ""
+msgstr "Frontiere d'oltreoceano"
 
 #: src/components/_military/war/WarHeader.tsx:79
 msgid "Overview"
@@ -12222,12 +12222,12 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:149
 msgid "Pay"
-msgstr ""
+msgstr "Paga"
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:39
 #: src/components/_user/notification/notification.frontConfig.tsx:2205
 msgid "Pay cut"
-msgstr ""
+msgstr "Riduzione della paga"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:228
 msgid "pay cut pending"
@@ -14340,7 +14340,7 @@ msgstr "Mostra tutte le {0} offerte"
 
 #: src/pages/user/[userId]/settings.tsx:82
 msgid "Show email"
-msgstr ""
+msgstr "Mostra email"
 
 #: src/components/_economy/work/WorkList.tsx:113
 #: src/components/_military/damageRanking/DamageRankingList.tsx:189
@@ -14363,7 +14363,7 @@ msgstr "Mostra solo articoli con punteggio positivo (punteggio >= -5)"
 
 #: src/components/_social/poll/PollCard.tsx:408
 msgid "Show results"
-msgstr ""
+msgstr "Mostra risultati"
 
 #: src/components/_military/mu/MuMemberList.tsx:199
 msgid "Showing monthly"
@@ -17126,7 +17126,7 @@ msgstr "Verifichaimo tu sia umano..."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:115
 msgid "Veteran"
-msgstr ""
+msgstr "Veterano"
 
 #: src/components/_layout/LayoutOptions.tsx:203
 msgid "Vibrations"
@@ -17183,7 +17183,7 @@ msgstr "Votante"
 #: src/components/_political/election/Election.tsx:130
 #: src/components/_political/election/Election.tsx:220
 msgid "Votes"
-msgstr ""
+msgstr "Voti"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
@@ -18361,7 +18361,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:223
 msgid "Your progression"
-msgstr ""
+msgstr "I tuoi progressi"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
 msgid "Your rank"
@@ -18373,7 +18373,7 @@ msgstr "Il tuo link referral"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:251
 msgid "Your reward"
-msgstr ""
+msgstr "La tua ricompensa"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1581
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -18389,7 +18389,7 @@ msgstr "La tua squadra:"
 
 #: src/components/_political/election/Election.tsx:230
 msgid "Your vote"
-msgstr ""
+msgstr "Il tuo voto"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
@@ -18403,11 +18403,11 @@ msgstr "Le tue missioni settimanali sono state reimpostate! Completale per otten
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:512
 msgid "Your workforce"
-msgstr ""
+msgstr "La tua forza lavoro"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
-msgstr "your@email.com"
+msgstr "tua@email.com"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:52
 #: src/components/_political/chat/ChatConversationsMenu.tsx:152
