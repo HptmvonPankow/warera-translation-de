@@ -4191,7 +4191,7 @@ msgstr ""
 msgid "An occupied capital revolts on its own at full resistance"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:135
+#: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Anchor"
 msgstr ""
 
@@ -4675,7 +4675,7 @@ msgstr ""
 msgid "Ban the ramp"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:103
+#: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Band of Brothers"
 msgstr ""
 
@@ -4996,7 +4996,7 @@ msgstr ""
 msgid "broken"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:380
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:384
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
 msgstr ""
@@ -5059,7 +5059,7 @@ msgstr "A katonai egység létrehozása"
 msgid "Bulk dismantle"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:97
+#: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Bully"
 msgstr ""
 
@@ -5075,7 +5075,7 @@ msgstr ""
 msgid "Burn them all"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:118
+#: src/components/_economy/employee/employee.traitMeta.ts:120
 msgid "Burnout"
 msgstr ""
 
@@ -5602,7 +5602,7 @@ msgstr ""
 msgid "Claimed!"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:112
+#: src/components/_economy/employee/employee.traitMeta.ts:114
 msgid "Claustrophobe"
 msgstr ""
 
@@ -5657,7 +5657,7 @@ msgstr ""
 msgid "Climate"
 msgstr "Klíma"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:131
+#: src/components/_economy/employee/employee.traitMeta.ts:133
 msgid "Climber"
 msgstr ""
 
@@ -5721,7 +5721,7 @@ msgstr ""
 msgid "Colorblind mode"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:92
+#: src/components/_economy/employee/employee.traitMeta.ts:94
 msgid "Comic"
 msgstr ""
 
@@ -6067,7 +6067,7 @@ msgstr "Alapterületek"
 msgid "Corporal"
 msgstr "Tizedes"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:89
+#: src/components/_economy/employee/employee.traitMeta.ts:91
 msgid "Cosmopolitan"
 msgstr ""
 
@@ -6167,7 +6167,7 @@ msgstr "Országháborúk"
 msgid "Coworker fired"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:181
+#: src/components/_economy/employee/EmployeeModal.tsx:186
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:142
 msgid "Coworkers"
@@ -6194,7 +6194,7 @@ msgstr "Tárgy készítése"
 msgid "Craft items"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:108
+#: src/components/_economy/employee/employee.traitMeta.ts:110
 msgid "Craftsman"
 msgstr ""
 
@@ -6264,7 +6264,7 @@ msgstr "Token létrehozása"
 msgid "Created:"
 msgstr "Létrehozva:"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:116
+#: src/components/_economy/employee/employee.traitMeta.ts:118
 msgid "Creature of Habit"
 msgstr ""
 
@@ -6386,7 +6386,7 @@ msgstr "Napi karbantartás"
 msgid "Daily Missions Reset"
 msgstr "Napi küldetések visszaállítva"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:764
+#: src/components/_economy/employee/EmployeeModal.tsx:786
 msgid "Daily output"
 msgstr ""
 
@@ -6394,11 +6394,11 @@ msgstr ""
 msgid "Daily pay"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:135
+#: src/components/_economy/employee/EmployeeModal.tsx:140
 msgid "Daily production"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:778
+#: src/components/_economy/employee/EmployeeModal.tsx:800
 msgid "Daily profit"
 msgstr ""
 
@@ -6406,7 +6406,7 @@ msgstr ""
 msgid "Daily revenue"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:773
+#: src/components/_economy/employee/EmployeeModal.tsx:795
 msgid "Daily wage"
 msgstr ""
 
@@ -6740,7 +6740,7 @@ msgstr ""
 msgid "Diamond Auger"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:117
+#: src/components/_economy/employee/employee.traitMeta.ts:119
 msgid "Diamond in the Rough"
 msgstr ""
 
@@ -7213,7 +7213,7 @@ msgstr "Elit Nadrág"
 msgid "Embrace the curse"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:643
+#: src/components/_economy/employee/EmployeeModal.tsx:648
 #: src/components/_economy/employee/EmployeeName.tsx:71
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:189
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:272
@@ -7378,7 +7378,7 @@ msgstr "Add meg a cikk azonosítóját"
 msgid "Enter the code we sent to your email."
 msgstr "Add meg az e-mailben küldött kódot."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:98
+#: src/components/_economy/employee/employee.traitMeta.ts:100
 msgid "Envious"
 msgstr ""
 
@@ -7618,7 +7618,7 @@ msgstr ""
 msgid "Evict the General"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:124
+#: src/components/_economy/employee/employee.traitMeta.ts:126
 msgid "Expat"
 msgstr ""
 
@@ -7889,7 +7889,7 @@ msgstr ""
 msgid "Finished: your reward is waiting"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:394
+#: src/components/_economy/employee/EmployeeModal.tsx:399
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:264
 #: src/components/_political/government/Government.tsx:263
 msgid "Fire"
@@ -7948,7 +7948,7 @@ msgstr "Láncos buzogány"
 msgid "Flask"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:134
+#: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
 msgstr ""
 
@@ -8017,7 +8017,7 @@ msgstr ""
 msgid "Forbid the race"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:94
+#: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Foreman"
 msgstr ""
 
@@ -8119,7 +8119,7 @@ msgstr "g. A fent említett ideológiákhoz és mozgalmakhoz kapcsolódó profil
 msgid "Gain <0>Xp</0> by finishing your missions!"
 msgstr "Szerezz <0>Xp</0>-t a küldetéseid teljesítésével!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:137
+#: src/components/_economy/employee/employee.traitMeta.ts:139
 msgid "Gambler"
 msgstr ""
 
@@ -8246,7 +8246,7 @@ msgstr "Ajándékozd ezt a csomagot valakinek"
 msgid "gifted"
 msgstr "ajándékozott"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:102
+#: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
 msgstr ""
 
@@ -8391,7 +8391,7 @@ msgstr ""
 msgid "Graticule"
 msgstr "Gradháló"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:129
+#: src/components/_economy/employee/employee.traitMeta.ts:131
 msgid "Greedy"
 msgstr ""
 
@@ -8569,7 +8569,7 @@ msgstr "Hörcsög tank"
 msgid "Hand over a toolbox and do it properly"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:84
+#: src/components/_economy/employee/employee.traitMeta.ts:86
 msgid "Handy"
 msgstr ""
 
@@ -8720,12 +8720,12 @@ msgstr "Segíts a KE tagoknak"
 msgid "Help the game to grow"
 msgstr "Segíts a játék növekedésében"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:749
+#: src/components/_economy/employee/EmployeeModal.tsx:771
 msgid "hidden"
 msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:135
-#: src/components/_economy/employee/EmployeeTraitBadge.tsx:82
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:84
 msgid "Hidden trait"
 msgstr ""
 
@@ -8843,7 +8843,7 @@ msgstr "Kezdőlap"
 msgid "Homeland Front"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:123
+#: src/components/_economy/employee/employee.traitMeta.ts:125
 msgid "Homesick"
 msgstr ""
 
@@ -8904,7 +8904,7 @@ msgstr "Büszke vagyok rád"
 msgid "ID No."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:382
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:386
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
 msgstr ""
@@ -8972,7 +8972,7 @@ msgstr "A jelenlegi elnök felelősségre vonása"
 msgid "Impressive"
 msgstr "Lenyűgöző"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:85
+#: src/components/_economy/employee/employee.traitMeta.ts:87
 msgid "Improviser"
 msgstr ""
 
@@ -9211,7 +9211,7 @@ msgstr "j. Spam és ismétlődő üzenetek"
 msgid "Jack-in-the-Box Tank"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:141
+#: src/components/_economy/employee/employee.traitMeta.ts:143
 msgid "Jinx"
 msgstr ""
 
@@ -9414,7 +9414,7 @@ msgstr "Kés"
 msgid "Knives do not accept ammo"
 msgstr "A kések nem használnak lőszert"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:109
+#: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Laborer"
 msgstr ""
 
@@ -9453,11 +9453,11 @@ msgstr "Utoljára használt"
 msgid "Last used:"
 msgstr "Utoljára használva:"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:154
+#: src/components/_economy/employee/EmployeeModal.tsx:159
 msgid "Last works"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:119
+#: src/components/_economy/employee/employee.traitMeta.ts:121
 msgid "Late Bloomer"
 msgstr ""
 
@@ -9860,7 +9860,7 @@ msgstr ""
 msgid "Logout"
 msgstr "Kijelentkezés"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:90
+#: src/components/_economy/employee/employee.traitMeta.ts:92
 msgid "Loner"
 msgstr ""
 
@@ -9909,7 +9909,7 @@ msgstr ""
 msgid "Lowers their wage, for good."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:133
+#: src/components/_economy/employee/employee.traitMeta.ts:135
 msgid "Loyal"
 msgstr ""
 
@@ -9938,7 +9938,7 @@ msgstr ""
 msgid "Luck is finally on payroll"
 msgstr "A szerencse végre veled van"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:140
+#: src/components/_economy/employee/employee.traitMeta.ts:142
 msgid "Lucky Charm"
 msgstr ""
 
@@ -10102,7 +10102,7 @@ msgstr "Maximális szint elérve!"
 msgid "Max rarity"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:369
+#: src/components/_economy/employee/EmployeeModal.tsx:374
 msgid "Maxed"
 msgstr ""
 
@@ -10247,7 +10247,7 @@ msgstr ""
 msgid "Mentioned in message"
 msgstr "Üzenetben említve"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:93
+#: src/components/_economy/employee/employee.traitMeta.ts:95
 msgid "Mentor"
 msgstr ""
 
@@ -10485,11 +10485,11 @@ msgstr "Gazdasági miniszter"
 msgid "Minister of Foreign Affairs"
 msgstr "Külügyminiszter"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:104
+#: src/components/_economy/employee/employee.traitMeta.ts:106
 msgid "Misandrist"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:105
+#: src/components/_economy/employee/employee.traitMeta.ts:107
 msgid "Misogynist"
 msgstr ""
 
@@ -10532,7 +10532,7 @@ msgstr "Mobiltelefon szám"
 msgid "Mod"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:130
+#: src/components/_economy/employee/employee.traitMeta.ts:132
 msgid "Modest"
 msgstr ""
 
@@ -10645,7 +10645,7 @@ msgstr "Indítvány benyújtva"
 msgid "Motions"
 msgstr "Indítványok"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:388
+#: src/components/_economy/employee/EmployeeModal.tsx:393
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:255
 #: src/components/_political/region/MoveButton.tsx:119
 #: src/components/_political/region/MoveButton.tsx:131
@@ -10869,7 +10869,7 @@ msgstr ""
 msgid "National orders give {0} bonus (normal bonus while the capital is occupied)"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:87
+#: src/components/_economy/employee/employee.traitMeta.ts:89
 msgid "Nationalist"
 msgstr ""
 
@@ -10928,7 +10928,7 @@ msgstr ""
 msgid "Neither of you had the energy. Nothing stuck."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:100
+#: src/components/_economy/employee/employee.traitMeta.ts:102
 msgid "Nemesis"
 msgstr ""
 
@@ -11117,7 +11117,7 @@ msgid "Next tier {currentTier}"
 msgstr ""
 
 #. placeholder {0}: nextToTrain.count
-#: src/components/_economy/employee/EmployeeModal.tsx:418
+#: src/components/_economy/employee/EmployeeModal.tsx:423
 msgid "Next to train ({0} left)"
 msgstr ""
 
@@ -11237,6 +11237,11 @@ msgstr ""
 #: src/components/_economy/donation/DonationList.tsx:81
 msgid "No donations yet"
 msgstr "Még nincsenek adományok"
+
+#: src/components/_economy/employee/EmployeeModal.tsx:738
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:202
+msgid "No effect now"
+msgstr ""
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
@@ -11388,7 +11393,7 @@ msgstr ""
 msgid "No prize, but the whole company sang together. Spirits are high."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:145
+#: src/components/_economy/employee/EmployeeModal.tsx:150
 msgid "No production yet"
 msgstr ""
 
@@ -11437,7 +11442,7 @@ msgstr ""
 msgid "No trading orders"
 msgstr "Nincs kereskedelmi megbízás"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:743
+#: src/components/_economy/employee/EmployeeModal.tsx:765
 msgid "No traits"
 msgstr ""
 
@@ -11696,7 +11701,7 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:466
+#: src/components/_economy/employee/EmployeeModal.tsx:471
 msgid "OK, remove them"
 msgstr ""
 
@@ -11708,7 +11713,7 @@ msgstr "Oké hacker, nyugi"
 msgid "Okay okay, not bad"
 msgstr "Oké oké, nem rossz"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:99
+#: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Old Friends"
 msgstr ""
 
@@ -12194,7 +12199,7 @@ msgstr "Az előválasztási szavazás most nyitva van itt: <0/>"
 msgid "Paste a link to your campaign article, or leave empty."
 msgstr "Illeszd be a kampánycikked linkjét, vagy hagyd üresen."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:122
+#: src/components/_economy/employee/employee.traitMeta.ts:124
 msgid "Patriot"
 msgstr ""
 
@@ -12364,7 +12369,7 @@ msgstr ""
 msgid "Pick a candidate!"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:365
+#: src/components/_economy/employee/EmployeeModal.tsx:370
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
 msgstr ""
@@ -12705,7 +12710,7 @@ msgstr ""
 msgid "Prices include your tax"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:96
+#: src/components/_economy/employee/employee.traitMeta.ts:98
 msgid "Prima Donna"
 msgstr ""
 
@@ -12978,7 +12983,7 @@ msgstr ""
 msgid "Quick move & collect on case click"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:110
+#: src/components/_economy/employee/employee.traitMeta.ts:112
 msgid "Quick Study"
 msgstr ""
 
@@ -13249,7 +13254,7 @@ msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:143
+#: src/components/_economy/employee/employee.traitMeta.ts:145
 msgid "Recruiter"
 msgstr ""
 
@@ -13525,7 +13530,7 @@ msgid "Removed from saved"
 msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:461
-#: src/components/_economy/employee/EmployeeModal.tsx:381
+#: src/components/_economy/employee/EmployeeModal.tsx:386
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:83
 #: src/components/_user/user/SkillPresetsModal.tsx:228
 msgid "Rename"
@@ -13575,7 +13580,7 @@ msgstr ""
 msgid "Report"
 msgstr "Jelentés"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:502
+#: src/components/_economy/employee/EmployeeModal.tsx:507
 msgid "Report name"
 msgstr ""
 
@@ -13639,11 +13644,11 @@ msgstr "Visszaállítás"
 msgid "Reset CAPTCHA"
 msgstr "CAPTCHA visszaállítása"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:509
+#: src/components/_economy/employee/EmployeeModal.tsx:514
 msgid "Reset name"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:515
+#: src/components/_economy/employee/EmployeeModal.tsx:520
 msgid "Reset Name"
 msgstr ""
 
@@ -13832,7 +13837,7 @@ msgstr ""
 msgid "Rights"
 msgstr "Jogok"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:95
+#: src/components/_economy/employee/employee.traitMeta.ts:97
 msgid "Rival"
 msgstr ""
 
@@ -13940,7 +13945,7 @@ msgstr ""
 msgid "Rusty Sickle"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:139
+#: src/components/_economy/employee/employee.traitMeta.ts:141
 msgid "Salvager"
 msgstr ""
 
@@ -14003,7 +14008,7 @@ msgstr ""
 msgid "Scammed"
 msgstr "Átverve"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:138
+#: src/components/_economy/employee/employee.traitMeta.ts:140
 msgid "Scavenger"
 msgstr ""
 
@@ -14539,7 +14544,7 @@ msgstr ""
 msgid "Sniper"
 msgstr "Mesterlövész"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:91
+#: src/components/_economy/employee/employee.traitMeta.ts:93
 msgid "Sociable"
 msgstr ""
 
@@ -14600,12 +14605,12 @@ msgstr ""
 msgid "Soup is food"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:107
+#: src/components/_economy/employee/employee.traitMeta.ts:109
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
 msgid "Specialist"
 msgstr "Specialista"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:82
+#: src/components/_economy/employee/employee.traitMeta.ts:84
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:54
 msgid "Specialization"
 msgstr "Specializáció"
@@ -14646,7 +14651,7 @@ msgstr ""
 msgid "Sponsor the club"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:114
+#: src/components/_economy/employee/employee.traitMeta.ts:116
 msgid "Sprinter"
 msgstr ""
 
@@ -14753,7 +14758,7 @@ msgstr ""
 msgid "Starts when the article is published"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:127
+#: src/components/_economy/employee/employee.traitMeta.ts:129
 msgid "Statist"
 msgstr ""
 
@@ -14765,7 +14770,7 @@ msgstr "Statisztikailag lehetetlen ilyen szerencsétlennek lenni"
 msgid "Statistically rigged"
 msgstr "Statisztikailag manipulált"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:761
+#: src/components/_economy/employee/EmployeeModal.tsx:783
 #: src/components/_economy/employee/EmployeeTooltip.tsx:123
 #: src/pages/company/[companyId]/index.tsx:69
 #: src/pages/war/[warId]/index.tsx:65
@@ -14807,7 +14812,7 @@ msgstr "Acél"
 msgid "Still finds toolboxes when storage is full"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:111
+#: src/components/_economy/employee/employee.traitMeta.ts:113
 msgid "Stockpiler"
 msgstr ""
 
@@ -14907,7 +14912,7 @@ msgstr "Támogass minket"
 msgid "Supporter"
 msgstr "Támogató"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:383
+#: src/components/_economy/employee/EmployeeModal.tsx:388
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
 #: src/components/_user/user/UserDropdown.tsx:237
 #: src/components/_user/user/UserDropdown.tsx:246
@@ -14964,7 +14969,7 @@ msgstr ""
 msgid "Swap your managers?"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:101
+#: src/components/_economy/employee/employee.traitMeta.ts:103
 msgid "Sweethearts"
 msgstr ""
 
@@ -15134,7 +15139,7 @@ msgstr ""
 msgid "Tax type"
 msgstr "Adótípus"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:126
+#: src/components/_economy/employee/employee.traitMeta.ts:128
 msgid "Tax-shy"
 msgstr ""
 
@@ -15857,7 +15862,7 @@ msgstr ""
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:652
+#: src/components/_economy/employee/EmployeeModal.tsx:657
 msgid "They left the company"
 msgstr ""
 
@@ -16210,7 +16215,7 @@ msgstr "Az Árapály Könyve"
 msgid "Took a job offer from a rival firm."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:81
+#: src/components/_economy/employee/employee.traitMeta.ts:83
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:255
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
@@ -16446,7 +16451,7 @@ msgstr "Kereskedelem"
 msgid "Trading transaction"
 msgstr "Kereskedelmi tranzakció"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:367
+#: src/components/_economy/employee/EmployeeModal.tsx:372
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
 msgstr ""
@@ -16459,7 +16464,7 @@ msgstr ""
 msgid "Train Employees"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:741
+#: src/components/_economy/employee/EmployeeModal.tsx:763
 msgid "Train to reveal traits"
 msgstr ""
 
@@ -16471,7 +16476,7 @@ msgstr ""
 msgid "Trainee"
 msgstr "Újonc"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:144
+#: src/components/_economy/employee/employee.traitMeta.ts:146
 msgid "Trainer"
 msgstr ""
 
@@ -16520,7 +16525,7 @@ msgstr ""
 msgid "Training raises them all."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:708
+#: src/components/_economy/employee/EmployeeModal.tsx:713
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:170
 msgid "Traits"
@@ -17124,7 +17129,7 @@ msgstr "Ellenőrzés"
 msgid "Verifying you're human..."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:115
+#: src/components/_economy/employee/employee.traitMeta.ts:117
 msgid "Veteran"
 msgstr ""
 
@@ -17536,7 +17541,7 @@ msgstr ""
 msgid "Working in your own company costs <0>{energyCostPerAction}</0> and adds your <1>Production</1> to its storage."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:188
+#: src/components/_economy/employee/EmployeeModal.tsx:193
 msgid "Works alone"
 msgstr ""
 
@@ -17552,7 +17557,7 @@ msgstr ""
 msgid "Worldroot Scythe"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:120
+#: src/components/_economy/employee/employee.traitMeta.ts:122
 msgid "Worn Out"
 msgstr ""
 
@@ -17590,7 +17595,7 @@ msgstr "Wtf ez lehetséges?"
 msgid "X. Punishments and Appeals"
 msgstr "X. Büntetések és fellebbezések"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:88
+#: src/components/_economy/employee/employee.traitMeta.ts:90
 msgid "Xenophobe"
 msgstr ""
 

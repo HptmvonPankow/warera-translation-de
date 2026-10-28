@@ -4191,7 +4191,7 @@ msgstr ""
 msgid "An occupied capital revolts on its own at full resistance"
 msgstr "Okupirana glavna regija revoltira sama od sebe sa punim otporom"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:135
+#: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Anchor"
 msgstr "Sidro"
 
@@ -4675,7 +4675,7 @@ msgstr ""
 msgid "Ban the ramp"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:103
+#: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Band of Brothers"
 msgstr "Muška Snaga"
 
@@ -4996,7 +4996,7 @@ msgstr ""
 msgid "broken"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:380
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:384
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
 msgstr ""
@@ -5059,7 +5059,7 @@ msgstr "Izgradi vojnu jedinicu"
 msgid "Bulk dismantle"
 msgstr "Rastavljanje predmeta na veliko"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:97
+#: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Bully"
 msgstr "Zlostavljač"
 
@@ -5075,7 +5075,7 @@ msgstr ""
 msgid "Burn them all"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:118
+#: src/components/_economy/employee/employee.traitMeta.ts:120
 msgid "Burnout"
 msgstr "Kratki Fitilj"
 
@@ -5602,7 +5602,7 @@ msgstr "Preuzeto do sad"
 msgid "Claimed!"
 msgstr "Preuzeto!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:112
+#: src/components/_economy/employee/employee.traitMeta.ts:114
 msgid "Claustrophobe"
 msgstr "Klaustrofob"
 
@@ -5657,7 +5657,7 @@ msgstr "Dodir na trošak koji zahtijeva predmete koje nemate u inventaru automat
 msgid "Climate"
 msgstr "Klima"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:131
+#: src/components/_economy/employee/employee.traitMeta.ts:133
 msgid "Climber"
 msgstr "Ambiciozan"
 
@@ -5721,7 +5721,7 @@ msgstr "Sheme boja su značajka Supportera."
 msgid "Colorblind mode"
 msgstr "Način rada za daltoniste"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:92
+#: src/components/_economy/employee/employee.traitMeta.ts:94
 msgid "Comic"
 msgstr "Šaljivčina"
 
@@ -6067,7 +6067,7 @@ msgstr "Izvorne regije"
 msgid "Corporal"
 msgstr "Desetnik"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:89
+#: src/components/_economy/employee/employee.traitMeta.ts:91
 msgid "Cosmopolitan"
 msgstr "Kozmopolit"
 
@@ -6167,7 +6167,7 @@ msgstr "Državni ratovi"
 msgid "Coworker fired"
 msgstr "Suradnik otpušten"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:181
+#: src/components/_economy/employee/EmployeeModal.tsx:186
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:142
 msgid "Coworkers"
@@ -6194,7 +6194,7 @@ msgstr "Izrađeni predmeti"
 msgid "Craft items"
 msgstr "Izrada predmeta"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:108
+#: src/components/_economy/employee/employee.traitMeta.ts:110
 msgid "Craftsman"
 msgstr "Zanatlija"
 
@@ -6264,7 +6264,7 @@ msgstr "Kreiraj Token"
 msgid "Created:"
 msgstr "Kreirano:"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:116
+#: src/components/_economy/employee/employee.traitMeta.ts:118
 msgid "Creature of Habit"
 msgstr "Čovjek od Navike"
 
@@ -6386,7 +6386,7 @@ msgstr "Dnevno održavanje"
 msgid "Daily Missions Reset"
 msgstr "Reset dnevnih misija"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:764
+#: src/components/_economy/employee/EmployeeModal.tsx:786
 msgid "Daily output"
 msgstr ""
 
@@ -6394,11 +6394,11 @@ msgstr ""
 msgid "Daily pay"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:135
+#: src/components/_economy/employee/EmployeeModal.tsx:140
 msgid "Daily production"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:778
+#: src/components/_economy/employee/EmployeeModal.tsx:800
 msgid "Daily profit"
 msgstr ""
 
@@ -6406,7 +6406,7 @@ msgstr ""
 msgid "Daily revenue"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:773
+#: src/components/_economy/employee/EmployeeModal.tsx:795
 msgid "Daily wage"
 msgstr ""
 
@@ -6740,7 +6740,7 @@ msgstr "Prihod od razvoja"
 msgid "Diamond Auger"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:117
+#: src/components/_economy/employee/employee.traitMeta.ts:119
 msgid "Diamond in the Rough"
 msgstr "Nebrušeni Dijamant"
 
@@ -7213,7 +7213,7 @@ msgstr "Elitne Hlače"
 msgid "Embrace the curse"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:643
+#: src/components/_economy/employee/EmployeeModal.tsx:648
 #: src/components/_economy/employee/EmployeeName.tsx:71
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:189
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:272
@@ -7378,7 +7378,7 @@ msgstr "Unesi ID članka"
 msgid "Enter the code we sent to your email."
 msgstr "Unesi kod koji smo poslali na vaš email."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:98
+#: src/components/_economy/employee/employee.traitMeta.ts:100
 msgid "Envious"
 msgstr "Zavidan"
 
@@ -7618,7 +7618,7 @@ msgstr ""
 msgid "Evict the General"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:124
+#: src/components/_economy/employee/employee.traitMeta.ts:126
 msgid "Expat"
 msgstr "Gastarbajter"
 
@@ -7889,7 +7889,7 @@ msgstr "Završene misije daju XP. Preuzmite ih sve."
 msgid "Finished: your reward is waiting"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:394
+#: src/components/_economy/employee/EmployeeModal.tsx:399
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:264
 #: src/components/_political/government/Government.tsx:263
 msgid "Fire"
@@ -7948,7 +7948,7 @@ msgstr "Mlatilo"
 msgid "Flask"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:134
+#: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
 msgstr "Preletač"
 
@@ -8017,7 +8017,7 @@ msgstr ""
 msgid "Forbid the race"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:94
+#: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Foreman"
 msgstr "Nadzornik"
 
@@ -8119,7 +8119,7 @@ msgstr "g. Korištenje profila (profilne slike, deskripcije, imena) povezanih s 
 msgid "Gain <0>Xp</0> by finishing your missions!"
 msgstr "<0>XP</0> Steknite rješavanjem misija!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:137
+#: src/components/_economy/employee/employee.traitMeta.ts:139
 msgid "Gambler"
 msgstr "Kockar"
 
@@ -8246,7 +8246,7 @@ msgstr "Poklonite ovaj paket nekome"
 msgid "gifted"
 msgstr "poklanja"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:102
+#: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
 msgstr "Ženska Snaga"
 
@@ -8391,7 +8391,7 @@ msgstr ""
 msgid "Graticule"
 msgstr "Koordinatna mreža"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:129
+#: src/components/_economy/employee/employee.traitMeta.ts:131
 msgid "Greedy"
 msgstr "Pohlepan"
 
@@ -8569,7 +8569,7 @@ msgstr "Hamster Tenk"
 msgid "Hand over a toolbox and do it properly"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:84
+#: src/components/_economy/employee/employee.traitMeta.ts:86
 msgid "Handy"
 msgstr "Praktičan"
 
@@ -8720,12 +8720,12 @@ msgstr "Pomozite članovima VJ"
 msgid "Help the game to grow"
 msgstr "Pomozite igri da raste i napreduje"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:749
+#: src/components/_economy/employee/EmployeeModal.tsx:771
 msgid "hidden"
 msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:135
-#: src/components/_economy/employee/EmployeeTraitBadge.tsx:82
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:84
 msgid "Hidden trait"
 msgstr ""
 
@@ -8843,7 +8843,7 @@ msgstr "Početna"
 msgid "Homeland Front"
 msgstr "Domovinska Fronta"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:123
+#: src/components/_economy/employee/employee.traitMeta.ts:125
 msgid "Homesick"
 msgstr "Domoljub"
 
@@ -8904,7 +8904,7 @@ msgstr "Ponosan sam na tebe."
 msgid "ID No."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:382
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:386
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
 msgstr ""
@@ -8972,7 +8972,7 @@ msgstr "Opozovi trenutnog predsjednika"
 msgid "Impressive"
 msgstr "Impresivno!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:85
+#: src/components/_economy/employee/employee.traitMeta.ts:87
 msgid "Improviser"
 msgstr "Improvizator"
 
@@ -9211,7 +9211,7 @@ msgstr "j. Spam i ponavljanje poruka"
 msgid "Jack-in-the-Box Tank"
 msgstr "Jack-in-the-Box Tenk"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:141
+#: src/components/_economy/employee/employee.traitMeta.ts:143
 msgid "Jinx"
 msgstr "Baksuz"
 
@@ -9414,7 +9414,7 @@ msgstr "Nož"
 msgid "Knives do not accept ammo"
 msgstr "Noževi ne koriste metke"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:109
+#: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Laborer"
 msgstr "Fizikalac"
 
@@ -9453,11 +9453,11 @@ msgstr "Zadnji put korišteno"
 msgid "Last used:"
 msgstr "Zadnje korišteno:"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:154
+#: src/components/_economy/employee/EmployeeModal.tsx:159
 msgid "Last works"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:119
+#: src/components/_economy/employee/employee.traitMeta.ts:121
 msgid "Late Bloomer"
 msgstr "Kasni Bloomer"
 
@@ -9860,7 +9860,7 @@ msgstr "Prijava"
 msgid "Logout"
 msgstr "Odjavi se"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:90
+#: src/components/_economy/employee/employee.traitMeta.ts:92
 msgid "Loner"
 msgstr "Samac"
 
@@ -9909,7 +9909,7 @@ msgstr ""
 msgid "Lowers their wage, for good."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:133
+#: src/components/_economy/employee/employee.traitMeta.ts:135
 msgid "Loyal"
 msgstr "Odan"
 
@@ -9938,7 +9938,7 @@ msgstr ""
 msgid "Luck is finally on payroll"
 msgstr "Sreća napokon plaća račun.."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:140
+#: src/components/_economy/employee/employee.traitMeta.ts:142
 msgid "Lucky Charm"
 msgstr "Sretna Amajlija"
 
@@ -10102,7 +10102,7 @@ msgstr "Maksimalna razina dostignuta!"
 msgid "Max rarity"
 msgstr "Maks. raritet"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:369
+#: src/components/_economy/employee/EmployeeModal.tsx:374
 msgid "Maxed"
 msgstr ""
 
@@ -10247,7 +10247,7 @@ msgstr "Samo muški zaposlenici."
 msgid "Mentioned in message"
 msgstr "Spominjanje u poruci"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:93
+#: src/components/_economy/employee/employee.traitMeta.ts:95
 msgid "Mentor"
 msgstr "Mentor"
 
@@ -10485,11 +10485,11 @@ msgstr "Ministar Ekonomije"
 msgid "Minister of Foreign Affairs"
 msgstr "Ministar Vanjskih Poslova"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:104
+#: src/components/_economy/employee/employee.traitMeta.ts:106
 msgid "Misandrist"
 msgstr "Misandrist"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:105
+#: src/components/_economy/employee/employee.traitMeta.ts:107
 msgid "Misogynist"
 msgstr "Mizogin"
 
@@ -10532,7 +10532,7 @@ msgstr "Broj mobilnog telefona"
 msgid "Mod"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:130
+#: src/components/_economy/employee/employee.traitMeta.ts:132
 msgid "Modest"
 msgstr "Skroman"
 
@@ -10645,7 +10645,7 @@ msgstr "Prijedlog podnesen"
 msgid "Motions"
 msgstr "Prijedlozi"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:388
+#: src/components/_economy/employee/EmployeeModal.tsx:393
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:255
 #: src/components/_political/region/MoveButton.tsx:119
 #: src/components/_political/region/MoveButton.tsx:131
@@ -10869,7 +10869,7 @@ msgstr "Državne naredbe za izvorne regije koštaju {0}"
 msgid "National orders give {0} bonus (normal bonus while the capital is occupied)"
 msgstr "Državne naredbe daju {0} borbenog bonusa (normalni bonus dok je glavna izvorna regija okupirana)"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:87
+#: src/components/_economy/employee/employee.traitMeta.ts:89
 msgid "Nationalist"
 msgstr "Nacionalist"
 
@@ -10928,7 +10928,7 @@ msgstr ""
 msgid "Neither of you had the energy. Nothing stuck."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:100
+#: src/components/_economy/employee/employee.traitMeta.ts:102
 msgid "Nemesis"
 msgstr "Osvetnik"
 
@@ -11117,7 +11117,7 @@ msgid "Next tier {currentTier}"
 msgstr "Sljedeća etapa {currentTier}"
 
 #. placeholder {0}: nextToTrain.count
-#: src/components/_economy/employee/EmployeeModal.tsx:418
+#: src/components/_economy/employee/EmployeeModal.tsx:423
 msgid "Next to train ({0} left)"
 msgstr ""
 
@@ -11237,6 +11237,11 @@ msgstr "Nema obrambenih paktova"
 #: src/components/_economy/donation/DonationList.tsx:81
 msgid "No donations yet"
 msgstr "Još nema donacija"
+
+#: src/components/_economy/employee/EmployeeModal.tsx:738
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:202
+msgid "No effect now"
+msgstr ""
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
@@ -11388,7 +11393,7 @@ msgstr "Nema više poena prstiža, dodirnite za reset već postavljenih poena"
 msgid "No prize, but the whole company sang together. Spirits are high."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:145
+#: src/components/_economy/employee/EmployeeModal.tsx:150
 msgid "No production yet"
 msgstr "Još nema proizvodnje"
 
@@ -11437,7 +11442,7 @@ msgstr "Nema alata"
 msgid "No trading orders"
 msgstr "Nema tendera za trgovinu"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:743
+#: src/components/_economy/employee/EmployeeModal.tsx:765
 msgid "No traits"
 msgstr ""
 
@@ -11696,7 +11701,7 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:466
+#: src/components/_economy/employee/EmployeeModal.tsx:471
 msgid "OK, remove them"
 msgstr ""
 
@@ -11708,7 +11713,7 @@ msgstr "Dobro hakeru, ohladi.."
 msgid "Okay okay, not bad"
 msgstr "OKEJ OKEJ, nije loše!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:99
+#: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Old Friends"
 msgstr "Stari Prijatelji"
 
@@ -12194,7 +12199,7 @@ msgstr "Glasanje na preliminarnim izborima stranke je sada otvoreno u <0/>"
 msgid "Paste a link to your campaign article, or leave empty."
 msgstr "Zaljepite vezu do članka vaše kampanje ili ostavite prazno."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:122
+#: src/components/_economy/employee/employee.traitMeta.ts:124
 msgid "Patriot"
 msgstr "Patriot"
 
@@ -12364,7 +12369,7 @@ msgstr ""
 msgid "Pick a candidate!"
 msgstr "Izaberite kandidata!"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:365
+#: src/components/_economy/employee/EmployeeModal.tsx:370
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
 msgstr "Izaberite kartu"
@@ -12705,7 +12710,7 @@ msgstr "Cijena za vas, porez uračunat"
 msgid "Prices include your tax"
 msgstr "Cijene s uračunatim porezom"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:96
+#: src/components/_economy/employee/employee.traitMeta.ts:98
 msgid "Prima Donna"
 msgstr "Primadona"
 
@@ -12978,7 +12983,7 @@ msgstr "Brzo opremanje najboljom opremom bilo kojeg rariteta"
 msgid "Quick move & collect on case click"
 msgstr "Brzi prelazak i preuzimanje drvene kutije"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:110
+#: src/components/_economy/employee/employee.traitMeta.ts:112
 msgid "Quick Study"
 msgstr "Brzopamtilo"
 
@@ -13249,7 +13254,7 @@ msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Zaposlite"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:143
+#: src/components/_economy/employee/employee.traitMeta.ts:145
 msgid "Recruiter"
 msgstr "Regruter"
 
@@ -13525,7 +13530,7 @@ msgid "Removed from saved"
 msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:461
-#: src/components/_economy/employee/EmployeeModal.tsx:381
+#: src/components/_economy/employee/EmployeeModal.tsx:386
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:83
 #: src/components/_user/user/SkillPresetsModal.tsx:228
 msgid "Rename"
@@ -13575,7 +13580,7 @@ msgstr "Ponovi"
 msgid "Report"
 msgstr "Prijavi"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:502
+#: src/components/_economy/employee/EmployeeModal.tsx:507
 msgid "Report name"
 msgstr ""
 
@@ -13639,11 +13644,11 @@ msgstr "Resetirajte"
 msgid "Reset CAPTCHA"
 msgstr "Resetirajte CAPTCHU"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:509
+#: src/components/_economy/employee/EmployeeModal.tsx:514
 msgid "Reset name"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:515
+#: src/components/_economy/employee/EmployeeModal.tsx:520
 msgid "Reset Name"
 msgstr ""
 
@@ -13832,7 +13837,7 @@ msgstr ""
 msgid "Rights"
 msgstr "Nadležnost"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:95
+#: src/components/_economy/employee/employee.traitMeta.ts:97
 msgid "Rival"
 msgstr "Suparnik"
 
@@ -13940,7 +13945,7 @@ msgstr ""
 msgid "Rusty Sickle"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:139
+#: src/components/_economy/employee/employee.traitMeta.ts:141
 msgid "Salvager"
 msgstr "Reciklator"
 
@@ -14003,7 +14008,7 @@ msgstr ""
 msgid "Scammed"
 msgstr "Prevara! Džaba vam novci moji sinovci."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:138
+#: src/components/_economy/employee/employee.traitMeta.ts:140
 msgid "Scavenger"
 msgstr "Sakupljač"
 
@@ -14539,7 +14544,7 @@ msgstr ""
 msgid "Sniper"
 msgstr "Snajper"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:91
+#: src/components/_economy/employee/employee.traitMeta.ts:93
 msgid "Sociable"
 msgstr "Druželjubiv"
 
@@ -14600,12 +14605,12 @@ msgstr ""
 msgid "Soup is food"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:107
+#: src/components/_economy/employee/employee.traitMeta.ts:109
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
 msgid "Specialist"
 msgstr "Specijalista"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:82
+#: src/components/_economy/employee/employee.traitMeta.ts:84
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:54
 msgid "Specialization"
 msgstr "Specijalizacija"
@@ -14646,7 +14651,7 @@ msgstr "Kondicija se troši tijekom putovanja: 10 poena kondicije za svaku prije
 msgid "Sponsor the club"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:114
+#: src/components/_economy/employee/employee.traitMeta.ts:116
 msgid "Sprinter"
 msgstr "Sprinter"
 
@@ -14753,7 +14758,7 @@ msgstr "Počinje od 1% i raste +1% svakoga dana sve do <0>{0}</0>"
 msgid "Starts when the article is published"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:127
+#: src/components/_economy/employee/employee.traitMeta.ts:129
 msgid "Statist"
 msgstr "Etatist"
 
@@ -14765,7 +14770,7 @@ msgstr "Statistički je nemoguće biti ovakav baksuz."
 msgid "Statistically rigged"
 msgstr "Statistički namješteno"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:761
+#: src/components/_economy/employee/EmployeeModal.tsx:783
 #: src/components/_economy/employee/EmployeeTooltip.tsx:123
 #: src/pages/company/[companyId]/index.tsx:69
 #: src/pages/war/[warId]/index.tsx:65
@@ -14807,7 +14812,7 @@ msgstr "Čelik"
 msgid "Still finds toolboxes when storage is full"
 msgstr "Zaposlenik i dalje pronalazi kutije s alatom kad je skladište puno."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:111
+#: src/components/_economy/employee/employee.traitMeta.ts:113
 msgid "Stockpiler"
 msgstr "Skupljač"
 
@@ -14907,7 +14912,7 @@ msgstr "Podržite nas"
 msgid "Supporter"
 msgstr "Supporter"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:383
+#: src/components/_economy/employee/EmployeeModal.tsx:388
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
 #: src/components/_user/user/UserDropdown.tsx:237
 #: src/components/_user/user/UserDropdown.tsx:246
@@ -14964,7 +14969,7 @@ msgstr "Zamijeni sa"
 msgid "Swap your managers?"
 msgstr "Zamijenite vaše upravitelje?"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:101
+#: src/components/_economy/employee/employee.traitMeta.ts:103
 msgid "Sweethearts"
 msgstr "Ljubavnici"
 
@@ -15134,7 +15139,7 @@ msgstr "Uključeni porez znači da {0} ide prodavaču, a {tax} od državnog trž
 msgid "Tax type"
 msgstr "Tip poreza"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:126
+#: src/components/_economy/employee/employee.traitMeta.ts:128
 msgid "Tax-shy"
 msgstr "Porezofob"
 
@@ -15857,7 +15862,7 @@ msgstr ""
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:652
+#: src/components/_economy/employee/EmployeeModal.tsx:657
 msgid "They left the company"
 msgstr ""
 
@@ -16210,7 +16215,7 @@ msgstr "Knjiga Plime i Oseke"
 msgid "Took a job offer from a rival firm."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:81
+#: src/components/_economy/employee/employee.traitMeta.ts:83
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:255
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
@@ -16446,7 +16451,7 @@ msgstr "Razmjena"
 msgid "Trading transaction"
 msgstr "Tržišna transakcija"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:367
+#: src/components/_economy/employee/EmployeeModal.tsx:372
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
 msgstr "Obučite"
@@ -16459,7 +16464,7 @@ msgstr "Obuči svakog zaposlenika jednom dnevno. Obuka se resetira u 00:00 UTC: 
 msgid "Train Employees"
 msgstr "Obučite Zaposlenike"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:741
+#: src/components/_economy/employee/EmployeeModal.tsx:763
 msgid "Train to reveal traits"
 msgstr "Obuči kako bi otkrili osobine"
 
@@ -16471,7 +16476,7 @@ msgstr "Obučite vašega zaposlenika!"
 msgid "Trainee"
 msgstr "Pripravnik"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:144
+#: src/components/_economy/employee/employee.traitMeta.ts:146
 msgid "Trainer"
 msgstr "Mentor"
 
@@ -16520,7 +16525,7 @@ msgstr "Broj prilika za obuku se povisuje na <0>{0}</0>"
 msgid "Training raises them all."
 msgstr "Obuka povećava iznos vještina zaposlenika."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:708
+#: src/components/_economy/employee/EmployeeModal.tsx:713
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:170
 msgid "Traits"
@@ -17124,7 +17129,7 @@ msgstr "Verificiraj"
 msgid "Verifying you're human..."
 msgstr "Potvrđujemo da ste čovjek..."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:115
+#: src/components/_economy/employee/employee.traitMeta.ts:117
 msgid "Veteran"
 msgstr "Veteran"
 
@@ -17536,7 +17541,7 @@ msgstr "Rad popunjava traku <0>proizvodnje</0>."
 msgid "Working in your own company costs <0>{energyCostPerAction}</0> and adds your <1>Production</1> to its storage."
 msgstr "Rad u vlastitoj kompaniji troši <0>{energyCostPerAction}</0> i dodaje <1>poene proizvodnje</1>."
 
-#: src/components/_economy/employee/EmployeeModal.tsx:188
+#: src/components/_economy/employee/EmployeeModal.tsx:193
 msgid "Works alone"
 msgstr "Jedini zaposlenik"
 
@@ -17552,7 +17557,7 @@ msgstr "Globalni razvoj: <0/>"
 msgid "Worldroot Scythe"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:120
+#: src/components/_economy/employee/employee.traitMeta.ts:122
 msgid "Worn Out"
 msgstr "Istrošen"
 
@@ -17590,7 +17595,7 @@ msgstr "Kvragu, kako je ovo moguće?"
 msgid "X. Punishments and Appeals"
 msgstr "X. Kazne i Žalbe"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:88
+#: src/components/_economy/employee/employee.traitMeta.ts:90
 msgid "Xenophobe"
 msgstr "Ksenofob"
 

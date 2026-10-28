@@ -4191,7 +4191,7 @@ msgstr ""
 msgid "An occupied capital revolts on its own at full resistance"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:135
+#: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Anchor"
 msgstr "Надійний"
 
@@ -4675,7 +4675,7 @@ msgstr ""
 msgid "Ban the ramp"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:103
+#: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Band of Brothers"
 msgstr "Братани"
 
@@ -4996,7 +4996,7 @@ msgstr ""
 msgid "broken"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:380
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:384
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
 msgstr ""
@@ -5059,7 +5059,7 @@ msgstr "Побудувати підрозділ"
 msgid "Bulk dismantle"
 msgstr "Масовий розбір"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:97
+#: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Bully"
 msgstr "Хуліган"
 
@@ -5075,7 +5075,7 @@ msgstr ""
 msgid "Burn them all"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:118
+#: src/components/_economy/employee/employee.traitMeta.ts:120
 msgid "Burnout"
 msgstr "Вигорання"
 
@@ -5602,7 +5602,7 @@ msgstr "Отримано"
 msgid "Claimed!"
 msgstr "Отримано!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:112
+#: src/components/_economy/employee/employee.traitMeta.ts:114
 msgid "Claustrophobe"
 msgstr "Клаустрофоб"
 
@@ -5657,7 +5657,7 @@ msgstr ""
 msgid "Climate"
 msgstr "Клімат"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:131
+#: src/components/_economy/employee/employee.traitMeta.ts:133
 msgid "Climber"
 msgstr "Кар'єрист"
 
@@ -5721,7 +5721,7 @@ msgstr "Колірні схеми доступні власникам підпи
 msgid "Colorblind mode"
 msgstr "Режим для дальтоніків"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:92
+#: src/components/_economy/employee/employee.traitMeta.ts:94
 msgid "Comic"
 msgstr "Комік"
 
@@ -6067,7 +6067,7 @@ msgstr "Національні регіони"
 msgid "Corporal"
 msgstr "Капрал"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:89
+#: src/components/_economy/employee/employee.traitMeta.ts:91
 msgid "Cosmopolitan"
 msgstr "Космополіт"
 
@@ -6167,7 +6167,7 @@ msgstr "Війни держави"
 msgid "Coworker fired"
 msgstr "Співробітника звільнено"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:181
+#: src/components/_economy/employee/EmployeeModal.tsx:186
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:142
 msgid "Coworkers"
@@ -6194,7 +6194,7 @@ msgstr "Створення предметів"
 msgid "Craft items"
 msgstr "Крафт предметів"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:108
+#: src/components/_economy/employee/employee.traitMeta.ts:110
 msgid "Craftsman"
 msgstr "Ремісник"
 
@@ -6264,7 +6264,7 @@ msgstr "Створити токен"
 msgid "Created:"
 msgstr "Створено:"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:116
+#: src/components/_economy/employee/employee.traitMeta.ts:118
 msgid "Creature of Habit"
 msgstr ""
 
@@ -6386,7 +6386,7 @@ msgstr "Щоденне утримання"
 msgid "Daily Missions Reset"
 msgstr "Скидання щоденних місій"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:764
+#: src/components/_economy/employee/EmployeeModal.tsx:786
 msgid "Daily output"
 msgstr "Щоденний випуск"
 
@@ -6394,11 +6394,11 @@ msgstr "Щоденний випуск"
 msgid "Daily pay"
 msgstr "Щоденна оплата"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:135
+#: src/components/_economy/employee/EmployeeModal.tsx:140
 msgid "Daily production"
 msgstr "Щоденне виробництво"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:778
+#: src/components/_economy/employee/EmployeeModal.tsx:800
 msgid "Daily profit"
 msgstr "Щоденний прибуток"
 
@@ -6406,7 +6406,7 @@ msgstr "Щоденний прибуток"
 msgid "Daily revenue"
 msgstr "Щоденний дохід"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:773
+#: src/components/_economy/employee/EmployeeModal.tsx:795
 msgid "Daily wage"
 msgstr "Щоденна зарплата"
 
@@ -6740,7 +6740,7 @@ msgstr "Дохід від розвитку"
 msgid "Diamond Auger"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:117
+#: src/components/_economy/employee/employee.traitMeta.ts:119
 msgid "Diamond in the Rough"
 msgstr "Самородок"
 
@@ -7213,7 +7213,7 @@ msgstr "Елітні штани"
 msgid "Embrace the curse"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:643
+#: src/components/_economy/employee/EmployeeModal.tsx:648
 #: src/components/_economy/employee/EmployeeName.tsx:71
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:189
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:272
@@ -7378,7 +7378,7 @@ msgstr "Введіть ID статті"
 msgid "Enter the code we sent to your email."
 msgstr "Введіть код, який ми надіслали на вашу пошту."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:98
+#: src/components/_economy/employee/employee.traitMeta.ts:100
 msgid "Envious"
 msgstr "Заздрісний"
 
@@ -7618,7 +7618,7 @@ msgstr ""
 msgid "Evict the General"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:124
+#: src/components/_economy/employee/employee.traitMeta.ts:126
 msgid "Expat"
 msgstr "Експат"
 
@@ -7889,7 +7889,7 @@ msgstr "Завершені місії дають XP. Зберіть його."
 msgid "Finished: your reward is waiting"
 msgstr "Завершено: нагорода чекає"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:394
+#: src/components/_economy/employee/EmployeeModal.tsx:399
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:264
 #: src/components/_political/government/Government.tsx:263
 msgid "Fire"
@@ -7948,7 +7948,7 @@ msgstr "Обушок"
 msgid "Flask"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:134
+#: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
 msgstr ""
 
@@ -8017,7 +8017,7 @@ msgstr ""
 msgid "Forbid the race"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:94
+#: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Foreman"
 msgstr "Бригадир"
 
@@ -8119,7 +8119,7 @@ msgstr "g. Використання профілів (аватарів, опис
 msgid "Gain <0>Xp</0> by finishing your missions!"
 msgstr "Отримуй <0>XP</0> виконуючи місії!"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:137
+#: src/components/_economy/employee/employee.traitMeta.ts:139
 msgid "Gambler"
 msgstr "Лудоман"
 
@@ -8246,7 +8246,7 @@ msgstr "Подарувати комусь цей набір"
 msgid "gifted"
 msgstr "подарував"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:102
+#: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
 msgstr "Дівчача сила"
 
@@ -8391,7 +8391,7 @@ msgstr ""
 msgid "Graticule"
 msgstr "Координатна сітка"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:129
+#: src/components/_economy/employee/employee.traitMeta.ts:131
 msgid "Greedy"
 msgstr "Жадібний"
 
@@ -8569,7 +8569,7 @@ msgstr "Хамстер-танк"
 msgid "Hand over a toolbox and do it properly"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:84
+#: src/components/_economy/employee/employee.traitMeta.ts:86
 msgid "Handy"
 msgstr "Майстровитий"
 
@@ -8720,12 +8720,12 @@ msgstr "Допоможіть бійцям ВП"
 msgid "Help the game to grow"
 msgstr "Підтримай розвиток гри"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:749
+#: src/components/_economy/employee/EmployeeModal.tsx:771
 msgid "hidden"
 msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:135
-#: src/components/_economy/employee/EmployeeTraitBadge.tsx:82
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:84
 msgid "Hidden trait"
 msgstr ""
 
@@ -8843,7 +8843,7 @@ msgstr "Головна"
 msgid "Homeland Front"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:123
+#: src/components/_economy/employee/employee.traitMeta.ts:125
 msgid "Homesick"
 msgstr "Сумує за домом"
 
@@ -8904,7 +8904,7 @@ msgstr "Я пишаюся тобою"
 msgid "ID No."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeResumeRow.tsx:382
+#: src/components/_economy/employee/EmployeeResumeRow.tsx:386
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
 msgstr ""
@@ -8972,7 +8972,7 @@ msgstr "Оголосити імпічмент чинному президент�
 msgid "Impressive"
 msgstr "Вражаюче"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:85
+#: src/components/_economy/employee/employee.traitMeta.ts:87
 msgid "Improviser"
 msgstr "Імпровізатор"
 
@@ -9211,7 +9211,7 @@ msgstr "j. Спам та повторювані повідомлення"
 msgid "Jack-in-the-Box Tank"
 msgstr "Танк стрибунця"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:141
+#: src/components/_economy/employee/employee.traitMeta.ts:143
 msgid "Jinx"
 msgstr "Чорна кішка"
 
@@ -9414,7 +9414,7 @@ msgstr "Ніж"
 msgid "Knives do not accept ammo"
 msgstr "Ножі не використовують набої"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:109
+#: src/components/_economy/employee/employee.traitMeta.ts:111
 msgid "Laborer"
 msgstr "Чорнороб"
 
@@ -9453,11 +9453,11 @@ msgstr "Останній вхід"
 msgid "Last used:"
 msgstr "Останнє використання:"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:154
+#: src/components/_economy/employee/EmployeeModal.tsx:159
 msgid "Last works"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:119
+#: src/components/_economy/employee/employee.traitMeta.ts:121
 msgid "Late Bloomer"
 msgstr ""
 
@@ -9860,7 +9860,7 @@ msgstr "Увійти"
 msgid "Logout"
 msgstr "Вийти"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:90
+#: src/components/_economy/employee/employee.traitMeta.ts:92
 msgid "Loner"
 msgstr "Одинак"
 
@@ -9909,7 +9909,7 @@ msgstr "Низький податок"
 msgid "Lowers their wage, for good."
 msgstr "Назавжди зменшує їх зарплату."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:133
+#: src/components/_economy/employee/employee.traitMeta.ts:135
 msgid "Loyal"
 msgstr "Лояльний"
 
@@ -9938,7 +9938,7 @@ msgstr ""
 msgid "Luck is finally on payroll"
 msgstr "Нарешті удача на правильному боці"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:140
+#: src/components/_economy/employee/employee.traitMeta.ts:142
 msgid "Lucky Charm"
 msgstr ""
 
@@ -10102,7 +10102,7 @@ msgstr "Досягнуто максимального рівня!"
 msgid "Max rarity"
 msgstr "Макс. рідкість"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:369
+#: src/components/_economy/employee/EmployeeModal.tsx:374
 msgid "Maxed"
 msgstr ""
 
@@ -10247,7 +10247,7 @@ msgstr ""
 msgid "Mentioned in message"
 msgstr "Згадано у повідомленні"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:93
+#: src/components/_economy/employee/employee.traitMeta.ts:95
 msgid "Mentor"
 msgstr "Ментор"
 
@@ -10485,11 +10485,11 @@ msgstr "Міністр економіки"
 msgid "Minister of Foreign Affairs"
 msgstr "Міністр закордонних справ"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:104
+#: src/components/_economy/employee/employee.traitMeta.ts:106
 msgid "Misandrist"
 msgstr "Мізандристка"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:105
+#: src/components/_economy/employee/employee.traitMeta.ts:107
 msgid "Misogynist"
 msgstr "Мізогініст"
 
@@ -10532,7 +10532,7 @@ msgstr "Номер мобільного телефону"
 msgid "Mod"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:130
+#: src/components/_economy/employee/employee.traitMeta.ts:132
 msgid "Modest"
 msgstr "Скромний"
 
@@ -10645,7 +10645,7 @@ msgstr "Резолюцію запропоновано"
 msgid "Motions"
 msgstr "Резолюції"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:388
+#: src/components/_economy/employee/EmployeeModal.tsx:393
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:255
 #: src/components/_political/region/MoveButton.tsx:119
 #: src/components/_political/region/MoveButton.tsx:131
@@ -10869,7 +10869,7 @@ msgstr ""
 msgid "National orders give {0} bonus (normal bonus while the capital is occupied)"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:87
+#: src/components/_economy/employee/employee.traitMeta.ts:89
 msgid "Nationalist"
 msgstr "Націоналіст"
 
@@ -10928,7 +10928,7 @@ msgstr ""
 msgid "Neither of you had the energy. Nothing stuck."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:100
+#: src/components/_economy/employee/employee.traitMeta.ts:102
 msgid "Nemesis"
 msgstr "Ворожнеча"
 
@@ -11117,7 +11117,7 @@ msgid "Next tier {currentTier}"
 msgstr "Наступний рівень {currentTier}"
 
 #. placeholder {0}: nextToTrain.count
-#: src/components/_economy/employee/EmployeeModal.tsx:418
+#: src/components/_economy/employee/EmployeeModal.tsx:423
 msgid "Next to train ({0} left)"
 msgstr ""
 
@@ -11237,6 +11237,11 @@ msgstr "Договорів про захист немає"
 #: src/components/_economy/donation/DonationList.tsx:81
 msgid "No donations yet"
 msgstr "Пожертв ще немає"
+
+#: src/components/_economy/employee/EmployeeModal.tsx:738
+#: src/components/_economy/employee/EmployeeTraitBadge.tsx:202
+msgid "No effect now"
+msgstr ""
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
@@ -11388,7 +11393,7 @@ msgstr "Бали престижу скінчились, натисніть що�
 msgid "No prize, but the whole company sang together. Spirits are high."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:145
+#: src/components/_economy/employee/EmployeeModal.tsx:150
 msgid "No production yet"
 msgstr ""
 
@@ -11437,7 +11442,7 @@ msgstr "Інструментів немає"
 msgid "No trading orders"
 msgstr "Торгових замовлень немає"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:743
+#: src/components/_economy/employee/EmployeeModal.tsx:765
 msgid "No traits"
 msgstr ""
 
@@ -11696,7 +11701,7 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:466
+#: src/components/_economy/employee/EmployeeModal.tsx:471
 msgid "OK, remove them"
 msgstr ""
 
@@ -11708,7 +11713,7 @@ msgstr "Гей хакере, охолонь"
 msgid "Okay okay, not bad"
 msgstr "Ну добре, гідно"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:99
+#: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Old Friends"
 msgstr "Старі друзі"
 
@@ -12194,7 +12199,7 @@ msgstr "У <0/> розпочався праймериз"
 msgid "Paste a link to your campaign article, or leave empty."
 msgstr "Вставте посилання на статтю з вашою програмою, або залиште поле пустим."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:122
+#: src/components/_economy/employee/employee.traitMeta.ts:124
 msgid "Patriot"
 msgstr "Патріот"
 
@@ -12364,7 +12369,7 @@ msgstr "Вибрати «{cardTitle}»"
 msgid "Pick a candidate!"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:365
+#: src/components/_economy/employee/EmployeeModal.tsx:370
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
 msgstr "Оберіть карту"
@@ -12705,7 +12710,7 @@ msgstr ""
 msgid "Prices include your tax"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:96
+#: src/components/_economy/employee/employee.traitMeta.ts:98
 msgid "Prima Donna"
 msgstr "Пуп землі"
 
@@ -12978,7 +12983,7 @@ msgstr "Швидке одягання найкращого предмету бу
 msgid "Quick move & collect on case click"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:110
+#: src/components/_economy/employee/employee.traitMeta.ts:112
 msgid "Quick Study"
 msgstr "Кмітливий"
 
@@ -13249,7 +13254,7 @@ msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Найняти"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:143
+#: src/components/_economy/employee/employee.traitMeta.ts:145
 msgid "Recruiter"
 msgstr "Рекрутер"
 
@@ -13525,7 +13530,7 @@ msgid "Removed from saved"
 msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:461
-#: src/components/_economy/employee/EmployeeModal.tsx:381
+#: src/components/_economy/employee/EmployeeModal.tsx:386
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:83
 #: src/components/_user/user/SkillPresetsModal.tsx:228
 msgid "Rename"
@@ -13575,7 +13580,7 @@ msgstr "Повторити"
 msgid "Report"
 msgstr "Поскаржитись"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:502
+#: src/components/_economy/employee/EmployeeModal.tsx:507
 msgid "Report name"
 msgstr ""
 
@@ -13639,11 +13644,11 @@ msgstr "Скинути"
 msgid "Reset CAPTCHA"
 msgstr "Скинути CAPTCHA"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:509
+#: src/components/_economy/employee/EmployeeModal.tsx:514
 msgid "Reset name"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:515
+#: src/components/_economy/employee/EmployeeModal.tsx:520
 msgid "Reset Name"
 msgstr ""
 
@@ -13832,7 +13837,7 @@ msgstr ""
 msgid "Rights"
 msgstr "Права"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:95
+#: src/components/_economy/employee/employee.traitMeta.ts:97
 msgid "Rival"
 msgstr "Суперник"
 
@@ -13940,7 +13945,7 @@ msgstr ""
 msgid "Rusty Sickle"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:139
+#: src/components/_economy/employee/employee.traitMeta.ts:141
 msgid "Salvager"
 msgstr ""
 
@@ -14003,7 +14008,7 @@ msgstr "Змінює випуск, а не характеристику"
 msgid "Scammed"
 msgstr "Заскамлений"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:138
+#: src/components/_economy/employee/employee.traitMeta.ts:140
 msgid "Scavenger"
 msgstr ""
 
@@ -14539,7 +14544,7 @@ msgstr ""
 msgid "Sniper"
 msgstr "Снайперка"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:91
+#: src/components/_economy/employee/employee.traitMeta.ts:93
 msgid "Sociable"
 msgstr "Товариський"
 
@@ -14600,12 +14605,12 @@ msgstr ""
 msgid "Soup is food"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:107
+#: src/components/_economy/employee/employee.traitMeta.ts:109
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
 msgid "Specialist"
 msgstr "Спеціаліст"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:82
+#: src/components/_economy/employee/employee.traitMeta.ts:84
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:54
 msgid "Specialization"
 msgstr "Спеціалізація"
@@ -14646,7 +14651,7 @@ msgstr "Витрачається при переміщенні по мапі: 10
 msgid "Sponsor the club"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:114
+#: src/components/_economy/employee/employee.traitMeta.ts:116
 msgid "Sprinter"
 msgstr ""
 
@@ -14753,7 +14758,7 @@ msgstr "починається з 1% і зростає на +1% кожного �
 msgid "Starts when the article is published"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:127
+#: src/components/_economy/employee/employee.traitMeta.ts:129
 msgid "Statist"
 msgstr "Етатист"
 
@@ -14765,7 +14770,7 @@ msgstr "Неможливо бути настільки невезучим"
 msgid "Statistically rigged"
 msgstr "Статистично неможливо"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:761
+#: src/components/_economy/employee/EmployeeModal.tsx:783
 #: src/components/_economy/employee/EmployeeTooltip.tsx:123
 #: src/pages/company/[companyId]/index.tsx:69
 #: src/pages/war/[warId]/index.tsx:65
@@ -14807,7 +14812,7 @@ msgstr "Сталь"
 msgid "Still finds toolboxes when storage is full"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:111
+#: src/components/_economy/employee/employee.traitMeta.ts:113
 msgid "Stockpiler"
 msgstr ""
 
@@ -14907,7 +14912,7 @@ msgstr "Підтримайте нас"
 msgid "Supporter"
 msgstr "Підписник"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:383
+#: src/components/_economy/employee/EmployeeModal.tsx:388
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
 #: src/components/_user/user/UserDropdown.tsx:237
 #: src/components/_user/user/UserDropdown.tsx:246
@@ -14964,7 +14969,7 @@ msgstr ""
 msgid "Swap your managers?"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:101
+#: src/components/_economy/employee/employee.traitMeta.ts:103
 msgid "Sweethearts"
 msgstr "Закохані"
 
@@ -15134,7 +15139,7 @@ msgstr ""
 msgid "Tax type"
 msgstr "Тип податку"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:126
+#: src/components/_economy/employee/employee.traitMeta.ts:128
 msgid "Tax-shy"
 msgstr ""
 
@@ -15857,7 +15862,7 @@ msgstr ""
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:652
+#: src/components/_economy/employee/EmployeeModal.tsx:657
 msgid "They left the company"
 msgstr ""
 
@@ -16210,7 +16215,7 @@ msgstr "Книга припливів"
 msgid "Took a job offer from a rival firm."
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:81
+#: src/components/_economy/employee/employee.traitMeta.ts:83
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:255
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
@@ -16446,7 +16451,7 @@ msgstr "Торгівля"
 msgid "Trading transaction"
 msgstr "Торгівельні транзакції"
 
-#: src/components/_economy/employee/EmployeeModal.tsx:367
+#: src/components/_economy/employee/EmployeeModal.tsx:372
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
 msgstr "Навчати"
@@ -16459,7 +16464,7 @@ msgstr ""
 msgid "Train Employees"
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:741
+#: src/components/_economy/employee/EmployeeModal.tsx:763
 msgid "Train to reveal traits"
 msgstr ""
 
@@ -16471,7 +16476,7 @@ msgstr "Навчіть працівника!"
 msgid "Trainee"
 msgstr "Курсант"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:144
+#: src/components/_economy/employee/employee.traitMeta.ts:146
 msgid "Trainer"
 msgstr "Тренер"
 
@@ -16520,7 +16525,7 @@ msgstr ""
 msgid "Training raises them all."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:708
+#: src/components/_economy/employee/EmployeeModal.tsx:713
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:170
 msgid "Traits"
@@ -17124,7 +17129,7 @@ msgstr "Підтвердити"
 msgid "Verifying you're human..."
 msgstr "Підтверджуємо, що ви людина..."
 
-#: src/components/_economy/employee/employee.traitMeta.ts:115
+#: src/components/_economy/employee/employee.traitMeta.ts:117
 msgid "Veteran"
 msgstr "Ветеран"
 
@@ -17536,7 +17541,7 @@ msgstr "Робота заповнює шкалу <0>Виробництва</0>."
 msgid "Working in your own company costs <0>{energyCostPerAction}</0> and adds your <1>Production</1> to its storage."
 msgstr ""
 
-#: src/components/_economy/employee/EmployeeModal.tsx:188
+#: src/components/_economy/employee/EmployeeModal.tsx:193
 msgid "Works alone"
 msgstr "Працює один"
 
@@ -17552,7 +17557,7 @@ msgstr "Світ <0/>"
 msgid "Worldroot Scythe"
 msgstr ""
 
-#: src/components/_economy/employee/employee.traitMeta.ts:120
+#: src/components/_economy/employee/employee.traitMeta.ts:122
 msgid "Worn Out"
 msgstr ""
 
@@ -17590,7 +17595,7 @@ msgstr "WTF, це взагалі можливо?"
 msgid "X. Punishments and Appeals"
 msgstr "X. Покарання та апеляції"
 
-#: src/components/_economy/employee/employee.traitMeta.ts:88
+#: src/components/_economy/employee/employee.traitMeta.ts:90
 msgid "Xenophobe"
 msgstr "Ксенофоб"
 
