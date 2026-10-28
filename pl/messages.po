@@ -2706,7 +2706,7 @@ msgstr "<0>{0}</0> do poziomu {1}"
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:399
 msgid "<0>{0}</0> when they are not"
-msgstr "<0>{0}</0> gdy nie są"
+msgstr "<0>{0}</0> jeśli nie"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:744
@@ -2807,7 +2807,7 @@ msgstr "<0>+20%</0> u boku swojej drugiej połówki"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:395
 msgid "<0>+20%</0> when paid more than every coworker"
-msgstr "<0>+20%</0> gdy ma wyższe wynagrodzenie niż pozostali współpracownicy"
+msgstr "<0>+20%</0> gdy ma lepsze wynagordzenie niż pozostali współpracownicy"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:311
 msgid "<0>+25%</0> per coworker, up to <1>+50%</1>"
