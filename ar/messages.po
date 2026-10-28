@@ -14409,7 +14409,7 @@ msgstr ""
 
 #: src/components/_user/auth/WelcomeModal.tsx:292
 msgid "Signature"
-msgstr ""
+msgstr "توقيع"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
@@ -14597,7 +14597,7 @@ msgstr "الحساء عبارة عن مشروب"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1843
 msgid "Soup is food"
-msgstr ""
+msgstr "الحساء عبارة عن أكل"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:107
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
@@ -14647,7 +14647,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:114
 msgid "Sprinter"
-msgstr ""
+msgstr "العداء"
 
 #: src/components/_political/country/CountryHeader.tsx:276
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
@@ -14672,7 +14672,7 @@ msgstr ""
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:61
 msgid "Start"
-msgstr ""
+msgstr "ابدأ"
 
 #: src/components/_political/law/law.frontConfig.tsx:188
 #: src/components/_political/law/law.frontConfig.tsx:190
@@ -15818,7 +15818,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:197
 msgid "Their Luck"
-msgstr ""
+msgstr "الحظ خاصتهم"
 
 #: src/components/_economy/employee/employeeStats.tsx:254
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one point per hour, before bonuses."
@@ -15846,7 +15846,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:270
 msgid "They keep what they earned."
-msgstr ""
+msgstr "يبقون ما قاموا بكسبه."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3767
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
@@ -15854,7 +15854,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeModal.tsx:652
 msgid "They left the company"
-msgstr ""
+msgstr "لقد قاموا بترك الشركة"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:120
 msgid "They left the company."
@@ -15874,7 +15874,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:291
 msgid "They never reset."
-msgstr ""
+msgstr "لا يستريحون اأبدا."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:629
 msgid "They put it to work on their own tool straight away."
@@ -15910,7 +15910,7 @@ msgstr ""
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
-msgstr "سيؤدي هذا الإجراء إلى تقديم عرض الوحدة العسكرية الخاص بك لهذا العقد"
+msgstr "سيؤدي هذا الإجراء إلى تقديم عرض الوحدة العسكرية الخاص بك لهذا العقد."
 
 #: src/components/_military/battle/BattleSystem.tsx:903
 msgid "This bounty is reserved for nationals only."
@@ -15922,7 +15922,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:121
 msgid "This company has no employees"
-msgstr ""
+msgstr "هذه الشركة ليس لديها عمال."
 
 #: src/components/_economy/employee/EmployeeList.tsx:202
 msgid "This company is disabled and earns nothing. Once re-enabled, a day of its production would be worth this much at the market value of a point, minus the day's whole payroll, employees and manager."
@@ -15942,7 +15942,7 @@ msgstr ""
 
 #: src/components/_political/government/Government.tsx:81
 msgid "This country's government type has no ministers, only a president and vice president. The president takes over the ministers' powers."
-msgstr ""
+msgstr ".حكومة هذه البلدان ليس لديها وزارات، فقط الرئيس و نائب الرئيس، الرئيس هو من يستولي على الوزارات"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:66
 msgid "This device can't display the map"
@@ -15950,24 +15950,24 @@ msgstr "لا يمكن لهذا الجهاز عرض الخريطة"
 
 #: src/components/_user/user/UserBadges.tsx:141
 msgid "This dude is admin."
-msgstr ""
+msgstr ".هذا الشحص أدمين"
 
 #: src/components/_user/user/UserBadges.tsx:158
 msgid "This dude is content moderator."
-msgstr ""
+msgstr "هذا الشخص هو مشرف للمحتوى."
 
 #: src/components/_user/user/UserBadges.tsx:175
 msgid "This dude is moderator."
-msgstr ""
+msgstr ".هذا الشخص مشرف"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:288
 #: src/components/_economy/employee/useConfirmFire.tsx:32
 msgid "this employee"
-msgstr ""
+msgstr "هذا العامل"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:192
 msgid "This employee"
-msgstr ""
+msgstr "هذا العامل"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -15979,7 +15979,7 @@ msgstr "شعور جيد، هاه؟"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:217
 msgid "this good"
-msgstr ""
+msgstr "هذا جيد"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:102
 msgid "This good needs another kind of tool: every tool your employees hold here goes back to your inventory."
@@ -15995,7 +15995,7 @@ msgstr "هذه هي القيمة المستخدمة لحساب معظم التك
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:103
 msgid "This is your company"
-msgstr ""
+msgstr "هذه هي شركتك"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:207
 msgid "This is your offer, shown like other buyers from your country see it. Buyers from elsewhere add their own country's tax."
@@ -16069,11 +16069,11 @@ msgstr "سيتطلب هذا من المستخدم التحقق من رقم ها�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1482
 msgid "Throw a party"
-msgstr ""
+msgstr "إقامة حفلة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3583
 msgid "Throw a party anyway"
-msgstr ""
+msgstr "إقامة حفلة على اي حال"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3655
 msgid "Throw it out"
@@ -16086,7 +16086,7 @@ msgstr "الفئة {0}"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:165
 msgid "Time in the company"
-msgstr ""
+msgstr "الوقت في الشركة"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Time to produce!"
@@ -16094,7 +16094,7 @@ msgstr "حان وقت الإنتاج!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:762
 msgid "Time to retire"
-msgstr ""
+msgstr "حان الوقت للتقاعد"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:460
 msgid "Time until the next case roll"
@@ -16163,7 +16163,7 @@ msgstr "دبابة بيكسل صغير"
 #: src/components/_layout/LoadingTip.tsx:46
 msgctxt "noun: loading screen hint"
 msgid "Tip"
-msgstr ""
+msgstr "التبرعات"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:433
 msgid "Tip Article"
@@ -16175,15 +16175,15 @@ msgstr "إلى"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:743
 msgid "To be continued"
-msgstr ""
+msgstr "يتبع"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:185
 msgid "To the seller"
-msgstr ""
+msgstr "إلى البائع"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:183
 msgid "To you, the seller"
-msgstr ""
+msgstr "اليك، البائع"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -16210,7 +16210,7 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
 msgid "Tool"
-msgstr ""
+msgstr "أداة"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:465
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:681
@@ -16219,12 +16219,12 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:75
 msgid "Tool given"
-msgstr ""
+msgstr "أداة معطات"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:80
 #: src/components/_economy/inventory/Inventory.tsx:685
 msgid "Tool taken back"
-msgstr ""
+msgstr "أداة تم استرجاعها"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:470
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:686
@@ -16233,7 +16233,7 @@ msgstr ""
 
 #: src/utils/translations.tsx:119
 msgid "Toolbox"
-msgstr ""
+msgstr "صندوق الأدوات"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:946
 msgid "Toolbox Finds"
@@ -16241,7 +16241,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2211
 msgid "Toolbox found"
-msgstr ""
+msgstr "تم العثور على صندوق الأدوات"
 
 #: src/components/_economy/employee/employeeStats.tsx:360
 msgid "Toolbox per worked hour"
@@ -16251,7 +16251,7 @@ msgstr ""
 #: src/components/_economy/inventory/Inventory.tsx:852
 #: src/components/_economy/inventory/ItemGridFilters.tsx:208
 msgid "Tools"
-msgstr ""
+msgstr "أدوات"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:216
 msgid "Tools give a boost to <0>Production</0>. They come out of <1>Toolboxes</1>, found by your employees' Luck."
@@ -16412,7 +16412,7 @@ msgstr "بدأت البطولة"
 
 #: src/components/_user/user/UserBadges.tsx:121
 msgid "Tournament Winner"
-msgstr ""
+msgstr "الفائز بالبطولة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2300
 msgid "Tournament Won!"
@@ -16444,7 +16444,7 @@ msgstr "عملية تداول"
 #: src/components/_economy/employee/EmployeeModal.tsx:367
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
-msgstr ""
+msgstr "تدريب"
 
 #: src/components/_layout/loadingTips.tsx:410
 msgid "Train each employee once a day, resetting at 00:00 UTC: you draw {trainingHandSize} cards and keep the one you like."
@@ -16452,7 +16452,7 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:768
 msgid "Train Employees"
-msgstr ""
+msgstr "درب عمالك"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:741
 msgid "Train to reveal traits"
@@ -16460,7 +16460,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:160
 msgid "Train your employee!"
-msgstr ""
+msgstr "درب عاملك"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
@@ -16468,7 +16468,7 @@ msgstr "متدرب"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:144
 msgid "Trainer"
-msgstr ""
+msgstr "مدرب"
 
 #: src/components/_economy/employee/employeeStats.tsx:199
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:175
@@ -16572,11 +16572,11 @@ msgstr "جندي"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1999
 msgid "Trouble in paradise"
-msgstr ""
+msgstr "مشاكل في النعيم"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3291
 msgid "Try it"
-msgstr ""
+msgstr "جربه"
 
 #: src/pages/user/[userId]/settings.tsx:137
 msgid "Tutorials"
@@ -16686,7 +16686,7 @@ msgstr "فتح زر إنتاج الكل"
 
 #: src/components/_user/level/LevelUpExtra.tsx:15
 msgid "Unlocked"
-msgstr ""
+msgstr "مفتوح"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2194
 msgid "Unlocked pack"
@@ -16698,11 +16698,11 @@ msgstr "إلغاء الكتم <0/>"
 
 #: src/components/_economy/employee/employeeStats.tsx:739
 msgid "Unpaid"
-msgstr ""
+msgstr "غير مدفوع"
 
 #: src/components/_social/PinArticleModal.tsx:99
 msgid "Unpin"
-msgstr ""
+msgstr "الغاء التثبيت"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -16744,7 +16744,7 @@ msgstr "تحديث التركيز"
 
 #: src/components/_user/user/EnergyGiftAlert.tsx:30
 msgid "Update gift"
-msgstr ""
+msgstr "تحديث الهدية"
 
 #: src/pages/user/[userId]/settings.tsx:91
 msgid "Update infos"
@@ -16801,7 +16801,7 @@ msgstr "الترقيات"
 
 #: src/components/_user/auth/WelcomeModal.tsx:224
 msgid "Upload an avatar"
-msgstr ""
+msgstr "ارفع صورتك"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:25
 msgid "Uranium"
@@ -16813,7 +16813,7 @@ msgstr "استخدام <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2686
 msgid "Use it"
-msgstr ""
+msgstr "استعمله"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:758
 msgid "Use Pills"
@@ -16821,7 +16821,7 @@ msgstr "استخدام حبة الدواء"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2538
 msgid "Use them as notepaper"
-msgstr ""
+msgstr "استعملهم كورق"
 
 #: src/utils/translations.tsx:94
 #: src/utils/translations.tsx:100
@@ -18196,7 +18196,7 @@ msgstr "طلبك الحالي"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:97
 msgid "Your current position"
-msgstr ""
+msgstr "موقعك الحالي"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1897
 msgid "Your daily missions have been reset! Complete them to earn rewards."
@@ -18361,7 +18361,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:223
 msgid "Your progression"
-msgstr ""
+msgstr "تقدمك"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:195
 msgid "Your rank"
@@ -18403,7 +18403,7 @@ msgstr "تم إعادة تعيين مهامك الأسبوعية! أكملها �
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:512
 msgid "Your workforce"
-msgstr ""
+msgstr "قوتك العاملة"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
