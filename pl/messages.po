@@ -10656,7 +10656,7 @@ msgstr "Zmień lokalizację"
 #. placeholder {1}: -happinessPenalty
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:247
 msgid "Move {who} into {0}? They lose <0>{1}</0> happiness for {penaltyDays} days, and cannot be fired for {fireLockHours} hours."
-msgstr "Przenieść {who} do {0}? Stracą <0>{1}</0> zadowolenia przez {penaltyDays} dni, i nie mogą być zwolnieni przez {fireLockHours} godzin."
+msgstr "Przenieść {who} do {0}? Straci <0>{1}</0> zadowolenia na {penaltyDays} dni, i nie może być zwolniony przez {fireLockHours} godzin."
 
 #: src/components/_political/map/MapMenu.tsx:727
 msgid "Move & collect"
