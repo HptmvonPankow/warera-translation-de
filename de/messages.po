@@ -8153,7 +8153,7 @@ msgstr "General"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1711
 msgid "General Coo"
-msgstr ""
+msgstr "General Coo"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1730
 msgid "General Coo carries messages now. Nobody knows to whom."
@@ -9019,7 +9019,7 @@ msgstr "Ein gefälschtes Thermostat installieren"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:41
 msgid "Intensive drill"
-msgstr ""
+msgstr "Intensivtraining"
 
 #: src/components/_common/GameRules.tsx:81
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
@@ -9027,11 +9027,11 @@ msgstr "Absichtliche oder wiederholte Verstöße gegen diese Regel führen zu ei
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3874
 msgid "Interview him"
-msgstr ""
+msgstr "Ihn interviewen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:429
 msgid "Introduce yourself!"
-msgstr ""
+msgstr "Stell dich vor!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
@@ -9073,59 +9073,59 @@ msgstr "Eisen"
 
 #: src/utils/translations.tsx:250
 msgid "Iron Pickaxe"
-msgstr ""
+msgstr "Eisenspitzhacke"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2323
 msgid "Is that smoke?"
-msgstr ""
+msgstr "Ist das Rauch?"
 
 #: src/components/_user/auth/WelcomeModal.tsx:283
 msgid "Issued"
-msgstr ""
+msgstr "Ausgestellt"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:76
 msgid "It applies right away, and they can resign over it."
-msgstr ""
+msgstr "Es tritt sofort in Kraft, und sie können deshalb kündigen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2017
 msgid "It ends badly. {name} and {partnerName} cannot stand each other now."
-msgstr ""
+msgstr "Es geht schlecht aus. {name} und {partnerName} können einander jetzt nicht mehr ausstehen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1545
 msgid "It exploded. Nobody was hurt. The ceiling was."
-msgstr ""
+msgstr "Es ist explodiert. Niemand wurde verletzt – die Decke schon."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:859
 msgid "It fizzles out, a little awkwardly."
-msgstr ""
+msgstr "Es verläuft etwas peinlich im Sande."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2378
 msgid "It had not always done that. The tool is worse for it."
-msgstr ""
+msgstr "Das hat es nicht immer getan. Das Werkzeug ist dadurch schlechter geworden."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2373
 msgid "It has always done that"
-msgstr ""
+msgstr "Das hat es schon immer getan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2376
 msgid "It has, apparently, always done that."
-msgstr ""
+msgstr "Anscheinend hat es das schon immer getan."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:209
 msgid "It holds random items. Tap it."
-msgstr ""
+msgstr "Es enthält zufällige Gegenstände. Tippe darauf."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1594
 msgid "It is not cursed"
-msgstr ""
+msgstr "Es ist nicht verflucht"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:500
 msgid "It needs employees to produce."
-msgstr ""
+msgstr "Es benötigt Mitarbeiter, um zu produzieren."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1543
 msgid "It now only makes soup."
-msgstr ""
+msgstr "Jetzt stellt es nur noch Suppe her."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:9
 msgid "It only gets better… maybe"
@@ -9133,35 +9133,35 @@ msgstr "Es wird nur besser… vielleicht"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3650
 msgid "It smells like the dump. So does the workshop now."
-msgstr ""
+msgstr "Es riecht wie eine Müllkippe. Die Werkstatt inzwischen auch."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1579
 msgid "It still squeaks. It is definitely cursed now."
-msgstr ""
+msgstr "Es quietscht immer noch. Jetzt ist es definitiv verflucht."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1880
 msgid "It took eleven days and one sandwich. {name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "Es dauerte elf Tage und ein Sandwich. {name} und {partnerName} sind jetzt alte Freunde."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1577
 msgid "It was just the hinge."
-msgstr ""
+msgstr "Es war nur das Scharnier."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1692
 msgid "It was last week's draw. The champagne was still good."
-msgstr ""
+msgstr "Das war die Ziehung von letzter Woche. Der Champagner war noch gut."
 
 #: src/components/_economy/company/CompanyTags.tsx:122
 msgid "It will not gain any production and its employees will not work."
-msgstr ""
+msgstr "Es wird keine Produktion erzielen, und seine Mitarbeiter werden nicht arbeiten."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1542
 msgid "It works better than ever. The whole shift runs faster."
-msgstr ""
+msgstr "Es funktioniert besser als je zuvor. Die ganze Schicht arbeitet schneller."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1540
 msgid "It works. Conversation resumes."
-msgstr ""
+msgstr "Es funktioniert. Das Gespräch geht weiter."
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:37
 #: src/components/_user/notification/notification.frontConfig.tsx:2217
@@ -9170,7 +9170,7 @@ msgstr "Gegenstand gekauft"
 
 #: src/components/_economy/inventory/Inventory.tsx:109
 msgid "Item dismantled"
-msgstr ""
+msgstr "Gegenstand zerlegt"
 
 #: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
@@ -9178,7 +9178,7 @@ msgstr "Gegenstandsmarkt"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:55
 msgid "Item offer"
-msgstr ""
+msgstr "Gegenstandsangebot"
 
 #: src/components/_economy/inventory/Inventory.tsx:838
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:193
@@ -9188,15 +9188,15 @@ msgstr "Gegenstände"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:557
 msgid "Its country and alliance."
-msgstr ""
+msgstr "Sein Land und seine Allianz."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:556
 msgid "Its daily income and companies."
-msgstr ""
+msgstr "Sein tägliches Einkommen und seine Unternehmen."
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:138
 msgid "Its employees do not work and are not paid until the company is enabled again."
-msgstr ""
+msgstr "Seine Mitarbeiter arbeiten nicht und werden nicht bezahlt, bis das Unternehmen wieder aktiviert wird."
 
 #: src/components/_common/GameRules.tsx:296
 msgid "j. Spam and repeated messages"
@@ -9204,11 +9204,11 @@ msgstr "j. Spam und wiederholte Nachrichten"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Überraschungspanzer"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:141
 msgid "Jinx"
-msgstr ""
+msgstr "Unglücksrabe"
 
 #: src/pages/companies.tsx:67
 msgid "Job"
@@ -9232,15 +9232,15 @@ msgstr "Tritt einer Militäreinheit bei"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:153
 msgid "Join a military unit to take part"
-msgstr ""
+msgstr "Tritt einer Militäreinheit bei, um teilzunehmen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:672
 msgid "Join a Party"
-msgstr ""
+msgstr "Einer Partei beitreten"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:673
 msgid "Join a political party"
-msgstr ""
+msgstr "Einer politischen Partei beitreten"
 
 #: src/components/_political/law/law.frontConfig.tsx:397
 #: src/components/_political/law/lawNames.tsx:27
@@ -9249,15 +9249,15 @@ msgstr "Allianz beitreten"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:295
 msgid "Join Discord"
-msgstr ""
+msgstr "Discord beitreten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3795
 msgid "Join in"
-msgstr ""
+msgstr "Mitmachen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3342
 msgid "Join in yourself"
-msgstr ""
+msgstr "Mach selbst mit"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:555
 msgid "Join MU"
@@ -9265,27 +9265,27 @@ msgstr "ME beitreten"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:133
 msgid "Join resistances"
-msgstr ""
+msgstr "Widerstandsbewegungen beitreten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1371
 msgid "Join the party"
-msgstr ""
+msgstr "Der Partei beitreten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2101
 msgid "Join the union"
-msgstr ""
+msgstr "Der Gewerkschaft beitreten"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:282
 msgid "Join the WarEra Discord to meet players and get help."
-msgstr ""
+msgstr "Tritt dem WarEra-Discord bei, um Spieler kennenzulernen und Hilfe zu erhalten."
 
 #: src/pages/index.tsx:186
 msgid "Join the world"
-msgstr ""
+msgstr "Der Welt beitreten"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:139
 msgid "Join unrest"
-msgstr ""
+msgstr "Unruhen beitreten"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:423
 msgid "Join your country chat!"
@@ -9305,7 +9305,7 @@ msgstr "Nur weil etwas nicht ausdrücklich in den Regeln steht, heißt das nicht
 
 #: src/components/_economy/employee/useConfirmFire.tsx:18
 msgid "Just moved: can be fired in {hours}h"
-msgstr ""
+msgstr "Gerade versetzt: Kann in {hours} Std. entlassen werden"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
@@ -9313,7 +9313,7 @@ msgstr "Nur noch eins… was soll schon schiefgehen?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2980
 msgid "Karaoke night"
-msgstr ""
+msgstr "Karaokeabend"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:63
 msgid "Keep chasing that Mythic"
@@ -9321,7 +9321,7 @@ msgstr "Jag weiter hinter der Mythischen her"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2648
 msgid "Keep feeding it sandwiches"
-msgstr ""
+msgstr "Weiter mit Sandwiches füttern"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:386
 msgid "Keep fighting!"
@@ -9329,47 +9329,47 @@ msgstr "Kämpf weiter!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:618
 msgid "Keep it for the company"
-msgstr ""
+msgstr "Für das Unternehmen behalten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3522
 msgid "Keep the posters"
-msgstr ""
+msgstr "Die Poster behalten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:935
 msgid "Keep the promise"
-msgstr ""
+msgstr "Das Versprechen halten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3440
 msgid "Keep them"
-msgstr ""
+msgstr "Sie behalten"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2034
 msgid "Keep them all"
-msgstr ""
+msgstr "Alle behalten"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:518
 msgid "Keep training them to increase your profit."
-msgstr ""
+msgstr "Trainiere sie weiter, um deinen Gewinn zu steigern."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2464
 msgid "Keep working"
-msgstr ""
+msgstr "Weiterarbeiten"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:124
 msgid "Kept between {minChance}% and {maxChance}%. Fixed when the event appeared."
-msgstr ""
+msgstr "Bleibt zwischen {minChance} % und {maxChance} %. Wird festgelegt, sobald das Ereignis erscheint."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3451
 msgid "Kevin"
-msgstr ""
+msgstr "Kevin"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3895
 msgid "Kevin has grown"
-msgstr ""
+msgstr "Kevin ist gewachsen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3907
 msgid "Kevin is back to a reasonable size, and the whole workshop smells of leaves."
-msgstr ""
+msgstr "Kevin hat wieder eine vernünftige Größe, und die ganze Werkstatt riecht nach Blättern."
 
 #: src/components/_military/mu/MuMemberList.tsx:428
 #: src/components/_political/election/Election.tsx:291
@@ -9391,11 +9391,11 @@ msgstr "Mitglied entfernen"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:99
 msgid "Killed"
-msgstr ""
+msgstr "Getötet"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2025
 msgid "Kittens"
-msgstr ""
+msgstr "Kätzchen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
@@ -9411,7 +9411,7 @@ msgstr "Messer akzeptieren keine Munition"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:109
 msgid "Laborer"
-msgstr ""
+msgstr "Arbeiter"
 
 #: src/components/_layout/LayoutOptions.tsx:238
 #: src/components/_user/auth/WelcomeModal.tsx:277
@@ -9420,7 +9420,7 @@ msgstr "Sprache"
 
 #: src/components/_user/user/UserHeader.tsx:350
 msgid "Last connection"
-msgstr ""
+msgstr "Letzte Verbindung"
 
 #: src/components/_user/badgeCollection/Badge.tsx:69
 msgid "Last earned: <0/>"
@@ -9432,11 +9432,11 @@ msgstr "Letzte Geschenke"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:283
 msgid "Last one! Tap Milestones."
-msgstr ""
+msgstr "Das letzte! Tippe auf „Meilensteine“."
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Letzte Skin-Geschenke"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -9450,11 +9450,11 @@ msgstr "Zuletzt verwendet:"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:154
 msgid "Last works"
-msgstr ""
+msgstr "Letzte Arbeiten"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:119
 msgid "Late Bloomer"
-msgstr ""
+msgstr "Spätzünder"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:309
 msgid "Later"
@@ -9466,11 +9466,11 @@ msgstr "Neuestes Paket"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3763
 msgid "Laugh about it"
-msgstr ""
+msgstr "Darüber lachen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1043
 msgid "Laugh along"
-msgstr ""
+msgstr "Mitlachen"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:49
 msgid "Launch council election"
@@ -9509,7 +9509,7 @@ msgstr "Blei"
 #: src/components/_political/alliance/AllianceHeader.tsx:100
 #: src/components/_political/party/PartyTooltip.tsx:82
 msgid "Leader"
-msgstr ""
+msgstr "Anführer"
 
 #: src/components/_user/user/skills.frontConfig.tsx:214
 #: src/components/_user/user/skills.frontConfig.tsx:215
@@ -9518,7 +9518,7 @@ msgstr "Führungskompetenz"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2519
 msgid "Leaflets from the sky"
-msgstr ""
+msgstr "Flugblätter vom Himmel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
@@ -9538,7 +9538,7 @@ msgstr "Verlasse <0/>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3845
 msgid "Leave a very spicy bait lunch"
-msgstr ""
+msgstr "Ein besonders scharfes Lock-Mittagessen hinterlassen"
 
 #: src/components/_political/law/law.frontConfig.tsx:372
 #: src/components/_political/law/lawNames.tsx:26
@@ -9552,7 +9552,7 @@ msgstr "Kongress verlassen"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:166
 msgid "Leave empty for no requirement"
-msgstr ""
+msgstr "Leer lassen, wenn keine Voraussetzung gelten soll"
 
 #: src/pages/country/[countryId]/government.tsx:94
 #: src/pages/country/[countryId]/government.tsx:99
@@ -9561,7 +9561,7 @@ msgstr "Regierung verlassen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1347
 msgid "Leave it"
-msgstr ""
+msgstr "Es lassen"
 
 #: src/components/_political/law/law.frontConfig.tsx:373
 msgid "Leave the alliance your country belongs to"
@@ -9569,7 +9569,7 @@ msgstr "Verlasse die Allianz zu der dein Land gehört"
 
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:76
 msgid "Left to decide: {picked}"
-msgstr ""
+msgstr "Noch zu entscheiden: {picked}"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:78
 msgid "Legend spotted!"
@@ -9579,7 +9579,7 @@ msgstr "Legende gesichtet!"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:149
 #: src/components/_user/user/EcoSkillEffects.tsx:29
 msgid "Legendary"
-msgstr ""
+msgstr "Legendär"
 
 #: src/utils/translations.tsx:217
 msgid "Legendary Boots"
@@ -9603,19 +9603,19 @@ msgstr "Legendäre Hose"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:574
 msgid "Lend the money"
-msgstr ""
+msgstr "Das Geld verleihen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1877
 msgid "Let {partnerName} keep trying"
-msgstr ""
+msgstr "{partnerName} weiter versuchen lassen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3613
 msgid "Let it be"
-msgstr ""
+msgstr "Es dabei belassen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3811
 msgid "Let it escalate"
-msgstr ""
+msgstr "Es eskalieren lassen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2579
 msgid "Let it flow"
