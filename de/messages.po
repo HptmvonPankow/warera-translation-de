@@ -8161,7 +8161,7 @@ msgstr "General Coo überbringt jetzt Nachrichten. Niemand weiß, an wen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1731
 msgid "General Coo deserts with a sandwich."
-msgstr ""
+msgstr "General Coo haut mit einem Sandwich ab."
 
 #: src/components/_user/mission/MissionsList.tsx:341
 msgid "Generate Missions"
@@ -8174,27 +8174,27 @@ msgstr "Generiert <0>{0}</0>/Tag"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:54
 msgid "Geography"
-msgstr ""
+msgstr "Geografie"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3869
 msgid "Gerald"
-msgstr ""
+msgstr "Gerald"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3879
 msgid "Gerald is an efficiency expert. Everyone works faster to avoid him."
-msgstr ""
+msgstr "Gerald ist Effizienzexperte. Alle arbeiten schneller, um ihm aus dem Weg zu gehen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3877
 msgid "Gerald is charming. Nobody is sure he got the job, but everyone likes him."
-msgstr ""
+msgstr "Gerald ist charmant. Niemand weiß genau, ob er den Job bekommen hat, aber alle mögen ihn."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3887
 msgid "Gerald leaves, and takes his desk."
-msgstr ""
+msgstr "Gerald geht und nimmt seinen Schreibtisch mit."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3396
 msgid "Gerald's desk exists. In the drawer: a wooden case, and no Gerald."
-msgstr ""
+msgstr "Geralds Schreibtisch steht da. In der Schublade: eine Holzkiste, aber kein Gerald."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:51
 msgid "Get an exclusive <0>subscriber skin</0>!"
@@ -8210,11 +8210,11 @@ msgstr "Supporter-Plan holen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:358
 msgid "Get to the front!"
-msgstr ""
+msgstr "Ab an die Front!"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:67
 msgid "Gets rid of a bad trait for good."
-msgstr ""
+msgstr "Entfernt eine negative Eigenschaft dauerhaft."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -8243,15 +8243,15 @@ msgstr "geschenkt"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:102
 msgid "Girl Power"
-msgstr ""
+msgstr "Girl Power"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2499
 msgid "Give a patriotic speech"
-msgstr ""
+msgstr "Eine patriotische Rede halten"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:839
 msgid "Give a tool to one of your employees"
-msgstr ""
+msgstr "Einem deiner Mitarbeiter ein Werkzeug geben"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
@@ -8259,11 +8259,11 @@ msgstr "Besitzrechte übertragen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:972
 msgid "Give them the workshop"
-msgstr ""
+msgstr "Ihnen die Werkstatt überlassen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:519
 msgid "Give them two days off"
-msgstr ""
+msgstr "Ihnen zwei Tage freigeben"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:251
 msgid "Give your token a descriptive name so you can identify it later."
@@ -8288,7 +8288,7 @@ msgstr "Globus (experimentell)"
 
 #: src/components/_political/map/MapLibre.tsx:633
 msgid "Globe view isn't supported on this device"
-msgstr ""
+msgstr "Die Globusansicht wird auf diesem Gerät nicht unterstützt."
 
 #: src/components/_economy/inventory/Inventory.tsx:500
 #: src/components/_user/UserEquipments.tsx:309
@@ -8298,7 +8298,7 @@ msgstr "Handschuhe"
 
 #: src/components/_user/user/UserEffectSelector.tsx:57
 msgid "Glow"
-msgstr ""
+msgstr "Leuchten"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
@@ -8306,7 +8306,7 @@ msgstr "Geh sofort Lotto spielen"
 
 #: src/components/_political/map/MapOrderIndicators.tsx:579
 msgid "Go to ordered battle"
-msgstr ""
+msgstr "Zur befohlenen Schlacht gehen"
 
 #: src/components/_economy/company/CompanyList.tsx:191
 msgid "Go to skills"
@@ -8314,7 +8314,7 @@ msgstr "Zu den Fertigkeiten gehen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1640
 msgid "Go undercover yourself"
-msgstr ""
+msgstr "Selbst undercover gehen"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:29
 #: src/utils/translations.tsx:34
@@ -8323,11 +8323,11 @@ msgstr "Gold"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:117
 msgid "Gone"
-msgstr ""
+msgstr "Weg"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3648
 msgid "Good scrap, and at the bottom, a whole toolbox."
-msgstr ""
+msgstr "Guter Schrott und ganz unten eine ganze Werkzeugkiste."
 
 #: src/components/_other/tour/TutorialStep.tsx:630
 msgid "Got it"
@@ -8372,7 +8372,7 @@ msgstr "Hol dein Holzkisten ab!"
 
 #: src/components/_user/user/UserEffectSelector.tsx:59
 msgid "Gradient"
-msgstr ""
+msgstr "Verlauf"
 
 #: src/utils/translations.tsx:28
 msgid "Grain"
@@ -8584,29 +8584,29 @@ msgstr "Zufriedenheit"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:148
 msgid "Happiness {mood} or less, or {burnout} or {wornOut}."
-msgstr ""
+msgstr "Wohlbefinden {mood} oder niedriger, oder {burnout} oder {wornOut}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:137
 msgid "Happiness {mood} or less, Production {output} or more, or {climber}. Always possible for a {flightRisk}, and twice as likely."
-msgstr ""
+msgstr "Wohlbefinden höchstens {mood}, Produktion mindestens {output} oder {climber}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:282
 msgid "Happiness {mood} or more, after 14 days in the company."
-msgstr ""
+msgstr "Wohlbefinden mindestens {mood}, nach 14 Tagen im Unternehmen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:118
 msgid "Happiness {mood} or more, and either 5 days of experience in the company's good or {quickStudy}."
-msgstr ""
+msgstr "Wohlbefinden mindestens {mood} und entweder 5 Tage Erfahrung mit der Ware des Unternehmens oder {quickStudy}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:126
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:459
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:478
 msgid "Happiness {mood} or more."
-msgstr ""
+msgstr "Wohlbefinden mindestens {mood}."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:113
 msgid "Happiness {value}"
-msgstr ""
+msgstr "Wohlbefinden {value}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -8614,71 +8614,71 @@ msgstr "Fleißiger Arbeiter"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Harlekin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Harlekin-Munition"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Harlekin-Doppeldecker"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Harlekin-Stiefel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:527
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Harlekin-Handschuhe"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Schwere Harlekin-Munition"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Harlekin-Jacke"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Leichte Harlekin-Munition"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Harlekin-Holzhammer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Harlekin-Maske"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Harlekin-Hose"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Harlekin-Pistole"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Harlekin-Gewehr"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Harlekin-Scharfschützengewehr"
 
 #: src/utils/translations.tsx:243
 msgid "Harvester's Edge"
-msgstr ""
+msgstr "Ernteklinge"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:948
 msgid "Have your employees find <0/>"
-msgstr ""
+msgstr "Lass deine Mitarbeiter <0/> finden"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:938
 msgid "Have your employees make <0/>"
-msgstr ""
+msgstr "Lass deine Mitarbeiter <0/> herstellen"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:112
 msgid "Headquarters"
@@ -8701,7 +8701,7 @@ msgstr "Helm"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2800
 msgid "Help decipher it"
-msgstr ""
+msgstr "Beim Entziffern helfen"
 
 #: src/components/_military/mu/MuMemberList.tsx:375
 msgid "Help for Mu"
@@ -8717,20 +8717,20 @@ msgstr "Hilf dem Spiel zu wachsen"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:749
 msgid "hidden"
-msgstr ""
+msgstr "verborgen"
 
 #: src/components/_economy/employee/employeeTags.tsx:135
 #: src/components/_economy/employee/EmployeeTraitBadge.tsx:82
 msgid "Hidden trait"
-msgstr ""
+msgstr "Verborgene Eigenschaft"
 
 #: src/pages/user/[userId]/settings.tsx:82
 msgid "Hide email"
-msgstr ""
+msgstr "E-Mail verbergen"
 
 #: src/components/_social/poll/PollCard.tsx:406
 msgid "Hide results"
-msgstr ""
+msgstr "Ergebnisse ausblenden"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
@@ -8738,56 +8738,56 @@ msgstr "Hoher Kommandeur"
 
 #: src/components/_economy/employee/employeeCards.tsx:251
 msgid "Hire"
-msgstr ""
+msgstr "Einstellen"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:299
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:144
 msgid "Hire a manager"
-msgstr ""
+msgstr "Einen Manager einstellen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:830
 msgid "Hire an Employee"
-msgstr ""
+msgstr "Einen Mitarbeiter einstellen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:832
 msgid "Hire an employee in one of your companies"
-msgstr ""
+msgstr "Einen Mitarbeiter in einem deiner Unternehmen einstellen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:469
 msgid "Hire another employee!"
-msgstr ""
+msgstr "Stelle einen weiteren Mitarbeiter ein!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:114
 msgid "Hire your first employee!"
-msgstr ""
+msgstr "Stelle deinen ersten Mitarbeiter ein!"
 
 #: src/components/_economy/employee/employeeTags.tsx:271
 msgid "hired {hiredDaysAgo}d ago"
-msgstr ""
+msgstr "vor {hiredDaysAgo} Tagen eingestellt"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:314
 msgid "Hired 7 days ago or more, and {greedy}, {climber} or with happiness {mood} or less."
-msgstr ""
+msgstr "Vor mindestens 7 Tagen eingestellt und {greedy}, {climber} oder Wohlbefinden höchstens {mood}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:402
 msgid "Hired 7 days ago or more, with happiness {mood} or less. Always possible for a {flightRisk}, and twice as likely."
-msgstr ""
+msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden höchstens {mood}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:392
 msgid "Hired 7 days ago or more, with happiness {mood} or less. Always possible for a {greedy}, and twice as likely."
-msgstr ""
+msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden höchstens {mood}. Bei einem {greedy} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:464
 msgid "Hired 7 days ago or more, with happiness {mood} or more."
-msgstr ""
+msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden mindestens {mood}."
 
 #: src/components/_layout/loadingTips.tsx:375
 msgid "Hiring an employee costs <0>{hireEnergyCost}</0> and no money. New candidates show up every day."
-msgstr ""
+msgstr "Einen Mitarbeiter einzustellen kostet <0>{hireEnergyCost}</0> und kein Geld. Jeden Tag erscheinen neue Kandidaten."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:122
 msgid "Hiring costs <0>Energy</0>."
-msgstr ""
+msgstr "Das Einstellen kostet <0>Energie</0>."
 
 #: src/components/_military/battle/BattlesHeader.tsx:33
 msgid "History"
@@ -8799,7 +8799,7 @@ msgstr "Treffer"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:388
 msgid "Hit until your <0>Health</0> runs out again."
-msgstr ""
+msgstr "Schlage zu, bis deine <0>Gesundheit</0> wieder aufgebraucht ist."
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
 #: src/components/_military/battle/BattleSystem.tsx:916
@@ -8808,19 +8808,19 @@ msgstr "Das Kämpfen für das eigene Land, während man in der Regierung ist, gi
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
-msgstr ""
+msgstr "Hält ein Werkzeug mit höchstens 40 Haltbarkeit. Bei {jinx} oder {handy} doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:108
 msgid "Holding a tool worn down to 50 durability or less. Twice as likely if {handy}."
-msgstr ""
+msgstr "Hält ein Werkzeug mit höchstens 50 Haltbarkeit. Bei {handy} doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:471
 msgid "Holding a tool, and {handy} or {improviser}."
-msgstr ""
+msgstr "Hält ein Werkzeug und ist {handy} oder {improviser}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:307
 msgid "Holding a tool. Twice as likely for a {gambler}."
-msgstr ""
+msgstr "Hält ein Werkzeug. Bei einem {gambler} doppelt so wahrscheinlich."
 
 #: src/components/_military/mu/MuHeader.tsx:149
 #: src/components/_military/tournament/TournamentHeader.tsx:145
@@ -8836,23 +8836,23 @@ msgstr "Startseite"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:58
 msgid "Homeland Front"
-msgstr ""
+msgstr "Heimatfront"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:123
 msgid "Homesick"
-msgstr ""
+msgstr "Heimweh"
 
 #: src/utils/translations.tsx:242
 msgid "Honed Sickle"
-msgstr ""
+msgstr "Geschärfte Sichel"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:770
 msgid "Honor their career"
-msgstr ""
+msgstr "Ihre Laufbahn würdigen"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:508
 msgid "Hourly pay"
-msgstr ""
+msgstr "Stundenlohn"
 
 #: src/components/_social/PinArticleModal.tsx:82
 msgid "Hours"
@@ -8860,7 +8860,7 @@ msgstr "Stunden"
 
 #: src/components/_social/PinArticleModal.tsx:59
 msgid "Hours is required"
-msgstr ""
+msgstr "Stundenangabe erforderlich"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:30
 msgid "How many times have you seen this message already?"
@@ -8868,7 +8868,7 @@ msgstr "Wie oft hast du diese Nachricht schon gesehen?"
 
 #: src/components/_economy/employee/employeeTags.tsx:158
 msgid "How much more or less than the market rate they ask for the same stats. It sets the wage they are paid."
-msgstr ""
+msgstr "Wie viel mehr oder weniger als den Marktpreis sie für dieselben Werte verlangen. Daraus ergibt sich ihr Lohn."
 
 #: src/components/_user/user/skills.frontConfig.tsx:141
 #: src/components/_user/user/skills.frontConfig.tsx:142
@@ -8885,7 +8885,7 @@ msgstr "Ich habe gehört, dass Premium-Kauf deine Chancen erhöht :3"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:127
 msgid "I qualify"
-msgstr ""
+msgstr "Ich erfülle die Voraussetzungen"
 
 #: src/components/_common/GameRules.tsx:293
 msgid "i. Promotion of other games, products, or services"
@@ -8897,16 +8897,16 @@ msgstr "Ich bin stolz auf dich"
 
 #: src/components/_user/auth/WelcomeModal.tsx:246
 msgid "ID No."
-msgstr ""
+msgstr "Ausweisnummer"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:382
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
-msgstr ""
+msgstr "Untätig"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:177
 msgid "If ignored"
-msgstr ""
+msgstr "Wenn ignoriert"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:39
 msgid "If negative, pay <0/> for <1/> (once per day)."
@@ -8918,19 +8918,19 @@ msgstr "Wenn der neue Kandidat bereits in der Regierung ist, werden ihre Positio
 
 #: src/components/_economy/employee/employeeStats.tsx:542
 msgid "If your choices put them here, <0>{quitText}%/h</0> chance to quit."
-msgstr ""
+msgstr "Wenn deine Entscheidungen sie hierherbringen, besteht eine Kündigungswahrscheinlichkeit von <0>{quitText} %/h</0>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2118
 msgid "Ignore it"
-msgstr ""
+msgstr "Ignorieren"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1397
 msgid "Ignore the leaflets"
-msgstr ""
+msgstr "Die Flugblätter ignorieren"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1977
 msgid "Ignore the memos"
-msgstr ""
+msgstr "Die Mitteilungen ignorieren"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:51
 msgid "Imagine if you stop right before the Mythic"
@@ -8969,19 +8969,19 @@ msgstr "Beeindruckend"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:85
 msgid "Improviser"
-msgstr ""
+msgstr "Improvisationstalent"
 
 #: src/components/_layout/loadingTips.tsx:458
 msgid "In a Military Unit, ask your mates for help every {helpCooldownHours}h: each help gives you <0>{healthPerHelp}</0>."
-msgstr ""
+msgstr "Frage in einer Militäreinheit alle {helpCooldownHours} Std. deine Kameraden um Hilfe: Jede Hilfe gewährt dir <0>{healthPerHelp}</0>."
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:43
 msgid "In progress"
-msgstr ""
+msgstr "In Bearbeitung"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:216
 msgid "inactive"
-msgstr ""
+msgstr "inaktiv"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:207
 #: src/components/_user/apiToken/ApiTokenList.tsx:174
@@ -9003,7 +9003,7 @@ msgstr "Unruhen erhöhen"
 
 #: src/components/_political/map/MapMenu.tsx:456
 msgid "Initial country"
-msgstr ""
+msgstr "Ursprüngliches Land"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:11
 msgid "Initiate"
@@ -9011,11 +9011,11 @@ msgstr "Initiant"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:137
 msgid "Inspiration"
-msgstr ""
+msgstr "Inspiration"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3736
 msgid "Install a fake thermostat"
-msgstr ""
+msgstr "Ein gefälschtes Thermostat installieren"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:41
 msgid "Intensive drill"
