@@ -65,15 +65,15 @@ msgstr "- Штраф при захисті цього регіону склад�
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% до зарплатних очікувань."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% до зарплатних очікувань."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% до зарплатних очікувань."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1804
 msgid "“Senior Worker” it is. It will do, for now."
@@ -86,7 +86,7 @@ msgstr "(розвиток середнього учасника)"
 
 #: src/components/_economy/employee/employeeStats.tsx:718
 msgid "(coworker)"
-msgstr ""
+msgstr "(співробітник)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -273,7 +273,7 @@ msgstr ""
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} інструмент"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
@@ -507,7 +507,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3283
 msgid "{gender, select, male {{name} brought a snack from home to share. It is either a delicacy or a war crime.} female {{name} brought a snack from home to share. It is either a delicacy or a war crime.} other {{name} brought a snack from home to share. It is either a delicacy or a war crime.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} приніс з дому смаколик, щоб поділитись з колегами. Це може бути як делікатес, так і злочин проти людства.} female {{name} принесла з дому смаколик, щоб поділитись з колегами. Це може бути як делікатес, так і злочин проти людства.} other {{name} принесло з дому смаколик, щоб поділитись з колегами. Це може бути як делікатес, так і злочин проти людства.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1753
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
@@ -707,7 +707,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3453
 msgid "{gender, select, male {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.} female {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.} other {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} приніс собі офісну рослину, назвав її Кевіном, і розмовляє з нею більше, ніж з колегами. Кевін пластмасовий.} female {{name} принесла собі офісну рослину, назвала її Кевіном, і розмовляє з нею більше, ніж з колегами. Кевін пластмасовий.} other {{name} принесло собі офісну рослину, назвало її Кевіном, і розмовляє з нею більше, ніж з колегами. Кевін пластмасовий.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1036
 msgid "{gender, select, male {{name} has been doing impressions of you at lunch. They are very good.} female {{name} has been doing impressions of you at lunch. They are very good.} other {{name} has been doing impressions of you at lunch. They are very good.}}"
@@ -795,7 +795,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3310
 msgid "{gender, select, male {{name} is so proud. The whole company eats the snack now, whatever it is.} female {{name} is so proud. The whole company eats the snack now, whatever it is.} other {{name} is so proud. The whole company eats the snack now, whatever it is.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} дуже щасливий. Уся фабрика тепер їсть його смаколик, чим би він не був.} female {{name} дуже щаслива. Уся фабрика тепер їсть її смаколик, чим би він не був.} other {{name} дуже щасливе. Уся фабрика тепер їсть їх смаколик, чим би він не був.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3231
 msgid "{gender, select, male {{name} is telling his war story again, for the fortieth time. The enemy army gets bigger every time.} female {{name} is telling her war story again, for the fortieth time. The enemy army gets bigger every time.} other {{name} is telling their war story again, for the fortieth time. The enemy army gets bigger every time.}}"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2027
 msgid "{gender, select, male {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} female {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} other {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.}}"
-msgstr ""
+msgstr "{gender, select, male {Виявилось, що киця не була товстою. Під робочим столом сидять п'ять кошенят, і {name} вже дав кожному з них ім'я.} female {Виявилось, що киця не була товстою. Під робочим столом сидять п'ять кошенят, і {name} вже дала кожному з них ім'я.} other {Виявилось, що киця не була товстою. Під робочим столом сидять п'ять кошенят, і {name} вже дало кожному з них ім'я.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3572
 msgid "{gender, select, male {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} female {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} other {It was {name}'s birthday, and nobody knew. {name} is quietly moved.}}"
@@ -1415,7 +1415,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3461
 msgid "{gender, select, male {Tell him Kevin is plastic} female {Tell her Kevin is plastic} other {Tell them Kevin is plastic}}"
-msgstr ""
+msgstr "{gender, select, male {Сказати йому, що Кевін пластмасовий} female {Сказати їй, що Кевін пластмасовий} other {Сказати їм, що Кевін пластмасовий}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1423
 msgid "{gender, select, male {Tell him you love it} female {Tell her you love it} other {Tell them you love it}}"
@@ -1563,11 +1563,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3494
 msgid "{gender, select, male {Water Kevin with him} female {Water Kevin with her} other {Water Kevin with them}}"
-msgstr ""
+msgstr "{gender, select, male {Підлити Кевіна разом з ним} female {Підлити Кевіна разом з нею} other {Підлити Кевіна разом з ними}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:611
 msgid "{gender, select, male {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. He is eyeing it.} female {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. She is eyeing it.} other {While clearing the storeroom, {name} found an old toolbox nobody remembers buying, and is eyeing it.}}"
-msgstr ""
+msgstr "{gender, select, male {Прибираючи на складі, {name} знайшов ящик з інструментами, про який ніхто не пам'ятає. Він придивляється до нього.} female {Прибираючи на складі, {name} знайшла ящик з інструментами, про який ніхто не пам'ятає. Вона придивляється до нього.} other {Прибираючи на складі, {name} знайшло ящик з інструментами, про який ніхто не пам'ятає. Воно придивляється до нього..}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1649
 msgid "{gender, select, male {You come back with every trick they have. {name} is impressed.} female {You come back with every trick they have. {name} is impressed.} other {You come back with every trick they have. {name} is impressed.}}"
@@ -1689,7 +1689,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1832
 msgid "{name} says soup is a drink. {partnerName} says it is food. They have not spoken in three days."
-msgstr ""
+msgstr "{name} каже, що суп є напоєм. {partnerName} каже, що це їжа. Вони не розмовляють вже третій день."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3719
 msgid "{name} wants the thermostat at 18 degrees, {partnerName} at 26. Half the workshop wears coats, the other half shorts."
@@ -1813,7 +1813,7 @@ msgstr ""
 #: src/components/_economy/employee/WorkforceSummary.tsx:273
 #: src/components/_economy/employee/WorkforceSummary.tsx:428
 msgid "{trainable} to train"
-msgstr ""
+msgstr "{trainable} без навчання"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
@@ -1850,7 +1850,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeCards.tsx:224
 #: src/components/_economy/employee/EmployeeTooltip.tsx:142
 msgid "{wage} / day"
-msgstr ""
+msgstr "{wage} / день"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:529
 msgid "{who} leaves the company: {value}"
@@ -1971,7 +1971,7 @@ msgstr "/день"
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:45
 #: src/components/_economy/manager/MoveManagerModal.tsx:62
 msgid "/h"
-msgstr ""
+msgstr "/год"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:107
 msgid "/h at {points} Management points"
@@ -1999,7 +1999,7 @@ msgstr "+{xpBonusPercent}%"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:47
 msgid "+1 to one stat."
-msgstr ""
+msgstr "+1 до однієї характеристики."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:207
 msgid "+1% per {happinessDivisor} happiness above 50, -1% per {happinessDivisor} under."
@@ -2007,7 +2007,7 @@ msgstr ""
 
 #: src/components/_economy/employee/training.frontConfig.tsx:48
 msgid "+2 to one stat."
-msgstr ""
+msgstr "+2 до однієї характеристики."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:145
 msgid "+2 training potential: one session more than the draw just spent."
@@ -2015,7 +2015,7 @@ msgstr ""
 
 #: src/components/_economy/employee/training.frontConfig.tsx:49
 msgid "+3 to one stat."
-msgstr ""
+msgstr "+3 до однієї характеристики."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:150
 msgid "+3 training potential: two sessions more than the draw just spent."
@@ -2023,7 +2023,7 @@ msgstr ""
 
 #: src/components/_economy/employee/training.frontConfig.tsx:50
 msgid "+4 to one stat."
-msgstr ""
+msgstr "+4 до однієї характеристики."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:155
 msgid "+4 training potential: three sessions more than the draw just spent."
@@ -2586,7 +2586,7 @@ msgstr "<0>{0}</0> завдатку повернуто до ВП."
 #: src/components/_economy/employee/employee.frontConfig.tsx:351
 #: src/components/_economy/employee/employee.frontConfig.tsx:411
 msgid "<0>{0}</0> for themselves"
-msgstr ""
+msgstr "<0>{0}</0> для себе"
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:83
@@ -2640,7 +2640,7 @@ msgstr ""
 #: src/components/_economy/employee/employee.frontConfig.tsx:560
 #: src/components/_economy/employee/employee.frontConfig.tsx:572
 msgid "<0>{0}</0> on raw resources"
-msgstr ""
+msgstr "<0>{0}</0> на виробництві сировини"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 6
@@ -2690,12 +2690,12 @@ msgstr "<0>{0}</0> місткості складу"
 #: src/components/_economy/employee/employee.frontConfig.tsx:904
 #: src/components/_economy/employee/employee.frontConfig.tsx:918
 msgid "<0>{0}</0> to every coworker"
-msgstr ""
+msgstr "<0>{0}</0> кожному співробітнику"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:345
 msgid "<0>{0}</0> to every weaker coworker"
-msgstr ""
+msgstr "<0>{0}</0> кожному слабшому співробітнику"
 
 #. placeholder {0}: levelsConfig[level + 1].xp - myXp
 #. placeholder {1}: level + 1
@@ -2815,11 +2815,11 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:234
 msgid "<0>+25%</0> while holding no tool"
-msgstr ""
+msgstr "<0>+25%</0> без інструменту"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:222
 msgid "<0>+40%</0> while holding a tool"
-msgstr ""
+msgstr "<0>+40%</0> маючи інструмент"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:622
 msgid "<0>+50%</0> on their first day in a company"
@@ -3475,7 +3475,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:655
 msgid "A call to arms"
-msgstr ""
+msgstr "Мобілізація"
 
 #: src/components/_economy/employee/TrainingCardList.tsx:132
 msgid "A card's rarity is its outline as well as its colour: a circle is Common, and it gains an edge at every tier up to the Legendary gem."
@@ -3592,7 +3592,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2854
 msgid "A hidden talent"
-msgstr ""
+msgstr "Прихований талант"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:694
 msgid "A letter from home"
@@ -3645,7 +3645,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:60
 msgid "A random employee tool"
-msgstr ""
+msgstr "Випадковий інструмент для працівника"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:57
 msgid "A random resource stack"
@@ -3705,11 +3705,11 @@ msgstr "У цьому регіону було знайдено стратегі�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:636
 msgid "A stray cat"
-msgstr ""
+msgstr "Безпритульний кіт"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3281
 msgid "A taste of home"
-msgstr ""
+msgstr "Домашній смаколик"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:423
 msgid "A tempting offer"
@@ -3915,7 +3915,7 @@ msgstr "Адмірал"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:641
 msgid "Adopt it"
-msgstr ""
+msgstr "Прихистити його"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2747
 msgid "Adopt the ramp"
@@ -3943,15 +3943,15 @@ msgstr "Поліпшені штани"
 
 #: src/components/_economy/company/CompanyList.tsx:211
 msgid "Advanced view"
-msgstr ""
+msgstr "Детальний огляд"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
-msgstr ""
+msgstr "Вік"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "Age {input}"
-msgstr ""
+msgstr "Вік {input}"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:50
 msgid "Age and tenure"
@@ -3971,7 +3971,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2448
 msgid "Air raid"
-msgstr ""
+msgstr "Повітряний напад"
 
 #: src/components/_economy/inventory/ItemGridFilters.tsx:183
 #: src/components/_economy/inventory/ItemGridFilters.tsx:221
@@ -3987,11 +3987,11 @@ msgstr "Усі категорії"
 
 #: src/components/_economy/employee/MoveShell.tsx:139
 msgid "All companies"
-msgstr ""
+msgstr "Усі компанії"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "Усі держави"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -4665,7 +4665,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1849
 msgid "Ban soup"
-msgstr ""
+msgstr "Заборонити суп"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3362
 msgid "Ban the club"
@@ -5061,7 +5061,7 @@ msgstr "Масовий розбір"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Bully"
-msgstr "Хуліган"
+msgstr "Задирака"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "Bunker"
@@ -5102,7 +5102,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3482
 msgid "Buy a real Kevin"
-msgstr ""
+msgstr "Купити справжнього Кевіна"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:251
 msgid "Buy for <0/> money on market"
@@ -5265,7 +5265,7 @@ msgstr "Стати кандидатом"
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
-msgstr ""
+msgstr "Кандидати"
 
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
@@ -5723,7 +5723,7 @@ msgstr "Режим для дальтоніків"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:94
 msgid "Comic"
-msgstr "Комік"
+msgstr "Жартівник"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -6029,7 +6029,7 @@ msgstr "Скопійовано в буфер обміну"
 
 #: src/utils/translations.tsx:277
 msgid "Copper Flask"
-msgstr ""
+msgstr "Мідна колба"
 
 #: src/pages/user/[userId]/referrals.tsx:112
 msgid "Copy"
@@ -6053,7 +6053,7 @@ msgstr ""
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:221
 #: src/components/_economy/employee/employeeStats.tsx:546
 msgid "Core region"
-msgstr ""
+msgstr "Рідний регіон"
 
 #: src/components/_political/region/RegionHeader.tsx:150
 msgid "Core region of"
@@ -7220,7 +7220,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeTags.tsx:262
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:86
 msgid "Employee"
-msgstr ""
+msgstr "Працівник"
 
 #: src/components/_economy/manager/manager.hooks.ts:189
 msgid "Employee cared for"
@@ -7468,7 +7468,7 @@ msgstr "Оцінена вартість"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:288
 msgid "Eureka"
-msgstr ""
+msgstr "Еврика"
 
 #: src/components/_economy/employee/employeeStats.tsx:71
 #: src/components/_economy/employee/employeeStats.tsx:532
@@ -7595,7 +7595,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2457
 msgid "Everyone to the shelter"
-msgstr ""
+msgstr "Всі в укриття"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2460
 msgid "Everyone waits it out in the shelter, playing cards by candlelight."
@@ -7603,7 +7603,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2046
 msgid "Everyone wants one. There were not enough kittens."
-msgstr ""
+msgstr "Усі хочуть собі кошеня. Їх виявилось недостатньо."
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:45
 msgid "Everyone who changes company can resign straight afterwards"
@@ -7946,7 +7946,7 @@ msgstr "Обушок"
 
 #: src/utils/translations.tsx:275
 msgid "Flask"
-msgstr ""
+msgstr "Колба"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
@@ -8248,7 +8248,7 @@ msgstr "подарував"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
-msgstr "Дівчача сила"
+msgstr "Дівоча сила"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2499
 msgid "Give a patriotic speech"
@@ -8735,7 +8735,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollCard.tsx:406
 msgid "Hide results"
-msgstr ""
+msgstr "Сховати результати"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
@@ -8743,7 +8743,7 @@ msgstr "Вищий командувач"
 
 #: src/components/_economy/employee/employeeCards.tsx:251
 msgid "Hire"
-msgstr ""
+msgstr "Найняти"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:299
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:144
@@ -8931,7 +8931,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1397
 msgid "Ignore the leaflets"
-msgstr ""
+msgstr "Ігнорувати листівки"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1977
 msgid "Ignore the memos"
@@ -9078,11 +9078,11 @@ msgstr "Залізо"
 
 #: src/utils/translations.tsx:250
 msgid "Iron Pickaxe"
-msgstr ""
+msgstr "Залізне кайло"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2323
 msgid "Is that smoke?"
-msgstr ""
+msgstr "Щось димить?"
 
 #: src/components/_user/auth/WelcomeModal.tsx:283
 msgid "Issued"
@@ -9213,7 +9213,7 @@ msgstr "Танк стрибунця"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:143
 msgid "Jinx"
-msgstr "Чорна кішка"
+msgstr "Ходяча невдача"
 
 #: src/pages/companies.tsx:67
 msgid "Job"
@@ -9318,7 +9318,7 @@ msgstr "Ще один… що може піти не так?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2980
 msgid "Karaoke night"
-msgstr ""
+msgstr "Ніч в караоке"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:63
 msgid "Keep chasing that Mythic"
@@ -9334,7 +9334,7 @@ msgstr "Продовжуйте битися!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:618
 msgid "Keep it for the company"
-msgstr ""
+msgstr "Залишити його на користь фабрики"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3522
 msgid "Keep the posters"
@@ -9366,15 +9366,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3451
 msgid "Kevin"
-msgstr ""
+msgstr "Кевін"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3895
 msgid "Kevin has grown"
-msgstr ""
+msgstr "Кевін виріс"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3907
 msgid "Kevin is back to a reasonable size, and the whole workshop smells of leaves."
-msgstr ""
+msgstr "Кевін зменшився до прийнятних розмірів, а уся майстерня пахне свіжим листям."
 
 #: src/components/_military/mu/MuMemberList.tsx:428
 #: src/components/_political/election/Election.tsx:291
@@ -9400,7 +9400,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2025
 msgid "Kittens"
-msgstr ""
+msgstr "Кошенята"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
@@ -9455,11 +9455,11 @@ msgstr "Останнє використання:"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:159
 msgid "Last works"
-msgstr ""
+msgstr "Остання робота"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:121
 msgid "Late Bloomer"
-msgstr ""
+msgstr "Пізня пташка"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:309
 msgid "Later"
@@ -9523,7 +9523,7 @@ msgstr "Лідерство"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2519
 msgid "Leaflets from the sky"
-msgstr ""
+msgstr "Листівки з неба"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
@@ -9647,7 +9647,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3917
 msgid "Let Kevin grow"
-msgstr ""
+msgstr "Дати Кевіну рости"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1012
 msgid "Let the deadline pass"
@@ -9671,7 +9671,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:625
 msgid "Let them keep it"
-msgstr ""
+msgstr "Дозволити забрати його"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:893
 msgid "Let them sort it out"
@@ -9911,7 +9911,7 @@ msgstr "Назавжди зменшує їх зарплату."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:135
 msgid "Loyal"
-msgstr "Лояльний"
+msgstr "Відданий"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:101
 msgid "Lt. Colonel"
@@ -9924,7 +9924,7 @@ msgstr "Генерал-лейтенант"
 #: src/components/_economy/employee/employee.frontConfig.tsx:151
 #: src/components/_economy/employee/employeeStats.tsx:393
 msgid "Luck"
-msgstr ""
+msgstr "Удача"
 
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:128
 msgid "Luck found {count} toolboxes. Click to claim them."
@@ -9940,7 +9940,7 @@ msgstr "Нарешті удача на правильному боці"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:142
 msgid "Lucky Charm"
-msgstr ""
+msgstr "Талісман"
 
 #: src/components/_military/mu/MuTooltip.tsx:79
 msgid "Lvl"
@@ -9994,7 +9994,7 @@ msgstr ""
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:489
 #: src/pages/company/[companyId]/index.tsx:57
 msgid "Manager"
-msgstr ""
+msgstr "Менеджер"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2201
 msgid "Manager hired"
@@ -10236,12 +10236,12 @@ msgstr "Членство призупинено"
 
 #: src/components/_user/user/UserBadges.tsx:107
 msgid "Memorandum"
-msgstr ""
+msgstr "Меморандум"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:498
 #: src/components/_economy/employee/employee.frontConfig.tsx:526
 msgid "Men only."
-msgstr ""
+msgstr "Лише чоловіки."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2367
 msgid "Mentioned in message"
@@ -10249,7 +10249,7 @@ msgstr "Згадано у повідомленні"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:95
 msgid "Mentor"
-msgstr "Ментор"
+msgstr "Наставник"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:60
 msgid "Mentoring"
@@ -10495,7 +10495,7 @@ msgstr "Мізогініст"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:68
 msgid "Missing <0>{missing}</0> to produce"
-msgstr ""
+msgstr "Для виробництва не вистачає ще <0>{missing}</0>"
 
 #: src/components/_layout/LayoutOptions.tsx:219
 msgid "Mission tags"
@@ -11119,7 +11119,7 @@ msgstr "Наступний рівень {currentTier}"
 #. placeholder {0}: nextToTrain.count
 #: src/components/_economy/employee/EmployeeModal.tsx:423
 msgid "Next to train ({0} left)"
-msgstr ""
+msgstr "Наступний (ще {0})"
 
 #. placeholder {0}: tutoChapterMeta[nextChapter].label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:338
@@ -11245,11 +11245,11 @@ msgstr ""
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
-msgstr ""
+msgstr "Без ефектів"
 
 #: src/components/_economy/employee/EmployeeList.tsx:351
 msgid "No employees"
-msgstr ""
+msgstr "Без працівників"
 
 #: src/components/_economy/inventory/Inventory.tsx:527
 msgid "No gloves"
@@ -11257,7 +11257,7 @@ msgstr ""
 
 #: src/components/_political/govType/govType.frontConfig.tsx:41
 msgid "No government type chosen yet"
-msgstr ""
+msgstr "Форма правління ще не вибрана"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1182
 msgid "No grapes"
@@ -11303,7 +11303,7 @@ msgstr "Без ліміту"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:452
 msgid "No longer <0/>"
-msgstr ""
+msgstr "Більше не <0/>"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:78
 msgid "No longer on the roster."
@@ -11500,7 +11500,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2048
 msgid "Nobody takes one. Five kittens now live in the storeroom."
-msgstr ""
+msgstr "Ніхто не взяв малюток. П'ять кошенят тепер живуть на складі."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3436
 msgid "Nobody wants the ducks. They melt down into scrap."
@@ -11600,11 +11600,11 @@ msgstr "Не розпочато"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:213
 msgid "not usable in this company"
-msgstr ""
+msgstr "не можна використати на цій фабриці"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:230
 msgid "Not usable in this company"
-msgstr ""
+msgstr "Не можна використати на цій фабриці"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
@@ -11715,7 +11715,7 @@ msgstr "Ну добре, гідно"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Old Friends"
-msgstr "Старі друзі"
+msgstr "Давні друзі"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
@@ -12341,7 +12341,7 @@ msgstr "Старший сержант"
 
 #: src/utils/translations.tsx:280
 msgid "Philosopher's Flask"
-msgstr ""
+msgstr "Колба філософа"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:60
 msgid "Phone number verified!"
@@ -12396,7 +12396,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:404
 msgid "Pick one card, the other is lost."
-msgstr ""
+msgstr "Виберіть одну карту, інші будуть втрачені."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:478
 #: src/components/_other/tour/tuto.frontConfig.tsx:507
@@ -12409,7 +12409,7 @@ msgstr ""
 
 #: src/utils/translations.tsx:248
 msgid "Pickaxe"
-msgstr ""
+msgstr "Кайло"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:169
 msgid "Picked for you if you do not answer in time."
@@ -12494,7 +12494,7 @@ msgstr ""
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3318
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3702
 msgid "Politely decline"
-msgstr ""
+msgstr "Ввічливо відмовитись"
 
 #: src/components/_layout/map.frontConfig.tsx:32
 msgid "Political"
@@ -12562,7 +12562,7 @@ msgstr "Опублікувати оголошення"
 
 #: src/components/_economy/employee/employeeCards.tsx:235
 msgid "Potential"
-msgstr ""
+msgstr "Потенціал"
 
 #: src/components/_user/user/skills.frontConfig.tsx:154
 #: src/components/_user/user/skills.frontConfig.tsx:155
@@ -12916,7 +12916,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3904
 msgid "Prune Kevin"
-msgstr ""
+msgstr "Обрізати Кевіна"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3105
 msgid "Pry the doors open"
@@ -12964,11 +12964,11 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:187
 msgid "Question"
-msgstr ""
+msgstr "Питання"
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:528
 msgid "Quick animation"
-msgstr ""
+msgstr "Швидка анімація"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:47
 #: src/components/_economy/inventory/DismantleModal.tsx:331
@@ -13626,11 +13626,11 @@ msgstr "Потрібне громадянство"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:134
 msgid "Requirements"
-msgstr ""
+msgstr "Вимоги"
 
 #: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
-msgstr ""
+msgstr "Перегенерувати"
 
 #: src/components/_user/mission/MissionItem.tsx:115
 msgid "Reroll Mission"
@@ -13742,7 +13742,7 @@ msgstr "Відповідь на повідомлення"
 #: src/components/_economy/employee/employee.frontConfig.tsx:139
 #: src/components/_economy/employee/employeeStats.tsx:453
 msgid "Responsibility"
-msgstr ""
+msgstr "Відповідальність"
 
 #: src/components/_economy/employee/employeeStats.tsx:791
 msgid "Responsibility shielded"
@@ -13863,7 +13863,7 @@ msgstr ""
 
 #: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
-msgstr ""
+msgstr "Список"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:198
 msgid "Round"
@@ -14326,7 +14326,7 @@ msgstr "Сіяння"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:648
 msgid "Shoo it away"
-msgstr ""
+msgstr "Прогнати його"
 
 #: src/components/_layout/LayoutRightIcons.tsx:195
 #: src/components/_layout/MoreButtonNav.tsx:70
@@ -14587,7 +14587,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:609
 msgid "Something in the storeroom"
-msgstr ""
+msgstr "Щось на складі"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:254
 msgid "Something snapped. The tool is worse off than before."
@@ -14599,11 +14599,11 @@ msgstr "Звукові ефекти"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1835
 msgid "Soup is a drink"
-msgstr ""
+msgstr "Суп це напій"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1842
 msgid "Soup is food"
-msgstr ""
+msgstr "Суп це їжа"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:109
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
@@ -14653,7 +14653,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:116
 msgid "Sprinter"
-msgstr ""
+msgstr "Спринтер"
 
 #: src/components/_political/country/CountryHeader.tsx:276
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
@@ -14794,7 +14794,7 @@ msgstr "Статус"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3779
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3858
 msgid "Stay out of it"
-msgstr ""
+msgstr "Залишитись осторонь"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:63
 msgid "Staying or leaving"
@@ -14814,7 +14814,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:113
 msgid "Stockpiler"
-msgstr ""
+msgstr "Запасливий"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
@@ -15059,7 +15059,7 @@ msgstr "Натисніть на битву, щоб перейти до неї."
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:453
 msgid "Tap a card to look at it."
-msgstr ""
+msgstr "Натисніть на карту, щоб оглянути її."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:546
 msgid "Tap any region on the map to open its menu."
@@ -15141,7 +15141,7 @@ msgstr "Тип податку"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:128
 msgid "Tax-shy"
-msgstr ""
+msgstr "Тіньовик"
 
 #: src/pages/country/[countryId]/account.tsx:37
 msgid "Taxes"
@@ -15464,7 +15464,7 @@ msgstr "Форма правління цієї держави забороняє
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1830
 msgid "The great soup debate"
-msgstr ""
+msgstr "Велика супова суперечка"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3758
 msgid "The haircut"
@@ -15525,11 +15525,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3037
 msgid "The ladders"
-msgstr ""
+msgstr "Драбини"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2533
 msgid "The leaflets are too damp to burn. It is a sad little bonfire."
-msgstr ""
+msgstr "Листівки надто вологі, щоб горіти. Слабенький вогник сумно потріскує."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:915
 msgid "The lessons do not take."
@@ -15541,7 +15541,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2197
 msgid "The lost letter"
-msgstr ""
+msgstr "Втрачений лист"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1381
 msgid "The lunch debates are the best show in town."
@@ -15549,7 +15549,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3826
 msgid "The lunch thief"
-msgstr ""
+msgstr "Крадій перекусів"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2657
 msgid "The machine now smells of old tuna. Nobody else is pleased."
@@ -15683,7 +15683,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2738
 msgid "The shortcut"
-msgstr ""
+msgstr "Короткий шлях"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1864
 msgid "The silence continues. It is very loud."
@@ -15816,7 +15816,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:644
 msgid "The workshop has a cat now, and everyone is in a better mood."
-msgstr ""
+msgstr "Відтепер у майстерні живе кіт, у всіх покращився настрій."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3920
 msgid "The workshop is a jungle now. Everyone loves it, and nobody can find the stapler."
@@ -15828,7 +15828,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:197
 msgid "Their Luck"
-msgstr ""
+msgstr "Їх удача"
 
 #: src/components/_economy/employee/employeeStats.tsx:241
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one point per hour, before bonuses."
@@ -16220,7 +16220,7 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
 msgid "Tool"
-msgstr ""
+msgstr "Інструмент"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:465
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:681
@@ -16265,7 +16265,7 @@ msgstr "Інструменти"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:216
 msgid "Tools give a boost to <0>Production</0>. They come out of <1>Toolboxes</1>, found by your employees' Luck."
-msgstr ""
+msgstr "Інструменти збільшують <0>Виробництво</0>. Їх можна отримати з <1>Ящиків</1>, які знаходять працівники завдяки своїй удачі."
 
 #: src/components/_social/ArticleList.tsx:218
 msgid "Top"
@@ -16582,7 +16582,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3290
 msgid "Try it"
-msgstr ""
+msgstr "Спробувати його"
 
 #: src/pages/user/[userId]/settings.tsx:137
 msgid "Tutorials"
@@ -17464,7 +17464,7 @@ msgstr "Капелюх чаклуна"
 #: src/components/_economy/employee/employee.frontConfig.tsx:484
 #: src/components/_economy/employee/employee.frontConfig.tsx:512
 msgid "Women only."
-msgstr ""
+msgstr "Лише жінки."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
@@ -17559,7 +17559,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:122
 msgid "Worn Out"
-msgstr ""
+msgstr "Виснажений"
 
 #: src/components/_layout/LayoutOptions.tsx:287
 #: src/components/_user/kits/KitsPopover.tsx:263
