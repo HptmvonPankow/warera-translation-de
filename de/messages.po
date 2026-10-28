@@ -4832,23 +4832,23 @@ msgstr "Werde Unterstützer, um bis zu {premiumMaxPresets} Fähigkeitsprofile zu
 
 #: src/components/_user/mission/mission.frontConfig.tsx:696
 msgid "Become the manager of another player's company"
-msgstr ""
+msgstr "Manager im Unternehmen eines anderen Spielers werden"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:245
 msgid "Before tax: buyers add their own tax on top."
-msgstr ""
+msgstr "Vor Steuern: Käufer zahlen ihre eigene Steuer zusätzlich."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1218
 msgid "Behind a false panel: a wooden case, and a toolbox nobody will admit to."
-msgstr ""
+msgstr "Hinter einer falschen Verkleidung: eine Holzkiste und eine Werkzeugkiste, von der niemand etwas wissen will."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3831
 msgid "Believe {name}"
-msgstr ""
+msgstr "{name} glauben"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3838
 msgid "Believe {partnerName}"
-msgstr ""
+msgstr "{partnerName} glauben"
 
 #: src/components/_economy/manager/managerStats.tsx:68
 #: src/components/_layout/LayoutOptions.tsx:275
@@ -4858,7 +4858,7 @@ msgstr "Beste"
 
 #: src/components/_economy/manager/ManagerBestOfferLine.tsx:37
 msgid "Best position for you"
-msgstr ""
+msgstr "Beste Position für dich"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -4868,11 +4868,11 @@ msgstr "Besser als nichts, oder?"
 #. placeholder {1}: range.max
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:80
 msgid "Between {0} and {1}"
-msgstr ""
+msgstr "Zwischen {0} und {1}"
 
 #: src/components/_social/poll/PollEditorModal.tsx:278
 msgid "Between 1 and {maxMinLevel}"
-msgstr ""
+msgstr "Zwischen 1 und {maxMinLevel}"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:296
 msgid "Bid"
@@ -4880,11 +4880,11 @@ msgstr "Bieten"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:47
 msgid "Big peaceful population"
-msgstr ""
+msgstr "Große friedliche Bevölkerung"
 
 #: src/components/_political/region/RegionHeader.tsx:146
 msgid "Biome"
-msgstr ""
+msgstr "Biom"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
@@ -4892,7 +4892,7 @@ msgstr "Geburtstagshut zum 1. Beta-Jahr"
 
 #: src/utils/translations.tsx:268
 msgid "Blacksmith's Hammer"
-msgstr ""
+msgstr "Schmiedehammer"
 
 #: src/components/_user/user/UserDropdown.tsx:330
 msgid "Block (hide content)"
@@ -4913,7 +4913,7 @@ msgstr "Bonusschaden"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:265
 msgid "Boost your Energy!"
-msgstr ""
+msgstr "Steigere deine Energie!"
 
 #: src/components/_economy/inventory/Inventory.tsx:502
 #: src/components/_user/UserEquipments.tsx:288
@@ -4923,23 +4923,23 @@ msgstr "Stiefel"
 
 #: src/pages/country/[countryId]/citizenship.tsx:60
 msgid "Borders are open after a revolution, every application is accepted for <0/>"
-msgstr ""
+msgstr "Nach einer Revolution sind die Grenzen offen; jeder Antrag wird für <0/> angenommen."
 
 #: src/pages/country/[countryId]/citizenship.tsx:54
 msgid "Borders are open: this country was just created, every application is accepted for <0/>"
-msgstr ""
+msgstr "Die Grenzen sind offen: Dieses Land wurde gerade gegründet; jeder Antrag wird für <0/> angenommen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:333
 msgid "Both"
-msgstr ""
+msgstr "Beide"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:446
 msgid "Both become <0/>"
-msgstr ""
+msgstr "Beide werden zu <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3739
 msgid "Both of them turn the fake dial all day, and both are perfectly comfortable."
-msgstr ""
+msgstr "Beide drehen den falschen Regler den ganzen Tag und fühlen sich dabei pudelwohl."
 
 #: src/components/_military/battle/LootSummaryCard.tsx:121
 msgid "Bounty"
@@ -4952,7 +4952,7 @@ msgstr "Kopfgeld-Abklingzeit"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:117
 msgid "Bounty earned"
-msgstr ""
+msgstr "Verdientes Kopfgeld"
 
 #: src/components/_military/battle/BattleSystem.tsx:940
 msgid "Bounty will be available in"
@@ -4960,7 +4960,7 @@ msgstr "Kopfgeld verfügbar in"
 
 #: src/utils/translations.tsx:286
 msgid "Brass Caliper"
-msgstr ""
+msgstr "Messschieber aus Messing"
 
 #: src/utils/translations.tsx:31
 msgid "Bread"
@@ -4982,7 +4982,7 @@ msgstr "Brich den Verteidigungspakt mit <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:947
 msgid "Break the promise"
-msgstr ""
+msgstr "Das Versprechen brechen"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:111
 msgid "Brigadier"
@@ -4990,20 +4990,20 @@ msgstr "Brigadegeneral"
 
 #: src/components/_user/user/UserBadges.tsx:124
 msgid "Bro won last tournament."
-msgstr ""
+msgstr "Bro hat das letzte Turnier gewonnen."
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:207
 msgid "broken"
-msgstr ""
+msgstr "kaputt"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:380
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
-msgstr ""
+msgstr "Kaputt"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:228
 msgid "Broken: no longer boosts Production"
-msgstr ""
+msgstr "Kaputt: steigert die Produktion nicht mehr"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:216
 msgid "Browse Packs"
@@ -5020,7 +5020,7 @@ msgstr "Buff beendet"
 #: src/components/_user/user/UserHeader.tsx:334
 #: src/components/_user/user/UserTooltip.tsx:138
 msgid "Buff ends"
-msgstr ""
+msgstr "Verstärkung endet"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2357
 msgid "Buff expiring soon"
@@ -5049,7 +5049,7 @@ msgstr "Militäreinheit gründen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:485
 msgid "Build a second company!"
-msgstr ""
+msgstr "Gründe ein zweites Unternehmen!"
 
 #: src/components/_military/mu/MuFormModal.tsx:134
 msgid "Build the military unit"
@@ -5057,11 +5057,11 @@ msgstr "Die Militäreinheit gründen"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:109
 msgid "Bulk dismantle"
-msgstr ""
+msgstr "Mehrere Gegenstände zerlegen"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:97
 msgid "Bully"
-msgstr ""
+msgstr "Schikanierer"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "Bunker"
@@ -5069,15 +5069,15 @@ msgstr "Bunker"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3402
 msgid "Burn the box"
-msgstr ""
+msgstr "Die Kiste verbrennen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2528
 msgid "Burn them all"
-msgstr ""
+msgstr "Alles verbrennen"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:118
 msgid "Burnout"
-msgstr ""
+msgstr "Erschöpfung"
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:51
 msgid "Buy"
@@ -5085,7 +5085,7 @@ msgstr "Kaufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3772
 msgid "Buy {name} a hat"
-msgstr ""
+msgstr "{name} einen Hut kaufen"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:71
 msgid "Buy <0/>"
@@ -5098,19 +5098,19 @@ msgstr "<0/> von <1/> für <2>{0}</2> kaufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1549
 msgid "Buy a new one"
-msgstr ""
+msgstr "Ein neues kaufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3482
 msgid "Buy a real Kevin"
-msgstr ""
+msgstr "Einen echten Kevin kaufen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:251
 msgid "Buy for <0/> money on market"
-msgstr ""
+msgstr "Für <0/> Geld auf dem Markt kaufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2412
 msgid "Buy in"
-msgstr ""
+msgstr "Einkaufen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:249
 msgid "Buy Items"
@@ -5118,7 +5118,7 @@ msgstr "Gegenstände kaufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3386
 msgid "Buy more chairs"
-msgstr ""
+msgstr "Mehr Stühle kaufen"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:151
@@ -5127,15 +5127,15 @@ msgstr "Kaufaufträge"
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:46
 msgid "Buy this item for {total}?"
-msgstr ""
+msgstr "Diesen Gegenstand für {total} kaufen?"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:407
 msgid "Buyers from your country see <0>{buyerTotal}</0>"
-msgstr ""
+msgstr "Käufer aus deinem Land sehen <0>{buyerTotal}</0>"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:296
 msgid "By Company"
-msgstr ""
+msgstr "Nach Unternehmen"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:408
 msgid "By continuing, you agree to our <0>Terms of Service</0>."
@@ -5143,7 +5143,7 @@ msgstr "Indem du fortfährst, stimmst du unseren <0>Nutzungsbedingungen</0> zu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:246
 msgid "By morning the tool is as good as new."
-msgstr ""
+msgstr "Am Morgen ist das Werkzeug wie neu."
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:164
 msgid "By side"
@@ -5159,31 +5159,31 @@ msgstr "Kadett"
 
 #: src/utils/translations.tsx:284
 msgid "Caliper"
-msgstr ""
+msgstr "Messschieber"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3804
 msgid "Call a ceasefire"
-msgstr ""
+msgstr "Einen Waffenstillstand ausrufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3046
 msgid "Call a fortune teller"
-msgstr ""
+msgstr "Eine Wahrsagerin rufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3150
 msgid "Call a technician"
-msgstr ""
+msgstr "Einen Techniker rufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1583
 msgid "Call an exorcist"
-msgstr ""
+msgstr "Einen Exorzisten rufen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2159
 msgid "Call the bluff"
-msgstr ""
+msgstr "Den Bluff durchschauen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3691
 msgid "Call the firefighters"
-msgstr ""
+msgstr "Die Feuerwehr rufen"
 
 #: src/components/_political/election/CandidateFormModal.tsx:67
 msgid "Campaign Article Link (optional)"
@@ -5194,23 +5194,23 @@ msgstr "Link zum Wahlkampfartikel (optional)"
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:528
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:530
 msgid "Can happen to anyone."
-msgstr ""
+msgstr "Das kann jedem passieren."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:453
 msgid "Can't have a sworn enemy"
-msgstr ""
+msgstr "Kann keinen Erzfeind haben"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:447
 msgid "Can't join an alliance"
-msgstr ""
+msgstr "Kann keiner Allianz beitreten"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:459
 msgid "Can't send money to other countries"
-msgstr ""
+msgstr "Kann kein Geld an andere Länder senden"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:450
 msgid "Can't sign defensive pacts"
-msgstr ""
+msgstr "Kann keine Verteidigungspakte schließen"
 
 #: src/components/_military/order/BattleOrderList.tsx:210
 #: src/components/_political/election/CandidateFormModal.tsx:79
@@ -5265,19 +5265,19 @@ msgstr "Kandidat"
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
-msgstr ""
+msgstr "Kandidaten"
 
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
-msgstr ""
+msgstr "Hauptstadt"
 
 #: src/components/_political/region/RegionHeader.tsx:138
 msgid "Capital of"
-msgstr ""
+msgstr "Hauptstadt von"
 
 #: src/components/_economy/employee/employeeStats.tsx:363
 msgid "Capped at {cappedPct}%"
-msgstr ""
+msgstr "Auf {cappedPct} % begrenzt"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:91
 msgid "Captain"
@@ -5301,20 +5301,20 @@ msgstr "CAPTCHA-Überprüfung Zeitüberschreitung. Zurücksetzen..."
 
 #: src/components/_user/user/EcoSkillEffects.tsx:122
 msgid "Card odds: <0/>"
-msgstr ""
+msgstr "Kartenwahrscheinlichkeit: <0/>"
 
 #: src/components/_economy/employee/TrainingCardList.tsx:139
 msgid "Cards"
-msgstr ""
+msgstr "Karten"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:67
 msgid "Care"
-msgstr ""
+msgstr "Fürsorge"
 
 #: src/components/_economy/employee/employeeStats.tsx:744
 #: src/components/_economy/employee/employeeStats.tsx:891
 msgid "Cared for by manager"
-msgstr ""
+msgstr "Vom Manager betreut"
 
 #: src/utils/translations.tsx:110
 msgid "Case"
@@ -5322,15 +5322,15 @@ msgstr "Kiste"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:105
 msgid "Cases opened"
-msgstr ""
+msgstr "Geöffnete Fälle"
 
 #: src/utils/translations.tsx:259
 msgid "Cast Iron Skillet"
-msgstr ""
+msgstr "Gusseiserne Pfanne"
 
 #: src/utils/translations.tsx:279
 msgid "Catalyst Flask"
-msgstr ""
+msgstr "Katalysatorfläschchen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
@@ -5342,7 +5342,7 @@ msgstr "Höhlenbären-Kopfschmuck"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:201
 msgid "Certain"
-msgstr ""
+msgstr "Sicher"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:116
 msgid "Chance"
