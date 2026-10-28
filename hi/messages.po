@@ -3991,7 +3991,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "सभी देश"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -5309,7 +5309,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:67
 msgid "Care"
-msgstr ""
+msgstr "देखभाल"
 
 #: src/components/_economy/employee/employeeStats.tsx:705
 #: src/components/_economy/employee/employeeStats.tsx:852
@@ -6362,7 +6362,7 @@ msgstr "वेतन घटाएँ"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:75
 msgid "Cut your manager's pay?"
-msgstr ""
+msgstr "क्या आप अपने प्रबंधक का वेतन घटाना चाहते हैं?"
 
 #: src/components/_common/GameRules.tsx:256
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
@@ -6392,7 +6392,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:514
 msgid "Daily pay"
-msgstr ""
+msgstr "दैनिक वेतन"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:135
 msgid "Daily production"
@@ -6712,7 +6712,7 @@ msgstr "विवरण"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:180
 msgid "Description (Optional)"
-msgstr ""
+msgstr "विवरण (वैकल्पिक)"
 
 #: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
@@ -7131,7 +7131,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferDropdown.tsx:40
 msgid "Edit position"
-msgstr ""
+msgstr "पद संपादित करें"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:95
 msgid "Edit resistance focus"
@@ -7139,7 +7139,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:129
 msgid "Edit the position"
-msgstr ""
+msgstr "पद संपादित करें"
 
 #: src/components/_military/battle/SetOrderFormModal.tsx:422
 msgid "Editing an existing order"
@@ -7224,7 +7224,7 @@ msgstr ""
 
 #: src/components/_economy/manager/manager.hooks.ts:189
 msgid "Employee cared for"
-msgstr ""
+msgstr "कर्मचारी की देखभाल की गई"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:150
 #: src/components/_user/notification/notification.frontConfig.tsx:2207
@@ -8857,7 +8857,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:508
 msgid "Hourly pay"
-msgstr ""
+msgstr "प्रति घंटा वेतन"
 
 #: src/components/_social/PinArticleModal.tsx:82
 msgid "Hours"
@@ -8890,7 +8890,7 @@ msgstr "सुना है प्रीमियम खरीदने से �
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:127
 msgid "I qualify"
-msgstr ""
+msgstr "मैं पात्र हूँ"
 
 #: src/components/_common/GameRules.tsx:293
 msgid "i. Promotion of other games, products, or services"
@@ -9557,7 +9557,7 @@ msgstr "कांग्रेस छोड़ें"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:166
 msgid "Leave empty for no requirement"
-msgstr ""
+msgstr "कोई आवश्यकता न होने पर खाली छोड़ें"
 
 #: src/pages/country/[countryId]/government.tsx:94
 #: src/pages/country/[countryId]/government.tsx:99
@@ -10006,7 +10006,7 @@ msgstr ""
 
 #: src/components/_economy/manager/manager.hooks.ts:151
 msgid "Manager moved"
-msgstr ""
+msgstr "प्रबंधक को स्थानांतरित कर दिया गया"
 
 #: src/pages/market/jobs.tsx:26
 msgid "Manager positions"
@@ -10026,11 +10026,11 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:161
 msgid "Manager Tax"
-msgstr ""
+msgstr "प्रबंधक के वेतन पर कर"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:378
 msgid "Manager wanted"
-msgstr ""
+msgstr "प्रबंधक की आवश्यकता है"
 
 #: src/components/_layout/LoadingScreenContent.tsx:26
 msgid "map"
@@ -10468,7 +10468,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:165
 msgid "Minimum Management"
-msgstr ""
+msgstr "न्यूनतम प्रबंधन स्तर"
 
 #: src/components/_political/government/Government.tsx:110
 #: src/components/_political/government/GovernmentScroll.tsx:54
@@ -10695,7 +10695,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:269
 msgid "Move manager"
-msgstr ""
+msgstr "प्रबंधक को स्थानांतरित करें"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:108
 msgid "Move the company"
@@ -10715,7 +10715,7 @@ msgstr "शीर्ष पर ले जाएँ"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:192
 msgid "Move your manager?"
-msgstr ""
+msgstr "क्या आप अपने प्रबंधक को स्थानांतरित करना चाहते हैं?"
 
 #: src/components/_economy/employee/employeeStats.tsx:702
 msgid "Moved recently"
@@ -10905,7 +10905,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:196
 msgid "Needs Management"
-msgstr ""
+msgstr "प्रबंधन स्तर आवश्यक है"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:46
 msgid "Negative mercenary reputation"
@@ -11483,7 +11483,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:210
 msgid "Nobody manages this company yet"
-msgstr ""
+msgstr "इस कंपनी का अभी तक कोई प्रबंधक नहीं है"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:431
 msgid "Nobody sells a similar one yet. The price starts at the estimated value."
@@ -12217,7 +12217,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:88
 msgid "Paused: nobody manages here"
-msgstr ""
+msgstr "रुका हुआ है: यहाँ कोई प्रबंधक नहीं है"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:118
 msgid "Paused: nobody produces here"
@@ -12225,12 +12225,12 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:149
 msgid "Pay"
-msgstr ""
+msgstr "वेतन"
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:39
 #: src/components/_user/notification/notification.frontConfig.tsx:2205
 msgid "Pay cut"
-msgstr ""
+msgstr "वेतन में कटौती"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:228
 msgid "pay cut pending"
@@ -12263,7 +12263,7 @@ msgstr ""
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:152
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:120
 msgid "Pay per Management point"
-msgstr ""
+msgstr "प्रबंधन के प्रत्येक अंक के लिए वेतन"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2204
 msgid "Pay raised"
@@ -12308,7 +12308,7 @@ msgstr ""
 
 #: src/components/_economy/manager/managerStats.tsx:54
 msgid "Per hour, per Management point"
-msgstr ""
+msgstr "प्रबंधन के प्रत्येक अंक के लिए प्रति घंटा वेतन"
 
 #: src/components/_economy/manager/managerStats.tsx:57
 msgid "Per hour. Allowed"
@@ -12544,11 +12544,11 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 msgid "Post"
-msgstr ""
+msgstr "प्रकाशित करें"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:129
 msgid "Post a manager position"
-msgstr ""
+msgstr "प्रबंधक का पद प्रकाशित करें"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:21
 #: src/components/_social/announcement/AnnouncementList.tsx:48
@@ -13505,7 +13505,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferDropdown.tsx:46
 msgid "Remove position"
-msgstr ""
+msgstr "पद हटाएँ"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:59
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:62
@@ -13617,11 +13617,11 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:170
 msgid "Required citizenship"
-msgstr ""
+msgstr "आवश्यक नागरिकता"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:134
 msgid "Requirements"
-msgstr ""
+msgstr "आवश्यकताएँ"
 
 #: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
@@ -14962,7 +14962,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:231
 msgid "Swap your managers?"
-msgstr ""
+msgstr "क्या आप अपने प्रबंधकों की अदला-बदली करना चाहते हैं?"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:101
 msgid "Sweethearts"
@@ -15004,7 +15004,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:76
 msgid "Take care of an employee"
-msgstr ""
+msgstr "किसी कर्मचारी की देखभाल करें"
 
 #: src/pages/country/[countryId]/index.tsx:123
 #: src/pages/country/[countryId]/index.tsx:147
@@ -15026,7 +15026,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:94
 msgid "Take this position?"
-msgstr ""
+msgstr "क्या आप यह पद स्वीकार करना चाहते हैं?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1751
 msgid "Take your kid to work"
@@ -15034,7 +15034,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:90
 msgid "Taken: a swap is the only way in"
-msgstr ""
+msgstr "यह पद भरा हुआ है: इसे पाने का एकमात्र तरीका प्रबंधकों की अदला-बदली है"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:117
 msgid "Taking another position will make you leave this one!"
@@ -15674,7 +15674,7 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:92
 msgid "The seat is free"
-msgstr ""
+msgstr "पद खाली है"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2738
 msgid "The shortcut"
@@ -15851,7 +15851,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:270
 msgid "They keep what they earned."
-msgstr ""
+msgstr "वे अपनी कमाई अपने पास रखते हैं।"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3766
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
@@ -15927,7 +15927,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:121
 msgid "This company has no employees"
-msgstr ""
+msgstr "इस कंपनी में कोई कर्मचारी नहीं है"
 
 #: src/components/_economy/employee/EmployeeList.tsx:202
 msgid "This company is disabled and earns nothing. Once re-enabled, a day of its production would be worth this much at the market value of a point, minus the day's whole payroll, employees and manager."
@@ -18196,7 +18196,7 @@ msgstr "आपका वर्तमान आदेश"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:97
 msgid "Your current position"
-msgstr ""
+msgstr "आपका वर्तमान पद"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1897
 msgid "Your daily missions have been reset! Complete them to earn rewards."
