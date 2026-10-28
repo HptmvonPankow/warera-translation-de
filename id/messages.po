@@ -19,23 +19,23 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr " a. Jual beli perlengkapan"
 
 #: src/components/_common/GameRules.tsx:101
 msgid "  b. Working for each other"
-msgstr ""
+msgstr " b. Saling bekerja sama"
 
 #: src/components/_common/GameRules.tsx:173
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr " - Menyalurkan asset tanpa pertukaran yang sah"
 
 #: src/components/_common/GameRules.tsx:171
 msgid " - Gear merging schemes *"
-msgstr ""
+msgstr " - Skema penggabungan perlengkapan"
 
 #: src/components/_common/GameRules.tsx:161
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr ""
+msgstr " - Pekerja upah rendah (kurang dari 0.8x dan diatas 1.2x gaji normal)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:465
@@ -44,15 +44,15 @@ msgstr " - Alasan: {0}"
 
 #: src/components/_common/GameRules.tsx:177
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - Donasi sumber daya atau uang secara berulang ke unit militer atau negara"
 
 #: src/components/_common/GameRules.tsx:175
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - Memberikan tip pada artikel secara berulang"
 
 #: src/components/_common/GameRules.tsx:167
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - Menggunakan standar diluar harga pasar atau memanipulasi harga transaksi"
 
 #: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
@@ -65,61 +65,61 @@ msgstr "- Membela wilayah ini akan terkena penalti sebesar <0>{0}</0>."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "-10% dari gaji yang diharapkan"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "-20% dari gaji yang diharapkan"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "-5% dari gaji yang diharapkan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1805
 msgid "“Senior Worker” it is. It will do, for now."
-msgstr ""
+msgstr "“Pekerja Senior”, kalau begitu. Cukup untuk saat ini"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:225
 msgid "(average member development)"
-msgstr ""
+msgstr "(rata-rata perkembangan anggota)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr ""
+msgstr "(Rekan kerja)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr ""
+msgstr "(Perkembangan rata-rata anggota)"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:215
 msgid "(own development)"
-msgstr ""
+msgstr "(Perkembangan sendiri)"
 
 #. placeholder {0}: others.length
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:602
 msgid "{0, plural, one {# coworker} other {# coworkers}}"
-msgstr ""
+msgstr "{0, plural, one {# rekan kerja} other {# rekan kerja}}"
 
 #. placeholder {0}: hours / 24
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:60
 msgid "{0, plural, one {# day} other {# days}}"
-msgstr ""
+msgstr "{0, plural, one {# hari} other {# hari}}"
 
 #. placeholder {0}: data.employeeCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:451
 msgid "{0, plural, one {# employee} other {# employees}}"
-msgstr ""
+msgstr "{0, plural, one {# karyawan} other {# karyawan}}"
 
 #. placeholder {0}: data.managerCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:470
 msgid "{0, plural, one {# manager} other {# managers}}"
-msgstr ""
+msgstr "{0, plural, one {# manajer} other {# manajer}}"
 
 #. placeholder {0}: conversation.memberCount
 #: src/components/_political/chat/ChatConversationItem.tsx:201
 msgid "{0, plural, one {# member} other {# members}}"
-msgstr ""
+msgstr "{0, plural, one {# anggota} other {# anggota}}"
 
 #. placeholder {0}: proposition.skinItems.length
 #: src/components/_user/premium/AssetPropositionItem.tsx:298
@@ -129,33 +129,33 @@ msgstr ""
 #. placeholder {0}: poll.totalVoters
 #: src/components/_social/poll/PollCard.tsx:391
 msgid "{0, plural, one {# vote} other {# votes}}"
-msgstr ""
+msgstr "{0, plural, one {# suara} other {# suara}}"
 
 #. placeholder {0}: giveaway.winnersQuantity ?? 0
 #: src/components/_other/giveaway/GiveawayItem.tsx:31
 msgid "{0, plural, one {# winner} other {# winners}}"
-msgstr ""
+msgstr "{0, plural, one {# pemenang} other {# pemenang}}"
 
 #. placeholder {0}: totalBattles - maxBattles
 #: src/components/_layout/LayoutBattles.tsx:139
 msgid "{0, plural, one {Battle} other {Battles}}"
-msgstr ""
+msgstr "{0, plural, one {Pertempuran} other {Pertempuran}}"
 
 #. placeholder {0}: Math.max(rows.length, 1)
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:266
 msgid "{0, plural, one {Put on sale} other {Put # items on sale}}"
-msgstr ""
+msgstr "{0, plural, one {Jual} other {Jual # item}}"
 
 #. placeholder {0}: estimate.notOwnedCount
 #: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "{0, plural, one {Unlock # skin} other {Unlock # skins}}"
-msgstr ""
+msgstr "{0, plural, one {Buka # skin} other {Buka # skin}}"
 
 #. placeholder {0}: damagesPercent(effects.bunkerBonusDelta)
 #. placeholder {1}: upgradeName(EUpgrade.BUNKER)
 #: src/components/_political/govType/govType.frontConfig.tsx:269
 msgid "{0} {1} bonus"
-msgstr ""
+msgstr "{0} {1} bonus"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -170,17 +170,17 @@ msgstr "Diperlukan {0} warga aktif"
 #. placeholder {0}: getTimeAgo(entry.pickedAt, 'fromNow', undefined, true, true)
 #: src/components/_economy/employee/TrainingHistory.tsx:184
 msgid "{0} ago"
-msgstr ""
+msgstr "{0} yang lalu"
 
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr ""
+msgstr "{0} bonus aliansi saat bertempur untuk sekutu"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:331
 msgid "{0} away"
-msgstr ""
+msgstr "Berjarak {0}"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:669
@@ -190,7 +190,7 @@ msgstr "{0} membeli penawaran itemmu"
 #. placeholder {0}: upgradeName(EUpgrade.BASE)
 #: src/components/_political/govType/govType.frontConfig.tsx:340
 msgid "{0} can't be activated"
-msgstr ""
+msgstr "{0} tidak dapat diaktifkan"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:127
@@ -200,22 +200,22 @@ msgstr "Cooldown {0} hari"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr ""
+msgstr "{0} pendapatan pembangunan"
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr ""
+msgstr "{0} pendapatan perkembangan dari wilayah taklukan"
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr ""
+msgstr "{0} pendapatan perkembangan dari wilayah inti"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr ""
+msgstr "{0} energi untuk pembaruan ini, sekali per akun."
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -225,7 +225,7 @@ msgstr "{0} Gratis"
 #. placeholder {0}: meta.label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:110
 msgid "{0} guide"
-msgstr ""
+msgstr "Panduan {0}"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
@@ -237,7 +237,7 @@ msgstr "{0} jam"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr ""
+msgstr "{0} sedang menunggu keputusanmu."
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -248,7 +248,7 @@ msgstr "{0} mengalahkan penawaran Anda pada ${1}/K"
 #. placeholder {0}: moneyPercent(effects.incomeTaxMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:235
 msgid "{0} payroll and manager tax income"
-msgstr ""
+msgstr "{0} pendapatan pajak gaji dan manajer"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:692
@@ -258,7 +258,7 @@ msgstr "{0} mengusulkan undang-undang baru <0/>"
 #. placeholder {0}: presetPointCost(preset.skills)
 #: src/components/_user/user/SkillPresetsModal.tsx:251
 msgid "{0} pts"
-msgstr ""
+msgstr "{0} poin"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -273,7 +273,7 @@ msgstr ""
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} Alat"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
