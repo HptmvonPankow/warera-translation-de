@@ -9,13 +9,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Yerqa\n"
+"Last-Translator: h4N\n"
 "Language: tr\n"
 "Language-Team: \n"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1219
 msgid "You find nothing but resentment."
-msgstr ""
+msgstr "Kinden başka bir şey bulamıyorsun"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
@@ -65,19 +65,19 @@ msgstr "- Bu bölgeyi savunmak <0>{0}</0> ceza alacak."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:135
 msgid "-10% on the wage they expect."
-msgstr ""
+msgstr "Bekledikleri maaşa -%10"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:136
 msgid "-20% on the wage they expect."
-msgstr ""
+msgstr "BBekledikleri maaşa -%20"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:134
 msgid "-5% on the wage they expect."
-msgstr ""
+msgstr "Bekledikleri maaşa -%5"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1804
 msgid "“Senior Worker” it is. It will do, for now."
-msgstr ""
+msgstr "“Kıdemli İşçi” diyelim bakalım. İş görür, şimdilik."
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:225
@@ -86,7 +86,7 @@ msgstr "(ortalama üye gelişimi)"
 
 #: src/components/_economy/employee/employeeStats.tsx:718
 msgid "(coworker)"
-msgstr ""
+msgstr "(iş arkadaşı)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -155,7 +155,7 @@ msgstr ""
 #. placeholder {1}: upgradeName(EUpgrade.BUNKER)
 #: src/components/_political/govType/govType.frontConfig.tsx:269
 msgid "{0} {1} bonus"
-msgstr ""
+msgstr "{0} {1} bonus"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -170,17 +170,17 @@ msgstr "{0} aktif vatandaş gerekli"
 #. placeholder {0}: getTimeAgo(entry.pickedAt, 'fromNow', undefined, true, true)
 #: src/components/_economy/employee/TrainingHistory.tsx:184
 msgid "{0} ago"
-msgstr ""
+msgstr "{0} önce"
 
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr ""
+msgstr "Bir müttefik için savaşırken {0} ittifak bonusu"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:331
 msgid "{0} away"
-msgstr ""
+msgstr "{0} uzakta"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:669
@@ -190,7 +190,7 @@ msgstr "{0} eşya teklifini satın aldı"
 #. placeholder {0}: upgradeName(EUpgrade.BASE)
 #: src/components/_political/govType/govType.frontConfig.tsx:340
 msgid "{0} can't be activated"
-msgstr ""
+msgstr "{0} aktifleştirelemiyor"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:127
@@ -200,22 +200,22 @@ msgstr "{0} gün bekleme süresi"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr ""
+msgstr "{0} gelişim geliri"
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr ""
+msgstr "Ele geçirilmiş bölgelerden {0} gelişim geliri"
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr ""
+msgstr "Ana bölgelerden {0} gelişim geliri"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr ""
+msgstr "Güncelleme için hesap başına {0} enerji"
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -225,7 +225,7 @@ msgstr "{0} Ücretsiz"
 #. placeholder {0}: meta.label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:110
 msgid "{0} guide"
-msgstr ""
+msgstr "{0} rehberi"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
@@ -237,7 +237,7 @@ msgstr "{0} saat"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr ""
+msgstr "{0} kararın için seni bekliyor."
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -248,7 +248,7 @@ msgstr "{0}, ${1}/K ile teklifinizi geçti"
 #. placeholder {0}: moneyPercent(effects.incomeTaxMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:235
 msgid "{0} payroll and manager tax income"
-msgstr ""
+msgstr "{0} maaş ödemesi ve menajer vergi geliri"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:692
@@ -258,7 +258,7 @@ msgstr "{0} yeni bir yasa önerdi <0/>"
 #. placeholder {0}: presetPointCost(preset.skills)
 #: src/components/_user/user/SkillPresetsModal.tsx:251
 msgid "{0} pts"
-msgstr ""
+msgstr "{0} puan"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -268,17 +268,17 @@ msgstr "Savaşı kazanmak için {0} tur gerekli."
 #. placeholder {0}: moneyPercent(effects.strategicResourceIncomeMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:225
 msgid "{0} strategic resource income"
-msgstr ""
+msgstr "{0} stratejik kaynak geliri"
 
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
 msgid "{0} tool"
-msgstr ""
+msgstr "{0} aleti"
 
 #. placeholder {0}: user.data?.username
 #: src/pages/user/[userId]/companies.tsx:45
 msgid "{0}'s Companies"
-msgstr "{0} Şirketleri"
+msgstr "{0}'nin Şirketleri"
 
 #. placeholder {0}: activeCompaniesCount.data ?? 0
 #. placeholder {1}: companiesLimit ?? 1
@@ -289,7 +289,7 @@ msgstr "{0}/{1} aktif"
 #. placeholder {0}: userMapLootConfig.lootChancePercent
 #: src/components/_layout/LayoutMapUserMenu.tsx:451
 msgid "{0}% base chance, plus your Luck skill"
-msgstr ""
+msgstr "%{0} temel şans, artı Şans becerin"
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
 #: src/components/_economy/company/CompanyDropdown.tsx:512
@@ -300,21 +300,21 @@ msgstr "Yatırımın %{0} kadarı"
 #. placeholder {1}: specializationBonusPercent(employee, code)
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:68
 msgid "{0}d worked: <0>{1}</0>"
-msgstr ""
+msgstr "<0>{1}</0> üzerinde {0} gün çalıştı"
 
 #. placeholder {0}: contract.unpaidHours
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:223
 msgid "{0}h unpaid"
-msgstr ""
+msgstr "{0} saattir maaş alamıyor"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:913
 msgid "{answerWithin} to answer"
-msgstr ""
+msgstr "Cevap vermek için {answerWithin}"
 
 #. placeholder {0}: states.length
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:214
 msgid "{chaptersDone} of {0} guides done"
-msgstr ""
+msgstr "{0} rehberin {chaptersDone} tanesi yapıldı"
 
 #: src/components/_user/mission/MissionsList.tsx:229
 msgid "{completedCount}/{totalCount} completed"
@@ -326,111 +326,111 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> işçi olayına cevap ver</0>} other {<2><3/> İşçi olaylarına cevap ver</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>İnşaata <1/> kez katkı sağla</0>} other {<2>İnşaata <3/> kez katkı sağla</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Direnişe <1/> kez katkı sağla</0>} other {<2>Direnişe <3/> kez katkı sağla</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> Eşya üret</0>} other {<2><3/> Eşya üret</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Haritada <1/> bölge geç</0>} other {<2>Haritada <3/> bölge geç</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> eşya parçala</0>} other {<2><3/> eşya parçala</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> Saldırıdan kaçın</0>} other {<2><3/> Saldırıdan kaçın</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> tane yiyecek ye</0>} other {<2><3/> tane yiyecek ye</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> AB üyesine yardım et</0>} other {<2><3/> AB üyesine yardım et</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Savaşlarda <1/> kez vur</0>} other {<2>Savaşlarda <3/> kez vur</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> kez kritik vuruş yap</0>} other {<2><3/> kez kritik vuruş yap</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> kez makale beğen</0>} other {<2><3/> kez makale beğen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> kez mesaj beğen</0>} other {<2><3/> kez mesaj beğen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:467
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Savaş meydanından <1/> eşya topla</0>} other {<2>Savaş meydanından <3/> eşya topla</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:322
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> tane savaşta yer al</0>} other {<2><3/> tane savaşta yer al</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:704
 msgid "{count, plural, one {<0>Produce items <1/> time</0>} other {<2>Produce items <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> kez eşya üret</0>} other {<2><3/> kez eşya üret</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:521
 msgid "{count, plural, one {<0>Read <1/> article</0>} other {<2>Read <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> adet makale oku</0>} other {<2><3/> adet makale oku</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Kendi şirketlerinde <1/> kez çalış</0>} other {<2>Kendi şirketlerinde <3/> kez çalış</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> tane mesaj gönder</0>} other {<2><3/> tane mesaj gönder</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Menajerlik yaptığın şirkette bir çalışanla <1/> kez ilgilen</0>} other {<2>Menajerlik yaptığın şirkette bir çalışanla <3/> kez ilgilen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0><1/> makaleye bahşiş ver</0>} other {<2><3/> makaleye bahşiş ver</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Çalışanlarını <1/> kez eğit</0>} other {<2>Çalışanlarını <3/> kez eğit</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Başka bir bölgeye <1/> kez seyahat et</0>} other {<2>Başka bir bölgeye <3/> kez seyahat et</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Becerilerini <1/> kez geliştir</0>} other {<2>Becerilerini <3/> kez geliştir</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Kendi şirketlerinde <1/> kez çalış</0>} other {<2>Kendi şirketlerinde <3/> kez çalış</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
-msgstr ""
+msgstr "{days, plural, one {Maaşlarının # günü} other {Maaşlarının # günü}}"
 
 #: src/components/_user/notification/NotificationList.tsx:92
 msgid "{daysAgo, plural, one {# day ago} other {# days ago}}"
-msgstr ""
+msgstr "{daysAgo, plural, one {# gün önce} other {# gün önce}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:631
 msgid "{delay} after you pick {answer} in {source}."
@@ -442,120 +442,119 @@ msgstr ""
 
 #: src/components/_economy/inventory/DismantleModal.tsx:217
 msgid "{equippedCount, plural, one {# of them is equipped} other {# of them are equipped}}"
-msgstr ""
+msgstr "{equippedCount, plural, one {# tanesi giyildi} other {# tanesi giyildi}}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:579
 msgid "{finder} and others found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} ve diğerleri alman için {toolboxes} buldu."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} alman için {toolboxes} buldu."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
 msgid "{freeMoves} free"
-msgstr ""
+msgstr "{freeMoves} ücretsiz"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr ""
+msgstr "Aynı şirketteki her {perDays} gün {gain}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
-msgstr ""
+msgstr "Aynı şirketteki her {perDays} gün {cap} sınır olmak üzere {gain}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1168
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} karışık üzümleri isteksizce kabul eder.} female {{name} karışık üzümleri isteksizce kabul eder.} other {{name} karışık üzümleri isteksizce kabul eder.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:846
 msgid "{gender, select, male {{name} and {partnerName} have been eating lunch together every day. He clearly enjoys it.} female {{name} and {partnerName} have been eating lunch together every day. She clearly enjoys it.} other {{name} and {partnerName} have been eating lunch together every day.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} ve {partnerName} her gün öğle yemeği yiyorlar. Belli ki o bundan keyif alıyor.} female {{name} ve {partnerName} her gün öğle yemeği yiyorlar. Belli ki o bundan keyif alıyor.} other {{name} ve {partnerName} her gün öğle yemeği yiyorlar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1257
 msgid "{gender, select, male {{name} apologizes harder.} female {{name} apologizes harder.} other {{name} apologizes harder.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} çok özür diler.} female {{name} çok özür diler.} other {{name} çok özür diler.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1290
 msgid "{gender, select, male {{name} apologizes until the end of the shift.} female {{name} apologizes until the end of the shift.} other {{name} apologizes until the end of the shift.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mesai sonuna kadar özür diler.} female {{name} mesai sonuna kadar özür diler.} other {{name} mesai sonuna kadar özür diler.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3850
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} yemi kazara yuttu ve öğleden sonra izne ihtiyacı var.} female {{name} yemi kazara yuttu ve öğleden sonra izne ihtiyacı var.} other {{name} yemi kazara yuttu ve öğleden sonra izne ihtiyacı var.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1430
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} keyifle gülümser ve haftanın geri kalanı için kolları sıvar.} female {{name} keyifle gülümser ve haftanın geri kalanı için kolları sıvar.} other {{name} keyifle gülümser ve haftanın geri kalanı için kolları sıvar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:735
 msgid "{gender, select, male {{name} bought a motorbike, dyed his hair and wants to reinvent himself.} female {{name} bought a motorbike, dyed her hair and wants to reinvent herself.} other {{name} bought a motorbike, dyed their hair and wants to reinvent themselves.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bir motorsiklet aldı, saçlarını boyadı ve tarzını baştan aşağı yenilemek istiyor.} female {{name} bir motorsiklet aldı, saçlarını boyadı ve tarzını baştan aşağı yenilemek istiyor.} other {{name} bir motorsiklet aldı, saçlarını boyadı ve tarzını baştan aşağı yenilemek istiyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1063
 msgid "{gender, select, male {{name} bows and hands you the title. The workshop talks of nothing else.} female {{name} bows and hands you the title. The workshop talks of nothing else.} other {{name} bows and hands you the title. The workshop talks of nothing else.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} eğilerek selam veriyor ve unvanı size teslim ediyor. Atölyede başka hiçbir şey konuşulmuyor.} female {{name} eğilerek selam veriyor ve unvanı size teslim ediyor. Atölyede başka hiçbir şey konuşulmuyor.} other {{name} eğilerek selam veriyor ve unvanı size teslim ediyor. Atölyede başka hiçbir şey konuşulmuyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:540
 msgid "{gender, select, male {{name} breaks down. It will stay with him.} female {{name} breaks down. It will stay with her.} other {{name} breaks down. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} yıkılıyor. Yaşananlar hayatı boyunca onunla kalacak.} female {{name} yıkılıyor. Yaşananlar hayatı boyunca onunla kalacak.} other {{name} yıkılıyor. Yaşananlar hayatı boyunca onunla kalacak.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3008
-msgid "{gender, select, male {{name} brings the house down, solo, and talks about it all week.} female {{name} brings the house down, solo, and talks about it all week.} other {{name} brings the house down, solo, and talks about it all week.}}"
+msgid "{gender, select, male {{name} tek başına ortalığı yakıp kavuruyor ve hafta boyunca bunun hakkında konuşuyor} female {{name} tek başına ortalığı yakıp kavuruyor ve hafta boyunca bunun hakkında konuşuyor} other {{name} tek başına ortalığı yakıp kavuruyor ve hafta boyunca bunun hakkında konuşuyor}}"
 msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3283
 msgid "{gender, select, male {{name} brought a snack from home to share. It is either a delicacy or a war crime.} female {{name} brought a snack from home to share. It is either a delicacy or a war crime.} other {{name} brought a snack from home to share. It is either a delicacy or a war crime.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} evden paylaşmak için bir atıştırmalık getirmiş. Ya yöresel bir yiyecek ya da bir savaş suçu olmalı.} female {{name} evden paylaşmak için bir atıştırmalık getirmiş. Ya yöresel bir yiyecek ya da bir savaş suçu olmalı.} other {{name} evden paylaşmak için bir atıştırmalık getirmiş. Ya yöresel bir yiyecek ya da bir savaş suçu olmalı.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1753
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
-msgstr ""
-
+msgstr "{gender, select, male {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} female {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.} other {{name} çocuğunu işe getirdi. Saat ona gelindiğinde çocuk depoyu yeniden düzenlemiş ve yoldan geçen birine bir şey satmıştı.}}"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:362
 msgid "{gender, select, male {{name} burns out completely, and it will stay with him.} female {{name} burns out completely, and it will stay with her.} other {{name} burns out completely, and it will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.} female {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.} other {{name} tamamen çileden çıktı ve bunu hayatı boyunca unutmayacak.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:290
 msgid "{gender, select, male {{name} bursts into your office: he has an idea to change how the work is done, and needs a little room to try it.} female {{name} bursts into your office: she has an idea to change how the work is done, and needs a little room to try it.} other {{name} bursts into your office: they have an idea to change how the work is done, and need a little room to try it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} paldır küldür odana girdi. Görünüşe göre işin nasıl yapılacağına dair bir fikri var ve denemek için biraz alana ihtiyaç duyuyor.} female {{name} paldır küldür odana girdi. Görünüşe göre işin nasıl yapılacağına dair bir fikri var ve denemek için biraz alana ihtiyaç duyuyor.} other {{name} paldır küldür odana girdi. Görünüşe göre işin nasıl yapılacağına dair bir fikri var ve denemek için biraz alana ihtiyaç duyuyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3130
 msgid "{gender, select, male {{name} calms down and breathes. The lift starts again on its own.} female {{name} calms down and breathes. The lift starts again on its own.} other {{name} calms down and breathes. The lift starts again on its own.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sakinleşiyor ve nefes alıp veriyor. Asansör kendiliğinden yeniden çalışmaya başlıyor.} female {{name} sakinleşiyor ve nefes alıp veriyor. Asansör kendiliğinden yeniden çalışmaya başlıyor.} other {{name} sakinleşiyor ve nefes alıp veriyor. Asansör kendiliğinden yeniden çalışmaya başlıyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3136
 msgid "{gender, select, male {{name} calms down so well that small rooms no longer scare him at all.} female {{name} calms down so well that small rooms no longer scare her at all.} other {{name} calms down so well that small rooms no longer scare them at all.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} o kadar sakinleşiyor ki dar alanlar onu artık hiç korkutmuyor.} female {{name} o kadar sakinleşiyor ki dar alanlar onu artık hiç korkutmuyor.} other {{name} o kadar sakinleşiyor ki dar alanlar onu artık hiç korkutmuyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1442
 msgid "{gender, select, male {{name} can tell.} female {{name} can tell.} other {{name} can tell.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} söyleyebilir.} female {{name} söyleyebilir.} other {{name} söyleyebilir.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2878
 msgid "{gender, select, male {{name} cannot do it while anyone is watching, the teacher included.} female {{name} cannot do it while anyone is watching, the teacher included.} other {{name} cannot do it while anyone is watching, the teacher included.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} birisi onu izlerken yapamaz, öğretmen de dahil.} female {{name} birisi onu izlerken yapamaz, öğretmen de dahil.} other {{name} birisi onu izlerken yapamaz, öğretmen de dahil.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3909
 msgid "{gender, select, male {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} female {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} other {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} Kevin'ı çıkartmak için havalandırma kanallarına tırmandı ve tüm öğleden sonra orada sıkışıp kaldı.} female {{name} Kevin'ı çıkartmak için havalandırma kanallarına tırmandı ve tüm öğleden sonra orada sıkışıp kaldı.} other {{name} Kevin'ı çıkartmak için havalandırma kanallarına tırmandı ve tüm öğleden sonra orada sıkışıp kaldı.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:667
 msgid "{gender, select, male {{name} comes back a day later, proud and steadier than before.} female {{name} comes back a day later, proud and steadier than before.} other {{name} comes back a day later, proud and steadier than before.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bir gün sonra, gururlu ve eskisinden daha kararlı bir şekilde geri dönüyor.} female {{name} bir gün sonra, gururlu ve eskisinden daha kararlı bir şekilde geri dönüyor.} other {{name} bir gün sonra, gururlu ve eskisinden daha kararlı bir şekilde geri dönüyor.}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:673
 msgid "{gender, select, male {{name} comes back wounded, and shaken.} female {{name} comes back wounded, and shaken.} other {{name} comes back wounded, and shaken.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} yaralı ve sarsılmış bir şekilde geri dönüyor.} female {{name} yaralı ve sarsılmış bir şekilde geri dönüyor.} other {{name} yaralı ve sarsılmış bir şekilde geri dönüyor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1015
 msgid "{gender, select, male {{name} comes out changed, and not for the better.} female {{name} comes out changed, and not for the better.} other {{name} comes out changed, and not for the better.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} farklı biri olarak geri dönüyor ve bu hiç iyi değil.} female {{name} farklı biri olarak geri dönüyor ve bu hiç iyi değil.} other {{name} farklı biri olarak geri dönüyor ve bu hiç iyi değil.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1327
 msgid "{gender, select, male {{name} copes. Barely.} female {{name} copes. Barely.} other {{name} copes. Barely.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bununla başa çıkıyor. Neredeyse.} female {{name} bununla başa çıkıyor. Neredeyse.} other {{name} bununla başa çıkıyor. Neredeyse.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1817
 msgid "{gender, select, male {{name} crosses out “Supreme” and keeps drafting.} female {{name} crosses out “Supreme” and keeps drafting.} other {{name} crosses out “Supreme” and keeps drafting.}}"
@@ -3846,11 +3845,11 @@ msgstr "Aktif savaşlar"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:73
 msgid "Active citizen"
-msgstr ""
+msgstr "Aktif vatandaş"
 
 #: src/components/_political/country/CountryHeader.tsx:233
 msgid "Active citizens"
-msgstr ""
+msgstr "Aktif vatandaşlar"
 
 #: src/pages/country/[countryId]/citizens.tsx:36
 msgid "Active Citizens"
@@ -3874,15 +3873,15 @@ msgstr "Aktivite"
 
 #: src/components/_social/Tiptap.tsx:931
 msgid "Add a poll"
-msgstr ""
+msgstr "Bir anket ekle"
 
 #: src/components/_social/poll/PollEditorModal.tsx:239
 msgid "Add answer"
-msgstr ""
+msgstr "Cevap ekle"
 
 #: src/components/_social/poll/PollEditorModal.tsx:292
 msgid "Add poll"
-msgstr ""
+msgstr "Anket ekle"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
@@ -3907,7 +3906,7 @@ msgstr "Admin bildirimi"
 
 #: src/components/_user/user/UserBadges.tsx:355
 msgid "Admin of this conversation."
-msgstr ""
+msgstr "Bu sohbetin yöneticisi"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:136
 msgid "Admiral"
@@ -3915,7 +3914,7 @@ msgstr "Amiral"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:641
 msgid "Adopt it"
-msgstr ""
+msgstr "Sahiplen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2747
 msgid "Adopt the ramp"
@@ -3943,19 +3942,19 @@ msgstr "Geliştirilmiş Pantolon"
 
 #: src/components/_economy/company/CompanyList.tsx:211
 msgid "Advanced view"
-msgstr ""
+msgstr "Genişletilmiş görünüm"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
-msgstr ""
+msgstr "Yaş"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "Age {input}"
-msgstr ""
+msgstr "{input} yaş"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:50
 msgid "Age and tenure"
-msgstr ""
+msgstr "Yaş ve kıdem"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:335
 msgid "Aged 28 to 50, hired 7 days ago or more."
@@ -3987,11 +3986,11 @@ msgstr "Tüm kategoriler"
 
 #: src/components/_economy/employee/MoveShell.tsx:139
 msgid "All companies"
-msgstr ""
+msgstr "Tüm şirketler"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "Tüm ülkeler"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -3999,7 +3998,7 @@ msgstr "Tüm olay türleri"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:212
 msgid "All guides done!"
-msgstr ""
+msgstr "Tüm rehberler tamamlandı!"
 
 #: src/components/_user/notification/NotificationPrefsPanel.tsx:188
 msgid "All Ingame"
@@ -4019,7 +4018,7 @@ msgstr "Tüm Partiler"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:133
 msgid "All positions"
-msgstr ""
+msgstr "Tüm pozisyonlar"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:202
 msgid "All rounds"
@@ -4031,7 +4030,7 @@ msgstr "Bütün kostümlere sahip"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:152
 msgid "All traits"
-msgstr ""
+msgstr "Tüm özellikler"
 
 #: src/components/_common/GameRules.tsx:103
 msgid "All transactions must stay fair and balanced."
@@ -4043,11 +4042,11 @@ msgstr "Tüm türler"
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:58
 msgid "All your offers were withdrawn"
-msgstr ""
+msgstr "Tüm tekliflerin alındı"
 
 #: src/components/_user/user/UserSkills.tsx:225
 msgid "All your skills are reset for free."
-msgstr ""
+msgstr "Tüm becerilerin bedavaya sıfırlandı."
 
 #: src/components/_layout/map.frontConfig.tsx:38
 #: src/components/_political/alliance/AllianceHeader.tsx:68
@@ -4065,11 +4064,11 @@ msgstr "İttifak <0/> (<1/>)"
 #. placeholder {0}: costMultiplier(effects.allianceUpkeepMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:408
 msgid "Alliance and pact upkeep {0}"
-msgstr ""
+msgstr "İttifak ve pakt bakım masrafı {0}"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:65
 msgid "Alliance backbone"
-msgstr ""
+msgstr "İttifakın omurgası"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:94
 msgid "Alliance battle damage bonus"
@@ -4100,7 +4099,7 @@ msgstr "İttifak adı"
 #. placeholder {0}: costMultiplier(effects.allianceUpkeepMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:419
 msgid "Alliance upkeep {0}"
-msgstr ""
+msgstr "İttifak bakım masrafı {0}"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:163
 #: src/components/_military/battle/ActiveBattlesList.tsx:101
@@ -4110,7 +4109,7 @@ msgstr "Müttefikler"
 
 #: src/components/_social/poll/PollEditorModal.tsx:254
 msgid "Allow multiple answers"
-msgstr ""
+msgstr "Çoklu cevaplara izin ver"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:73
 msgid "Almost feels like cheating"
@@ -4126,7 +4125,7 @@ msgstr "Alfa Test Kullanıcısı"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:224
 msgid "Already employed"
-msgstr ""
+msgstr "Halihazırda çalışıyor"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:188
 msgid "Always, for every employee who turns {age}, then again every {every} while they stay. Each year past {age} takes {oddsPerYear}% off the odds of keeping them."
@@ -4185,15 +4184,15 @@ msgstr "Doğrulama kodunu içeren bir e-posta {email} adresine gönderildi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:555
 msgid "An event about {lead} was decided while you were away."
-msgstr ""
+msgstr "Sen burada değilken {lead} hakkında bir olayda karar verildi."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:358
 msgid "An occupied capital revolts on its own at full resistance"
-msgstr ""
+msgstr "Ele geçirilmiş bir başken direniş barı dolu olduğunda kendiliğinden isyan başlatır"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Anchor"
-msgstr ""
+msgstr "Sadık Çalışan"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:113
 msgid "Animated <0>GIF</0> as avatar"
@@ -4201,11 +4200,11 @@ msgstr "Animasyonlu avatar <0>GIF</0>"
 
 #: src/components/_social/announcement/GovernmentAnnouncementCard.tsx:63
 msgid "Announcement"
-msgstr ""
+msgstr "Duyuru"
 
 #: src/pages/country/[countryId]/government.tsx:158
 msgid "Announcements"
-msgstr ""
+msgstr "Duyurular"
 
 #: src/components/_political/law/law.frontConfig.tsx:301
 msgid "Another country proposed a defensive pact to yours"
@@ -4213,11 +4212,11 @@ msgstr "Başka bir ülke sizinkine bir savunma paktı önerdi"
 
 #: src/components/_social/poll/PollEditorModal.tsx:206
 msgid "Answer {answerNumber}"
-msgstr ""
+msgstr "{answerNumber} cevap"
 
 #: src/components/_social/poll/PollEditorModal.tsx:198
 msgid "Answers"
-msgstr ""
+msgstr "Cevaplar"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
@@ -4233,11 +4232,11 @@ msgstr "Bu kuralları aşmaya yönelik her türlü girişim, paylaşım statüs�
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:69
 msgid "Anyone moved cannot be fired for {fireLockHours} hours"
-msgstr ""
+msgstr "Şirketi değiştirilen biri {fireLockHours} saat boyunca kovulamaz"
 
 #: src/components/_economy/employee/employeeTags.tsx:167
 msgid "Anywhere between -{spreadPercent}% and +{spreadPercent}%."
-msgstr ""
+msgstr "-%{spreadPercent} ile +%{spreadPercent} arasında bir değer."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
@@ -4265,15 +4264,15 @@ msgstr "Uygulama deseni"
 
 #: src/pages/user/[userId]/settings.tsx:129
 msgid "App settings"
-msgstr ""
+msgstr "Uygulama ayarları"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:443
 msgid "Appeal to their loyalty"
-msgstr ""
+msgstr "Onların sadakatine güven"
 
 #: src/pages/user/[userId]/settings.tsx:99
 msgid "Appearance"
-msgstr ""
+msgstr "Görünüm"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
@@ -4282,11 +4281,11 @@ msgstr "Başvuru ücreti"
 #: src/components/_military/mu/MuHeader.tsx:155
 #: src/components/_political/party/PartyHeader.tsx:137
 msgid "Applications"
-msgstr ""
+msgstr "Başvurular"
 
 #: src/components/_economy/employee/employeeTags.tsx:197
 msgid "Applied on top of the above."
-msgstr ""
+msgstr "Yukarıdakilerin üzerinde uygulanır."
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:226
 #: src/components/_political/citizenshipApplication/CitizenshipApplicationForm.tsx:56
@@ -4312,11 +4311,11 @@ msgstr "Bu komutanı rütbe düşürmek istediğinizden emin misiniz?"
 
 #: src/components/_military/order/BattleOrderActions.tsx:73
 msgid "Are you sure you want to disable this battle order? This action cannot be undone."
-msgstr ""
+msgstr "Bu savaş emrini kaldırmak istediğinize emin misiniz? Bu aksiyon geri alınamaz."
 
 #: src/components/_economy/inventory/Inventory.tsx:121
 msgid "Are you sure you want to dismantle this <0/> item? You will receive {scrapReward} scraps."
-msgstr ""
+msgstr "Bu <0/> eşyayı parçalamak istediğinize emin misin? {scrapReward} elde edeceksiniz."
 
 #: src/components/_military/mu/MuMemberList.tsx:140
 msgid "Are you sure you want to kick this member?"
@@ -4348,7 +4347,7 @@ msgstr "Tüm satış emirlerini kaldırmak istediğinizden emin misiniz?"
 
 #: src/components/_social/announcement/Announcement.tsx:133
 msgid "Are you sure you want to remove this announcement? Its comments will be deleted too."
-msgstr ""
+msgstr "Bu duyuruyu kaldırmak istediğinize emin misiniz? Yorumlar da birlikte silinecektir."
 
 #: src/components/_user/mission/MissionItem.tsx:116
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
@@ -4396,15 +4395,15 @@ msgstr "<0/> Tarafından Yazılan Makaleler"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3249
 msgid "Ask how it ends"
-msgstr ""
+msgstr "Nasıl bittiğini sor"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:535
 msgid "Ask them to push through"
-msgstr ""
+msgstr "Devam etmelerini söyle"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:474
 msgid "Asks for {value} pay from now on"
-msgstr ""
+msgstr "Şu andan itibaren {value} maaş istiyor"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:305
 msgid "AT Ammo"
@@ -4428,11 +4427,11 @@ msgstr "AT Ağır Mermi"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:152
 msgid "At least {MIN_REGISTRATIONS} are needed or the tournament is cancelled."
-msgstr ""
+msgstr "En az {MIN_REGISTRATIONS} gereklidir yoksa turnuva iptal edilir."
 
 #: src/components/_social/PinArticleModal.tsx:51
 msgid "At least 1 hour"
-msgstr ""
+msgstr "En az 1 saat"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
@@ -4444,15 +4443,15 @@ msgstr "AT Hafif Mermi"
 
 #: src/components/_social/PinArticleModal.tsx:54
 msgid "At most {MAX_PIN_DURATION_HOURS, plural, one {# hour} other {# hours}}"
-msgstr ""
+msgstr "En fazla {MAX_PIN_DURATION_HOURS, plural, one {# saat} other {# saat}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:652
 msgid "At most once every {every}"
-msgstr ""
+msgstr "Her {every} en fazla bir kez"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:656
 msgid "At most once every {every} per company"
-msgstr ""
+msgstr "Şirket başına her {every} en fazla bir kez"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
@@ -4492,15 +4491,15 @@ msgstr "Süre sonunda <0>{actualTickPoints}</0> en çok hasarı veren tarafa ata
 
 #: src/components/_political/country/CountryTooltip.tsx:147
 msgid "At war with"
-msgstr ""
+msgstr "İle savaşta"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:188
 msgid "At your Management level"
-msgstr ""
+msgstr "Yönetim seviyende"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:514
 msgid "Atlas"
-msgstr ""
+msgstr "Atlas"
 
 #: src/components/_military/hit/HitButton.tsx:523
 #: src/components/_political/map/MapMenu.tsx:477
@@ -4511,12 +4510,12 @@ msgstr "Saldırı"
 
 #: src/components/_user/user/MilitaryRank.tsx:123
 msgid "Attack bonus:"
-msgstr ""
+msgstr "Saldırı bonusu:"
 
 #. placeholder {0}: costMultiplier(effects.nonCoreAttackOrderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:328
 msgid "Attack orders outside its core regions cost {0}"
-msgstr ""
+msgstr "Ana bölgeler dışında saldırı emirleri {0} maliyete sahiptir"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:193
 #: src/components/_military/war/WarComparison.tsx:41
@@ -4568,7 +4567,7 @@ msgstr "Boşaldığında otomatik satın al"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:76
 msgid "Autocracy"
-msgstr ""
+msgstr "Otokrasi"
 
 #: src/components/_economy/company/CompanyTags.tsx:162
 msgid "Automated engine"
@@ -4581,11 +4580,11 @@ msgstr "Otomatik Makine"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:321
 msgid "Available in"
-msgstr ""
+msgstr "Şu zaman içinde hazır"
 
 #: src/components/_user/mission/MissionsList.tsx:329
 msgid "Available now"
-msgstr ""
+msgstr "Şu an hazır"
 
 #: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
@@ -4600,15 +4599,15 @@ msgstr "Ortalama gelişim"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:251
 msgid "Away"
-msgstr ""
+msgstr "Uzakta"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:245
 msgid "Away for <0/>: no work, no wage."
-msgstr ""
+msgstr "<0/> süreliğine uzakta: ne iş var ne maaş."
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:148
 msgid "Away, no work and no wage"
-msgstr ""
+msgstr "Uzakta, ne iş var ne maaş"
 
 #: src/components/_common/GameRules.tsx:244
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
@@ -4624,11 +4623,11 @@ msgstr ""
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:401
 msgid "Back to home region"
-msgstr ""
+msgstr "Memleketine dön"
 
 #: src/components/_layout/LayoutOptions.tsx:187
 msgid "Background pattern"
-msgstr ""
+msgstr "Arka plan deseni"
 
 #: src/components/_user/referral/ReferralList.tsx:111
 msgid "Badge won"
@@ -4645,27 +4644,27 @@ msgstr "Rozetler"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Top"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3624
 msgid "Ban head rubbing"
-msgstr ""
+msgstr "Kafa ovalamayı yasakla"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1077
 msgid "Ban impressions"
-msgstr ""
+msgstr "Taklitleri yasakla"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1386
 msgid "Ban politics at work"
-msgstr ""
+msgstr "İşte politikayı yasakla"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2661
 msgid "Ban sandwiches near the machine"
-msgstr ""
+msgstr "Makine yakınlarında sandviçleri yasakla"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1849
 msgid "Ban soup"
-msgstr ""
+msgstr "Çorbayı yasakla"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3362
 msgid "Ban the club"
@@ -4677,7 +4676,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Band of Brothers"
-msgstr ""
+msgstr "Kardeşler Takımı"
 
 #: src/components/_political/event/EventList.tsx:116
 msgid "Bankruptcy"
@@ -4711,11 +4710,11 @@ msgstr "Yasaklanmalar"
 #: src/components/_economy/employee/employeeStats.tsx:180
 #: src/components/_economy/employee/employeeStats.tsx:764
 msgid "Base"
-msgstr ""
+msgstr "Temel"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:84
 msgid "Base chance"
-msgstr ""
+msgstr "Temel şans"
 
 #: src/components/_political/law/LawCostExplanation.tsx:38
 msgid "Base cost"
@@ -4743,7 +4742,7 @@ msgstr "Basit Pantolon"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Yarasa Sürüsü"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:98
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -4773,7 +4772,7 @@ msgstr "Savaş Kahramanı"
 
 #: src/components/_layout/LayoutOptions.tsx:229
 msgid "Battle hit effects"
-msgstr ""
+msgstr "Savaş vuruş efektleri"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:61
 msgid "Battle loot pool"
@@ -4785,7 +4784,7 @@ msgstr "Cephe açıldı"
 
 #: src/pages/country/[countryId]/government.tsx:137
 msgid "Battle orders"
-msgstr ""
+msgstr "Savaş emirleri"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:105
 msgid "Battle Orders"
@@ -4793,7 +4792,7 @@ msgstr "Savaş Emirleri"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:465
 msgid "Battlefield Loot"
-msgstr ""
+msgstr "Savaş meydanı ganimeti"
 
 #: src/components/_layout/LayoutMenu.tsx:146
 #: src/components/_military/battle/BattlesHeader.tsx:22
@@ -4828,11 +4827,11 @@ msgstr "Aday Ol"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:199
 msgid "Become a Supporter to save up to {premiumMaxPresets} skill presets."
-msgstr ""
+msgstr "{premiumMaxPresets}'e kadar beceri ön ayarı kaydedebilmek için Destekçi ol"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:696
 msgid "Become the manager of another player's company"
-msgstr ""
+msgstr "Başka bir oyuncunun şirketinde menajer ol"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:245
 msgid "Before tax: buyers add their own tax on top."
@@ -4844,11 +4843,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3831
 msgid "Believe {name}"
-msgstr ""
+msgstr "{name}'e inan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3838
 msgid "Believe {partnerName}"
-msgstr ""
+msgstr "{partnerName}'e inan"
 
 #: src/components/_economy/manager/managerStats.tsx:68
 #: src/components/_layout/LayoutOptions.tsx:275
@@ -4858,7 +4857,7 @@ msgstr "En iyi"
 
 #: src/components/_economy/manager/ManagerBestOfferLine.tsx:37
 msgid "Best position for you"
-msgstr ""
+msgstr "Senin için en iyi pozisyon"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -4868,11 +4867,11 @@ msgstr "Hiç yoktan iyidir, değil mi?"
 #. placeholder {1}: range.max
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:80
 msgid "Between {0} and {1}"
-msgstr ""
+msgstr "{0} ile {1} arasında"
 
 #: src/components/_social/poll/PollEditorModal.tsx:278
 msgid "Between 1 and {maxMinLevel}"
-msgstr ""
+msgstr "1 ile {maxMinLevel} arasında"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:296
 msgid "Bid"
@@ -4880,11 +4879,11 @@ msgstr "Teklif ver"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:47
 msgid "Big peaceful population"
-msgstr ""
+msgstr "Büyük barışçıl poülasyon"
 
 #: src/components/_political/region/RegionHeader.tsx:158
 msgid "Biome"
-msgstr ""
+msgstr "Biyom"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
@@ -4892,7 +4891,7 @@ msgstr "Beta'nın 1. yılı için Doğum Günü Şapkası"
 
 #: src/utils/translations.tsx:268
 msgid "Blacksmith's Hammer"
-msgstr ""
+msgstr "Demirci'nin Çekici"
 
 #: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
@@ -4913,7 +4912,7 @@ msgstr "Bonus hasar"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:265
 msgid "Boost your Energy!"
-msgstr ""
+msgstr "Enerjini arttır!"
 
 #: src/components/_economy/inventory/Inventory.tsx:502
 #: src/components/_user/UserEquipments.tsx:288
@@ -4923,19 +4922,19 @@ msgstr "Botlar"
 
 #: src/pages/country/[countryId]/citizenship.tsx:60
 msgid "Borders are open after a revolution, every application is accepted for <0/>"
-msgstr ""
+msgstr "Bir devrimden sonra sınırlar açılır, <0/> süresince tüm başvurular kapul edilir"
 
 #: src/pages/country/[countryId]/citizenship.tsx:54
 msgid "Borders are open: this country was just created, every application is accepted for <0/>"
-msgstr ""
+msgstr "Sınırlar açık: bu ülke yeni oluşturuldu, <0/> süresince tüm başvurular kapul edilir"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:333
 msgid "Both"
-msgstr ""
+msgstr "İkisi de"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:446
 msgid "Both become <0/>"
-msgstr ""
+msgstr "İkisi de <0/> olur"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3739
 msgid "Both of them turn the fake dial all day, and both are perfectly comfortable."
@@ -4952,7 +4951,7 @@ msgstr "Ödül bekleme süresi"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:117
 msgid "Bounty earned"
-msgstr ""
+msgstr "Ödül kazanıldı"
 
 #: src/components/_military/battle/BattleSystem.tsx:940
 msgid "Bounty will be available in"
@@ -4982,7 +4981,7 @@ msgstr "<0/> ile savunma paktını boz"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:947
 msgid "Break the promise"
-msgstr ""
+msgstr "Sözünü boz"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:111
 msgid "Brigadier"
@@ -4990,20 +4989,20 @@ msgstr "Tuğgeneral"
 
 #: src/components/_user/user/UserBadges.tsx:124
 msgid "Bro won last tournament."
-msgstr ""
+msgstr "Bu kankam son turnuvayı kazandı ha, yamuk yapmayın."
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:207
 msgid "broken"
-msgstr ""
+msgstr "kırılmış"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:384
 #: src/components/_economy/inventory/Inventory.tsx:772
 msgid "Broken"
-msgstr ""
+msgstr "Kırılmış"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:228
 msgid "Broken: no longer boosts Production"
-msgstr ""
+msgstr "Kırılmış: Üretimi artık arttırmıyor"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:216
 msgid "Browse Packs"
@@ -5049,7 +5048,7 @@ msgstr "Askeri birlik kur"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:485
 msgid "Build a second company!"
-msgstr ""
+msgstr "İkinci bir şirket kur!"
 
 #: src/components/_military/mu/MuFormModal.tsx:134
 msgid "Build the military unit"
@@ -5057,11 +5056,11 @@ msgstr "Askeri birliği kur"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:109
 msgid "Bulk dismantle"
-msgstr ""
+msgstr "Toplu parçala"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Bully"
-msgstr ""
+msgstr "Zorba"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "Bunker"
@@ -5069,23 +5068,23 @@ msgstr "Korugan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3402
 msgid "Burn the box"
-msgstr ""
+msgstr "Kutuyu yak"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2528
 msgid "Burn them all"
-msgstr ""
+msgstr "Hepsini yak"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:120
 msgid "Burnout"
-msgstr ""
+msgstr "Tükeniş"
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:51
 msgid "Buy"
-msgstr ""
+msgstr "Satın al"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3772
 msgid "Buy {name} a hat"
-msgstr ""
+msgstr "{name}'e bir şapka al"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:71
 msgid "Buy <0/>"
@@ -5098,15 +5097,15 @@ msgstr "<1/>'dan <0/> bölgesini <2>{0}</2> karşılığında satın al"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1549
 msgid "Buy a new one"
-msgstr ""
+msgstr "Yeni bir tane al"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3482
 msgid "Buy a real Kevin"
-msgstr ""
+msgstr "Gerçek bir Kevin al"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:251
 msgid "Buy for <0/> money on market"
-msgstr ""
+msgstr "Pazarda <0/> para harca"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2412
 msgid "Buy in"
@@ -5118,7 +5117,7 @@ msgstr "Eşya Satın Al"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3386
 msgid "Buy more chairs"
-msgstr ""
+msgstr "Daha fazla sandalye al"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:151
@@ -5127,15 +5126,15 @@ msgstr "Alım market emirleri"
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:46
 msgid "Buy this item for {total}?"
-msgstr ""
+msgstr "Bu itemi toplam {total} al?"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:407
 msgid "Buyers from your country see <0>{buyerTotal}</0>"
-msgstr ""
+msgstr "Senin ülkendeki müşteriler fiyatı <0>{buyerTotal}</0> olarak görür"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:296
 msgid "By Company"
-msgstr ""
+msgstr "Şirkete Göre"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:408
 msgid "By continuing, you agree to our <0>Terms of Service</0>."
@@ -5143,7 +5142,7 @@ msgstr "Devam ederek <0>Hizmet Şartlarımızı</0> kabul etmiş olursunuz."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:246
 msgid "By morning the tool is as good as new."
-msgstr ""
+msgstr "Sabaha karşı alet cillop gibi bir hale geliyor"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:164
 msgid "By side"
@@ -5163,19 +5162,19 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3804
 msgid "Call a ceasefire"
-msgstr ""
+msgstr "Ateşkes çağrısı yap"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3046
 msgid "Call a fortune teller"
-msgstr ""
+msgstr "Falcı çağır"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3150
 msgid "Call a technician"
-msgstr ""
+msgstr "Teknisyen çağır"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1583
 msgid "Call an exorcist"
-msgstr ""
+msgstr "Egzorsist çağır"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2159
 msgid "Call the bluff"
@@ -5183,7 +5182,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3691
 msgid "Call the firefighters"
-msgstr ""
+msgstr "İtfaiyecileri çağır"
 
 #: src/components/_political/election/CandidateFormModal.tsx:67
 msgid "Campaign Article Link (optional)"
@@ -5194,23 +5193,23 @@ msgstr "Kampanya Makale Linki (opsiyonel)"
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:528
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:530
 msgid "Can happen to anyone."
-msgstr ""
+msgstr "Herkesin başına gelebilir"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:453
 msgid "Can't have a sworn enemy"
-msgstr ""
+msgstr "Baş düşmanı olamaz"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:447
 msgid "Can't join an alliance"
-msgstr ""
+msgstr "Bir ittifaka katılamaz"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:459
 msgid "Can't send money to other countries"
-msgstr ""
+msgstr "Diğer ülkelere para gönderemez"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:450
 msgid "Can't sign defensive pacts"
-msgstr ""
+msgstr "Savunma paktları imzalayamaz"
 
 #: src/components/_military/order/BattleOrderList.tsx:210
 #: src/components/_political/election/CandidateFormModal.tsx:79
@@ -5265,15 +5264,15 @@ msgstr "Aday"
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
-msgstr ""
+msgstr "Adaylar"
 
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
-msgstr ""
+msgstr "Başkent"
 
 #: src/components/_political/region/RegionHeader.tsx:150
 msgid "Capital of"
-msgstr ""
+msgstr "Başkenti"
 
 #: src/components/_economy/employee/employeeStats.tsx:356
 msgid "Capped at {cappedPct}%"
@@ -5301,15 +5300,15 @@ msgstr "CAPTCHA doğrulama zaman aşımına uğradı. Sıfırlanıyor..."
 
 #: src/components/_user/user/EcoSkillEffects.tsx:122
 msgid "Card odds: <0/>"
-msgstr ""
+msgstr "Kart oranları: <0/>"
 
 #: src/components/_economy/employee/TrainingCardList.tsx:139
 msgid "Cards"
-msgstr ""
+msgstr "Kartlar"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:67
 msgid "Care"
-msgstr ""
+msgstr "Bakım"
 
 #: src/components/_economy/employee/employeeStats.tsx:705
 #: src/components/_economy/employee/employeeStats.tsx:852
@@ -5322,7 +5321,7 @@ msgstr "Kasa"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:105
 msgid "Cases opened"
-msgstr ""
+msgstr "Açılan kasa"
 
 #: src/utils/translations.tsx:259
 msgid "Cast Iron Skillet"
@@ -5346,11 +5345,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:116
 msgid "Chance"
-msgstr ""
+msgstr "Şans"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:91
 msgid "Chance of success"
-msgstr ""
+msgstr "Başarı şansı"
 
 #: src/components/_user/user/skills.frontConfig.tsx:176
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit.<4/>It also adds <5>1%</5> to the hourly chance of a wooden case appearing on the map (base {woodenCaseBaseChance}%)."
@@ -5370,11 +5369,11 @@ msgstr ""
 
 #: src/components/_political/law/law.frontConfig.tsx:99
 msgid "Change {taxName} to"
-msgstr ""
+msgstr "{taxName}'i şununla değiştir"
 
 #: src/components/_political/law/law.frontConfig.tsx:87
 msgid "Change {taxName} to <0/>"
-msgstr ""
+msgstr "{taxName}'i <0/> ile değiştir"
 
 #: src/components/_political/law/law.frontConfig.tsx:82
 msgid "Change a country tax"
@@ -5392,7 +5391,7 @@ msgstr "Rengi <0>{0}</0> olarak değiştir"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:91
 msgid "Change manager pay"
-msgstr ""
+msgstr "Menajer ücretini değiştir"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
@@ -5400,7 +5399,7 @@ msgstr "Milliyeti değiştir"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:246
 msgid "Change pay"
-msgstr ""
+msgstr "Ücreti değiştir"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:87
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:118
@@ -5437,11 +5436,11 @@ msgstr "Ülke renk şemasını <1>{1}</1> harita aksanıyla <0>{0}</0> olarak de
 
 #: src/components/_political/law/law.frontConfig.tsx:648
 msgid "Change the government type to <0/>. It can't change again for {GOV_TYPE_CHANGE_COOLDOWN_DAYS} days."
-msgstr ""
+msgstr "Hükümet türünü <0/> olarak değiştir. {GOV_TYPE_CHANGE_COOLDOWN_DAYS} gün boyunca yeniden değiştirilemez."
 
 #: src/components/_political/law/law.frontConfig.tsx:631
 msgid "Change the government type, then wait {GOV_TYPE_CHANGE_COOLDOWN_DAYS, plural, one {# day} other {# days}} before the next change"
-msgstr ""
+msgstr "Hükümet türünü değiştir, sonra yeni değişiklik için {GOV_TYPE_CHANGE_COOLDOWN_DAYS, plural, one {# gün} other {# gün}} bekle"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:121
 msgid "Change the name of the alliance."

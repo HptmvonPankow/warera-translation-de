@@ -10875,7 +10875,7 @@ msgstr ""
 
 #: src/components/_political/govType/govType.frontConfig.tsx:52
 msgid "Nationalist State"
-msgstr ""
+msgstr "دولة قومية"
 
 #: src/components/_military/mu/MuHeader.tsx:104
 #: src/components/_user/auth/WelcomeModal.tsx:266
@@ -10918,7 +10918,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeTags.tsx:182
 #: src/components/_economy/employee/training.frontConfig.tsx:131
 msgid "Negotiation"
-msgstr ""
+msgstr "مفاوضات"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3768
 msgid "Neither of them laughs. Now it is your fault."
@@ -10930,7 +10930,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:102
 msgid "Nemesis"
-msgstr ""
+msgstr "عدو لدود"
 
 #. placeholder {0}: ts.lightAmmo
 #. placeholder {1}: ts.ammo
@@ -11124,7 +11124,7 @@ msgstr ""
 #. placeholder {0}: tutoChapterMeta[nextChapter].label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:338
 msgid "Next: {0}"
-msgstr ""
+msgstr "التالي: {0}"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:39
 msgid "Nice"
@@ -11136,11 +11136,11 @@ msgstr "واحدة جميلة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:385
 msgid "Night classes"
-msgstr ""
+msgstr "الأقسام الليلية"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1814
 msgid "No"
-msgstr ""
+msgstr "لا"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:201
 msgid "No active battles"
@@ -11245,7 +11245,7 @@ msgstr ""
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
-msgstr ""
+msgstr "لا يوجد تأثير"
 
 #: src/components/_economy/employee/EmployeeList.tsx:351
 msgid "No employees"
