@@ -3645,11 +3645,11 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:60
 msgid "A random employee tool"
-msgstr ""
+msgstr "कर्मचारी के लिए एक यादृच्छिक टूल"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:57
 msgid "A random resource stack"
-msgstr ""
+msgstr "संसाधनों का एक यादृच्छिक ढेर"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:115
 msgid "A random trait, good or bad, only revealed once picked. Also raises a random stat."
@@ -5081,7 +5081,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:51
 msgid "Buy"
-msgstr ""
+msgstr "खरीदें"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3772
 msgid "Buy {name} a hat"
@@ -5519,7 +5519,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/CraftModal.tsx:375
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr ""
+msgstr "अपनी पसंद की वस्तु चुनने पर दोगुना इस्पात लगेगा:"
 
 #: src/components/_user/auth/WelcomeModal.tsx:205
 msgid "Citizen identity card"
@@ -5613,7 +5613,7 @@ msgstr ""
 #: src/components/_economy/inventory/DismantleModal.tsx:319
 #: src/components/_economy/inventory/ItemSelectorModal.tsx:171
 msgid "Clear"
-msgstr ""
+msgstr "साफ़ करें"
 
 #: src/components/_economy/inventory/ItemCodeModalSelector.tsx:83
 #: src/components/_political/country/CountrySelectV2.tsx:278
@@ -5811,7 +5811,7 @@ msgstr "कंपनी का नाम बदल दिया गया!"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:177
 msgid "Company upgraded!"
-msgstr ""
+msgstr "कंपनी अपग्रेड हो गई!"
 
 #: src/components/_layout/loadingTips.tsx:438
 msgid "Complete {missionSetPercent}% of a daily, weekly or monthly set to unlock its bonus <0>XP</0>."
@@ -6053,7 +6053,7 @@ msgstr ""
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:221
 #: src/components/_economy/employee/employeeStats.tsx:546
 msgid "Core region"
-msgstr ""
+msgstr "मुख्य क्षेत्र"
 
 #: src/components/_political/region/RegionHeader.tsx:150
 msgid "Core region of"
@@ -6845,7 +6845,7 @@ msgstr "विघटित करें"
 
 #: src/components/_economy/inventory/Inventory.tsx:120
 msgid "Dismantle item"
-msgstr ""
+msgstr "वस्तु को तोड़ें"
 
 #: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
@@ -6853,7 +6853,7 @@ msgstr "वस्तु विघटित करें"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:196
 msgid "Dismantle items"
-msgstr ""
+msgstr "वस्तुओं को तोड़ें"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:153
 msgid "Dismiss"
@@ -7263,7 +7263,7 @@ msgstr ""
 #: src/components/_political/law/law.frontConfig.tsx:66
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:64
 msgid "Employee tax"
-msgstr ""
+msgstr "कर्मचारी कर"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:287
 #: src/components/_economy/work/WorkChart.tsx:252
@@ -7464,7 +7464,7 @@ msgstr ""
 
 #: src/components/_economy/company/CompanyHeader.tsx:32
 msgid "Estimated value"
-msgstr ""
+msgstr "अनुमानित मूल्य"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:288
 msgid "Eureka"
@@ -7612,7 +7612,7 @@ msgstr ""
 #: src/components/_economy/company/CompanyDropdown.tsx:486
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:72
 msgid "Everything you earned is paid out now."
-msgstr ""
+msgstr "आपकी अब तक की पूरी कमाई का भुगतान कर दिया गया है।"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1735
 msgid "Evict the General"
@@ -8585,7 +8585,7 @@ msgstr ""
 #: src/components/_economy/employee/WorkforceSummary.tsx:317
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:159
 msgid "Happiness"
-msgstr ""
+msgstr "खुशी"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:148
 msgid "Happiness {mood} or less, or {burnout} or {wornOut}."
@@ -8748,7 +8748,7 @@ msgstr ""
 #: src/components/_economy/company/CompanyDropdown.tsx:299
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:144
 msgid "Hire a manager"
-msgstr ""
+msgstr "प्रबंधक नियुक्त करें"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:830
 msgid "Hire an Employee"
@@ -9175,7 +9175,7 @@ msgstr "वस्तु खरीदी गई"
 
 #: src/components/_economy/inventory/Inventory.tsx:109
 msgid "Item dismantled"
-msgstr ""
+msgstr "वस्तु तोड़ दी गई"
 
 #: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
@@ -9779,7 +9779,7 @@ msgstr "भोजन उपभोग की सीमा"
 
 #: src/components/_economy/company/CompanyList.tsx:275
 msgid "Limit reached"
-msgstr ""
+msgstr "सीमा पूरी हो गई"
 
 #: src/components/_user/user/SkillValue.tsx:128
 msgid "Limited:"
@@ -9903,7 +9903,7 @@ msgstr "लव पेपर जेट"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:170
 msgid "Low tax"
-msgstr ""
+msgstr "कम कर"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:132
 msgid "Lowers their wage, for good."
@@ -10022,7 +10022,7 @@ msgstr ""
 #: src/components/_political/law/law.frontConfig.tsx:67
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:68
 msgid "Manager tax"
-msgstr ""
+msgstr "प्रबंधक कर"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:161
 msgid "Manager Tax"
@@ -10110,7 +10110,7 @@ msgstr ""
 #: src/components/_economy/company/CompanyDropdown.tsx:371
 #: src/components/_economy/company/CompanyDropdown.tsx:417
 msgid "Maxed!"
-msgstr ""
+msgstr "अधिकतम स्तर पर!"
 
 #: src/components/_economy/company/CompanyTags.tsx:186
 msgid "Maximum number of employees this company can hold."
@@ -11188,7 +11188,7 @@ msgstr "अभी तक कोई बोली नहीं"
 
 #: src/components/_economy/inventory/Inventory.tsx:529
 msgid "No boots"
-msgstr ""
+msgstr "कोई बूट नहीं"
 
 #: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
@@ -11253,7 +11253,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/Inventory.tsx:527
 msgid "No gloves"
-msgstr ""
+msgstr "कोई दस्ताने नहीं"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:41
 msgid "No government type chosen yet"
@@ -11273,7 +11273,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/Inventory.tsx:525
 msgid "No helmets"
-msgstr ""
+msgstr "कोई हेलमेट नहीं"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:316
 msgid "No home region set"
@@ -11281,12 +11281,12 @@ msgstr ""
 
 #: src/components/_economy/inventory/Inventory.tsx:212
 msgid "No items"
-msgstr ""
+msgstr "कोई वस्तु नहीं"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:284
 #: src/components/_economy/inventory/ItemSelectorModal.tsx:203
 msgid "No items found"
-msgstr ""
+msgstr "कोई वस्तु नहीं मिली"
 
 #: src/components/_user/kits/KitsPopover.tsx:137
 msgid "No kits yet - add one to quick-equip a full loadout."
@@ -11375,7 +11375,7 @@ msgstr "कोई आदेश नहीं"
 
 #: src/components/_economy/inventory/Inventory.tsx:528
 msgid "No pants"
-msgstr ""
+msgstr "कोई पैंट नहीं"
 
 #: src/components/_political/party/PartyList.tsx:95
 msgid "No parties found"
@@ -11435,7 +11435,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/Inventory.tsx:694
 msgid "No tools"
-msgstr ""
+msgstr "कोई टूल नहीं"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:143
@@ -11464,7 +11464,7 @@ msgstr "कोई युद्ध नहीं मिला"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:260
 msgid "No weapons or equipment to dismantle"
-msgstr ""
+msgstr "तोड़ने के लिए कोई हथियार या उपकरण नहीं हैं"
 
 #: src/components/_economy/work/WorkList.tsx:63
 msgid "No work yet"
@@ -11731,7 +11731,7 @@ msgstr "अनुबंध विफल होने पर: बजट के �
 
 #: src/components/_economy/company/CompanyTags.tsx:79
 msgid "On every employee, before Responsibility"
-msgstr ""
+msgstr "हर कर्मचारी पर, ज़िम्मेदारी के प्रभाव से पहले"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:341
 msgid "On fire"
@@ -11860,7 +11860,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:581
 msgid "Open all"
-msgstr ""
+msgstr "सभी खोलें"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:103
 msgid "Open all cases"
@@ -12704,7 +12704,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:167
 msgid "Price for you, tax included"
-msgstr ""
+msgstr "आपके लिए कीमत (कर सहित)"
 
 #: src/pages/market/equipments.tsx:87
 msgid "Prices include your tax"
@@ -12968,7 +12968,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/OpenCaseModal.tsx:528
 msgid "Quick animation"
-msgstr ""
+msgstr "तेज़ एनीमेशन"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:47
 #: src/components/_economy/inventory/DismantleModal.tsx:331
@@ -13687,7 +13687,7 @@ msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:485
 msgid "Resign from this position?"
-msgstr ""
+msgstr "क्या आप इस पद से इस्तीफा देना चाहते हैं?"
 
 #: src/components/_military/hit/HitButton.tsx:521
 #: src/components/_user/mission/mission.frontConfig.tsx:865
@@ -13951,7 +13951,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:218
 msgid "Same price for all items"
-msgstr ""
+msgstr "सभी वस्तुओं की कीमत समान है"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:135
@@ -14099,7 +14099,7 @@ msgstr ""
 
 #: src/components/_economy/inventory/ItemCodeModalSelector.tsx:58
 msgid "Select an item"
-msgstr ""
+msgstr "एक वस्तु चुनें"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:132
 msgid "Select an occupied region"
@@ -16765,11 +16765,11 @@ msgstr "कंपनी अपग्रेड करें"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:331
 msgid "Upgrade automated engine"
-msgstr ""
+msgstr "स्वचालित इंजन अपग्रेड करें"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:375
 msgid "Upgrade break room"
-msgstr ""
+msgstr "विश्राम कक्ष अपग्रेड करें"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:580
 msgid "Upgrade Company"
@@ -16781,7 +16781,7 @@ msgstr "कौशल अपग्रेड करें"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:353
 msgid "Upgrade storage"
-msgstr ""
+msgstr "भंडारण अपग्रेड करें"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:463
 msgid "Upgrade the break room"
@@ -18165,11 +18165,11 @@ msgstr ""
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
-msgstr ""
+msgstr "आपके देश का कोई सहयोगी ऐसा नहीं है जिसके पास क्षेत्र हों।"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:122
 msgid "Your country has no initial region."
-msgstr ""
+msgstr "आपके देश के पास कोई शुरुआती क्षेत्र नहीं है।"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:109
 msgid "Your country is registered"
