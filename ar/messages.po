@@ -10614,7 +10614,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:470
 msgid "More employees, more production."
-msgstr ""
+msgstr "زيادة العمال, زيادة في الانتاج."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "More premium features coming soon!"
@@ -10622,15 +10622,15 @@ msgstr "المزيد من الميزات المميزة قادمة قريباً!
 
 #: src/components/_economy/employee/training.frontConfig.tsx:142
 msgid "More training sessions for this employee."
-msgstr ""
+msgstr "المزيد من الحصص من اجل هذا العامل."
 
 #: src/components/_economy/itemOffer/itemOffer.frontConfig.tsx:11
 msgid "Most expensive"
-msgstr ""
+msgstr "الاغلى"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3647
 msgid "Mostly scrap, but good scrap."
-msgstr ""
+msgstr "اكثرها خردة, لكنها خردة جيدة."
 
 #: src/components/_political/partyMotion/PartyMotion.tsx:91
 msgid "Motion failed"
@@ -10683,11 +10683,11 @@ msgstr "نقل الشركة"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:326
 msgid "Move employee"
-msgstr ""
+msgstr "نقل العامل"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:246
 msgid "Move employee?"
-msgstr ""
+msgstr "هل تريد نقل العامل؟"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:256
 #: src/components/_economy/manager/MoveManagerModal.tsx:201
@@ -10720,7 +10720,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employeeStats.tsx:741
 msgid "Moved recently"
-msgstr ""
+msgstr "تم نقله مؤخرا"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2213
 msgid "Moved to a new company"
