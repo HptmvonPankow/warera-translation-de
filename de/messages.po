@@ -18422,3 +18422,11 @@ msgstr "Vergrößern"
 #: src/components/_layout/LayoutLeftIcons.tsx:160
 msgid "Zoom out"
 msgstr "Verkleinern"
+
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr "Neue Kandidaten"
+
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr "Die gesamte Kandidatenliste wird täglich um 00:00 UTC ersetzt. Durch eine Einstellung wird nur der Platz neu aufgefüllt, aus dem du den Kandidaten eingestellt hast."
