@@ -16342,7 +16342,7 @@ msgstr "Geöffnete Kisten insgesamt"
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:92
 msgid "Total damage"
-msgstr ""
+msgstr "Gesamtschaden"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:38
 msgid "Total damages"
@@ -16366,11 +16366,11 @@ msgstr "Gesamtbelohnung"
 
 #: src/components/_user/user/Level.tsx:154
 msgid "Total XP"
-msgstr ""
+msgstr "Gesamterfahrungspunkte"
 
 #: src/components/_user/mission/ProgressHeader.tsx:130
 msgid "Total XP earned from missions and milestones"
-msgstr ""
+msgstr "Gesamterfahrungspunkte, die von Missionen und Meilensteine gesammelt worden sind"
 
 #: src/components/_military/mu/MuMemberList.tsx:361
 #: src/components/_military/mu/MuMemberList.tsx:401
@@ -16392,7 +16392,7 @@ msgstr "Turnierka­mpf um {tournamentName} {score}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2312
 msgid "Tournament Cancelled"
-msgstr ""
+msgstr "Turnier abgesagt"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2302
 msgid "Tournament Created"
@@ -16420,7 +16420,7 @@ msgstr "Turnier gestartet"
 
 #: src/components/_user/user/UserBadges.tsx:121
 msgid "Tournament Winner"
-msgstr ""
+msgstr "Turniersieger"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2300
 msgid "Tournament Won!"
@@ -16460,15 +16460,15 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:768
 msgid "Train Employees"
-msgstr ""
+msgstr "Mitarbeiter ausbilden"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:741
 msgid "Train to reveal traits"
-msgstr ""
+msgstr "Ausbilden, um die Eigenschaften aufzudecken"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:160
 msgid "Train your employee!"
-msgstr ""
+msgstr "Bilde deine Mitarbeiter aus!"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
@@ -16476,7 +16476,7 @@ msgstr "Auszubildender"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:144
 msgid "Trainer"
-msgstr ""
+msgstr "Ausbilder"
 
 #: src/components/_economy/employee/employeeStats.tsx:199
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:175
@@ -16485,11 +16485,11 @@ msgstr "Training"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:148
 msgid "Training cards"
-msgstr ""
+msgstr "Ausbildungskarten"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:402
 msgid "Training complete."
-msgstr ""
+msgstr "Schulung abgeschlossen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:162
 msgid "Training costs <0>Energy</0> and makes them better."
@@ -16505,7 +16505,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingHistory.tsx:244
 msgid "Training history"
-msgstr ""
+msgstr "Schulungshistorie"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
