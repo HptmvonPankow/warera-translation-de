@@ -2707,7 +2707,7 @@ msgstr ""
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:744
 msgid "<0>{0}</0> when working abroad"
-msgstr "<0>{0}</0> عندما يعمل من بعيد"
+msgstr "<0>{0}</0> عندما في خارج البلد الام"
 
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:316
