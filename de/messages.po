@@ -10994,7 +10994,7 @@ msgstr "Neuer Standort"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3352
 msgid "New mats, new towels, and a fitter, happier shift."
-msgstr ""
+msgstr "Neue Matten, neue Handtücher und eine fittere, zufriedenere Schicht."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:123
 msgid "New Mercenary Auction"
@@ -11010,7 +11010,7 @@ msgstr "Neue Militäreinheit"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:235
 msgid "New missions all the time"
-msgstr ""
+msgstr "Ständig neue Missionen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2321
 msgid "New MU Application"
@@ -11027,7 +11027,7 @@ msgstr "Neue Staatsbürgerschaft"
 
 #: src/components/_military/order/OrderBattleItem.tsx:105
 msgid "New order"
-msgstr ""
+msgstr "Neuer Befehl"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2270
 msgid "New Party Application"
@@ -11039,11 +11039,11 @@ msgstr "Neuer Parteivorsitzender"
 
 #: src/components/_social/poll/PollEditorModal.tsx:177
 msgid "New poll"
-msgstr ""
+msgstr "Neue Umfrage"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:150
 msgid "New preset"
-msgstr ""
+msgstr "Neues Profil"
 
 #: src/components/_political/event/EventList.tsx:109
 #: src/components/_user/notification/notification.frontConfig.tsx:2242
@@ -11086,7 +11086,7 @@ msgstr "Weiter"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:693
 msgid "Next event ({nextCount} left)"
-msgstr ""
+msgstr "Nächstes Ereignis (noch {nextCount})"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:18
 msgid "Next one will be a tank"
@@ -11098,7 +11098,7 @@ msgstr "Die nächste wird bestimmt ein Panzer sein"
 
 #: src/components/_user/user/SkillUpgrade.tsx:298
 msgid "Next point costs"
-msgstr ""
+msgstr "Kosten des nächsten Punktes"
 
 #: src/components/_military/mu/MuLevel.tsx:97
 msgid "Next reward"
@@ -11111,17 +11111,17 @@ msgstr "Nächster Tick"
 #: src/components/_user/milestone/MilestoneItem.tsx:159
 #: src/components/_user/milestone/MilestoneItem.tsx:278
 msgid "Next tier {currentTier}"
-msgstr ""
+msgstr "Nächste Stufe {currentTier}"
 
 #. placeholder {0}: nextToTrain.count
 #: src/components/_economy/employee/EmployeeModal.tsx:418
 msgid "Next to train ({0} left)"
-msgstr ""
+msgstr "Als Nächstes trainieren (noch {0})"
 
 #. placeholder {0}: tutoChapterMeta[nextChapter].label
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:338
 msgid "Next: {0}"
-msgstr ""
+msgstr "Weiter: {0}"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:39
 msgid "Nice"
@@ -11133,7 +11133,7 @@ msgstr "Guter pull"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:385
 msgid "Night classes"
-msgstr ""
+msgstr "Abendkurse"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1814
 msgid "No"
@@ -11145,7 +11145,7 @@ msgstr "Keine aktiven Schlachten"
 
 #: src/components/_military/order/BattleOrderList.tsx:160
 msgid "No active order"
-msgstr ""
+msgstr "Kein aktiver Befehl"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:256
 msgid "No active wars"
@@ -11165,7 +11165,7 @@ msgstr "Noch keine Allianzgesetze"
 
 #: src/components/_social/announcement/AnnouncementList.tsx:57
 msgid "No announcement yet"
-msgstr ""
+msgstr "Noch keine Ankündigung"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:231
 msgid "No API tokens yet. Create one to get started."
@@ -11185,15 +11185,15 @@ msgstr "Noch keine Gebote"
 
 #: src/components/_economy/inventory/Inventory.tsx:529
 msgid "No boots"
-msgstr ""
+msgstr "Keine Stiefel"
 
 #: src/components/_economy/employee/RecruitModal.tsx:149
 msgid "No candidates available"
-msgstr ""
+msgstr "Keine Kandidaten verfügbar"
 
 #: src/components/_economy/inventory/Inventory.tsx:526
 msgid "No chests"
-msgstr ""
+msgstr "Keine Truhen"
 
 #: src/pages/country/[countryId]/citizens.tsx:41
 msgid "No citizens"
@@ -11201,7 +11201,7 @@ msgstr "Keine Bürger"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:140
 msgid "No company is looking for a manager right now."
-msgstr ""
+msgstr "Derzeit sucht kein Unternehmen einen Manager."
 
 #: src/pages/country/[countryId]/government.tsx:178
 msgid "No congress members"
@@ -11209,7 +11209,7 @@ msgstr "Keine Kongressmitglieder"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:485
 msgid "No congress: only the president and vice president vote laws"
-msgstr ""
+msgstr "Kein Kongress: Nur Präsident und Vizepräsident stimmen über Gesetze ab"
 
 #: src/components/_political/contribution/ContributionList.tsx:221
 msgid "No contributions yet"
@@ -11217,7 +11217,7 @@ msgstr "Noch keine Beiträge"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:131
 msgid "No country has registered yet. Be the first."
-msgstr ""
+msgstr "Noch hat sich kein Land registriert. Sei der Erste."
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:170
 msgid "No damages ranking yet."
@@ -11225,7 +11225,7 @@ msgstr "Noch keine Schadensrangliste."
 
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:59
 msgid "No days worked yet"
-msgstr ""
+msgstr "Bisher keine Arbeitstage"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:377
 msgid "No defensive pact"
@@ -11237,23 +11237,23 @@ msgstr "Noch keine Spenden"
 
 #: src/components/_political/govType/GovTypeEffects.tsx:56
 msgid "No effects"
-msgstr ""
+msgstr "Keine Effekte"
 
 #: src/components/_economy/employee/EmployeeList.tsx:351
 msgid "No employees"
-msgstr ""
+msgstr "Keine Mitarbeiter"
 
 #: src/components/_economy/inventory/Inventory.tsx:527
 msgid "No gloves"
-msgstr ""
+msgstr "Keine Handschuhe"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:41
 msgid "No government type chosen yet"
-msgstr ""
+msgstr "Noch keine Regierungsform ausgewählt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1182
 msgid "No grapes"
-msgstr ""
+msgstr "Keine Trauben"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:172
 msgid "No ground ranking yet."
@@ -11261,19 +11261,19 @@ msgstr "Noch keine Boden-Rangliste."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:600
 msgid "No Happiness loss when storage is full"
-msgstr ""
+msgstr "Kein Verlust an Wohlbefinden bei vollem Lager"
 
 #: src/components/_economy/inventory/Inventory.tsx:525
 msgid "No helmets"
-msgstr ""
+msgstr "Keine Helme"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:316
 msgid "No home region set"
-msgstr ""
+msgstr "Keine Heimatregion festgelegt"
 
 #: src/components/_economy/inventory/Inventory.tsx:212
 msgid "No items"
-msgstr ""
+msgstr "Keine Gegenstände"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:284
 #: src/components/_economy/inventory/ItemSelectorModal.tsx:203
@@ -11291,19 +11291,19 @@ msgstr "Noch keine Gesetze"
 #: src/components/_military/tournament/TournamentHeader.tsx:136
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:97
 msgid "No limit"
-msgstr ""
+msgstr "Keine Begrenzung"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:452
 msgid "No longer <0/>"
-msgstr ""
+msgstr "Nicht mehr <0/>"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:78
 msgid "No longer on the roster."
-msgstr ""
+msgstr "Nicht mehr in der Mitarbeiterliste."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:402
 msgid "No market value yet: any price works."
-msgstr ""
+msgstr "Noch kein Marktwert: Jeder Preis ist möglich."
 
 #: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
@@ -11323,7 +11323,7 @@ msgstr "Keine Söldnerverträge"
 
 #: src/components/_user/milestone/MilestonesList.tsx:58
 msgid "No milestones available"
-msgstr ""
+msgstr "Keine Meilensteine verfügbar"
 
 #: src/components/_military/mu/MuList.tsx:91
 msgid "No military units found"
@@ -11331,15 +11331,15 @@ msgstr "Keine Militäreinheiten gefunden"
 
 #: src/components/_social/poll/PollEditorModal.tsx:272
 msgid "No minimum"
-msgstr ""
+msgstr "Kein Minimum"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:478
 msgid "No ministers (vice president only)"
-msgstr ""
+msgstr "Keine Minister (nur der Vizepräsident)"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:468
 msgid "No ministers and no congress: only the president and vice president vote laws"
-msgstr ""
+msgstr "Keine Minister und kein Kongress: Nur Präsident und Vizepräsident stimmen über Gesetze ab"
 
 #: src/components/_user/mission/MissionsList.tsx:320
 msgid "No missions available"
@@ -11355,7 +11355,7 @@ msgstr "Noch keine Anträge"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:129
 msgid "No MU has registered yet. Be the first."
-msgstr ""
+msgstr "Noch hat sich keine Militäreinheit registriert. Sei die erste."
 
 #: src/components/_political/government/Government.tsx:240
 msgid "No one nominated yet"
@@ -11367,7 +11367,7 @@ msgstr "Keine Befehle"
 
 #: src/components/_economy/inventory/Inventory.tsx:528
 msgid "No pants"
-msgstr ""
+msgstr "Keine Hose"
 
 #: src/components/_political/party/PartyList.tsx:95
 msgid "No parties found"
@@ -11375,19 +11375,19 @@ msgstr "Keine Parteien gefunden"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:311
 msgid "No presets saved yet."
-msgstr ""
+msgstr "Noch keine Profile gespeichert."
 
 #: src/components/_user/user/SkillUpgrade.tsx:313
 msgid "No prestige points left, tap to reset staged points"
-msgstr ""
+msgstr "Keine Prestigepunkte mehr übrig. Tippe, um vorgemerkte Punkte zurückzusetzen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2992
 msgid "No prize, but the whole company sang together. Spirits are high."
-msgstr ""
+msgstr "Kein Preis, aber das ganze Unternehmen hat gemeinsam gesungen. Die Stimmung ist großartig."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:145
 msgid "No production yet"
-msgstr ""
+msgstr "Noch keine Produktion"
 
 #: src/components/_user/referral/ReferralList.tsx:88
 msgid "No referrals yet"
@@ -11399,15 +11399,15 @@ msgstr "Noch kein Werber"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:125
 msgid "No region has a lower employee tax than your country."
-msgstr ""
+msgstr "Keine Region hat eine niedrigere Mitarbeitersteuer als dein Land."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1928
 msgid "No romance on the clock"
-msgstr ""
+msgstr "Keine Romanzen während der Arbeitszeit"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:319
 msgid "No skill or stat moves these odds."
-msgstr ""
+msgstr "Keine Fähigkeit und kein Wert beeinflusst diese Wahrscheinlichkeiten."
 
 #: src/components/_user/user/UserEquippedSkins.tsx:139
 msgid "No skins equipped"
@@ -11419,15 +11419,15 @@ msgstr "Kein Erzfeind"
 
 #: src/components/_user/milestone/MilestoneItem.tsx:133
 msgid "No tier yet"
-msgstr ""
+msgstr "Noch keine Stufe"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:185
 msgid "No tool"
-msgstr ""
+msgstr "Kein Werkzeug"
 
 #: src/components/_economy/inventory/Inventory.tsx:694
 msgid "No tools"
-msgstr ""
+msgstr "Keine Werkzeuge"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:143
@@ -11436,7 +11436,7 @@ msgstr "Keine Handelsaufträge"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:743
 msgid "No traits"
-msgstr ""
+msgstr "Keine Eigenschaften"
 
 #: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
@@ -11444,11 +11444,11 @@ msgstr "Keine Transaktionen gefunden"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:442
 msgid "No treaties (alliance, pacts, sworn enemy)"
-msgstr ""
+msgstr "Keine Verträge (Allianz, Pakte, Erzfeindschaft)"
 
 #: src/components/_social/poll/PollVotersModal.tsx:42
 msgid "No votes yet"
-msgstr ""
+msgstr "Noch keine Stimmen"
 
 #: src/pages/country/[countryId]/wars.tsx:32
 msgid "No wars found"
@@ -11456,55 +11456,55 @@ msgstr "Keine Kriege gefunden"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:260
 msgid "No weapons or equipment to dismantle"
-msgstr ""
+msgstr "Keine Waffen oder Ausrüstung zum Zerlegen"
 
 #: src/components/_economy/work/WorkList.tsx:63
 msgid "No work yet"
-msgstr ""
+msgstr "Noch keine Arbeit"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3578
 msgid "Nobody admits to the birthday. The card is now evidence."
-msgstr ""
+msgstr "Niemand gibt zu, Geburtstag zu haben. Die Karte gilt jetzt als Beweis."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2037
 msgid "Nobody gets anything done. Nobody minds."
-msgstr ""
+msgstr "Niemand bekommt etwas erledigt. Es stört auch niemanden."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1558
 msgid "Nobody is happy about it."
-msgstr ""
+msgstr "Niemand freut sich darüber."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3585
 msgid "Nobody knows who the party is for. It is a great party."
-msgstr ""
+msgstr "Niemand weiß, für wen die Feier ist. Es ist eine großartige Party."
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:210
 msgid "Nobody manages this company yet"
-msgstr ""
+msgstr "Dieses Unternehmen hat noch keinen Manager"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:431
 msgid "Nobody sells a similar one yet. The price starts at the estimated value."
-msgstr ""
+msgstr "Noch verkauft niemand etwas Vergleichbares. Der Preis beginnt beim geschätzten Wert."
 
 #: src/pages/market/equipments.tsx:165
 msgid "Nobody sells this item right now"
-msgstr ""
+msgstr "Derzeit verkauft niemand diesen Gegenstand"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2048
 msgid "Nobody takes one. Five kittens now live in the storeroom."
-msgstr ""
+msgstr "Niemand nimmt eines. Jetzt leben fünf Kätzchen im Lagerraum."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3436
 msgid "Nobody wants the ducks. They melt down into scrap."
-msgstr ""
+msgstr "Niemand will die Enten. Sie werden zu Schrott eingeschmolzen."
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:265
 msgid "Nobody works here yet"
-msgstr ""
+msgstr "Hier arbeitet noch niemand"
 
 #: src/components/_user/milestone/MilestoneTiersModal.tsx:121
 msgid "Nobody yet"
-msgstr ""
+msgstr "Noch niemand"
 
 #: src/components/_political/government/Government.tsx:254
 #: src/components/_political/government/NominateForm.tsx:80
@@ -11555,7 +11555,7 @@ msgstr "Nicht genug Papier vorhanden um den täglichen Allianz-Unterhalt zu beza
 
 #: src/pages/events/index.tsx:113
 msgid "Not enough participants"
-msgstr ""
+msgstr "Nicht genügend Teilnehmer"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:36
 msgid "Not impressive, but not shameful"
@@ -11572,15 +11572,15 @@ msgstr "Nicht in einer Allianz"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2839
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2897
 msgid "Not now"
-msgstr ""
+msgstr "Jetzt nicht"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:821
 msgid "Not now, ask again in {retirementStayYears, plural, one {# year} other {# years}}"
-msgstr ""
+msgstr "Jetzt nicht. Frag in {retirementStayYears, plural, one {# Jahr} other {# Jahren}} erneut."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2206
 msgid "Not paid"
-msgstr ""
+msgstr "Nicht bezahlt"
 
 #: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
@@ -11588,11 +11588,11 @@ msgstr "Nicht gesetzt"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:54
 msgid "Not started"
-msgstr ""
+msgstr "Nicht begonnen"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:213
 msgid "not usable in this company"
-msgstr ""
+msgstr "in diesem Unternehmen nicht verwendbar"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:230
 msgid "Not usable in this company"
@@ -11600,25 +11600,25 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
-msgstr ""
+msgstr "Notizen zu einem Arm"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:748
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:228
 msgid "Nothing happens"
-msgstr ""
+msgstr "Es passiert nichts"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2469
 msgid "Nothing hits, but nobody enjoyed working under the siren."
-msgstr ""
+msgstr "Nichts trifft, aber niemand arbeitet gern unter einer Sirene."
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:180
 msgid "Nothing in play. Hit in an ongoing battle to start earning, and take a top damage rank to claim a spot in its loot pool."
-msgstr ""
+msgstr "Noch nichts im Spiel. Triff in einer laufenden Schlacht, um Belohnungen zu verdienen, und erreiche einen Spitzenplatz beim Schaden, um Beute aus dem Beutepool zu erhalten."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:403
 #: src/components/_economy/employee/employee.frontConfig.tsx:421
 msgid "Nothing while alone."
-msgstr ""
+msgstr "Allein passiert nichts."
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:145
@@ -11631,15 +11631,15 @@ msgstr "Benachrichtigungen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1855
 msgid "Now everyone is upset about soup."
-msgstr ""
+msgstr "Jetzt sind alle wegen der Suppe verärgert."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1453
 msgid "Now it is spelled wrong differently."
-msgstr ""
+msgstr "Jetzt ist es auf andere Weise falsch geschrieben."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1374
 msgid "Now there are two of you, and lunch is unbearable."
-msgstr ""
+msgstr "Jetzt seid ihr zu zweit, und das Mittagessen ist unerträglich."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:61
 msgid "Now we're talking!"
@@ -11651,15 +11651,15 @@ msgstr "Anzahl der Spender:"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:690
 msgid "Obtain a badge"
-msgstr ""
+msgstr "Ein Abzeichen erhalten"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:689
 msgid "Obtain a Badge"
-msgstr ""
+msgstr "Ein Abzeichen erhalten"
 
 #: src/components/_political/region/RegionHeader.tsx:131
 msgid "Occupied by"
-msgstr ""
+msgstr "Besetzt von"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:131
 msgid "Occupied region"
@@ -11667,7 +11667,7 @@ msgstr "Besetzte Region"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:827
 msgid "Odds"
-msgstr ""
+msgstr "Wahrscheinlichkeiten"
 
 #: src/components/_political/government/Government.tsx:214
 msgid "of"
@@ -11675,11 +11675,11 @@ msgstr "von"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1801
 msgid "Offer “Senior Worker” instead"
-msgstr ""
+msgstr "Stattdessen „Erfahrener Mitarbeiter“ anbieten"
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:48
 msgid "Offer withdrawn"
-msgstr ""
+msgstr "Angebot zurückgezogen"
 
 #: src/utils/translations.tsx:87
 msgid "Oil"
@@ -11687,7 +11687,7 @@ msgstr "Öl"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1575
 msgid "Oil the hinge"
-msgstr ""
+msgstr "Das Scharnier ölen"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:216
 msgid "OK"
@@ -11695,7 +11695,7 @@ msgstr "OK"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:466
 msgid "OK, remove them"
-msgstr ""
+msgstr "Okay, sie entfernen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:58
 msgid "Okay hacker, chill"
@@ -11707,7 +11707,7 @@ msgstr "Okay okay, nicht schlecht"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:99
 msgid "Old Friends"
-msgstr ""
+msgstr "Alte Freunde"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
@@ -11723,39 +11723,39 @@ msgstr "Bei Vertragsfehlschlag: -1 Ruf pro <0/> Budget und -1 Ruf pro fehlende <
 
 #: src/components/_economy/company/CompanyTags.tsx:79
 msgid "On every employee, before Responsibility"
-msgstr ""
+msgstr "Bei jedem Mitarbeiter, vor Verantwortungsbewusstsein"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:341
 msgid "On fire"
-msgstr ""
+msgstr "In Flammen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2139
 msgid "On strike"
-msgstr ""
+msgstr "Im Streik"
 
 #: src/components/_economy/employee/employeeStats.tsx:895
 msgid "Once a day their manager picks one employee: +{happinessBoost} <0>Happiness</0> for {durationHours}h. Boosts stack."
-msgstr ""
+msgstr "Einmal täglich wählt der Manager einen Mitarbeiter aus: +{happinessBoost} <0>Wohlbefinden</0> für {durationHours} Std. Boni sind stapelbar."
 
 #: src/components/_layout/loadingTips.tsx:261
 msgid "Once every {freeTravelHomeCooldownHours}h, travelling back to your home region is free."
-msgstr ""
+msgstr "Alle {freeTravelHomeCooldownHours} Std. ist die Rückreise in deine Heimatregion kostenlos."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:649
 msgid "Once per employee"
-msgstr ""
+msgstr "Einmal pro Mitarbeiter"
 
 #: src/components/_layout/loadingTips.tsx:508
 msgid "One account per player. Multi-accounting can get you permanently banned."
-msgstr ""
+msgstr "Ein Konto pro Spieler. Mehrere Konten können zu einer dauerhaften Sperre führen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3818
 msgid "One prank goes too far. {name} and {partnerName} are sworn enemies now."
-msgstr ""
+msgstr "Ein Streich geht zu weit. {name} und {partnerName} sind jetzt Erzfeinde."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:77
 msgid "One ruler, fast decisions"
-msgstr ""
+msgstr "Ein Herrscher, schnelle Entscheidungen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:70
 msgid "One step away from legendary..."
@@ -11764,13 +11764,13 @@ msgstr "Nur noch einen Schritt von legendär entfernt..."
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:171
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:175
 msgid "Ongoing battles"
-msgstr ""
+msgstr "Laufende Schlachten"
 
 #. placeholder {0}: myTierStat.percent
 #. placeholder {1}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:247
 msgid "Only {0}% of active players reached tier {1} on this milestone."
-msgstr ""
+msgstr "Nur {0} % der aktiven Spieler haben bei diesem Meilenstein Stufe {1} erreicht."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:501
 msgid "Only a {claustrophobe}."
