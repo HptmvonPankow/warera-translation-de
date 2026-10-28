@@ -16805,7 +16805,7 @@ msgstr ""
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:25
 msgid "Uranium"
-msgstr ""
+msgstr "يورانيوم"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:760
 msgid "Use <0/>"
@@ -17126,7 +17126,7 @@ msgstr "جاري التحقق من أنك إنسان..."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:115
 msgid "Veteran"
-msgstr ""
+msgstr "متمرس"
 
 #: src/components/_layout/LayoutOptions.tsx:203
 msgid "Vibrations"
@@ -17157,7 +17157,7 @@ msgstr "عرض على الخريطة"
 
 #: src/components/_military/battle/BattleHeader.tsx:268
 msgid "Viewers"
-msgstr ""
+msgstr "المشاهدين"
 
 #: src/components/_social/announcement/Announcement.tsx:59
 msgid "Views"
@@ -17187,7 +17187,7 @@ msgstr "الأصوات"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
-msgstr ""
+msgstr "تم غلق التصويت للجميع. لا يمكن التراجع عن الأمر."
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
@@ -17217,7 +17217,7 @@ msgstr "الأجور"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3162
 msgid "Wait for it to restart"
-msgstr ""
+msgstr "انتظره للإعادة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2183
 msgid "Wait it out"
@@ -17389,7 +17389,7 @@ msgstr "بدلة بيضاء، وكل شيء ذهبي"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:315
 msgid "Who's winning?"
-msgstr ""من الفائز؟
+msgstr "من الفائز؟"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:134
 #: src/components/_political/law/LawFormModal.tsx:213
@@ -17437,7 +17437,7 @@ msgstr "سحب الكل"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:43
 msgid "Withdraw all your offers?"
-msgstr ""
+msgstr "سحب كل عروضك؟"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3023
 msgid "Withdraw the company"
@@ -17502,7 +17502,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1473
 msgid "Work anniversary"
-msgstr ""
+msgstr "ذكرى العمل"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2200
 msgid "Worker left"
@@ -17514,11 +17514,11 @@ msgstr "العمال"
 
 #: src/pages/companies.tsx:109
 msgid "Workforce"
-msgstr ""
+msgstr "القوة العاملة"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:115
 msgid "Workforce chart"
-msgstr ""
+msgstr "مخطط القوة العاملة"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
@@ -17538,11 +17538,11 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeModal.tsx:188
 msgid "Works alone"
-msgstr ""
+msgstr "العمل وحيدا"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:144
 msgid "World"
-msgstr ""
+msgstr "عالم"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:65
 msgid "World <0/>"
@@ -17572,7 +17572,7 @@ msgstr "اكتب قانوناً"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:49
 msgid "Write articles"
-msgstr ""
+msgstr "أكتب مقالات"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:436
 msgid "Written by players. Tap News."
@@ -17592,7 +17592,7 @@ msgstr ": العقوبات والاستئنافات"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:88
 msgid "Xenophobe"
-msgstr ""
+msgstr "معاد للأجانب"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:55
 msgid "XP"
@@ -17612,7 +17612,7 @@ msgstr ""
 
 #: src/components/_user/notification/NotificationList.tsx:90
 msgid "Yesterday"
-msgstr ""
+msgstr "البارحة"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:183
 msgid "You already got its reward."
@@ -17676,7 +17676,7 @@ msgstr "أنت لا تشارك"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:95
 msgid "You are paid hourly and can resign after 24h."
-msgstr ""
+msgstr "سوف يدفع لك كل ساعة و يمكنك الإستقالة بعد 24س."
 
 #: src/components/_military/hit/HitButton.tsx:461
 msgid "You are standing in this region, so you can fight here."
@@ -17813,7 +17813,7 @@ msgstr ""
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:255
 msgid "You have no employees yet"
-msgstr ""
+msgstr "ليس لديك عمال بعد"
 
 #: src/components/_economy/employee/MoveShell.tsx:90
 msgid "You have no other company to move them to"
@@ -17821,7 +17821,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:55
 msgid "You have nothing on sale"
-msgstr ""
+msgstr "ليس لديك شيئ معروض للبيع"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1934
 msgid "You have prestiged! Enjoy your permanent XP bonus and prestige point."
@@ -17914,11 +17914,11 @@ msgstr "لقد سددت فواتير المطور <3 (ضمن المراكز ال
 
 #: src/components/_economy/employee/CostPerPp.tsx:63
 msgid "You pay"
-msgstr ""
+msgstr "ستدفع"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:169
 msgid "You pay, tax included"
-msgstr ""
+msgstr " ستدفع، مع احتساب الضرائب"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1249
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
@@ -17935,7 +17935,7 @@ msgstr "سوف تحصل على"
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:490
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:518
 msgid "You receive {value}"
-msgstr ""
+msgstr "{value} لقد تحصلت على"
 
 #. placeholder {0}: data.rank
 #: src/components/_user/notification/notification.frontConfig.tsx:1463
@@ -17983,7 +17983,7 @@ msgstr "أنت محظوظ جداً"
 
 #: src/components/_political/election/Election.tsx:227
 msgid "You voted for this candidate"
-msgstr ""
+msgstr "لقد صوت لهذا المترشح"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:104
 msgid "You voted in a major election"
@@ -18156,7 +18156,7 @@ msgstr "بلدك يركز بالفعل على <0/>. وتحديد هذه المن
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:277
 msgid "Your country has its own Discord. Join your fellow citizens there."
-msgstr ""
+msgstr "بلد لديها ديسكور خاص بها. انضم الى أبناء بلد هناك"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
@@ -18208,7 +18208,7 @@ msgstr "بريدك الإلكتروني"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:141
 msgid "Your employee's stats"
-msgstr ""
+msgstr "الحالة الخاصة لعمالك"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:63
 msgid "Your employees produce nothing right now, so a manager would add nothing."
@@ -18287,7 +18287,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:525
 msgid "Your military skills"
-msgstr ""
+msgstr "مهاراتك العسكرية"
 
 #: src/components/_military/mu/MuFormModal.tsx:106
 msgid "Your military unit name"
@@ -18373,7 +18373,7 @@ msgstr "رابط الإحالة الخاص بك"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:251
 msgid "Your reward"
-msgstr ""
+msgstr "جائزتك"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1581
 msgid "Your team <0/> has been eliminated from the <1/>"
@@ -18389,7 +18389,7 @@ msgstr "فريقك:"
 
 #: src/components/_political/election/Election.tsx:230
 msgid "Your vote"
-msgstr ""
+msgstr "تصويتك"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
