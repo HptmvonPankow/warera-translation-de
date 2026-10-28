@@ -48,7 +48,7 @@ msgstr " - Herhaalde donaties van middelen of geld aan een militaire eenheid of 
 
 #: src/components/_common/GameRules.tsx:175
 msgid " - Repeatedly tipping articles"
-msgstr " - Herhaaldelijk fooien geven aan artikelen"
+msgstr " - Herhaaldelijk fooien geven aan artikels"
 
 #: src/components/_common/GameRules.tsx:167
 msgid " - Using outside market standards or manipulated trade prices"
@@ -370,7 +370,7 @@ msgstr "{count, plural, one {<0>Land <1/> kritische treffer</0>} other {<2>Land 
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>Like <1/> artikel</0>} other {<2>Like <3/> artikels</2>}}"
+msgstr "{count, plural, one {<0>Vind <1/> artikel</0> leuk} other {<2>Vind <3/> artikels</2>} leuk}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
@@ -402,7 +402,7 @@ msgstr "{count, plural, one {<0>Zendt <1/> bericht</0>} other {<2>Zendt <3/> ber
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr "{count, plural, one {<0>Zorg <1/> keer voor een werknemer keer in één van uw bedrijven</0>} other {<2>Zorg <3/> keer voor een werknemer keer in één van uw bedrijven</2>}}"
+msgstr "{count, plural, one {<0>Zorg <1/> keer voor een werknemer keer in één van jouw bedrijven</0>} other {<2>Zorg <3/> keer voor een werknemer keer in één van jouw bedrijven</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
@@ -410,7 +410,7 @@ msgstr "{count, plural, one {<0>Geef fooi aan <1/> artikel</0>} other {<2>Geef f
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr "{count, plural, one {<0>Train uw werknmers <1/> keer</0>} other {<2>Train uw werknmers <3/> keer</2>}}"
+msgstr "{count, plural, one {<0>Train jouw werknemer <1/> keer</0>} other {<2>Train jouw werknemers <3/> keer</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
@@ -418,11 +418,11 @@ msgstr "{count, plural, one {<0>Reis <1/> keer naar een andere region</0>} other
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr {count, plural, one {<0>Upgrade uw vaardigheden <1/> keer</0>} other {<2>Upgrade uw vaardigheden <3/> keer</2>}}""
+msgstr {count, plural, one {<0>Upgrade jouw vaardigheid <1/> keer</0>} other {<2>Upgrade jouw vaardigheden <3/> keer</2>}}""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>Werk <1/> keer in uw bedrijven</0>} other {<2>Werk <3/> keer in uw bedrijven</2>}}"
+msgstr "{count, plural, one {<0>Werk <1/> keer in jouw bedrijf</0>} other {<2>Werk <3/> keer in jouw bedrijven</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
@@ -450,7 +450,7 @@ msgstr "{finder} en anderen vonden {toolboxes} voor u om te claimen."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr "{finder} vond {toolboxes} voor u om te claimen."
+msgstr "{finder} vond {toolboxes} om te claimen."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
@@ -467,11 +467,11 @@ msgstr "{gain} elke {perDays} dagen bij hetzelfde bedrijf, tot maximaal {cap}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1169
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
-msgstr "{gender, select, male {{name} aanvaardt gedroogd fruit, onder protest.} female {{name} aanvaardt gedroogd fruit, onder protest.} other {{name} aanvaardt gedroogd fruit, onder protest.}}"
+msgstr "{gender, select, male {{name} aanvaardt de niet-pitloze druiven, onder protest.} female {{name} aanvaardt de niet-pitloze druiven, onder protest.} other {{name} aanvaardt de niet-pitloze druiven, onder protest.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:847
 msgid "{gender, select, male {{name} and {partnerName} have been eating lunch together every day. He clearly enjoys it.} female {{name} and {partnerName} have been eating lunch together every day. She clearly enjoys it.} other {{name} and {partnerName} have been eating lunch together every day.}}"
-msgstr "{gender, select, male {{name} en {partnerName} hebben vandaag samen geluncht. Hij geniet daar duidelijk van.} female {{name} en {partnerName} hebben vandaag samen geluncht. Zij geniet daar duidelijk van.} other {{name} en {partnerName} hebben vandaag samen geluncht.}}"
+msgstr "{gender, select, male {{name} en {partnerName} hebben altijd samen geluncht. Hij geniet daar duidelijk van.} female {{name} en {partnerName} hebben altijd samen geluncht. Zij geniet daar duidelijk van.} other {{name} en {partnerName} hebben altijd samen geluncht.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1258
 msgid "{gender, select, male {{name} apologizes harder.} female {{name} apologizes harder.} other {{name} apologizes harder.}}"
@@ -483,7 +483,7 @@ msgstr "{gender, select, male {{name} blijft zich verontschuldigen, tot het eind
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3851
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr "{gender, select, male {{name} is beetgenomen en heeft nood aan een vrije namiddag.} female {{name} is beetgenomen en heeft nood aan een vrije namiddag.} other {{name} is beetgenomen en heeft nood aan een vrije namiddag.}}"
+msgstr "{gender, select, male {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.} female {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.} other {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1431
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
