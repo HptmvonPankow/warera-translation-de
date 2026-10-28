@@ -86,7 +86,7 @@ msgstr "(gemiddelde ledenontwikkeling)"
 
 #: src/components/_economy/employee/employeeStats.tsx:757
 msgid "(coworker)"
-msgstr "(medewerker)"
+msgstr "(collega)"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
@@ -99,7 +99,7 @@ msgstr "(eigen ontwikkeling)"
 #. placeholder {0}: others.length
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:602
 msgid "{0, plural, one {# coworker} other {# coworkers}}"
-msgstr "{0, plural, one {# medewerker} other {# medewerkers}}"
+msgstr "{0, plural, one {# collega} other {# collega's}}"
 
 #. placeholder {0}: hours / 24
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:60
@@ -114,7 +114,7 @@ msgstr "{0, plural, one {# werknemer} other {# werknemers}}"
 #. placeholder {0}: data.managerCount
 #: src/components/_economy/employee/WorkforceSummary.tsx:470
 msgid "{0, plural, one {# manager} other {# managers}}"
-msgstr "{0, plural, one {# directeur} other {# directeurs}}"
+msgstr "{0, plural, one {# manager} other {# managers}}"
 
 #. placeholder {0}: conversation.memberCount
 #: src/components/_political/chat/ChatConversationItem.tsx:201
@@ -175,7 +175,7 @@ msgstr "{0} geleden"
 #. placeholder {0}: damagesPercent(effects.allianceBonusDelta)
 #: src/components/_political/govType/govType.frontConfig.tsx:259
 msgid "{0} alliance bonus when fighting for an ally"
-msgstr "{0} alliantie bonus bij het vechten voor een bondgenoot"
+msgstr "{0} alliantiebonus bij het vechten voor een bondgenoot"
 
 #. placeholder {0}: formatKm(homeDistanceKm)
 #: src/components/_layout/LayoutMapUserMenu.tsx:331
@@ -200,22 +200,22 @@ msgstr "{0} dagen afkoelperiode"
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:192
 msgid "{0} development income"
-msgstr "{0} ontwikkelings inkomen"
+msgstr "{0} ontwikkelingsinkomen"
 
 #. placeholder {0}: developmentPercent(conquered)
 #: src/components/_political/govType/govType.frontConfig.tsx:214
 msgid "{0} development income from conquered regions"
-msgstr "{0} ontwikkelings inkomen van veroverde regio's"
+msgstr "{0} ontwikkelingsinkomen uit veroverde regio's"
 
 #. placeholder {0}: developmentPercent(core)
 #: src/components/_political/govType/govType.frontConfig.tsx:199
 msgid "{0} development income from core regions"
-msgstr "{0} ontwikkelings inkomsten uit kern regio's"
+msgstr "{0} ontwikkelingsinkomen uit kernregio's"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:32
 msgid "{0} energy for the update, once per account."
-msgstr "{0} energie voor de update, eenmaal per account"
+msgstr "{0} energie voor de update, eenmaal per account."
 
 #. placeholder {0}: user.data.leveling.freeReset
 #: src/components/_user/user/UserSkills.tsx:336
@@ -237,7 +237,7 @@ msgstr "{0} uur"
 #. placeholder {0}: employee.name
 #: src/components/_economy/employee/EmployeeNameTags.tsx:58
 msgid "{0} is waiting for your decision."
-msgstr "{0} is op je besluit aan het wachten. "
+msgstr "{0} is op je besluit aan het wachten."
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
@@ -248,7 +248,7 @@ msgstr "{0} heeft je overboden met ${1}/K"
 #. placeholder {0}: moneyPercent(effects.incomeTaxMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:235
 msgid "{0} payroll and manager tax income"
-msgstr "{0} loon en directeurs belasting inkomen"
+msgstr "{0} inkomen uit loon- en managersbelasting"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:692
@@ -268,7 +268,7 @@ msgstr "{0} rondes nodig om dit gevecht te winnen."
 #. placeholder {0}: moneyPercent(effects.strategicResourceIncomeMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:225
 msgid "{0} strategic resource income"
-msgstr "{0} strategische grondstof inkomsten"
+msgstr "{0} inkomen uit strategische grondstoffen"
 
 #. placeholder {0}: itemName(rarity)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:244
@@ -322,31 +322,31 @@ msgstr "{completedCount}/{totalCount} voltooid"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:307
 msgid "{contribution} when anyone in the event has it."
-msgstr "{contribution} wanneer iedereen in het evenement het heeft."
+msgstr "{contribution} wanneer iemand in de gebeurtenis het heeft."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr "{count, plural, one {<0>Answer <1/> werknemer evenement</0>} other {<2>Answer <3/> werknemer evenementen</2>}}"
+msgstr "{count, plural, one {<0>Beantwoord <1/> werknemersgebeurtenis</0>} other {<2>Beantwoord <3/> werknemersgebeurtenissen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
-msgstr "{count, plural, one {<0>Draag bij aan bouwprojecten <1/> maal</0>} other {<2>Draag bij aan bouwprojecten <3/> maal</2>}}"
+msgstr "{count, plural, one {<0>Draag bij aan bouwprojecten <1/> keer</0>} other {<2>Draag bij aan bouwprojecten <3/> keer</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr "{count, plural, one {<0>Draag bij aan verzet <1/> maal</0>} other {<2>Draag bij aan verzet<3/> maal</2>}}"
+msgstr "{count, plural, one {<0>Draag <1/> keer bij aan het verzet</0>} other {<2>Draag <3/> keer bij aan het verzet</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr "{count, plural, one {<0>Maak <1/> voorwerp</0>} other {<2>Maak <3/> voorwerpen </2>}}"
+msgstr "{count, plural, one {<0>Maak <1/> voorwerp</0>} other {<2>Maak <3/> voorwerpen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr "{count, plural, one {<0>Kruis <1/> regio op de map</0>} other {<2>Kruis <3/> regio's op de map</2>}}"
+msgstr "{count, plural, one {<0>Doorkruis <1/> regio op de kaart</0>} other {<2>Doorkruis <3/> regio's op de kaart</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr "{count, plural, one {<0>Demonteer <1/> voorwerp</0>} other {<2>Demonteer <3/> voorwerpen </2>}}"
+msgstr "{count, plural, one {<0>Demonteer <1/> voorwerp</0>} other {<2>Demonteer <3/> voorwerpen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
@@ -354,27 +354,27 @@ msgstr "{count, plural, one {<0>Ontwijk <1/> aanval</0>} other {<2>Ontwijk <3/> 
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr "{count, plural, one {<0>Eet <1/> voeding voorwerp</0>} other {<2>Eet <3/> voeding voorwerpen </2>}}"
+msgstr "{count, plural, one {<0>Eet <1/> voedingsmiddel</0>} other {<2>Eet <3/> voedingsmiddelen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr "{count, plural, one {<0>Help <1/> ME lid</0>} other {<2>Help <3/> ME leden</2>}}"
+msgstr "{count, plural, one {<0>Help <1/> ME-lid</0>} other {<2>Help <3/> ME-leden</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr "{count, plural, one {<0>Tref <1/> maal in gevechten</0>} other {<2>Tref <3/> maal in gevechten</2>}}"
+msgstr "{count, plural, one {<0>Tref <1/> keer in een gevecht</0>} other {<2>Tref <3/> keer in gevechten</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
-msgstr "{count, plural, one {<0>Land <1/> kritische treffer</0>} other {<2>Land <3/> kritische treffer</2>}}"
+msgstr "{count, plural, one {<0>Deel <1/> kritieke treffer uit</0>} other {<2>Deel <3/> kritieke treffers uit</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>Like <1/> artikel</0>} other {<2>Like <3/> artikels</2>}}"
+msgstr "{count, plural, one {<0>Vind <1/> artikel leuk</0>} other {<2>Vind <3/> artikelen leuk</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
-msgstr "{count, plural, one {<0>Like <1/> bericht</0>} other {<2>Like <3/> berichten</2>}}"
+msgstr "{count, plural, one {<0>Vind <1/> bericht leuk</0>} other {<2>Vind <3/> berichten leuk</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:467
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
@@ -382,15 +382,15 @@ msgstr "{count, plural, one {<0>Verzamel <1/> voorwerp op het slagveld</0>} othe
 
 #: src/components/_user/mission/mission.frontConfig.tsx:322
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
-msgstr "{count, plural, one {<0>Deel mee in <1/> gevecht</0>} other {<2>Deel mee in <3/> gevechten</2>}}"
+msgstr "{count, plural, one {<0>Neem deel aan <1/> gevecht</0>} other {<2>Neem deel aan <3/> gevechten</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:704
 msgid "{count, plural, one {<0>Produce items <1/> time</0>} other {<2>Produce items <3/> times</2>}}"
-msgstr "{count, plural, one {<0>Produceer <1/> voorwerp</0>} other {<2>Produceer voorwerp <3/> maal</2>}}"
+msgstr "{count, plural, one {<0>Produceer <1/> keer voorwerpen</0>} other {<2>Produceer <3/> keer voorwerpen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:521
 msgid "{count, plural, one {<0>Read <1/> article</0>} other {<2>Read <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>Lees <1/> artikel</0>} other {<2>Lees <3/> artikels</2>}}"
+msgstr "{count, plural, one {<0>Lees <1/> artikel</0>} other {<2>Lees <3/> artikelen</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
@@ -3697,7 +3697,7 @@ msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:97
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
-msgstr "Er is een strategische hulpbron gevonden in deze regio, die de eigenaar een productie- en ontwikkelingsbonus geeft."
+msgstr "Er is een strategische grondstof gevonden in deze regio, die de eigenaar een productie- en ontwikkelingsbonus geeft."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:637
 msgid "A stray cat"
@@ -14833,16 +14833,16 @@ msgstr "Strategisch"
 
 #: src/pages/region/[regionId]/index.tsx:96
 msgid "Strategic resource"
-msgstr "Strategische bron"
+msgstr "Strategische grondstof"
 
 #: src/components/_layout/map.frontConfig.tsx:74
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:57
 msgid "Strategic resources"
-msgstr "Strategische middelen"
+msgstr "Strategische grondstoffen"
 
 #: src/components/_political/event/event.frontConfig.tsx:436
 msgid "Strategic resources have been reshuffled across the whole map."
-msgstr "Strategische middelen zijn over de hele kaart herschikt."
+msgstr "Strategische grondstoffen zijn over de hele kaart herschikt."
 
 #: src/pages/country/[countryId]/index.tsx:407
 msgid "Strategic resources income"
@@ -15714,7 +15714,7 @@ msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:113
 msgid "The strategic resource will be reshuffled in the following amount of time."
-msgstr "De strategische grondstof zal in de volgende tijd worden herschud."
+msgstr "De strategische grondstof wordt binnen de volgende tijd herschikt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:355
 msgid "The streak holds for days. Output is way up."
