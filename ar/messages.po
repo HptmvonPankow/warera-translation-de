@@ -6997,7 +6997,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:254
 msgid "Each level opens something new."
-msgstr ""
+msgstr "كل مستوى يفتح شيئا جديدا."
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:138
 msgid "Each Management point adds {pointPercent}% production to every employee: from {bonusAtZero}% at level 0 to {bonusAtMax}% at level {MAX_LEVEL}."
@@ -7087,7 +7087,7 @@ msgstr "المهارات الاقتصادية"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:627
 msgid "Economy"
-msgstr ""
+msgstr "الإقتصاد"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:165
 msgid "Economy & Companies"
@@ -7095,7 +7095,7 @@ msgstr "الإقتصاد والشركات"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:71
 msgid "Economy first"
-msgstr ""
+msgstr "الإقتصاد اولا"
 
 #: src/components/_military/order/BattleOrderActions.tsx:91
 msgid "Edit"
@@ -7123,7 +7123,7 @@ msgstr "تعديل أمر الوحدة العسكرية"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:281
 msgid "Edit name"
-msgstr ""
+msgstr "تعديل الإسم"
 
 #: src/components/_social/poll/PollEditorModal.tsx:177
 msgid "Edit poll"
@@ -7131,7 +7131,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerOfferDropdown.tsx:40
 msgid "Edit position"
-msgstr ""
+msgstr "تعديل الموقع"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:95
 msgid "Edit resistance focus"
@@ -7155,7 +7155,7 @@ msgstr "الفعلي:"
 
 #: src/components/_political/election/Election.tsx:220
 msgid "Elected"
-msgstr ""
+msgstr "منتخب"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2235
 msgid "Election candidacy open"
@@ -7220,7 +7220,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeTags.tsx:262
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:86
 msgid "Employee"
-msgstr ""
+msgstr "عامل"
 
 #: src/components/_economy/manager/manager.hooks.ts:189
 msgid "Employee cared for"
@@ -7241,7 +7241,7 @@ msgstr ""
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:150
 msgid "Employee moved"
-msgstr ""
+msgstr "العامل تحرك"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:936
 msgid "Employee Production"
@@ -7253,7 +7253,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:48
 msgid "Employee renamed!"
-msgstr ""
+msgstr "تم تغيير اسم العامل!"
 
 #: src/components/_economy/company/CompanyTags.tsx:59
 #: src/components/_economy/company/CompanyTags.tsx:72
@@ -7263,7 +7263,7 @@ msgstr ""
 #: src/components/_political/law/law.frontConfig.tsx:66
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:64
 msgid "Employee tax"
-msgstr ""
+msgstr "ضرائب العامل"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:287
 #: src/components/_economy/work/WorkChart.tsx:252
@@ -7271,7 +7271,7 @@ msgstr ""
 #: src/components/_political/region/RegionHeader.tsx:123
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Employees"
-msgstr ""
+msgstr "عمال"
 
 #: src/components/_political/map/MapMenu.tsx:588
 #: src/components/_political/region/RegionHeader.tsx:126
@@ -7315,7 +7315,7 @@ msgstr "سروال مسحور"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:853
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1917
 msgid "Encourage it"
-msgstr ""
+msgstr "شجعه"
 
 #: src/components/_political/law/law.frontConfig.tsx:326
 msgid "End an existing defensive pact with another country"
@@ -7355,7 +7355,7 @@ msgstr "الطاقة"
 
 #: src/components/_user/user/EnergyGiftAlert.tsx:18
 msgid "Energy gift claimed!"
-msgstr ""
+msgstr "تم جمع هدية الطاقة!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1727
 msgid "Enlist it"
@@ -7435,13 +7435,13 @@ msgstr "خطأ"
 
 #: src/components/_political/region/RegionTooltip.tsx:101
 msgid "Est. daily income"
-msgstr ""
+msgstr "الدخل اليومي .المقدر"
 
 #: src/components/_political/country/CountryHeader.tsx:195
 #: src/components/_political/map/MapMenu.tsx:563
 #: src/components/_political/region/RegionHeader.tsx:84
 msgid "Estimated daily income"
-msgstr ""
+msgstr "الدخل اليومي المقدر"
 
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:41
 msgid "Estimated from current development, rosters, managers and tax rates. Updated hourly."
@@ -7456,11 +7456,11 @@ msgstr "الحد الأدنى للوقت المقدر لهذا الطرف للف
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:53
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:57
 msgid "Estimated profit"
-msgstr ""
+msgstr "الربح المقدر"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:538
 msgid "Estimated toolboxes found per day"
-msgstr ""
+msgstr "صناديق الادوات المقدرة في اليوم"
 
 #: src/components/_economy/company/CompanyHeader.tsx:32
 msgid "Estimated value"
@@ -7474,7 +7474,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeStats.tsx:532
 #: src/components/_economy/employee/employeeStats.tsx:707
 msgid "Event"
-msgstr ""
+msgstr "حدث"
 
 #: src/components/_economy/employee/employeeStats.tsx:369
 msgid "Event Luck checks"
@@ -7555,11 +7555,11 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:261
 msgid "Everyone can vote"
-msgstr ""
+msgstr "الكل يستطيعون التصويت"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1556
 msgid "Everyone drinks water now"
-msgstr ""
+msgstr "الجميع يشرب الماء الآن"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2511
 msgid "Everyone eats the beige. Nobody says a word."
@@ -7579,7 +7579,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1045
 msgid "Everyone laughs, you included."
-msgstr ""
+msgstr "الجميع يضحك، بما فيهم أنت."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1723
 msgid "Everyone salutes the General on the way in. It takes a while."
@@ -7591,11 +7591,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2989
 msgid "Everyone sings"
-msgstr ""
+msgstr "الجميع يغني"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2457
 msgid "Everyone to the shelter"
-msgstr ""
+msgstr "الجميع الى الملجئ"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2460
 msgid "Everyone waits it out in the shelter, playing cards by candlelight."
@@ -7629,7 +7629,7 @@ msgstr "الغنيمة المتوقعة"
 #: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
-msgstr ""
+msgstr "الراتب المتوقع"
 
 #. placeholder {0}: Math.round(entry.delta * 100)
 #: src/components/_economy/employee/TrainingHistory.tsx:141
@@ -7693,7 +7693,7 @@ msgstr "يُمنع استغلال الثغرات البرمجية أو تجاه�
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:545
 msgid "Explore the map!"
-msgstr ""
+msgstr "استكشف الخريطة!"
 
 #: src/components/_common/GameRules.tsx:269
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
@@ -7726,7 +7726,7 @@ msgstr "فشل بدء تسجيل الدخول باستخدام جوجل. يرج�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:189
 msgid "Failure"
-msgstr ""
+msgstr "فشل"
 
 #: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
@@ -7855,7 +7855,7 @@ msgstr "تمويل المقاومة في <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2937
 msgid "Find a better horoscope"
-msgstr ""
+msgstr "ابحث عن برج أفضل"
 
 #: src/pages/companies.tsx:86
 msgid "Find a job"
@@ -7871,7 +7871,7 @@ msgstr "العثور على وحدة عسكرية"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2206
 msgid "Find it first"
-msgstr ""
+msgstr "جدها اولا"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3569
 msgid "Find out whose it is"
@@ -7887,7 +7887,7 @@ msgstr ""
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:42
 msgid "Finished: your reward is waiting"
-msgstr ""
+msgstr "انتهى: جائزتك بإنتظارك"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:399
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:264
@@ -7898,11 +7898,11 @@ msgstr "طرد"
 #: src/components/_user/user/UserEffectSelector.tsx:62
 msgctxt "username effect: flames"
 msgid "Fire"
-msgstr ""
+msgstr "طرد"
 
 #: src/components/_economy/employee/useConfirmFire.tsx:35
 msgid "Fire employee?"
-msgstr ""
+msgstr "طرد العامل؟"
 
 #: src/components/_political/government/Government.tsx:275
 msgid "Fire government member"
@@ -7934,7 +7934,7 @@ msgstr "سمك"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1452
 msgid "Fixed. It looks great."
-msgstr ""
+msgstr "تم اصلاحه. انه يبدو رائعا."
 
 #: src/components/_layout/LayoutOptions.tsx:147
 msgid "Flags"
@@ -7946,11 +7946,11 @@ msgstr "مخباط"
 
 #: src/utils/translations.tsx:275
 msgid "Flask"
-msgstr ""
+msgstr "معزز"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
-msgstr ""
+msgstr "خطر الطيران"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:391
 msgid "Focus on you"
@@ -7991,7 +7991,7 @@ msgstr "تم تحديث الخط"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:86
 msgid "for"
-msgstr ""
+msgstr "من أجل"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:117
 msgid "for {durationHours}h. One pick per day, boosts stack."
@@ -8007,15 +8007,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3593
 msgid "For luck"
-msgstr ""
+msgstr "من أجل الحظ"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:687
 msgid "Forbid it"
-msgstr ""
+msgstr "امنعه"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3214
 msgid "Forbid the race"
-msgstr ""
+msgstr "امنع السباق"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Foreman"
@@ -8027,7 +8027,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2723
 msgid "Forget you heard it"
-msgstr ""
+msgstr "انسى انك سمعته"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:479
 msgid "Forgets their experience in {good}"
