@@ -13945,7 +13945,7 @@ msgstr ""
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:218
 msgid "Same price for all items"
-msgstr ""
+msgstr "نفس السعر لكل العناصر"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:135
@@ -13969,12 +13969,12 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:276
 msgid "Save!"
-msgstr ""
+msgstr "حفظ"
 
 #: src/components/_social/Article.tsx:159
 #: src/components/_social/ArticleList.tsx:238
 msgid "Saved"
-msgstr ""
+msgstr "تم الحفظ"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:417
 msgid "Say hello!"
@@ -13986,7 +13986,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1249
 msgid "Say it again, slowly"
-msgstr ""
+msgstr "قلها مجددا،لكن ببطئ"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:484
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:549
@@ -14076,7 +14076,7 @@ msgstr "اختيار دولة"
 
 #: src/components/_political/law/LawFormModal.tsx:336
 msgid "Select a government type"
-msgstr ""
+msgstr "اختيار نوع الحكومة"
 
 #: src/components/_military/mu/MuFormModal.tsx:112
 msgid "Select a location"
