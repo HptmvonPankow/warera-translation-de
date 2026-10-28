@@ -17174,7 +17174,7 @@ msgstr "صوت في انتخابات"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:151
 msgid "Vote in elections"
-msgstr ""
+msgstr "التصويت في الإنتخابات"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:103
 msgid "Voter"
@@ -17183,7 +17183,7 @@ msgstr "ناخب"
 #: src/components/_political/election/Election.tsx:130
 #: src/components/_political/election/Election.tsx:220
 msgid "Votes"
-msgstr ""
+msgstr "الأصوات"
 
 #: src/components/_social/poll/PollCard.tsx:435
 msgid "Voting closes now for everyone. This can't be undone."
@@ -17205,7 +17205,7 @@ msgstr "تغير الأجر"
 
 #: src/components/_economy/employee/employeeTags.tsx:154
 msgid "Wage expectation"
-msgstr ""
+msgstr "الأجر المتوقع"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2216
 msgid "Wage reduction proposed"
@@ -17213,7 +17213,7 @@ msgstr "تم اقتراح تخفيض الأجر"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:61
 msgid "Wages"
-msgstr ""
+msgstr "الأجور"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3162
 msgid "Wait for it to restart"
@@ -17325,7 +17325,7 @@ msgstr "أهلاً بعودتك {username}!"
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:95
 msgid "Welcome back, <0/>"
-msgstr ""
+msgstr "مرحبا بعودتك, <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:989
 msgid "Welcome to <0/>! Read its article when you have a moment: <1/>"
@@ -17365,7 +17365,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:188
 msgid "What do you want to ask?"
-msgstr ""
+msgstr "ما الذي تريد أن تسأله؟"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:246
 msgid "What each level opens"
@@ -17389,7 +17389,7 @@ msgstr "بدلة بيضاء، وكل شيء ذهبي"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:315
 msgid "Who's winning?"
-msgstr ""
+msgstr ""من الفائز؟
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:134
 #: src/components/_political/law/LawFormModal.tsx:213
@@ -17419,7 +17419,7 @@ msgstr "مع مكافأة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:262
 msgid "With the right parts, the tool is as good as new."
-msgstr ""
+msgstr "بواسطة الأجزاء المناسبة، ستكون الأداة جيدة كأنها جديدة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3346
 msgid "With you sweating along, the whole shift works harder, and grumbles."
@@ -17433,7 +17433,7 @@ msgstr "انسحاب"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:48
 msgid "Withdraw all"
-msgstr ""
+msgstr "سحب الكل"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:43
 msgid "Withdraw all your offers?"
@@ -17441,16 +17441,16 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3023
 msgid "Withdraw the company"
-msgstr ""
+msgstr "سحب الشركة"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:100
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:237
 msgid "Withdraw this offer?"
-msgstr ""
+msgstr "سحب هذا العرض؟"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3882
 msgid "Within the hour, everyone understands the note."
-msgstr ""
+msgstr "خلال ساعة، الجميع فهم الملحوظة"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
@@ -17459,7 +17459,7 @@ msgstr "قبعة ساحر"
 #: src/components/_economy/employee/employee.frontConfig.tsx:484
 #: src/components/_economy/employee/employee.frontConfig.tsx:512
 msgid "Women only."
-msgstr ""
+msgstr "نساء فقط"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:91
 #: src/pages/events/index.tsx:116
