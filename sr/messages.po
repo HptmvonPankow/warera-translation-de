@@ -2029,7 +2029,7 @@ msgstr "+4 потенцијала за обуку: три обуке више н
 msgid "<0/> & <1/>"
 msgstr "<0/> и <1/>"
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4587,7 +4587,7 @@ msgstr "Доступно за"
 msgid "Available now"
 msgstr "Доступно сада"
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "Аватар уклоњен"
 
@@ -4894,7 +4894,7 @@ msgstr "Рођенданска капа за прву годину Бете"
 msgid "Blacksmith's Hammer"
 msgstr "Ковачки чекић"
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "Блокирај (сакриј садржај)"
 
@@ -5261,7 +5261,7 @@ msgstr "Кандидатура је отворена за <0/>"
 msgid "Candidate"
 msgstr "Кандидат"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5704,7 +5704,7 @@ msgstr "Сакупи сандучиће на мапи"
 msgid "Colonel"
 msgstr "Пуковник"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "Шема боја"
@@ -5758,7 +5758,7 @@ msgstr "Заједница"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6714,7 +6714,7 @@ msgstr "Опис"
 msgid "Description (Optional)"
 msgstr "Опис (опционо)"
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "Опис уклоњен"
 
@@ -7105,7 +7105,7 @@ msgstr "Измени"
 msgid "Edit country order"
 msgstr "Измени наређење земље"
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "Измени опис"
 
@@ -7621,7 +7621,7 @@ msgstr "Гастарбајтер"
 msgid "Expected loot"
 msgstr "Очекивани плен"
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr "Очекивана плата"
@@ -7976,7 +7976,7 @@ msgstr "Фонт"
 msgid "Font size"
 msgstr "Величина фонта"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "Стил фонта"
 
@@ -8228,7 +8228,7 @@ msgstr "Поклон послат! Скин пакет је откључан з�
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Поклон послат! Хвала на подршци игри <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "Поклони претплату подржаваоца"
 
@@ -9035,7 +9035,7 @@ msgstr "Представи се!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9852,7 +9852,7 @@ msgstr "Пријави се да гласаш."
 msgid "Login"
 msgstr "Пријави се"
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "Одјави се"
 
@@ -10968,6 +10968,10 @@ msgstr "Нови API токен креиран"
 msgid "New article"
 msgstr "Нови чланак"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "Нови коментар"
@@ -10976,7 +10980,7 @@ msgstr "Нови коментар"
 msgid "New contract accepted"
 msgstr "Нови уговор прихваћен"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr "Нови запослени"
 
@@ -11187,7 +11191,7 @@ msgstr "Још нема понуда"
 msgid "No boots"
 msgstr "Нема чизама"
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr "Нема доступних кандидата"
 
@@ -12343,7 +12347,7 @@ msgstr "Број телефона је верификован!"
 msgid "Phone Verification"
 msgstr "Телефонска верификација"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "Захтевана је верификација телефона"
 
@@ -12801,7 +12805,7 @@ msgstr "Само професионалци"
 msgid "Professionals only (5+ rep)"
 msgstr "Само професионалци (5+ угледа)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "Профил"
 
@@ -13007,7 +13011,7 @@ msgstr "Усклади плату са звањем"
 msgid "Raises one stat."
 msgstr "Повећава један атрибут."
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr "Насумична особина, +1 на насумичан атрибут"
 
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "Регрут"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Запосли"
@@ -13278,11 +13282,6 @@ msgstr "Препоручилац је постављен"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "Корисничко име препоручиоца"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr "Освежи апликацију"
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13435,7 +13434,7 @@ msgstr "Преостало трајање ојачања"
 msgid "Remaining debuff duration"
 msgstr "Преостало трајање ослабљења"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr "Уклони <0/>"
 
@@ -13473,7 +13472,7 @@ msgstr "Уклони неактивног члана конгреса са по�
 msgid "Remove announcement"
 msgstr "Уклони обавештење"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "Уклони аватар"
 
@@ -13485,7 +13484,7 @@ msgstr "Уклони награду"
 msgid "Remove council member"
 msgstr "Уклони члана савета"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "Уклони опис"
 
@@ -13494,7 +13493,7 @@ msgstr "Уклони опис"
 msgid "Remove enemy"
 msgstr "Уклони непријатеља"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr "Уклони све лоше особине"
 
@@ -13582,7 +13581,7 @@ msgstr "Пријави име"
 msgid "Report the leak to the rival"
 msgstr "Упозори конкуренцију"
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "Пријави корисника"
 
@@ -13602,7 +13601,7 @@ msgstr "Углед опада за 20% према 0 сваке недеље (м�
 msgid "Reputation purchased!"
 msgstr "Углед купљен!"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "Захтевај верификацију телефона"
 
@@ -13622,7 +13621,7 @@ msgstr "Потребно држављанство"
 msgid "Requirements"
 msgstr "Услови"
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr "Поново извуци све"
 
@@ -13658,7 +13657,7 @@ msgstr "Преживео ресет"
 msgid "Reset tutorials"
 msgstr "Ресетуј водиче"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "Ресетуј корисничко име"
 
@@ -13855,7 +13854,7 @@ msgstr "Поништио администратор"
 msgid "Rolled back by Admin"
 msgstr "Поништио администратор"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr "Списак запослених"
 
@@ -14099,7 +14098,7 @@ msgstr "Изабери предмет"
 msgid "Select an occupied region"
 msgstr "Изабери окупирани регион"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "Изабери банер"
 
@@ -14125,7 +14124,7 @@ msgstr "Изабери један одговор"
 msgid "Select one or more answers"
 msgstr "Изабери један или више одговора"
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "Изабери скин"
 
@@ -14180,7 +14179,7 @@ msgstr "продаје"
 msgid "Send <0/> to <1/>"
 msgstr "Пошаљи <0/> земљи <1/>"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "Пошаљи поруку"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "Постави своје корисничко име"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "Подешавања"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr "Тигањ"
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14908,10 +14907,10 @@ msgstr "Подржавалац"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "Функција за подржаваоце"
 
@@ -15800,6 +15799,10 @@ msgstr "Зид је сада виши."
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr "Цела трпезарија се уједињује у бесу против тебе. Неколико дана влада општа слога."
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr "Добитни листић"
@@ -16063,7 +16066,7 @@ msgstr "Тиме трошиш данашњи избор. Следећи је д�
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Ово ће ти дати ојачање на {cocainBuffHours}ч, а затим изазвати ослабљење на {cocainDebuffHours}ч"
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "Ово ће захтевати од корисника да потврди свој број мобилног телефона."
 
@@ -16501,7 +16504,7 @@ msgstr "Историја обуке"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr "Потенцијал за обуку"
@@ -16635,7 +16638,7 @@ msgstr "Тираносаурус рекс"
 msgid "UI"
 msgstr "Интерфејс"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "Деблокирај (прикажи садржај)"
 
@@ -16889,7 +16892,7 @@ msgstr "Корисник и напредак"
 msgid "User already owns all skins"
 msgstr "Корисник већ поседује све скинове"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "Корисник блокиран"
 
@@ -16901,7 +16904,7 @@ msgstr "Допринос корисника поенима терена."
 msgid "User removed from family group"
 msgstr "Корисник уклоњен из породичне групе"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "Корисник деблокиран"
 
@@ -16913,7 +16916,7 @@ msgstr "Корисник деблокиран"
 msgid "Username"
 msgstr "Корисничко име"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr "Ефекат корисничког имена"
@@ -16934,7 +16937,7 @@ msgstr "Ефекти корисничког имена су функција п�
 msgid "Username font"
 msgstr "Фонт корисничког имена"
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "Корисничко име уклоњено"
 

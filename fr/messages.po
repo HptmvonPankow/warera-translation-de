@@ -2029,7 +2029,7 @@ msgstr "+4 de potentiel d'entraînement: trois séances de plus que lors du tira
 msgid "<0/> & <1/>"
 msgstr "<0/> et <1/>"
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4587,7 +4587,7 @@ msgstr "Disponible dans"
 msgid "Available now"
 msgstr "Disponible maintenant"
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "Avatar supprimé"
 
@@ -4894,7 +4894,7 @@ msgstr "Chapeau d'anniversaire pour la 1ère année de la Beta"
 msgid "Blacksmith's Hammer"
 msgstr "Marteau de forgeron"
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "Bloquer (masquer le contenu)"
 
@@ -5261,7 +5261,7 @@ msgstr "Les candidatures sont ouvertes pour <0/>"
 msgid "Candidate"
 msgstr "Candidat"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5704,7 +5704,7 @@ msgstr "Collecter des caisses sur la carte"
 msgid "Colonel"
 msgstr "Colonel"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "Palette de couleurs"
@@ -5758,7 +5758,7 @@ msgstr "Communauté"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6714,7 +6714,7 @@ msgstr "Description"
 msgid "Description (Optional)"
 msgstr "Description (Optionnelle)"
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "Description supprimée"
 
@@ -7105,7 +7105,7 @@ msgstr "Modifier"
 msgid "Edit country order"
 msgstr "Modifier l'ordre du pays"
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "Modifier la description"
 
@@ -7621,7 +7621,7 @@ msgstr "Expatrié"
 msgid "Expected loot"
 msgstr "Butin attendu"
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr "Salaire attendu"
@@ -7976,7 +7976,7 @@ msgstr "Police"
 msgid "Font size"
 msgstr "Taille de police"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "Style de police"
 
@@ -8228,7 +8228,7 @@ msgstr "Cadeau envoyé! Pack de skins débloqué pour le destinataire!"
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Cadeau envoyé ! Merci de soutenir le jeu <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "Offrir un plan supporter"
 
@@ -9035,7 +9035,7 @@ msgstr "Présente-toi!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9852,7 +9852,7 @@ msgstr "Connecte-toi pour voter."
 msgid "Login"
 msgstr "Se connecter"
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "Déconnexion"
 
@@ -10968,6 +10968,10 @@ msgstr "Nouveau Jeton API Créé"
 msgid "New article"
 msgstr "Nouvel article"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "Nouveau commentaire"
@@ -10976,7 +10980,7 @@ msgstr "Nouveau commentaire"
 msgid "New contract accepted"
 msgstr "Nouveau contrat accepté"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr "Nouvel employé"
 
@@ -11187,7 +11191,7 @@ msgstr "Pas encore d'enchères"
 msgid "No boots"
 msgstr "Pas de bottes"
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr "Pas de candidats disponible"
 
@@ -12343,7 +12347,7 @@ msgstr "Numéro de téléphone vérifié!"
 msgid "Phone Verification"
 msgstr "Vérification du téléphone"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "Vérification du téléphone demandée"
 
@@ -12801,7 +12805,7 @@ msgstr "Professionnels uniquement"
 msgid "Professionals only (5+ rep)"
 msgstr "Professionnels uniquement (5+ rep)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "Profil"
 
@@ -13007,7 +13011,7 @@ msgstr "Augmenter la rémunération pour qu’elle corresponde"
 msgid "Raises one stat."
 msgstr "Augmente une statistique."
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr "Trait aléatoire, +1 à une statistique aléatoire"
 
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "Recrue"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Recruter"
@@ -13278,11 +13282,6 @@ msgstr "Le parrain a été défini"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "Nom d'utilisateur du parrain"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr "Actualiser l’application"
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13435,7 +13434,7 @@ msgstr "Durée restante du bonus"
 msgid "Remaining debuff duration"
 msgstr "Durée restante du malus"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr "Supprimer <0/>"
 
@@ -13473,7 +13472,7 @@ msgstr "Destituer un membre inactif du parlement de ses fonctions"
 msgid "Remove announcement"
 msgstr "Supprimer l'annonce"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "Supprimer l'avatar"
 
@@ -13485,7 +13484,7 @@ msgstr "Supprimer la prime"
 msgid "Remove council member"
 msgstr "Destituer un membre du conseil"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "Supprimer la description"
 
@@ -13494,7 +13493,7 @@ msgstr "Supprimer la description"
 msgid "Remove enemy"
 msgstr "Enlever l'ennemi juré"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr "Supprimer chaque trait négatif"
 
@@ -13582,7 +13581,7 @@ msgstr "Reporter le nom"
 msgid "Report the leak to the rival"
 msgstr "Signale la fuite au rival"
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "Signaler l'utilisateur"
 
@@ -13602,7 +13601,7 @@ msgstr "La réputation diminue de 20% vers 0 chaque semaine (minimum 1 point)."
 msgid "Reputation purchased!"
 msgstr "Réputation achetée !"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "Demander la vérification du téléphone"
 
@@ -13622,7 +13621,7 @@ msgstr "Citoyenneté requise"
 msgid "Requirements"
 msgstr "Exigences"
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr "Relancer tout"
 
@@ -13658,7 +13657,7 @@ msgstr "Survivant du Reset"
 msgid "Reset tutorials"
 msgstr "Réinitialiser les tutoriels"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "Réinitialiser le nom d'utilisateur"
 
@@ -13855,7 +13854,7 @@ msgstr "Annulé par l'administrateur"
 msgid "Rolled back by Admin"
 msgstr "Annulé par l'administrateur"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr "Liste"
 
@@ -14099,7 +14098,7 @@ msgstr "Sélectionne un objet"
 msgid "Select an occupied region"
 msgstr "Sélectionner une région occupée"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "Sélectionner la bannière"
 
@@ -14125,7 +14124,7 @@ msgstr "Sélectionner une réponse"
 msgid "Select one or more answers"
 msgstr "Sélectionner une ou plusieurs réponses"
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "Sélectionner un skin"
 
@@ -14180,7 +14179,7 @@ msgstr "vend"
 msgid "Send <0/> to <1/>"
 msgstr "Envoyer <0/> à <1/>"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "Envoyer un message"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "Mettre ton nom d'utilisateur"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "Paramètres"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr "Poêlon"
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14908,10 +14907,10 @@ msgstr "Supporter"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "Fonctionnalité Supporter"
 
@@ -15800,6 +15799,10 @@ msgstr "Le mur est plus haut maintenant."
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr "La salle à manger tout entière est unie dans l’indignation contre toi. Pendant quelques jours, tout le monde s’entend bien."
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr "Le billet gagnant"
@@ -16063,7 +16066,7 @@ msgstr "Ceci utilise ton choix pour aujourd'hui. Le prochain sera disponible à 
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Cela te donnera un bonus pendant {cocainBuffHours}h puis causera un malus pendant {cocainDebuffHours}h"
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "L'utilisateur devra vérifier son numéro de téléphone mobile."
 
@@ -16501,7 +16504,7 @@ msgstr "Historique des formations"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr "Potentiel de formation"
@@ -16635,7 +16638,7 @@ msgstr "Tyrannosaure Rex"
 msgid "UI"
 msgstr "UI"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "Débloquer (afficher le contenu)"
 
@@ -16889,7 +16892,7 @@ msgstr "Utilisateur et progression"
 msgid "User already owns all skins"
 msgstr "L'utilisateur possède déjà tous les skins"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "Utilisateur bloqué"
 
@@ -16901,7 +16904,7 @@ msgstr "Participation des joueurs aux points de terrain."
 msgid "User removed from family group"
 msgstr "Utilisateur retiré du groupe familial"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "Utilisateur débloqué"
 
@@ -16913,7 +16916,7 @@ msgstr "Utilisateur débloqué"
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr "Effet du nom d'utilisateur"
@@ -16934,7 +16937,7 @@ msgstr "Les effets du nom d'utilisateur sont une fonctionnalité du plan Support
 msgid "Username font"
 msgstr "Police du nom d'utilisateur"
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "Nom d'utilisateur supprimé"
 
