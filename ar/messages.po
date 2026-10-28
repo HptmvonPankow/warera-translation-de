@@ -7016,7 +7016,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:377
 msgid "Each meal refills your <0>Health</0> and uses <1>Hunger</1>."
-msgstr "كل وجبة تملئ<0>Health</0> و تستهلك"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:575
 msgid "Each one leads to the next."
