@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1220
 msgid "You find nothing but resentment."
-msgstr ""
+msgstr "Kamu tidak menemukan apa pun selain rasa kesal."
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
@@ -124,7 +124,7 @@ msgstr "{0, plural, one {# anggota} other {# anggota}}"
 #. placeholder {0}: proposition.skinItems.length
 #: src/components/_user/premium/AssetPropositionItem.tsx:298
 msgid "{0, plural, one {# skin} other {# skins}}"
-msgstr ""
+msgstr "{0, plural, one {# skin} other {# skin}}"
 
 #. placeholder {0}: poll.totalVoters
 #: src/components/_social/poll/PollCard.tsx:391
@@ -334,1260 +334,1260 @@ msgstr "{count, plural, one {<0>Berkontribusi pada pembangunan <1/> kali</0>} ot
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Berkontribusi pada perlawanan <1/> kali</0>} other {<2>Berkontribusi pada perlawanan <3/> kali</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Buat <1/> item</0>} other {<2>Buat <3/> item</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Lintasi <1/> wilayah di peta</0>} other {<2>Lintasi <3/> wilayah di peta</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Bongkar <1/> item</0>} other {<2>Bongkar <3/> item</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Hindari <1/> serangan</0>} other {<2>Hindari <3/> serangan</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Makan <1/> item makanan</0>} other {<2>Makan <3/> item makanan</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Bantu <1/> anggota MU</0>} other {<2>Bantu <3/> anggota MU</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Serang <1/> kali dalam pertempuran</0>} other {<2>Serang <3/> kali dalam pertempuran</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Lakukan <1/> serangan kritikal</0>} other {<2>Lakukan <3/> serangan kritikal</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Sukai <1/> artikel</0>} other {<2>Sukai <3/> artikel</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Sukai <1/> pesan</0>} other {<2>Sukai <3/> pesan</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:467
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Ambil <1/> item di medan tempur</0>} other {<2>Ambil <3/> item di medan tempur</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:322
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Berpartisipasi dalam <1/> pertempuran</0>} other {<2>Berpartisipasi dalam <3/> pertempuran</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:704
 msgid "{count, plural, one {<0>Produce items <1/> time</0>} other {<2>Produce items <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Produksi item <1/> kali</0>} other {<2>Produksi item <3/> kali</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:521
 msgid "{count, plural, one {<0>Read <1/> article</0>} other {<2>Read <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Baca <1/> artikel</0>} other {<2>Baca <3/> artikel</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Bekerja sendiri <1/> kali di perusahaanmu</0>} other {<2>Bekerja sendiri <3/> kali di perusahaanmu</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Kirim <1/> pesan</0>} other {<2>Kirim <3/> pesan</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Rawat karyawan <1/> kali di perusahaan yang kamu kelola</0>} other {<2>Rawat karyawan <3/> kali di perusahaan yang kamu kelola</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Beri tip <1/> artikel</0>} other {<2>Beri tip <3/> artikel</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Latih karyawanmu <1/> kali</0>} other {<2>Latih karyawanmu <3/> kali</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Pergi ke wilayah lain <1/> kali</0>} other {<2>Pergi ke wilayah lain <3/> kali</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Tingkatkan keahlianmu <1/> kali</0>} other {<2>Tingkatkan keahlianmu <3/> kali</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr ""
+msgstr "{count, plural, one {<0>Bekerja <1/> kali di perusahaanmu</0>} other {<2>Bekerja <3/> kali di perusahaanmu</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
-msgstr ""
+msgstr "{days, plural, one {upah # hari mereka} other {upah # hari mereka}}"
 
 #: src/components/_user/notification/NotificationList.tsx:92
 msgid "{daysAgo, plural, one {# day ago} other {# days ago}}"
-msgstr ""
+msgstr "{daysAgo, plural, one {# hari lalu} other {# hari lalu}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:631
 msgid "{delay} after you pick {answer} in {source}."
-msgstr ""
+msgstr "{delay} setelah kamu memilih {answer} di {source}."
 
 #: src/components/_user/user/SkillUpgrade.tsx:293
 msgid "{draftPrestigeCount} prestige point(s) on this skill ({savedPrestigeCount} saved, locked until reset)"
-msgstr ""
+msgstr "{draftPrestigeCount} poin prestise pada keahlian ini ({savedPrestigeCount} tersimpan, terkunci sampai direset)"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:217
 msgid "{equippedCount, plural, one {# of them is equipped} other {# of them are equipped}}"
-msgstr ""
+msgstr "{equippedCount, plural, one {# di antaranya sedang dipakai} other {# di antaranya sedang dipakai}}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:579
 msgid "{finder} and others found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} dan yang lainnya menemukan {toolboxes} untuk kamu klaim."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:583
 msgid "{finder} found {toolboxes} for you to claim."
-msgstr ""
+msgstr "{finder} menemukan {toolboxes} untuk kamu klaim."
 
 #: src/components/_economy/company/CompanyDropdown.tsx:315
 #: src/components/_economy/company/MoveCompanyForm.tsx:105
 msgid "{freeMoves} free"
-msgstr ""
+msgstr "{freeMoves} gratis"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:55
 msgid "{gain} every {perDays} days at the same company"
-msgstr ""
+msgstr "{gain} setiap {perDays} hari di perusahaan yang sama"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:51
 msgid "{gain} every {perDays} days at the same company, up to {cap}"
-msgstr ""
+msgstr "{gain} setiap {perDays} hari di perusahaan yang sama, hingga maksimal {cap}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1169
 msgid "{gender, select, male {{name} accepts mixed grapes, under protest.} female {{name} accepts mixed grapes, under protest.} other {{name} accepts mixed grapes, under protest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menerima anggur campuran, dengan terpaksa.} female {{name} menerima anggur campuran, dengan terpaksa.} other {{name} menerima anggur campuran, dengan terpaksa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:847
 msgid "{gender, select, male {{name} and {partnerName} have been eating lunch together every day. He clearly enjoys it.} female {{name} and {partnerName} have been eating lunch together every day. She clearly enjoys it.} other {{name} and {partnerName} have been eating lunch together every day.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} dan {partnerName} makan siang bersama setiap hari. Dia jelas menikmatinya.} female {{name} dan {partnerName} makan siang bersama setiap hari. Dia jelas menikmatinya.} other {{name} dan {partnerName} makan siang bersama setiap hari.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1258
 msgid "{gender, select, male {{name} apologizes harder.} female {{name} apologizes harder.} other {{name} apologizes harder.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} meminta maaf lebih sungguh-sungguh.} female {{name} meminta maaf lebih sungguh-sungguh.} other {{name} meminta maaf lebih sungguh-sungguh.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1291
 msgid "{gender, select, male {{name} apologizes until the end of the shift.} female {{name} apologizes until the end of the shift.} other {{name} apologizes until the end of the shift.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terus meminta maaf sampai akhir shift.} female {{name} terus meminta maaf sampai akhir shift.} other {{name} terus meminta maaf sampai akhir shift.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3851
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak sengaja memakan umpan, dan butuh libur sore ini.} female {{name} tidak sengaja memakan umpan, dan butuh libur sore ini.} other {{name} tidak sengaja memakan umpan, dan butuh libur sore ini.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1431
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tersenyum lebar, lalu menyingsingkan lengan baju untuk sisa minggu ini.} female {{name} tersenyum lebar, lalu menyingsingkan lengan baju untuk sisa minggu ini.} other {{name} tersenyum lebar, lalu menyingsingkan lengan baju untuk sisa minggu ini.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:736
 msgid "{gender, select, male {{name} bought a motorbike, dyed his hair and wants to reinvent himself.} female {{name} bought a motorbike, dyed her hair and wants to reinvent herself.} other {{name} bought a motorbike, dyed their hair and wants to reinvent themselves.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membeli sepeda motor, mengecat rambutnya, dan ingin tampil dengan citra baru.} female {{name} membeli sepeda motor, mengecat rambutnya, dan ingin tampil dengan citra baru.} other {{name} membeli sepeda motor, mengecat rambutnya, dan ingin tampil dengan citra baru.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1064
 msgid "{gender, select, male {{name} bows and hands you the title. The workshop talks of nothing else.} female {{name} bows and hands you the title. The workshop talks of nothing else.} other {{name} bows and hands you the title. The workshop talks of nothing else.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membungkuk dan menyerahkan gelar itu kepadamu. Seisi bengkel tidak membicarakan hal lain.} female {{name} membungkuk dan menyerahkan gelar itu kepadamu. Seisi bengkel tidak membicarakan hal lain.} other {{name} membungkuk dan menyerahkan gelar itu kepadamu. Seisi bengkel tidak membicarakan hal lain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:541
 msgid "{gender, select, male {{name} breaks down. It will stay with him.} female {{name} breaks down. It will stay with her.} other {{name} breaks down. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terpuruk. Kejadian ini akan terus membekas di hatinya.} female {{name} terpuruk. Kejadian ini akan terus membekas di hatinya.} other {{name} terpuruk. Kejadian ini akan terus membekas di hatinya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3009
 msgid "{gender, select, male {{name} brings the house down, solo, and talks about it all week.} female {{name} brings the house down, solo, and talks about it all week.} other {{name} brings the house down, solo, and talks about it all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membuat seisi ruangan riuh sendirian, dan membicarakannya sepanjang minggu.} female {{name} membuat seisi ruangan riuh sendirian, dan membicarakannya sepanjang minggu.} other {{name} membuat seisi ruangan riuh sendirian, dan membicarakannya sepanjang minggu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3284
 msgid "{gender, select, male {{name} brought a snack from home to share. It is either a delicacy or a war crime.} female {{name} brought a snack from home to share. It is either a delicacy or a war crime.} other {{name} brought a snack from home to share. It is either a delicacy or a war crime.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membawa camilan dari rumah untuk dibagikan. Kalau bukan hidangan lezat, ya kejahatan perang.} female {{name} membawa camilan dari rumah untuk dibagikan. Kalau bukan hidangan lezat, ya kejahatan perang.} other {{name} membawa camilan dari rumah untuk dibagikan. Kalau bukan hidangan lezat, ya kejahatan perang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1754
 msgid "{gender, select, male {{name} brought his kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} female {{name} brought her kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.} other {{name} brought their kid to work. By ten o'clock, the kid had reorganized the storeroom and sold something to a passerby.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membawa anaknya ke tempat kerja. Pukul sepuluh, anak itu sudah menata ulang gudang dan menjual sesuatu kepada orang yang lewat.} female {{name} membawa anaknya ke tempat kerja. Pukul sepuluh, anak itu sudah menata ulang gudang dan menjual sesuatu kepada orang yang lewat.} other {{name} membawa anaknya ke tempat kerja. Pukul sepuluh, anak itu sudah menata ulang gudang dan menjual sesuatu kepada orang yang lewat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:363
 msgid "{gender, select, male {{name} burns out completely, and it will stay with him.} female {{name} burns out completely, and it will stay with her.} other {{name} burns out completely, and it will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} benar-benar kelelahan hingga kehabisan tenaga, dan hal itu akan terus membekas padanya.} female {{name} benar-benar kelelahan hingga kehabisan tenaga, dan hal itu akan terus membekas padanya.} other {{name} benar-benar kelelahan hingga kehabisan tenaga, dan hal itu akan terus membekas padanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:291
 msgid "{gender, select, male {{name} bursts into your office: he has an idea to change how the work is done, and needs a little room to try it.} female {{name} bursts into your office: she has an idea to change how the work is done, and needs a little room to try it.} other {{name} bursts into your office: they have an idea to change how the work is done, and need a little room to try it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menerobos masuk ke kantormu: dia punya ide untuk mengubah cara kerja, dan butuh sedikit ruang untuk mencobanya.} female {{name} menerobos masuk ke kantormu: dia punya ide untuk mengubah cara kerja, dan butuh sedikit ruang untuk mencobanya.} other {{name} menerobos masuk ke kantormu: dia punya ide untuk mengubah cara kerja, dan butuh sedikit ruang untuk mencobanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3131
 msgid "{gender, select, male {{name} calms down and breathes. The lift starts again on its own.} female {{name} calms down and breathes. The lift starts again on its own.} other {{name} calms down and breathes. The lift starts again on its own.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menenangkan diri dan mengatur napas. Lift menyala kembali dengan sendirinya.} female {{name} menenangkan diri dan mengatur napas. Lift menyala kembali dengan sendirinya.} other {{name} menenangkan diri dan mengatur napas. Lift menyala kembali dengan sendirinya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3137
 msgid "{gender, select, male {{name} calms down so well that small rooms no longer scare him at all.} female {{name} calms down so well that small rooms no longer scare her at all.} other {{name} calms down so well that small rooms no longer scare them at all.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menenangkan diri dengan sangat baik sampai ruangan sempit tidak lagi menakutkannya sama sekali.} female {{name} menenangkan diri dengan sangat baik sampai ruangan sempit tidak lagi menakutkannya sama sekali.} other {{name} menenangkan diri dengan sangat baik sampai ruangan sempit tidak lagi menakutkannya sama sekali.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1443
 msgid "{gender, select, male {{name} can tell.} female {{name} can tell.} other {{name} can tell.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bisa merasakannya.} female {{name} bisa merasakannya.} other {{name} bisa merasakannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2879
 msgid "{gender, select, male {{name} cannot do it while anyone is watching, the teacher included.} female {{name} cannot do it while anyone is watching, the teacher included.} other {{name} cannot do it while anyone is watching, the teacher included.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak bisa melakukannya kalau ada yang melihat, termasuk gurunya.} female {{name} tidak bisa melakukannya kalau ada yang melihat, termasuk gurunya.} other {{name} tidak bisa melakukannya kalau ada yang melihat, termasuk gurunya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3910
 msgid "{gender, select, male {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} female {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.} other {{name} climbed into the vents to prune Kevin, and was stuck there all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memanjat ke saluran ventilasi untuk memangkas Kevin, dan terjebak di sana sepanjang sore.} female {{name} memanjat ke saluran ventilasi untuk memangkas Kevin, dan terjebak di sana sepanjang sore.} other {{name} memanjat ke saluran ventilasi untuk memangkas Kevin, dan terjebak di sana sepanjang sore.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:668
 msgid "{gender, select, male {{name} comes back a day later, proud and steadier than before.} female {{name} comes back a day later, proud and steadier than before.} other {{name} comes back a day later, proud and steadier than before.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kembali sehari kemudian, bangga dan lebih mantap dari sebelumnya.} female {{name} kembali sehari kemudian, bangga dan lebih mantap dari sebelumnya.} other {{name} kembali sehari kemudian, bangga dan lebih mantap dari sebelumnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:674
 msgid "{gender, select, male {{name} comes back wounded, and shaken.} female {{name} comes back wounded, and shaken.} other {{name} comes back wounded, and shaken.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kembali dalam keadaan terluka dan terguncang.} female {{name} kembali dalam keadaan terluka dan terguncang.} other {{name} kembali dalam keadaan terluka dan terguncang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1016
 msgid "{gender, select, male {{name} comes out changed, and not for the better.} female {{name} comes out changed, and not for the better.} other {{name} comes out changed, and not for the better.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} keluar dalam keadaan berubah, dan bukan menjadi lebih baik.} female {{name} keluar dalam keadaan berubah, dan bukan menjadi lebih baik.} other {{name} keluar dalam keadaan berubah, dan bukan menjadi lebih baik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1328
 msgid "{gender, select, male {{name} copes. Barely.} female {{name} copes. Barely.} other {{name} copes. Barely.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan. Tapi hanya nyaris.} female {{name} bertahan. Tapi hanya nyaris.} other {{name} bertahan. Tapi hanya nyaris.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1818
 msgid "{gender, select, male {{name} crosses out “Supreme” and keeps drafting.} female {{name} crosses out “Supreme” and keeps drafting.} other {{name} crosses out “Supreme” and keeps drafting.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mencoret “Supreme” dan terus menyusun draf.} female {{name} mencoret “Supreme” dan terus menyusun draf.} other {{name} mencoret “Supreme” dan terus menyusun draf.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2244
 msgid "{gender, select, male {{name} denies everything, and avoids you all week.} female {{name} denies everything, and avoids you all week.} other {{name} denies everything, and avoids you all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menyangkal semuanya, dan menghindarimu sepanjang minggu.} female {{name} menyangkal semuanya, dan menghindarimu sepanjang minggu.} other {{name} menyangkal semuanya, dan menghindarimu sepanjang minggu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1633
 msgid "{gender, select, male {{name} denies everything. The mustache stays on.} female {{name} denies everything. The mustache stays on.} other {{name} denies everything. The mustache stays on.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menyangkal semuanya. Kumisnya tetap terpasang.} female {{name} menyangkal semuanya. Kumisnya tetap terpasang.} other {{name} menyangkal semuanya. Kumisnya tetap terpasang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:680
 msgid "{gender, select, male {{name} did not come back.} female {{name} did not come back.} other {{name} did not come back.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak kembali.} female {{name} tidak kembali.} other {{name} tidak kembali.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1123
 msgid "{gender, select, male {{name} did not laugh.} female {{name} did not laugh.} other {{name} did not laugh.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak tertawa.} female {{name} tidak tertawa.} other {{name} tidak tertawa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3475
 msgid "{gender, select, male {{name} did not want to know, and is taking it hard.} female {{name} did not want to know, and is taking it hard.} other {{name} did not want to know, and is taking it hard.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak ingin tahu, dan sangat terpukul karenanya.} female {{name} tidak ingin tahu, dan sangat terpukul karenanya.} other {{name} tidak ingin tahu, dan sangat terpukul karenanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2169
 msgid "{gender, select, male {{name} digs in and stays out on the picket line.} female {{name} digs in and stays out on the picket line.} other {{name} digs in and stays out on the picket line.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bersikeras dan tetap bertahan di barisan piket.} female {{name} bersikeras dan tetap bertahan di barisan piket.} other {{name} bersikeras dan tetap bertahan di barisan piket.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1081
 msgid "{gender, select, male {{name} does an impression of you banning impressions.} female {{name} does an impression of you banning impressions.} other {{name} does an impression of you banning impressions.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menirukan dirimu yang sedang melarang tiru-tiruan.} female {{name} menirukan dirimu yang sedang melarang tiru-tiruan.} other {{name} menirukan dirimu yang sedang melarang tiru-tiruan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1340
 msgid "{gender, select, male {{name} does not agree that it is just a chair.} female {{name} does not agree that it is just a chair.} other {{name} does not agree that it is just a chair.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak setuju kalau itu hanya sebuah kursi.} female {{name} tidak setuju kalau itu hanya sebuah kursi.} other {{name} tidak setuju kalau itu hanya sebuah kursi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3366
 msgid "{gender, select, male {{name} does push-ups alone by the machine, disappointed.} female {{name} does push-ups alone by the machine, disappointed.} other {{name} does push-ups alone by the machine, disappointed.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melakukan push-up sendirian di dekat mesin, dengan kecewa.} female {{name} melakukan push-up sendirian di dekat mesin, dengan kecewa.} other {{name} melakukan push-up sendirian di dekat mesin, dengan kecewa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2794
 msgid "{gender, select, male {{name} dreamed the solution to everything and wrote it on his arm before it faded. It is smudged.} female {{name} dreamed the solution to everything and wrote it on her arm before it faded. It is smudged.} other {{name} dreamed the solution to everything and wrote it on their arm before it faded. It is smudged.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memimpikan solusi untuk segalanya dan menuliskannya di lengannya sebelum terlupa. Tulisannya jadi luntur.} female {{name} memimpikan solusi untuk segalanya dan menuliskannya di lengannya sebelum terlupa. Tulisannya jadi luntur.} other {{name} memimpikan solusi untuk segalanya dan menuliskannya di lengannya sebelum terlupa. Tulisannya jadi luntur.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2631
 msgid "{gender, select, male {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all him.} female {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all her.} other {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menjatuhkan sandwich ke dalam mesin, dan hasil produksi naik. Tidak ada yang tahu kenapa, apalagi dirinya sendiri.} female {{name} menjatuhkan sandwich ke dalam mesin, dan hasil produksi naik. Tidak ada yang tahu kenapa, apalagi dirinya sendiri.} other {{name} menjatuhkan sandwich ke dalam mesin, dan hasil produksi naik. Tidak ada yang tahu kenapa, apalagi dirinya sendiri.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3322
 msgid "{gender, select, male {{name} eats it alone, looking a little homesick.} female {{name} eats it alone, looking a little homesick.} other {{name} eats it alone, looking a little homesick.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memakannya sendirian, tampak sedikit rindu kampung halaman.} female {{name} memakannya sendirian, tampak sedikit rindu kampung halaman.} other {{name} memakannya sendirian, tampak sedikit rindu kampung halaman.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2665
 msgid "{gender, select, male {{name} eats lunch outside, glaring at the machine.} female {{name} eats lunch outside, glaring at the machine.} other {{name} eats lunch outside, glaring at the machine.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} makan siang di luar, sambil menatap tajam ke arah mesin.} female {{name} makan siang di luar, sambil menatap tajam ke arah mesin.} other {{name} makan siang di luar, sambil menatap tajam ke arah mesin.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1158
 msgid "{gender, select, male {{name} eats one grape, nods, and works like a star.} female {{name} eats one grape, nods, and works like a star.} other {{name} eats one grape, nods, and works like a star.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memakan satu anggur, mengangguk, lalu bekerja luar biasa.} female {{name} memakan satu anggur, mengangguk, lalu bekerja luar biasa.} other {{name} memakan satu anggur, mengangguk, lalu bekerja luar biasa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1175
 msgid "{gender, select, male {{name} eats the red ones one at a time, staring at you.} female {{name} eats the red ones one at a time, staring at you.} other {{name} eats the red ones one at a time, staring at you.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memakan yang merah satu per satu, sambil menatapmu.} female {{name} memakan yang merah satu per satu, sambil menatapmu.} other {{name} memakan yang merah satu per satu, sambil menatapmu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:999
 msgid "{gender, select, male {{name} emerges with a masterpiece.} female {{name} emerges with a masterpiece.} other {{name} emerges with a masterpiece.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} keluar dengan sebuah mahakarya.} female {{name} keluar dengan sebuah mahakarya.} other {{name} keluar dengan sebuah mahakarya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1005
 msgid "{gender, select, male {{name} emerges with fine work, if not quite the masterpiece he saw.} female {{name} emerges with fine work, if not quite the masterpiece she saw.} other {{name} emerges with fine work, if not quite the masterpiece they saw.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} keluar dengan karya yang bagus, meski belum seindah mahakarya yang dibayangkannya.} female {{name} keluar dengan karya yang bagus, meski belum seindah mahakarya yang dibayangkannya.} other {{name} keluar dengan karya yang bagus, meski belum seindah mahakarya yang dibayangkannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3380
 msgid "{gender, select, male {{name} emptied the suggestion box for the first time in three years. Forty notes say “more chairs”, one says “fire Gerald”, and there is no Gerald.} female {{name} emptied the suggestion box for the first time in three years. Forty notes say “more chairs”, one says “fire Gerald”, and there is no Gerald.} other {{name} emptied the suggestion box for the first time in three years. Forty notes say “more chairs”, one says “fire Gerald”, and there is no Gerald.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mengosongkan kotak saran untuk pertama kalinya dalam tiga tahun. Empat puluh catatan bertuliskan “tambah kursi”, satu bertuliskan “pecat Gerald”, dan tidak ada orang bernama Gerald.} female {{name} mengosongkan kotak saran untuk pertama kalinya dalam tiga tahun. Empat puluh catatan bertuliskan “tambah kursi”, satu bertuliskan “pecat Gerald”, dan tidak ada orang bernama Gerald.} other {{name} mengosongkan kotak saran untuk pertama kalinya dalam tiga tahun. Empat puluh catatan bertuliskan “tambah kursi”, satu bertuliskan “pecat Gerald”, dan tidak ada orang bernama Gerald.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:513
 msgid "{gender, select, male {{name} fell asleep at his station today. He says he is fine.} female {{name} fell asleep at her station today. She says she is fine.} other {{name} fell asleep at their station today, and says they are fine.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tertidur di posnya hari ini. Dia bilang dirinya baik-baik saja.} female {{name} tertidur di posnya hari ini. Dia bilang dirinya baik-baik saja.} other {{name} tertidur di posnya hari ini, dan bilang dirinya baik-baik saja.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2857
 msgid "{gender, select, male {{name} fixed the machine with a paperclip in four seconds, then looked more surprised than anyone.} female {{name} fixed the machine with a paperclip in four seconds, then looked more surprised than anyone.} other {{name} fixed the machine with a paperclip in four seconds, then looked more surprised than anyone.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memperbaiki mesin dengan klip kertas dalam empat detik, lalu tampak lebih terkejut daripada siapa pun.} female {{name} memperbaiki mesin dengan klip kertas dalam empat detik, lalu tampak lebih terkejut daripada siapa pun.} other {{name} memperbaiki mesin dengan klip kertas dalam empat detik, lalu tampak lebih terkejut daripada siapa pun.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2890
 msgid "{gender, select, male {{name} fixes small things around the workshop with paperclips, very happily.} female {{name} fixes small things around the workshop with paperclips, very happily.} other {{name} fixes small things around the workshop with paperclips, very happily.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memperbaiki hal-hal kecil di sekitar bengkel dengan klip kertas, dengan sangat gembira.} female {{name} memperbaiki hal-hal kecil di sekitar bengkel dengan klip kertas, dengan sangat gembira.} other {{name} memperbaiki hal-hal kecil di sekitar bengkel dengan klip kertas, dengan sangat gembira.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3015
 msgid "{gender, select, male {{name} forgot the words in the first line, and the tune in the second.} female {{name} forgot the words in the first line, and the tune in the second.} other {{name} forgot the words in the first line, and the tune in the second.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lupa liriknya di baris pertama, dan lupa nadanya di baris kedua.} female {{name} lupa liriknya di baris pertama, dan lupa nadanya di baris kedua.} other {{name} lupa liriknya di baris pertama, dan lupa nadanya di baris kedua.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:388
 msgid "{gender, select, male {{name} found a course that runs after work. He wants to learn, if you will help.} female {{name} found a course that runs after work. She wants to learn, if you will help.} other {{name} found a course that runs after work and wants to learn, if you will help.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menemukan kursus yang berlangsung setelah jam kerja. Dia ingin belajar, kalau kamu mau membantu.} female {{name} menemukan kursus yang berlangsung setelah jam kerja. Dia ingin belajar, kalau kamu mau membantu.} other {{name} menemukan kursus yang berlangsung setelah jam kerja dan ingin belajar, kalau kamu mau membantu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1269
 msgid "{gender, select, male {{name} frames it, then apologizes for framing it.} female {{name} frames it, then apologizes for framing it.} other {{name} frames it, then apologizes for framing it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membingkainya, lalu meminta maaf karena sudah membingkainya.} female {{name} membingkainya, lalu meminta maaf karena sudah membingkainya.} other {{name} membingkainya, lalu meminta maaf karena sudah membingkainya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2152
 msgid "{gender, select, male {{name} gets a bonus, the chair and the parking spot. There is still no car.} female {{name} gets a bonus, the chair and the parking spot. There is still no car.} other {{name} gets a bonus, the chair and the parking spot. There is still no car.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendapat bonus, kursi, dan tempat parkir. Tapi mobilnya tetap belum ada.} female {{name} mendapat bonus, kursi, dan tempat parkir. Tapi mobilnya tetap belum ada.} other {{name} mendapat bonus, kursi, dan tempat parkir. Tapi mobilnya tetap belum ada.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:357
 msgid "{gender, select, male {{name} gets a lot done, then crashes. He is exhausted.} female {{name} gets a lot done, then crashes. She is exhausted.} other {{name} gets a lot done, then crashes, exhausted.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menyelesaikan banyak pekerjaan, lalu ambruk. Dia kelelahan.} female {{name} menyelesaikan banyak pekerjaan, lalu ambruk. Dia kelelahan.} other {{name} menyelesaikan banyak pekerjaan, lalu ambruk karena kelelahan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2348
 msgid "{gender, select, male {{name} gives it a whack in the right place. The smoke clears.} female {{name} gives it a whack in the right place. The smoke clears.} other {{name} gives it a whack in the right place. The smoke clears.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memukulnya tepat di tempat yang benar. Asapnya pun menghilang.} female {{name} memukulnya tepat di tempat yang benar. Asapnya pun menghilang.} other {{name} memukulnya tepat di tempat yang benar. Asapnya pun menghilang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3218
 msgid "{gender, select, male {{name} glares at the van every time it passes.} female {{name} glares at the van every time it passes.} other {{name} glares at the van every time it passes.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menatap tajam ke arah van itu setiap kali lewat.} female {{name} menatap tajam ke arah van itu setiap kali lewat.} other {{name} menatap tajam ke arah van itu setiap kali lewat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3242
 msgid "{gender, select, male {{name} glows. The others lose the afternoon to an army of ten thousand.} female {{name} glows. The others lose the afternoon to an army of ten thousand.} other {{name} glows. The others lose the afternoon to an army of ten thousand.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berseri-seri. Yang lain kehilangan waktu sepanjang sore karena pasukan sepuluh ribu.} female {{name} berseri-seri. Yang lain kehilangan waktu sepanjang sore karena pasukan sepuluh ribu.} other {{name} berseri-seri. Yang lain kehilangan waktu sepanjang sore karena pasukan sepuluh ribu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2605
 msgid "{gender, select, male {{name} goes all night, and comes out changed for the better, in more ways than one.} female {{name} goes all night, and comes out changed for the better, in more ways than one.} other {{name} goes all night, and comes out changed for the better, in more ways than one.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} begadang semalaman, dan keluar sebagai pribadi yang lebih baik, dalam lebih dari satu hal.} female {{name} begadang semalaman, dan keluar sebagai pribadi yang lebih baik, dalam lebih dari satu hal.} other {{name} begadang semalaman, dan keluar sebagai pribadi yang lebih baik, dalam lebih dari satu hal.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2780
 msgid "{gender, select, male {{name} goes back to the slow way, sulking.} female {{name} goes back to the slow way, sulking.} other {{name} goes back to the slow way, sulking.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kembali ke cara yang lambat, sambil merajuk.} female {{name} kembali ke cara yang lambat, sambil merajuk.} other {{name} kembali ke cara yang lambat, sambil merajuk.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:330
 msgid "{gender, select, male {{name} goes back to work, the idea filed away for later.} female {{name} goes back to work, the idea filed away for later.} other {{name} goes back to work, the idea filed away for later.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kembali bekerja, idenya disimpan untuk nanti.} female {{name} kembali bekerja, idenya disimpan untuk nanti.} other {{name} kembali bekerja, idenya disimpan untuk nanti.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1390
 msgid "{gender, select, male {{name} goes underground. The party lives on.} female {{name} goes underground. The party lives on.} other {{name} goes underground. The party lives on.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bergerak diam-diam. Pestanya tetap berlanjut.} female {{name} bergerak diam-diam. Pestanya tetap berlanjut.} other {{name} bergerak diam-diam. Pestanya tetap berlanjut.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:697
 msgid "{gender, select, male {{name} got a letter from his family. He reads it at every break.} female {{name} got a letter from her family. She reads it at every break.} other {{name} got a letter from their family, and reads it at every break.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendapat surat dari keluarganya. Dia membacanya setiap istirahat.} female {{name} mendapat surat dari keluarganya. Dia membacanya setiap istirahat.} other {{name} mendapat surat dari keluarganya, dan membacanya setiap istirahat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1416
 msgid "{gender, select, male {{name} got the company logo tattooed on his forearm. It is spelled wrong.} female {{name} got the company logo tattooed on her forearm. It is spelled wrong.} other {{name} got the company logo tattooed on their forearm. It is spelled wrong.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mentato logo perusahaan di lengan bawahnya. Ejaannya salah.} female {{name} mentato logo perusahaan di lengan bawahnya. Ejaannya salah.} other {{name} mentato logo perusahaan di lengan bawahnya. Ejaannya salah.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:374
 msgid "{gender, select, male {{name} grumbles, then comes back rested and grateful.} female {{name} grumbles, then comes back rested and grateful.} other {{name} grumbles, then comes back rested and grateful.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menggerutu, lalu kembali dalam keadaan segar dan bersyukur.} female {{name} menggerutu, lalu kembali dalam keadaan segar dan bersyukur.} other {{name} menggerutu, lalu kembali dalam keadaan segar dan bersyukur.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3454
 msgid "{gender, select, male {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.} female {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.} other {{name} has adopted the office plant, named it Kevin, and talks to it more than to any coworker. Kevin is plastic.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mengadopsi tanaman kantor, menamainya Kevin, dan lebih sering mengajaknya bicara daripada rekan kerja mana pun. Kevin itu plastik.} female {{name} mengadopsi tanaman kantor, menamainya Kevin, dan lebih sering mengajaknya bicara daripada rekan kerja mana pun. Kevin itu plastik.} other {{name} mengadopsi tanaman kantor, menamainya Kevin, dan lebih sering mengajaknya bicara daripada rekan kerja mana pun. Kevin itu plastik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1037
 msgid "{gender, select, male {{name} has been doing impressions of you at lunch. They are very good.} female {{name} has been doing impressions of you at lunch. They are very good.} other {{name} has been doing impressions of you at lunch. They are very good.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sering menirukan dirimu saat makan siang. Tiruannya sangat bagus.} female {{name} sering menirukan dirimu saat makan siang. Tiruannya sangat bagus.} other {{name} sering menirukan dirimu saat makan siang. Tiruannya sangat bagus.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1612
 msgid "{gender, select, male {{name} has been seen working evenings at a rival firm, in a fake mustache. It is not fooling anyone.} female {{name} has been seen working evenings at a rival firm, in a fake mustache. It is not fooling anyone.} other {{name} has been seen working evenings at a rival firm, in a fake mustache. It is not fooling anyone.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terlihat bekerja di malam hari di perusahaan saingan, dengan kumis palsu. Samarannya tidak menipu siapa pun.} female {{name} terlihat bekerja di malam hari di perusahaan saingan, dengan kumis palsu. Samarannya tidak menipu siapa pun.} other {{name} terlihat bekerja di malam hari di perusahaan saingan, dengan kumis palsu. Samarannya tidak menipu siapa pun.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:764
 msgid "{gender, select, male {{name} has been talking about retirement. He is ready to hang up his apron.} female {{name} has been talking about retirement. She is ready to hang up her apron.} other {{name} has been talking about retirement, and is ready to hang up their apron.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sudah membicarakan soal pensiun. Dia siap menggantung celemeknya.} female {{name} sudah membicarakan soal pensiun. Dia siap menggantung celemeknya.} other {{name} sudah membicarakan soal pensiun, dan siap menggantung celemeknya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:344
 msgid "{gender, select, male {{name} has been working like a man possessed all week. He asks to keep going through the night.} female {{name} has been working like a woman possessed all week. She asks to keep going through the night.} other {{name} has been working like someone possessed all week, and asks to keep going through the night.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bekerja seperti orang kesurupan sepanjang minggu ini. Dia minta untuk terus bekerja sampai malam.} female {{name} bekerja seperti orang kesurupan sepanjang minggu ini. Dia minta untuk terus bekerja sampai malam.} other {{name} bekerja seperti orang kesurupan sepanjang minggu ini, dan minta untuk terus bekerja sampai malam.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1794
 msgid "{gender, select, male {{name} has business cards printed before lunch.} female {{name} has business cards printed before lunch.} other {{name} has business cards printed before lunch.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mencetak kartu nama sebelum makan siang.} female {{name} mencetak kartu nama sebelum makan siang.} other {{name} mencetak kartu nama sebelum makan siang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3179
 msgid "{gender, select, male {{name} has challenged the delivery van to a race, to the depot and back. The driver accepted.} female {{name} has challenged the delivery van to a race, to the depot and back. The driver accepted.} other {{name} has challenged the delivery van to a race, to the depot and back. The driver accepted.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menantang van pengiriman balapan ke depot dan kembali. Sopirnya menerima tantangan itu.} female {{name} menantang van pengiriman balapan ke depot dan kembali. Sopirnya menerima tantangan itu.} other {{name} menantang van pengiriman balapan ke depot dan kembali. Sopirnya menerima tantangan itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2741
 msgid "{gender, select, male {{name} has found a faster way to do the job. It involves a ramp, and a running start.} female {{name} has found a faster way to do the job. It involves a ramp, and a running start.} other {{name} has found a faster way to do the job. It involves a ramp, and a running start.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menemukan cara yang lebih cepat untuk menyelesaikan pekerjaan. Caranya pakai tanjakan dan lari mengambil ancang-ancang.} female {{name} menemukan cara yang lebih cepat untuk menyelesaikan pekerjaan. Caranya pakai tanjakan dan lari mengambil ancang-ancang.} other {{name} menemukan cara yang lebih cepat untuk menyelesaikan pekerjaan. Caranya pakai tanjakan dan lari mengambil ancang-ancang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1365
 msgid "{gender, select, male {{name} has founded a political party. Membership: {name}.} female {{name} has founded a political party. Membership: {name}.} other {{name} has founded a political party. Membership: {name}.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendirikan partai politik. Anggota: {name}.} female {{name} mendirikan partai politik. Anggota: {name}.} other {{name} mendirikan partai politik. Anggota: {name}.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2059
 msgid "{gender, select, male {{name} has founded a union. Membership: one. His demands: a raise, a better chair and a parking spot. He does not have a car.} female {{name} has founded a union. Membership: one. Her demands: a raise, a better chair and a parking spot. She does not have a car.} other {{name} has founded a union. Membership: one. Their demands: a raise, a better chair and a parking spot. They do not have a car.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendirikan serikat pekerja. Anggota: satu orang. Tuntutannya: kenaikan gaji, kursi yang lebih baik, dan tempat parkir. Dia tidak punya mobil.} female {{name} mendirikan serikat pekerja. Anggota: satu orang. Tuntutannya: kenaikan gaji, kursi yang lebih baik, dan tempat parkir. Dia tidak punya mobil.} other {{name} mendirikan serikat pekerja. Anggota: satu orang. Tuntutannya: kenaikan gaji, kursi yang lebih baik, dan tempat parkir. Dia tidak punya mobil.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1334
 msgid "{gender, select, male {{name} has grown as a person.} female {{name} has grown as a person.} other {{name} has grown as a person.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} telah berkembang menjadi pribadi yang lebih baik.} female {{name} telah berkembang menjadi pribadi yang lebih baik.} other {{name} telah berkembang menjadi pribadi yang lebih baik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3516
 msgid "{gender, select, male {{name} has hung a kitten poster above every workstation. Every kitten says “Hang in there”.} female {{name} has hung a kitten poster above every workstation. Every kitten says “Hang in there”.} other {{name} has hung a kitten poster above every workstation. Every kitten says “Hang in there”.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memasang poster anak kucing di atas setiap meja kerja. Setiap anak kucing bertuliskan “Tetap semangat”.} female {{name} memasang poster anak kucing di atas setiap meja kerja. Setiap anak kucing bertuliskan “Tetap semangat”.} other {{name} memasang poster anak kucing di atas setiap meja kerja. Setiap anak kucing bertuliskan “Tetap semangat”.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1095
 msgid "{gender, select, male {{name} has made a chart of everyone's breaks. It is color-coded, laminated, and has a legend.} female {{name} has made a chart of everyone's breaks. It is color-coded, laminated, and has a legend.} other {{name} has made a chart of everyone's breaks. It is color-coded, laminated, and has a legend.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membuat bagan jadwal istirahat semua orang. Bagannya diberi kode warna, dilaminating, dan dilengkapi keterangan.} female {{name} membuat bagan jadwal istirahat semua orang. Bagannya diberi kode warna, dilaminating, dan dilengkapi keterangan.} other {{name} membuat bagan jadwal istirahat semua orang. Bagannya diberi kode warna, dilaminating, dan dilengkapi keterangan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:966
 msgid "{gender, select, male {{name} has not slept. He stares at the workshop door, muttering about something only he can see.} female {{name} has not slept. She stares at the workshop door, muttering about something only she can see.} other {{name} has not slept, staring at the workshop door and muttering about something no one else can see.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} belum tidur. Dia menatap pintu bengkel sambil bergumam tentang sesuatu yang hanya bisa dilihatnya sendiri.} female {{name} belum tidur. Dia menatap pintu bengkel sambil bergumam tentang sesuatu yang hanya bisa dilihatnya sendiri.} other {{name} belum tidur, menatap pintu bengkel sambil bergumam tentang sesuatu yang tidak bisa dilihat orang lain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3336
 msgid "{gender, select, male {{name} has started a workout club at six in the morning, before the shift. He is already shouting encouragement at the door.} female {{name} has started a workout club at six in the morning, before the shift. She is already shouting encouragement at the door.} other {{name} has started a workout club at six in the morning, before the shift. They are already shouting encouragement at the door.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memulai klub olahraga pukul enam pagi, sebelum giliran kerja. Dia sudah berteriak menyemangati orang-orang di pintu.} female {{name} memulai klub olahraga pukul enam pagi, sebelum giliran kerja. Dia sudah berteriak menyemangati orang-orang di pintu.} other {{name} memulai klub olahraga pukul enam pagi, sebelum giliran kerja. Dia sudah berteriak menyemangati orang-orang di pintu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3638
 msgid "{gender, select, male {{name} is back from the dump with a bag of “perfectly good stuff”.} female {{name} is back from the dump with a bag of “perfectly good stuff”.} other {{name} is back from the dump with a bag of “perfectly good stuff”.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kembali dari tempat pembuangan sampah dengan sekantong “barang yang masih bagus”.} female {{name} kembali dari tempat pembuangan sampah dengan sekantong “barang yang masih bagus”.} other {{name} kembali dari tempat pembuangan sampah dengan sekantong “barang yang masih bagus”.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1569
 msgid "{gender, select, male {{name} is certain his tool is cursed. It squeaked at him. Twice.} female {{name} is certain her tool is cursed. It squeaked at her. Twice.} other {{name} is certain their tool is cursed. It squeaked at them. Twice.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} yakin perkakasnya terkutuk. Perkakas itu berdecit padanya. Dua kali.} female {{name} yakin perkakasnya terkutuk. Perkakas itu berdecit padanya. Dua kali.} other {{name} yakin perkakasnya terkutuk. Perkakas itu berdecit padanya. Dua kali.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1437
 msgid "{gender, select, male {{name} is moved to tears. He is with you for life, spelling and all.} female {{name} is moved to tears. She is with you for life, spelling and all.} other {{name} is moved to tears, and with you for life, spelling and all.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terharu sampai menangis. Dia akan setia bersamamu seumur hidup, lengkap dengan salah ejaannya.} female {{name} terharu sampai menangis. Dia akan setia bersamamu seumur hidup, lengkap dengan salah ejaannya.} other {{name} terharu sampai menangis, dan akan setia bersamamu seumur hidup, lengkap dengan salah ejaannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2128
 msgid "{gender, select, male {{name} is not giving up. Someone saw him painting a sign.} female {{name} is not giving up. Someone saw her painting a sign.} other {{name} is not giving up. Someone saw them painting a sign.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak menyerah. Ada yang melihatnya sedang mengecat papan tanda.} female {{name} tidak menyerah. Ada yang melihatnya sedang mengecat papan tanda.} other {{name} tidak menyerah. Ada yang melihatnya sedang mengecat papan tanda.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3259
 msgid "{gender, select, male {{name} is offended: you do not ask how a war ends.} female {{name} is offended: you do not ask how a war ends.} other {{name} is offended: you do not ask how a war ends.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tersinggung: kamu tidak boleh bertanya bagaimana sebuah perang berakhir.} female {{name} tersinggung: kamu tidak boleh bertanya bagaimana sebuah perang berakhir.} other {{name} tersinggung: kamu tidak boleh bertanya bagaimana sebuah perang berakhir.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1677
 msgid "{gender, select, male {{name} is running laps of the workshop, waving a lottery ticket and shouting that he won.} female {{name} is running laps of the workshop, waving a lottery ticket and shouting that she won.} other {{name} is running laps of the workshop, waving a lottery ticket and shouting that they won.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berlari mengelilingi bengkel sambil mengibarkan tiket lotre dan berteriak bahwa dia menang.} female {{name} berlari mengelilingi bengkel sambil mengibarkan tiket lotre dan berteriak bahwa dia menang.} other {{name} berlari mengelilingi bengkel sambil mengibarkan tiket lotre dan berteriak bahwa dia menang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2389
 msgid "{gender, select, male {{name} is selling “business opportunities” to his coworkers. It is a pyramid, and he is at the top.} female {{name} is selling “business opportunities” to her coworkers. It is a pyramid, and she is at the top.} other {{name} is selling “business opportunities” to their coworkers. It is a pyramid, and they are at the top.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menjual “peluang bisnis” kepada rekan-rekan kerjanya. Itu skema piramida, dan dia berada di puncaknya.} female {{name} menjual “peluang bisnis” kepada rekan-rekan kerjanya. Itu skema piramida, dan dia berada di puncaknya.} other {{name} menjual “peluang bisnis” kepada rekan-rekan kerjanya. Itu skema piramida, dan dia berada di puncaknya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3311
 msgid "{gender, select, male {{name} is so proud. The whole company eats the snack now, whatever it is.} female {{name} is so proud. The whole company eats the snack now, whatever it is.} other {{name} is so proud. The whole company eats the snack now, whatever it is.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sangat bangga. Sekarang seluruh perusahaan memakan camilan itu, apa pun isinya.} female {{name} sangat bangga. Sekarang seluruh perusahaan memakan camilan itu, apa pun isinya.} other {{name} sangat bangga. Sekarang seluruh perusahaan memakan camilan itu, apa pun isinya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3232
 msgid "{gender, select, male {{name} is telling his war story again, for the fortieth time. The enemy army gets bigger every time.} female {{name} is telling her war story again, for the fortieth time. The enemy army gets bigger every time.} other {{name} is telling their war story again, for the fortieth time. The enemy army gets bigger every time.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menceritakan kisah perangnya lagi, untuk keempat puluh kalinya. Pasukan musuhnya makin besar setiap kali.} female {{name} menceritakan kisah perangnya lagi, untuk keempat puluh kalinya. Pasukan musuhnya makin besar setiap kali.} other {{name} menceritakan kisah perangnya lagi, untuk keempat puluh kalinya. Pasukan musuhnya makin besar setiap kali.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2105
 msgid "{gender, select, male {{name} is thrilled: membership has doubled.} female {{name} is thrilled: membership has doubled.} other {{name} is thrilled: membership has doubled.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sangat gembira: jumlah anggotanya berlipat dua.} female {{name} sangat gembira: jumlah anggotanya berlipat dua.} other {{name} sangat gembira: jumlah anggotanya berlipat dua.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:447
 msgid "{gender, select, male {{name} is touched, and stays.} female {{name} is touched, and stays.} other {{name} is touched, and stays.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terharu, dan memilih bertahan.} female {{name} terharu, dan memilih bertahan.} other {{name} terharu, dan memilih bertahan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2832
 msgid "{gender, select, male {{name} is touched, and writes in it every morning. Mostly about dreams.} female {{name} is touched, and writes in it every morning. Mostly about dreams.} other {{name} is touched, and writes in it every morning. Mostly about dreams.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terharu, dan menulis di dalamnya setiap pagi. Kebanyakan tentang mimpi.} female {{name} terharu, dan menulis di dalamnya setiap pagi. Kebanyakan tentang mimpi.} other {{name} terharu, dan menulis di dalamnya setiap pagi. Kebanyakan tentang mimpi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3502
 msgid "{gender, select, male {{name} is touched. Kevin is unchanged.} female {{name} is touched. Kevin is unchanged.} other {{name} is touched. Kevin is unchanged.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terharu. Kevin tidak berubah.} female {{name} terharu. Kevin tidak berubah.} other {{name} terharu. Kevin tidak berubah.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1280
 msgid "{gender, select, male {{name} is visibly relieved.} female {{name} is visibly relieved.} other {{name} is visibly relieved.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tampak jelas merasa lega.} female {{name} tampak jelas merasa lega.} other {{name} tampak jelas merasa lega.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1663
 msgid "{gender, select, male {{name} keeps both jobs, and yawns through this one.} female {{name} keeps both jobs, and yawns through this one.} other {{name} keeps both jobs, and yawns through this one.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mempertahankan kedua pekerjaannya, dan menguap sepanjang pekerjaan yang ini.} female {{name} mempertahankan kedua pekerjaannya, dan menguap sepanjang pekerjaan yang ini.} other {{name} mempertahankan kedua pekerjaannya, dan menguap sepanjang pekerjaan yang ini.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2599
 msgid "{gender, select, male {{name} keeps going through the night, and comes out better, with more left to train.} female {{name} keeps going through the night, and comes out better, with more left to train.} other {{name} keeps going through the night, and comes out better, with more left to train.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terus berlatih semalaman, dan keluar sebagai pribadi yang lebih baik, dengan masih banyak yang bisa dilatih.} female {{name} terus berlatih semalaman, dan keluar sebagai pribadi yang lebih baik, dengan masih banyak yang bisa dilatih.} other {{name} terus berlatih semalaman, dan keluar sebagai pribadi yang lebih baik, dengan masih banyak yang bisa dilatih.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2843
 msgid "{gender, select, male {{name} keeps the arm out of the shower for a week, just in case.} female {{name} keeps the arm out of the shower for a week, just in case.} other {{name} keeps the arm out of the shower for a week, just in case.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menjauhkan lengannya dari air pancuran selama seminggu, untuk berjaga-jaga.} female {{name} menjauhkan lengannya dari air pancuran selama seminggu, untuk berjaga-jaga.} other {{name} menjauhkan lengannya dari air pancuran selama seminggu, untuk berjaga-jaga.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2652
 msgid "{gender, select, male {{name} keeps the machine fed, and works faster beside it.} female {{name} keeps the machine fed, and works faster beside it.} other {{name} keeps the machine fed, and works faster beside it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terus menyuplai mesin, dan bekerja lebih cepat di sampingnya.} female {{name} terus menyuplai mesin, dan bekerja lebih cepat di sampingnya.} other {{name} terus menyuplai mesin, dan bekerja lebih cepat di sampingnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1598
 msgid "{gender, select, male {{name} keeps working, and keeps an eye on the tool.} female {{name} keeps working, and keeps an eye on the tool.} other {{name} keeps working, and keeps an eye on the tool.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} terus bekerja, sambil mengawasi perkakasnya.} female {{name} terus bekerja, sambil mengawasi perkakasnya.} other {{name} terus bekerja, sambil mengawasi perkakasnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:801
 msgid "{gender, select, male {{name} laughs, and agrees to {retirementStayYears} more years.} female {{name} laughs, and agrees to {retirementStayYears} more years.} other {{name} laughs, and agrees to {retirementStayYears} more years.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tertawa, dan setuju bekerja {retirementStayYears} tahun lagi.} female {{name} tertawa, dan setuju bekerja {retirementStayYears} tahun lagi.} other {{name} tertawa, dan setuju bekerja {retirementStayYears} tahun lagi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2617
 msgid "{gender, select, male {{name} learned something, but the second shift burned him out.} female {{name} learned something, but the second shift burned her out.} other {{name} learned something, but the second shift burned them out.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} belajar sesuatu, tetapi giliran kerja kedua membuatnya kelelahan.} female {{name} belajar sesuatu, tetapi giliran kerja kedua membuatnya kelelahan.} other {{name} belajar sesuatu, tetapi giliran kerja kedua membuatnya kelelahan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:476
 msgid "{gender, select, male {{name} leaves on good terms, and the rival pays you for him.} female {{name} leaves on good terms, and the rival pays you for her.} other {{name} leaves on good terms, and the rival pays you for them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pergi dengan baik-baik, dan pihak saingan membayarmu untuk kepergiannya.} female {{name} pergi dengan baik-baik, dan pihak saingan membayarmu untuk kepergiannya.} other {{name} pergi dengan baik-baik, dan pihak saingan membayarmu untuk kepergiannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:568
 msgid "{gender, select, male {{name} lost big at cards and asks you for an advance on his wages.} female {{name} lost big at cards and asks you for an advance on her wages.} other {{name} lost big at cards and asks you for an advance on their wages.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kalah besar main kartu dan meminta uang muka upahnya kepadamu.} female {{name} kalah besar main kartu dan meminta uang muka upahnya kepadamu.} other {{name} kalah besar main kartu dan meminta uang muka upahnya kepadamu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2163
 msgid "{gender, select, male {{name} lowers the sign and comes back in, grumbling.} female {{name} lowers the sign and comes back in, grumbling.} other {{name} lowers the sign and comes back in, grumbling.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menurunkan papan tanda lalu masuk kembali sambil menggerutu.} female {{name} menurunkan papan tanda lalu masuk kembali sambil menggerutu.} other {{name} menurunkan papan tanda lalu masuk kembali sambil menggerutu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2553
 msgid "{gender, select, male {{name} mostly enjoys the comics on the back.} female {{name} mostly enjoys the comics on the back.} other {{name} mostly enjoys the comics on the back.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} paling menikmati komik di halaman belakang.} female {{name} paling menikmati komik di halaman belakang.} other {{name} paling menikmati komik di halaman belakang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1943
 msgid "{gender, select, male {{name} now signs every memo as Supreme Commander of {good}, and asks when his pay will catch up with the title.} female {{name} now signs every memo as Supreme Commander of {good}, and asks when her pay will catch up with the title.} other {{name} now signs every memo as Supreme Commander of {good}, and asks when their pay will catch up with the title.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} kini menandatangani setiap memo sebagai Panglima Tertinggi {good}, dan bertanya kapan gajinya akan menyamai jabatan itu.} female {{name} kini menandatangani setiap memo sebagai Panglima Tertinggi {good}, dan bertanya kapan gajinya akan menyamai jabatan itu.} other {{name} kini menandatangani setiap memo sebagai Panglima Tertinggi {good}, dan bertanya kapan gajinya akan menyamai jabatan itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:903
 msgid "{gender, select, male {{name} offers to take {partnerName} under his wing, if you let him spend work time on it.} female {{name} offers to take {partnerName} under her wing, if you let her spend work time on it.} other {{name} offers to take {partnerName} under their wing, if you allow work time for it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menawarkan diri membimbing {partnerName}, kalau kamu mengizinkannya memakai jam kerja untuk itu.} female {{name} menawarkan diri membimbing {partnerName}, kalau kamu mengizinkannya memakai jam kerja untuk itu.} other {{name} menawarkan diri membimbing {partnerName}, kalau kamu mengizinkan memakai jam kerja untuk itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2679
 msgid "{gender, select, male {{name} overheard a rival company's trade secret at the bar. It was not hard: their foreman was shouting it.} female {{name} overheard a rival company's trade secret at the bar. It was not hard: their foreman was shouting it.} other {{name} overheard a rival company's trade secret at the bar. It was not hard: their foreman was shouting it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak sengaja mendengar rahasia dagang perusahaan saingan di bar. Tidak sulit: mandor mereka meneriakkannya.} female {{name} tidak sengaja mendengar rahasia dagang perusahaan saingan di bar. Tidak sulit: mandor mereka meneriakkannya.} other {{name} tidak sengaja mendengar rahasia dagang perusahaan saingan di bar. Tidak sulit: mandor mereka meneriakkannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:578
 msgid "{gender, select, male {{name} pays you back in full, and will not forget it.} female {{name} pays you back in full, and will not forget it.} other {{name} pays you back in full, and will not forget it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melunasi utangnya kepadamu sepenuhnya, dan tidak akan melupakannya.} female {{name} melunasi utangnya kepadamu sepenuhnya, dan tidak akan melupakannya.} other {{name} melunasi utangnya kepadamu sepenuhnya, dan tidak akan melupakannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2186
 msgid "{gender, select, male {{name} pickets until dark, then comes back the next morning, cold and grumpy.} female {{name} pickets until dark, then comes back the next morning, cold and grumpy.} other {{name} pickets until dark, then comes back the next morning, cold and grumpy.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berpiket sampai gelap, lalu kembali keesokan paginya, kedinginan dan bersungut-sungut.} female {{name} berpiket sampai gelap, lalu kembali keesokan paginya, kedinginan dan bersungut-sungut.} other {{name} berpiket sampai gelap, lalu kembali keesokan paginya, kedinginan dan bersungut-sungut.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1485
 msgid "{gender, select, male {{name} pretends not to be moved. It does not work.} female {{name} pretends not to be moved. It does not work.} other {{name} pretends not to be moved. It does not work.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pura-pura tidak terharu. Tapi tidak berhasil.} female {{name} pura-pura tidak terharu. Tapi tidak berhasil.} other {{name} pura-pura tidak terharu. Tapi tidak berhasil.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2305
 msgid "{gender, select, male {{name} proudly points out the fire exit. The inspector orders a day of safety drills.} female {{name} proudly points out the fire exit. The inspector orders a day of safety drills.} other {{name} proudly points out the fire exit. The inspector orders a day of safety drills.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} dengan bangga menunjukkan pintu darurat. Inspektur memerintahkan latihan keselamatan selama sehari.} female {{name} dengan bangga menunjukkan pintu darurat. Inspektur memerintahkan latihan keselamatan selama sehari.} other {{name} dengan bangga menunjukkan pintu darurat. Inspektur memerintahkan latihan keselamatan selama sehari.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3355
 msgid "{gender, select, male {{name} pulled a muscle showing the first exercise, and needs half a day to walk again.} female {{name} pulled a muscle showing the first exercise, and needs half a day to walk again.} other {{name} pulled a muscle showing the first exercise, and needs half a day to walk again.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mengalami otot tertarik saat memperagakan latihan pertama, dan butuh setengah hari untuk bisa berjalan lagi.} female {{name} mengalami otot tertarik saat memperagakan latihan pertama, dan butuh setengah hari untuk bisa berjalan lagi.} other {{name} mengalami otot tertarik saat memperagakan latihan pertama, dan butuh setengah hari untuk bisa berjalan lagi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2901
 msgid "{gender, select, male {{name} puts the paperclip away and goes back to work, a little puzzled.} female {{name} puts the paperclip away and goes back to work, a little puzzled.} other {{name} puts the paperclip away and goes back to work, a little puzzled.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menyimpan klip kertas itu dan kembali bekerja, sedikit kebingungan.} female {{name} menyimpan klip kertas itu dan kembali bekerja, sedikit kebingungan.} other {{name} menyimpan klip kertas itu dan kembali bekerja, sedikit kebingungan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1627
 msgid "{gender, select, male {{name} quits the other job, and is well rested now.} female {{name} quits the other job, and is well rested now.} other {{name} quits the other job, and is well rested now.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhenti dari pekerjaan yang lain, dan sekarang sudah cukup istirahat.} female {{name} berhenti dari pekerjaan yang lain, dan sekarang sudah cukup istirahat.} other {{name} berhenti dari pekerjaan yang lain, dan sekarang sudah cukup istirahat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2559
 msgid "{gender, select, male {{name} reads every word, and starts wondering about life on the other side.} female {{name} reads every word, and starts wondering about life on the other side.} other {{name} reads every word, and starts wondering about life on the other side.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membaca setiap katanya, lalu mulai bertanya-tanya tentang kehidupan di seberang sana.} female {{name} membaca setiap katanya, lalu mulai bertanya-tanya tentang kehidupan di seberang sana.} other {{name} membaca setiap katanya, lalu mulai bertanya-tanya tentang kehidupan di seberang sana.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1687
 msgid "{gender, select, male {{name} really won. He buys everyone dinner, tips you handsomely and retires the next morning.} female {{name} really won. She buys everyone dinner, tips you handsomely and retires the next morning.} other {{name} really won, buys everyone dinner, tips you handsomely and retires the next morning.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} benar-benar menang. Dia mentraktir semua orang makan malam, memberimu tip yang besar, dan pensiun keesokan paginya.} female {{name} benar-benar menang. Dia mentraktir semua orang makan malam, memberimu tip yang besar, dan pensiun keesokan paginya.} other {{name} benar-benar menang, mentraktir semua orang makan malam, memberimu tip yang besar, dan pensiun keesokan paginya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:277
 msgid "{gender, select, male {{name} reassembles it in silence, a little hurt.} female {{name} reassembles it in silence, a little hurt.} other {{name} reassembles it in silence, a little hurt.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} merakitnya kembali dalam diam, sedikit sakit hati.} female {{name} merakitnya kembali dalam diam, sedikit sakit hati.} other {{name} merakitnya kembali dalam diam, sedikit sakit hati.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1513
 msgid "{gender, select, male {{name} remembered, it turns out.} female {{name} remembered, it turns out.} other {{name} remembered, it turns out.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} ternyata ingat.} female {{name} ternyata ingat.} other {{name} ternyata ingat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:780
 msgid "{gender, select, male {{name} retires with a party, after teaching a coworker one last trick.} female {{name} retires with a party, after teaching a coworker one last trick.} other {{name} retires with a party, after teaching a coworker one last trick.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pensiun dengan sebuah pesta, setelah mengajarkan satu jurus terakhir kepada rekan kerjanya.} female {{name} pensiun dengan sebuah pesta, setelah mengajarkan satu jurus terakhir kepada rekan kerjanya.} other {{name} pensiun dengan sebuah pesta, setelah mengajarkan satu jurus terakhir kepada rekan kerjanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:774
 msgid "{gender, select, male {{name} retires with a party, and leaves something of himself behind.} female {{name} retires with a party, and leaves something of herself behind.} other {{name} retires with a party, and leaves something of themselves behind.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pensiun dengan sebuah pesta, dan meninggalkan sesuatu dari dirinya.} female {{name} pensiun dengan sebuah pesta, dan meninggalkan sesuatu dari dirinya.} other {{name} pensiun dengan sebuah pesta, dan meninggalkan sesuatu dari dirinya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:786
 msgid "{gender, select, male {{name} retires with a party, and takes his secrets with him.} female {{name} retires with a party, and takes her secrets with her.} other {{name} retires with a party, and takes their secrets with them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pensiun dengan sebuah pesta, dan membawa rahasia-rahasianya bersamanya.} female {{name} pensiun dengan sebuah pesta, dan membawa rahasia-rahasianya bersamanya.} other {{name} pensiun dengan sebuah pesta, dan membawa rahasia-rahasianya bersamanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2583
 msgid "{gender, select, male {{name} rides it to the end of the shift, and some of it sticks for good.} female {{name} rides it to the end of the shift, and some of it sticks for good.} other {{name} rides it to the end of the shift, and some of it sticks for good.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menjalaninya sampai akhir giliran kerja, dan sebagian darinya melekat selamanya.} female {{name} menjalaninya sampai akhir giliran kerja, dan sebagian darinya melekat selamanya.} other {{name} menjalaninya sampai akhir giliran kerja, dan sebagian darinya melekat selamanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1953
 msgid "{gender, select, male {{name} salutes. The memos continue.} female {{name} salutes. The memos continue.} other {{name} salutes. The memos continue.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memberi hormat. Memo-memonya terus berlanjut.} female {{name} memberi hormat. Memo-memonya terus berlanjut.} other {{name} memberi hormat. Memo-memonya terus berlanjut.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3672
 msgid "{gender, select, male {{name} says his cousin would be perfect for the job. The cousin is in the car, and the car is on fire.} female {{name} says her cousin would be perfect for the job. The cousin is in the car, and the car is on fire.} other {{name} says their cousin would be perfect for the job. The cousin is in the car, and the car is on fire.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bilang sepupunya akan sangat cocok untuk pekerjaan ini. Sepupunya ada di dalam mobil, dan mobilnya sedang terbakar.} female {{name} bilang sepupunya akan sangat cocok untuk pekerjaan ini. Sepupunya ada di dalam mobil, dan mobilnya sedang terbakar.} other {{name} bilang sepupunya akan sangat cocok untuk pekerjaan ini. Sepupunya ada di dalam mobil, dan mobilnya sedang terbakar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3416
 msgid "{gender, select, male {{name} signed for a delivery of 300 rubber ducks. The invoice is in your name.} female {{name} signed for a delivery of 300 rubber ducks. The invoice is in your name.} other {{name} signed for a delivery of 300 rubber ducks. The invoice is in your name.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menandatangani penerimaan kiriman 300 bebek karet. Tagihannya atas namamu.} female {{name} menandatangani penerimaan kiriman 300 bebek karet. Tagihannya atas namamu.} other {{name} menandatangani penerimaan kiriman 300 bebek karet. Tagihannya atas namamu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2983
 msgid "{gender, select, male {{name} signed the whole company up for the regional karaoke contest. The first round is tonight.} female {{name} signed the whole company up for the regional karaoke contest. The first round is tonight.} other {{name} signed the whole company up for the regional karaoke contest. The first round is tonight.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendaftarkan seluruh perusahaan ke kontes karaoke tingkat wilayah. Babak pertamanya malam ini.} female {{name} mendaftarkan seluruh perusahaan ke kontes karaoke tingkat wilayah. Babak pertamanya malam ini.} other {{name} mendaftarkan seluruh perusahaan ke kontes karaoke tingkat wilayah. Babak pertamanya malam ini.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3026
 msgid "{gender, select, male {{name} sings in the storeroom instead, defiantly.} female {{name} sings in the storeroom instead, defiantly.} other {{name} sings in the storeroom instead, defiantly.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} malah bernyanyi di gudang, dengan membangkang.} female {{name} malah bernyanyi di gudang, dengan membangkang.} other {{name} malah bernyanyi di gudang, dengan membangkang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1351
 msgid "{gender, select, male {{name} spends the day adjusting it by feel.} female {{name} spends the day adjusting it by feel.} other {{name} spends the day adjusting it by feel.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menghabiskan hari dengan menyetelnya berdasarkan perasaan.} female {{name} menghabiskan hari dengan menyetelnya berdasarkan perasaan.} other {{name} menghabiskan hari dengan menyetelnya berdasarkan perasaan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2930
 msgid "{gender, select, male {{name} spends the day safely in bed. No misfortune occurs.} female {{name} spends the day safely in bed. No misfortune occurs.} other {{name} spends the day safely in bed. No misfortune occurs.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menghabiskan hari dengan aman di tempat tidur. Tidak ada kemalangan yang terjadi.} female {{name} menghabiskan hari dengan aman di tempat tidur. Tidak ada kemalangan yang terjadi.} other {{name} menghabiskan hari dengan aman di tempat tidur. Tidak ada kemalangan yang terjadi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3684
 msgid "{gender, select, male {{name} spends the night at the hospital with the cousin.} female {{name} spends the night at the hospital with the cousin.} other {{name} spends the night at the hospital with the cousin.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menghabiskan malam di rumah sakit bersama sepupunya.} female {{name} menghabiskan malam di rumah sakit bersama sepupunya.} other {{name} menghabiskan malam di rumah sakit bersama sepupunya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:952
 msgid "{gender, select, male {{name} starts looking at other jobs.} female {{name} starts looking at other jobs.} other {{name} starts looking at other jobs.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mulai mencari pekerjaan lain.} female {{name} mulai mencari pekerjaan lain.} other {{name} mulai mencari pekerjaan lain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:232
 msgid "{gender, select, male {{name} stayed after hours again. You find his tool in pieces on the bench, and he swears it will come out better than new.} female {{name} stayed after hours again. You find her tool in pieces on the bench, and she swears it will come out better than new.} other {{name} stayed after hours again. You find their tool in pieces on the bench, and they swear it will come out better than new.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lembur lagi. Kamu menemukan perkakasnya terbongkar di atas meja kerja, dan dia bersumpah hasilnya akan lebih bagus daripada yang baru.} female {{name} lembur lagi. Kamu menemukan perkakasnya terbongkar di atas meja kerja, dan dia bersumpah hasilnya akan lebih bagus daripada yang baru.} other {{name} lembur lagi. Kamu menemukan perkakasnya terbongkar di atas meja kerja, dan dia bersumpah hasilnya akan lebih bagus daripada yang baru.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:436
 msgid "{gender, select, male {{name} stays, and asks for more from now on.} female {{name} stays, and asks for more from now on.} other {{name} stays, and asks for more from now on.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan, dan mulai sekarang meminta lebih.} female {{name} bertahan, dan mulai sekarang meminta lebih.} other {{name} bertahan, dan mulai sekarang meminta lebih.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:487
 msgid "{gender, select, male {{name} stays, but feels taken for granted.} female {{name} stays, but feels taken for granted.} other {{name} stays, but feels taken for granted.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan, tetapi merasa tidak dihargai.} female {{name} bertahan, tetapi merasa tidak dihargai.} other {{name} bertahan, tetapi merasa tidak dihargai.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:807
 msgid "{gender, select, male {{name} stays, but he grumbles about it.} female {{name} stays, but she grumbles about it.} other {{name} stays, but grumbles about it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan, tetapi menggerutu soal itu.} female {{name} bertahan, tetapi menggerutu soal itu.} other {{name} bertahan, tetapi menggerutu soal itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:493
 msgid "{gender, select, male {{name} stays, but he kept the rival's card.} female {{name} stays, but she kept the rival's card.} other {{name} stays, but kept the rival's card.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan, tetapi dia menyimpan kartu nama pihak saingan.} female {{name} bertahan, tetapi dia menyimpan kartu nama pihak saingan.} other {{name} bertahan, tetapi menyimpan kartu nama pihak saingan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:459
 msgid "{gender, select, male {{name} stays, but he resents being guilted into it.} female {{name} stays, but she resents being guilted into it.} other {{name} stays, but resents being guilted into it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bertahan, tetapi dia kesal karena dibuat merasa bersalah sampai terpaksa.} female {{name} bertahan, tetapi dia kesal karena dibuat merasa bersalah sampai terpaksa.} other {{name} bertahan, tetapi kesal karena dibuat merasa bersalah sampai terpaksa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3143
 msgid "{gender, select, male {{name} stops listening after your third joke. It is a long afternoon in there.} female {{name} stops listening after your third joke. It is a long afternoon in there.} other {{name} stops listening after your third joke. It is a long afternoon in there.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhenti mendengarkan setelah leluconmu yang ketiga. Sore itu terasa panjang di dalam sana.} female {{name} berhenti mendengarkan setelah leluconmu yang ketiga. Sore itu terasa panjang di dalam sana.} other {{name} berhenti mendengarkan setelah leluconmu yang ketiga. Sore itu terasa panjang di dalam sana.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1987
 msgid "{gender, select, male {{name} stops signing as Supreme Commander, and starts looking at other jobs.} female {{name} stops signing as Supreme Commander, and starts looking at other jobs.} other {{name} stops signing as Supreme Commander, and starts looking at other jobs.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan mulai mencari pekerjaan lain.} female {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan mulai mencari pekerjaan lain.} other {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan mulai mencari pekerjaan lain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1981
 msgid "{gender, select, male {{name} stops signing as Supreme Commander, and sulks.} female {{name} stops signing as Supreme Commander, and sulks.} other {{name} stops signing as Supreme Commander, and sulks.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan merajuk.} female {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan merajuk.} other {{name} berhenti menandatangani sebagai Panglima Tertinggi, dan merajuk.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:833
 msgid "{gender, select, male {{name} stops waiting for your blessing and retires, with no send-off.} female {{name} stops waiting for your blessing and retires, with no send-off.} other {{name} stops waiting for your blessing and retires, with no send-off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhenti menunggu restumu dan pensiun, tanpa acara perpisahan.} female {{name} berhenti menunggu restumu dan pensiun, tanpa acara perpisahan.} other {{name} berhenti menunggu restumu dan pensiun, tanpa acara perpisahan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1117
 msgid "{gender, select, male {{name} studies it for a long time, then laughs. Eventually.} female {{name} studies it for a long time, then laughs. Eventually.} other {{name} studies it for a long time, then laughs. Eventually.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mengamatinya lama sekali, lalu tertawa. Akhirnya.} female {{name} mengamatinya lama sekali, lalu tertawa. Akhirnya.} other {{name} mengamatinya lama sekali, lalu tertawa. Akhirnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2122
 msgid "{gender, select, male {{name} sulks for a while, then the union quietly folds.} female {{name} sulks for a while, then the union quietly folds.} other {{name} sulks for a while, then the union quietly folds.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} merajuk sebentar, lalu serikatnya bubar begitu saja.} female {{name} merajuk sebentar, lalu serikatnya bubar begitu saja.} other {{name} merajuk sebentar, lalu serikatnya bubar begitu saja.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3270
 msgid "{gender, select, male {{name} sulks, and starts the story again at lunch.} female {{name} sulks, and starts the story again at lunch.} other {{name} sulks, and starts the story again at lunch.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} merajuk, lalu mengulang ceritanya lagi saat makan siang.} female {{name} merajuk, lalu mengulang ceritanya lagi saat makan siang.} other {{name} merajuk, lalu mengulang ceritanya lagi saat makan siang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2111
 msgid "{gender, select, male {{name} suspects you only joined to spy on him.} female {{name} suspects you only joined to spy on her.} other {{name} suspects you only joined to spy on them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} curiga kamu ikut bergabung cuma untuk memata-matainya.} female {{name} curiga kamu ikut bergabung cuma untuk memata-matainya.} other {{name} curiga kamu ikut bergabung cuma untuk memata-matainya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1970
 msgid "{gender, select, male {{name} takes being one Supreme Commander among many very badly.} female {{name} takes being one Supreme Commander among many very badly.} other {{name} takes being one Supreme Commander among many very badly.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sangat tidak terima hanya jadi satu dari sekian banyak Panglima Tertinggi.} female {{name} sangat tidak terima hanya jadi satu dari sekian banyak Panglima Tertinggi.} other {{name} sangat tidak terima hanya jadi satu dari sekian banyak Panglima Tertinggi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2354
 msgid "{gender, select, male {{name} takes it apart and puts it back together as good as new.} female {{name} takes it apart and puts it back together as good as new.} other {{name} takes it apart and puts it back together as good as new.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membongkarnya lalu merakitnya kembali sampai seperti baru.} female {{name} membongkarnya lalu merakitnya kembali sampai seperti baru.} other {{name} membongkarnya lalu merakitnya kembali sampai seperti baru.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2094
 msgid "{gender, select, male {{name} takes it very personally, and starts reading the job ads.} female {{name} takes it very personally, and starts reading the job ads.} other {{name} takes it very personally, and starts reading the job ads.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menanggapinya terlalu personal, lalu mulai membaca lowongan kerja.} female {{name} menanggapinya terlalu personal, lalu mulai membaca lowongan kerja.} other {{name} menanggapinya terlalu personal, lalu mulai membaca lowongan kerja.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3469
 msgid "{gender, select, male {{name} takes it well, and keeps talking to Kevin anyway.} female {{name} takes it well, and keeps talking to Kevin anyway.} other {{name} takes it well, and keeps talking to Kevin anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menerimanya dengan lapang dada, dan tetap saja mengajak Kevin bicara.} female {{name} menerimanya dengan lapang dada, dan tetap saja mengajak Kevin bicara.} other {{name} menerimanya dengan lapang dada, dan tetap saja mengajak Kevin bicara.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1134
 msgid "{gender, select, male {{name} takes it well, for someone with three more at home.} female {{name} takes it well, for someone with three more at home.} other {{name} takes it well, for someone with three more at home.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menerimanya dengan baik, untuk ukuran orang yang punya tiga lagi di rumah.} female {{name} menerimanya dengan baik, untuk ukuran orang yang punya tiga lagi di rumah.} other {{name} menerimanya dengan baik, untuk ukuran orang yang punya tiga lagi di rumah.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:465
 msgid "{gender, select, male {{name} takes the offer. He is gone.} female {{name} takes the offer. She is gone.} other {{name} takes the offer and is gone.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menerima tawaran itu. Dia pergi.} female {{name} menerima tawaran itu. Dia pergi.} other {{name} menerima tawaran itu dan pergi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3546
 msgid "{gender, select, male {{name} takes the posters down one by one, and does not hang in there.} female {{name} takes the posters down one by one, and does not hang in there.} other {{name} takes the posters down one by one, and does not hang in there.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menurunkan poster satu per satu, dan tidak lagi bertahan.} female {{name} menurunkan poster satu per satu, dan tidak lagi bertahan.} other {{name} menurunkan poster satu per satu, dan tidak lagi bertahan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2232
 msgid "{gender, select, male {{name} talks it through, and feels a lot better.} female {{name} talks it through, and feels a lot better.} other {{name} talks it through, and feels a lot better.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membicarakannya sampai tuntas, dan merasa jauh lebih lega.} female {{name} membicarakannya sampai tuntas, dan merasa jauh lebih lega.} other {{name} membicarakannya sampai tuntas, dan merasa jauh lebih lega.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2238
 msgid "{gender, select, male {{name} talks it through, and will not be writing another one.} female {{name} talks it through, and will not be writing another one.} other {{name} talks it through, and will not be writing another one.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} membicarakannya sampai tuntas, dan tidak akan menulis yang seperti itu lagi.} female {{name} membicarakannya sampai tuntas, dan tidak akan menulis yang seperti itu lagi.} other {{name} membicarakannya sampai tuntas, dan tidak akan menulis yang seperti itu lagi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2293
 msgid "{gender, select, male {{name} talks so fast that the inspector signs off just to leave.} female {{name} talks so fast that the inspector signs off just to leave.} other {{name} talks so fast that the inspector signs off just to leave.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bicara begitu cepat sampai inspektur langsung menyetujui hanya supaya bisa pergi.} female {{name} bicara begitu cepat sampai inspektur langsung menyetujui hanya supaya bisa pergi.} other {{name} bicara begitu cepat sampai inspektur langsung menyetujui hanya supaya bisa pergi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:813
 msgid "{gender, select, male {{name} thanks you, and retires anyway.} female {{name} thanks you, and retires anyway.} other {{name} thanks you, and retires anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berterima kasih kepadamu, dan tetap pensiun.} female {{name} berterima kasih kepadamu, dan tetap pensiun.} other {{name} berterima kasih kepadamu, dan tetap pensiun.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2769
 msgid "{gender, select, male {{name} took the ramp too fast. The tool is dented, and so is he, for the afternoon.} female {{name} took the ramp too fast. The tool is dented, and so is she, for the afternoon.} other {{name} took the ramp too fast. The tool is dented, and so are they, for the afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melewati tanjakan terlalu cepat. Perkakasnya penyok, dan dia sendiri juga babak belur sepanjang sore.} female {{name} melewati tanjakan terlalu cepat. Perkakasnya penyok, dan dia sendiri juga babak belur sepanjang sore.} other {{name} melewati tanjakan terlalu cepat. Perkakasnya penyok, dan dia sendiri juga babak belur sepanjang sore.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2763
 msgid "{gender, select, male {{name} took the ramp. His tool took the damage.} female {{name} took the ramp. Her tool took the damage.} other {{name} took the ramp. Their tool took the damage.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melewati tanjakan. Perkakasnya yang kena dampaknya.} female {{name} melewati tanjakan. Perkakasnya yang kena dampaknya.} other {{name} melewati tanjakan. Perkakasnya yang kena dampaknya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2689
 msgid "{gender, select, male {{name} tries the trick. It works, and he works faster for it.} female {{name} tries the trick. It works, and she works faster for it.} other {{name} tries the trick. It works, and they work faster for it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mencoba triknya. Ternyata berhasil, dan dia jadi bekerja lebih cepat.} female {{name} mencoba triknya. Ternyata berhasil, dan dia jadi bekerja lebih cepat.} other {{name} mencoba triknya. Ternyata berhasil, dan dia jadi bekerja lebih cepat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2727
 msgid "{gender, select, male {{name} tries to forget it, and hums it all afternoon.} female {{name} tries to forget it, and hums it all afternoon.} other {{name} tries to forget it, and hums it all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berusaha melupakannya, tapi malah menyenandungkannya sepanjang sore.} female {{name} berusaha melupakannya, tapi malah menyenandungkannya sepanjang sore.} other {{name} berusaha melupakannya, tapi malah menyenandungkannya sepanjang sore.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:453
 msgid "{gender, select, male {{name} turns the offer down for good: he is with you.} female {{name} turns the offer down for good: she is with you.} other {{name} turns the offer down for good: they are with you.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menolak tawaran itu untuk selamanya: dia tetap bersamamu.} female {{name} menolak tawaran itu untuk selamanya: dia tetap bersamamu.} other {{name} menolak tawaran itu untuk selamanya: dia tetap bersamamu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2175
 msgid "{gender, select, male {{name} walks off with the sign and never comes back.} female {{name} walks off with the sign and never comes back.} other {{name} walks off with the sign and never comes back.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} pergi membawa papan tanda itu dan tidak pernah kembali.} female {{name} pergi membawa papan tanda itu dan tidak pernah kembali.} other {{name} pergi membawa papan tanda itu dan tidak pernah kembali.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1022
 msgid "{gender, select, male {{name} walks out of the workshop, and out of your company.} female {{name} walks out of the workshop, and out of your company.} other {{name} walks out of the workshop, and out of your company.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} keluar dari bengkel, sekaligus keluar dari perusahaanmu.} female {{name} keluar dari bengkel, sekaligus keluar dari perusahaanmu.} other {{name} keluar dari bengkel, sekaligus keluar dari perusahaanmu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1807
 msgid "{gender, select, male {{name} was hoping for at least “Commander”.} female {{name} was hoping for at least “Commander”.} other {{name} was hoping for at least “Commander”.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berharap setidaknya dapat gelar “Komandan”.} female {{name} berharap setidaknya dapat gelar “Komandan”.} other {{name} berharap setidaknya dapat gelar “Komandan”.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3658
 msgid "{gender, select, male {{name} watches the bag go, sure it was perfectly good stuff.} female {{name} watches the bag go, sure it was perfectly good stuff.} other {{name} watches the bag go, sure it was perfectly good stuff.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melihat kantong itu dibawa pergi, yakin isinya barang yang masih bagus.} female {{name} melihat kantong itu dibawa pergi, yakin isinya barang yang masih bagus.} other {{name} melihat kantong itu dibawa pergi, yakin isinya barang yang masih bagus.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1206
 msgid "{gender, select, male {{name} watches the pencils go, and holds the chicken a little tighter.} female {{name} watches the pencils go, and holds the chicken a little tighter.} other {{name} watches the pencils go, and holds the chicken a little tighter.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} melihat pensil-pensilnya diambil, dan memeluk ayamnya sedikit lebih erat.} female {{name} melihat pensil-pensilnya diambil, dan memeluk ayamnya sedikit lebih erat.} other {{name} melihat pensil-pensilnya diambil, dan memeluk ayamnya sedikit lebih erat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1461
 msgid "{gender, select, male {{name} wears short sleeves all month anyway.} female {{name} wears short sleeves all month anyway.} other {{name} wears short sleeves all month anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tetap memakai baju lengan pendek sebulan penuh.} female {{name} tetap memakai baju lengan pendek sebulan penuh.} other {{name} tetap memakai baju lengan pendek sebulan penuh.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3486
 msgid "{gender, select, male {{name} welcomes Kevin the Second, and hums at work all week.} female {{name} welcomes Kevin the Second, and hums at work all week.} other {{name} welcomes Kevin the Second, and hums at work all week.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menyambut Kevin Kedua, dan bersenandung saat bekerja sepanjang minggu.} female {{name} menyambut Kevin Kedua, dan bersenandung saat bekerja sepanjang minggu.} other {{name} menyambut Kevin Kedua, dan bersenandung saat bekerja sepanjang minggu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2360
 msgid "{gender, select, male {{name} whacks it in the wrong place. It smokes more now.} female {{name} whacks it in the wrong place. It smokes more now.} other {{name} whacks it in the wrong place. It smokes more now.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} memukulnya di tempat yang salah. Sekarang asapnya makin banyak.} female {{name} memukulnya di tempat yang salah. Sekarang asapnya makin banyak.} other {{name} memukulnya di tempat yang salah. Sekarang asapnya makin banyak.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:939
 msgid "{gender, select, male {{name} will not forget that you kept your word.} female {{name} will not forget that you kept your word.} other {{name} will not forget that you kept your word.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak akan lupa bahwa kamu menepati janjimu.} female {{name} tidak akan lupa bahwa kamu menepati janjimu.} other {{name} tidak akan lupa bahwa kamu menepati janjimu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1148
 msgid "{gender, select, male {{name} will not start work until a bowl of green grapes, only green, is waiting at his station.} female {{name} will not start work until a bowl of green grapes, only green, is waiting at her station.} other {{name} will not start work until a bowl of green grapes, only green, is waiting at their station.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tidak mau mulai bekerja sebelum semangkuk anggur hijau, hanya yang hijau, sudah menunggu di posnya.} female {{name} tidak mau mulai bekerja sebelum semangkuk anggur hijau, hanya yang hijau, sudah menunggu di posnya.} other {{name} tidak mau mulai bekerja sebelum semangkuk anggur hijau, hanya yang hijau, sudah menunggu di posnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3194
 msgid "{gender, select, male {{name} wins by a nose. Your bet pays double.} female {{name} wins by a nose. Your bet pays double.} other {{name} wins by a nose. Your bet pays double.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menang tipis. Taruhanmu dibayar dua kali lipat.} female {{name} menang tipis. Taruhanmu dibayar dua kali lipat.} other {{name} menang tipis. Taruhanmu dibayar dua kali lipat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2069
 msgid "{gender, select, male {{name} wins the better chair, and now expects a better wage too.} female {{name} wins the better chair, and now expects a better wage too.} other {{name} wins the better chair, and now expects a better wage too.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} mendapat kursi yang lebih bagus, dan sekarang mengharapkan upah yang lebih baik juga.} female {{name} mendapat kursi yang lebih bagus, dan sekarang mengharapkan upah yang lebih baik juga.} other {{name} mendapat kursi yang lebih bagus, dan sekarang mengharapkan upah yang lebih baik juga.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3207
 msgid "{gender, select, male {{name} wins, and spends the rest of the day out of breath.} female {{name} wins, and spends the rest of the day out of breath.} other {{name} wins, and spends the rest of the day out of breath.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menang, lalu sisa harinya dihabiskan dengan terengah-engah.} female {{name} menang, lalu sisa harinya dihabiskan dengan terengah-engah.} other {{name} menang, lalu sisa harinya dihabiskan dengan terengah-engah.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:584
 msgid "{gender, select, male {{name} won it back, and pays you with interest.} female {{name} won it back, and pays you with interest.} other {{name} won it back, and pays you with interest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} berhasil memenangkannya kembali, dan membayarmu lengkap dengan bunganya.} female {{name} berhasil memenangkannya kembali, dan membayarmu lengkap dengan bunganya.} other {{name} berhasil memenangkannya kembali, dan membayarmu lengkap dengan bunganya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2963
 msgid "{gender, select, male {{name} works all day, flinching. Nothing happens.} female {{name} works all day, flinching. Nothing happens.} other {{name} works all day, flinching. Nothing happens.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bekerja seharian sambil terus waswas. Tidak terjadi apa-apa.} female {{name} bekerja seharian sambil terus waswas. Tidak terjadi apa-apa.} other {{name} bekerja seharian sambil terus waswas. Tidak terjadi apa-apa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3072
 msgid "{gender, select, male {{name} works slowly from a safe distance, and his tool gets a rest.} female {{name} works slowly from a safe distance, and her tool gets a rest.} other {{name} works slowly from a safe distance, and their tool gets a rest.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} bekerja pelan-pelan dari jarak aman, dan perkakasnya jadi bisa beristirahat.} female {{name} bekerja pelan-pelan dari jarak aman, dan perkakasnya jadi bisa beristirahat.} other {{name} bekerja pelan-pelan dari jarak aman, dan perkakasnya jadi bisa beristirahat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1186
 msgid "{gender, select, male {{name} works, but sighs loudly every few minutes.} female {{name} works, but sighs loudly every few minutes.} other {{name} works, but sighs loudly every few minutes.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} tetap bekerja, tapi menghela napas keras-keras setiap beberapa menit.} female {{name} tetap bekerja, tapi menghela napas keras-keras setiap beberapa menit.} other {{name} tetap bekerja, tapi menghela napas keras-keras setiap beberapa menit.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1784
 msgid "{gender, select, male {{name} would like a new job title, and has drafted a few. “Supreme Commander of {good}” is his favorite.} female {{name} would like a new job title, and has drafted a few. “Supreme Commander of {good}” is her favorite.} other {{name} would like a new job title, and has drafted a few. “Supreme Commander of {good}” is their favorite.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} ingin punya jabatan baru, dan sudah menyusun beberapa usulan. “Panglima Tertinggi {good}” adalah favoritnya.} female {{name} ingin punya jabatan baru, dan sudah menyusun beberapa usulan. “Panglima Tertinggi {good}” adalah favoritnya.} other {{name} ingin punya jabatan baru, dan sudah menyusun beberapa usulan. “Panglima Tertinggi {good}” adalah favoritnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2200
 msgid "{gender, select, male {{name} wrote a resignation letter, then lost it somewhere in the building. He is looking for it, very casually.} female {{name} wrote a resignation letter, then lost it somewhere in the building. She is looking for it, very casually.} other {{name} wrote a resignation letter, then lost it somewhere in the building. They are looking for it, very casually.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} menulis surat pengunduran diri, lalu menghilangkannya di suatu tempat di gedung. Dia mencarinya dengan sangat santai.} female {{name} menulis surat pengunduran diri, lalu menghilangkannya di suatu tempat di gedung. Dia mencarinya dengan sangat santai.} other {{name} menulis surat pengunduran diri, lalu menghilangkannya di suatu tempat di gedung. Dia mencarinya dengan sangat santai.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2915
 msgid "{gender, select, male {{name}'s horoscope promises a great misfortune at work today. He refuses to touch the machine.} female {{name}'s horoscope promises a great misfortune at work today. She refuses to touch the machine.} other {{name}'s horoscope promises a great misfortune at work today. They refuse to touch the machine.}}"
-msgstr ""
+msgstr "{gender, select, male {Horoskop {name} menjanjikan kesialan besar di tempat kerja hari ini. Dia menolak menyentuh mesin.} female {Horoskop {name} menjanjikan kesialan besar di tempat kerja hari ini. Dia menolak menyentuh mesin.} other {Horoskop {name} menjanjikan kesialan besar di tempat kerja hari ini. Dia menolak menyentuh mesin.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2326
 msgid "{gender, select, male {{name}'s tool is smoking. He keeps working, and insists it has always done that.} female {{name}'s tool is smoking. She keeps working, and insists it has always done that.} other {{name}'s tool is smoking. They keep working, and insist it has always done that.}}"
-msgstr ""
+msgstr "{gender, select, male {Perkakas {name} berasap. Dia terus bekerja, dan bersikeras bahwa memang dari dulu begitu.} female {Perkakas {name} berasap. Dia terus bekerja, dan bersikeras bahwa memang dari dulu begitu.} other {Perkakas {name} berasap. Dia terus bekerja, dan bersikeras bahwa memang dari dulu begitu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:989
 msgid "{gender, select, male {A note slides under the workshop door: {name} needs materials, and will not come out without them.} female {A note slides under the workshop door: {name} needs materials, and will not come out without them.} other {A note slides under the workshop door: {name} needs materials, and will not come out without them.}}"
-msgstr ""
+msgstr "{gender, select, male {Secarik catatan terselip di bawah pintu bengkel: {name} butuh bahan, dan tidak akan keluar tanpa bahan itu.} female {Secarik catatan terselip di bawah pintu bengkel: {name} butuh bahan, dan tidak akan keluar tanpa bahan itu.} other {Secarik catatan terselip di bawah pintu bengkel: {name} butuh bahan, dan tidak akan keluar tanpa bahan itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1714
 msgid "{gender, select, male {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.} female {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.} other {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.}}"
-msgstr ""
+msgstr "{gender, select, male {Seekor merpati pindah ke kasau atap. {name} menamainya Jenderal Kur dan bersikeras bahwa pangkatnya lebih tinggi darimu.} female {Seekor merpati pindah ke kasau atap. {name} menamainya Jenderal Kur dan bersikeras bahwa pangkatnya lebih tinggi darimu.} other {Seekor merpati pindah ke kasau atap. {name} menamainya Jenderal Kur dan bersikeras bahwa pangkatnya lebih tinggi darimu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:426
 msgid "{gender, select, male {A rival firm has offered {name} a job. He has not said yes, but he has not said no either.} female {A rival firm has offered {name} a job. She has not said yes, but she has not said no either.} other {A rival firm has offered {name} a job. They have not said yes, but they have not said no either.}}"
-msgstr ""
+msgstr "{gender, select, male {Perusahaan saingan menawari {name} pekerjaan. Dia belum bilang iya, tapi juga belum bilang tidak.} female {Perusahaan saingan menawari {name} pekerjaan. Dia belum bilang iya, tapi juga belum bilang tidak.} other {Perusahaan saingan menawari {name} pekerjaan. Dia belum bilang iya, tapi juga belum bilang tidak.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:929
 msgid "{gender, select, male {A week has passed. {name} is packing, trusting your promise of a trip home.} female {A week has passed. {name} is packing, trusting your promise of a trip home.} other {A week has passed. {name} is packing, trusting your promise of a trip home.}}"
-msgstr ""
+msgstr "{gender, select, male {Seminggu telah berlalu. {name} sedang berkemas, percaya pada janjimu untuk pulang kampung.} female {Seminggu telah berlalu. {name} sedang berkemas, percaya pada janjimu untuk pulang kampung.} other {Seminggu telah berlalu. {name} sedang berkemas, percaya pada janjimu untuk pulang kampung.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2472
 msgid "{gender, select, male {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.} female {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.} other {A window blows in nearby. {name} is only scratched, but stays home for a while to calm down.}}"
-msgstr ""
+msgstr "{gender, select, male {Sebuah jendela pecah berhamburan di dekatnya. {name} hanya tergores, tapi tinggal di rumah beberapa hari untuk menenangkan diri.} female {Sebuah jendela pecah berhamburan di dekatnya. {name} hanya tergores, tapi tinggal di rumah beberapa hari untuk menenangkan diri.} other {Sebuah jendela pecah berhamburan di dekatnya. {name} hanya tergores, tapi tinggal di rumah beberapa hari untuk menenangkan diri.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2416
 msgid "{gender, select, male {Against all odds, it pays out. {name} is delighted.} female {Against all odds, it pays out. {name} is delighted.} other {Against all odds, it pays out. {name} is delighted.}}"
-msgstr ""
+msgstr "{gender, select, male {Di luar dugaan, taruhannya menang. {name} sangat senang.} female {Di luar dugaan, taruhannya menang. {name} sangat senang.} other {Di luar dugaan, taruhannya menang. {name} sangat senang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2941
 msgid "{gender, select, male {Another paper promises a day of great success. {name} believes it, and works faster.} female {Another paper promises a day of great success. {name} believes it, and works faster.} other {Another paper promises a day of great success. {name} believes it, and works faster.}}"
-msgstr ""
+msgstr "{gender, select, male {Koran lain menjanjikan hari yang penuh kesuksesan. {name} memercayainya, dan bekerja lebih cepat.} female {Koran lain menjanjikan hari yang penuh kesuksesan. {name} memercayainya, dan bekerja lebih cepat.} other {Koran lain menjanjikan hari yang penuh kesuksesan. {name} memercayainya, dan bekerja lebih cepat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2592
 msgid "{gender, select, male {Ask him for a second shift} female {Ask her for a second shift} other {Ask them for a second shift}}"
-msgstr ""
+msgstr "{gender, select, male {Minta dia bekerja di giliran kedua} female {Minta dia bekerja di giliran kedua} other {Minta dia bekerja di giliran kedua}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2225
 msgid "{gender, select, male {Ask him why} female {Ask her why} other {Ask them why}}"
-msgstr ""
+msgstr "{gender, select, male {Tanyakan alasannya kepada dia} female {Tanyakan alasannya kepada dia} other {Tanyakan alasannya kepada dia}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3596
 msgid "{gender, select, male {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.} female {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.} other {Before every shift, coworkers queue to rub {name}'s head for luck. The queue gets longer every day.}}"
-msgstr ""
+msgstr "{gender, select, male {Sebelum setiap giliran kerja, rekan-rekan mengantre untuk mengusap kepala {name} demi keberuntungan. Antreannya makin panjang setiap hari.} female {Sebelum setiap giliran kerja, rekan-rekan mengantre untuk mengusap kepala {name} demi keberuntungan. Antreannya makin panjang setiap hari.} other {Sebelum setiap giliran kerja, rekan-rekan mengantre untuk mengusap kepala {name} demi keberuntungan. Antreannya makin panjang setiap hari.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3187
 msgid "{gender, select, male {Bet on him} female {Bet on her} other {Bet on them}}"
-msgstr ""
+msgstr "{gender, select, male {Pasang taruhan padanya} female {Pasang taruhan padanya} other {Pasang taruhan padanya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:249
 msgid "{gender, select, male {Better than new: {name} found a trick of his own and works faster for it.} female {Better than new: {name} found a trick of her own and works faster for it.} other {Better than new: {name} found a trick of their own and works faster for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Lebih bagus daripada yang baru: {name} menemukan triknya sendiri dan jadi bekerja lebih cepat.} female {Lebih bagus daripada yang baru: {name} menemukan triknya sendiri dan jadi bekerja lebih cepat.} other {Lebih bagus daripada yang baru: {name} menemukan triknya sendiri dan jadi bekerja lebih cepat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2825
 msgid "{gender, select, male {Buy him a notebook} female {Buy her a notebook} other {Buy them a notebook}}"
-msgstr ""
+msgstr "{gender, select, male {Belikan dia buku catatan} female {Belikan dia buku catatan} other {Belikan dia buku catatan}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1620
 msgid "{gender, select, male {Confront him} female {Confront her} other {Confront them}}"
-msgstr ""
+msgstr "{gender, select, male {Hadapi dia} female {Hadapi dia} other {Hadapi dia}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1051
 msgid "{gender, select, male {Do an impression of him} female {Do an impression of her} other {Do an impression of them}}"
-msgstr ""
+msgstr "{gender, select, male {Tirukan gayanya} female {Tirukan gayanya} other {Tirukan gayanya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2522
 msgid "{gender, select, male {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} female {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} other {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.}}"
-msgstr ""
+msgstr "{gender, select, male {Pesawat musuh menjatuhkan selebaran propaganda di seluruh tempat kerja. {name} sedang membacanya dengan penuh minat.} female {Pesawat musuh menjatuhkan selebaran propaganda di seluruh tempat kerja. {name} sedang membacanya dengan penuh minat.} other {Pesawat musuh menjatuhkan selebaran propaganda di seluruh tempat kerja. {name} sedang membacanya dengan penuh minat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2947
 msgid "{gender, select, male {Every paper agrees: doom. {name} is more worried than before.} female {Every paper agrees: doom. {name} is more worried than before.} other {Every paper agrees: doom. {name} is more worried than before.}}"
-msgstr ""
+msgstr "{gender, select, male {Semua surat kabar sepakat: kehancuran. {name} menjadi lebih khawatir dari sebelumnya.} female {Semua surat kabar sepakat: kehancuran. {name} menjadi lebih khawatir dari sebelumnya.} other {Semua surat kabar sepakat: kehancuran. {name} menjadi lebih khawatir dari sebelumnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3617
 msgid "{gender, select, male {Everyone feels luckier. {name} gets little work done between rubs.} female {Everyone feels luckier. {name} gets little work done between rubs.} other {Everyone feels luckier. {name} gets little work done between rubs.}}"
-msgstr ""
+msgstr "{gender, select, male {Semua orang merasa lebih beruntung. {name} hanya menyelesaikan sedikit pekerjaan di sela-sela usapan.} female {Semua orang merasa lebih beruntung. {name} hanya menyelesaikan sedikit pekerjaan di sela-sela usapan.} other {Semua orang merasa lebih beruntung. {name} hanya menyelesaikan sedikit pekerjaan di sela-sela usapan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3253
 msgid "{gender, select, male {For once, {name} reaches the ending. The others applaud, mostly from relief.} female {For once, {name} reaches the ending. The others applaud, mostly from relief.} other {For once, {name} reaches the ending. The others applaud, mostly from relief.}}"
-msgstr ""
+msgstr "{gender, select, male {Untuk sekali ini, {name} berhasil mencapai akhir cerita. Yang lain bertepuk tangan, sebagian besar karena lega.} female {Untuk sekali ini, {name} berhasil mencapai akhir cerita. Yang lain bertepuk tangan, sebagian besar karena lega.} other {Untuk sekali ini, {name} berhasil mencapai akhir cerita. Yang lain bertepuk tangan, sebagian besar karena lega.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2573
 msgid "{gender, select, male {For one shift, {name} works like a legend. Everything he touches comes out right.} female {For one shift, {name} works like a legend. Everything she touches comes out right.} other {For one shift, {name} works like a legend. Everything they touch comes out right.}}"
-msgstr ""
+msgstr "{gender, select, male {Selama satu shift, {name} bekerja seperti legenda. Semua yang disentuhnya berhasil dengan baik.} female {Selama satu shift, {name} bekerja seperti legenda. Semua yang disentuhnya berhasil dengan baik.} other {Selama satu shift, {name} bekerja seperti legenda. Semua yang disentuhnya berhasil dengan baik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2923
 msgid "{gender, select, male {Give him the day off} female {Give her the day off} other {Give them the day off}}"
-msgstr ""
+msgstr "{gender, select, male {Beri dia hari libur} female {Beri dia hari libur} other {Beri dia hari libur}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:264
 msgid "{gender, select, male {Good as new, and {name} is so pleased with it that he works faster.} female {Good as new, and {name} is so pleased with it that she works faster.} other {Good as new, and {name} is so pleased with it that they work faster.}}"
-msgstr ""
+msgstr "{gender, select, male {Seperti baru, dan {name} sangat senang sehingga dia bekerja lebih cepat.} female {Seperti baru, dan {name} sangat senang sehingga dia bekerja lebih cepat.} other {Seperti baru, dan {name} sangat senang sehingga dia bekerja lebih cepat.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2286
 msgid "{gender, select, male {Have {name} give the tour} female {Have {name} give the tour} other {Have {name} give the tour}}"
-msgstr ""
+msgstr "{gender, select, male {Minta {name} memandu tur} female {Minta {name} memandu tur} other {Minta {name} memandu tur}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1964
 msgid "{gender, select, male {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.} female {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.} other {If everyone is a Supreme Commander, nobody is. {name} takes it surprisingly well.}}"
-msgstr ""
+msgstr "{gender, select, male {Jika semua orang adalah Panglima Tertinggi, maka jabatan itu tidak ada artinya. Secara mengejutkan, {name} menerimanya dengan baik.} female {Jika semua orang adalah Panglima Tertinggi, maka jabatan itu tidak ada artinya. Secara mengejutkan, {name} menerimanya dengan baik.} other {Jika semua orang adalah Panglima Tertinggi, maka jabatan itu tidak ada artinya. Secara mengejutkan, {name} menerimanya dengan baik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1475
 msgid "{gender, select, male {It is {name}'s work anniversary. Nobody remembers the date, including {name}.} female {It is {name}'s work anniversary. Nobody remembers the date, including {name}.} other {It is {name}'s work anniversary. Nobody remembers the date, including {name}.}}"
-msgstr ""
+msgstr "{gender, select, male {Hari ini adalah hari jadi kerja {name}. Tidak ada yang ingat tanggalnya, termasuk {name}.} female {Hari ini adalah hari jadi kerja {name}. Tidak ada yang ingat tanggalnya, termasuk {name}.} other {Hari ini adalah hari jadi kerja {name}. Tidak ada yang ingat tanggalnya, termasuk {name}.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3294
 msgid "{gender, select, male {It is a delicacy. {name} is beaming, and the others want the recipe.} female {It is a delicacy. {name} is beaming, and the others want the recipe.} other {It is a delicacy. {name} is beaming, and the others want the recipe.}}"
-msgstr ""
+msgstr "{gender, select, male {Ini adalah hidangan lezat. {name} berseri-seri, dan yang lain menginginkan resepnya.} female {Ini adalah hidangan lezat. {name} berseri-seri, dan yang lain menginginkan resepnya.} other {Ini adalah hidangan lezat. {name} berseri-seri, dan yang lain menginginkan resepnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3300
 msgid "{gender, select, male {It is a war crime. {name} saw your face.} female {It is a war crime. {name} saw your face.} other {It is a war crime. {name} saw your face.}}"
-msgstr ""
+msgstr "{gender, select, male {Ini adalah kejahatan perang. {name} melihat wajahmu.} female {Ini adalah kejahatan perang. {name} melihat wajahmu.} other {Ini adalah kejahatan perang. {name} melihat wajahmu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2422
 msgid "{gender, select, male {It pays out handsomely. {name} is beside himself with joy.} female {It pays out handsomely. {name} is beside herself with joy.} other {It pays out handsomely. {name} is beside themself with joy.}}"
-msgstr ""
+msgstr "{gender, select, male {Hasilnya sangat menguntungkan. {name} sangat kegirangan.} female {Hasilnya sangat menguntungkan. {name} sangat kegirangan.} other {Hasilnya sangat menguntungkan. {name} sangat kegirangan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2810
 msgid "{gender, select, male {It really was the solution to something. {name} is a better worker for it.} female {It really was the solution to something. {name} is a better worker for it.} other {It really was the solution to something. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Itu benar-benar solusi untuk sesuatu. {name} menjadi pekerja yang lebih baik karenanya.} female {Itu benar-benar solusi untuk sesuatu. {name} menjadi pekerja yang lebih baik karenanya.} other {Itu benar-benar solusi untuk sesuatu. {name} menjadi pekerja yang lebih baik karenanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2816
 msgid "{gender, select, male {It says “buy milk”. {name} is crushed.} female {It says “buy milk”. {name} is crushed.} other {It says “buy milk”. {name} is crushed.}}"
-msgstr ""
+msgstr "{gender, select, male {Tertulis “beli susu”. {name} pun sangat terpukul.} female {Tertulis “beli susu”. {name} pun sangat terpukul.} other {Tertulis “beli susu”. {name} pun sangat terpukul.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2405
 msgid "{gender, select, male {It shuts down, and {name} calls it a crime against free enterprise.} female {It shuts down, and {name} calls it a crime against free enterprise.} other {It shuts down, and {name} calls it a crime against free enterprise.}}"
-msgstr ""
+msgstr "{gender, select, male {Itu berhenti beroperasi, dan {name} menganggapnya sebagai kejahatan terhadap kebebasan berusaha.} female {Itu berhenti beroperasi, dan {name} menganggapnya sebagai kejahatan terhadap kebebasan berusaha.} other {Itu berhenti beroperasi, dan {name} menganggapnya sebagai kejahatan terhadap kebebasan berusaha.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1252
 msgid "{gender, select, male {It sinks in. {name} almost smiles.} female {It sinks in. {name} almost smiles.} other {It sinks in. {name} almost smiles.}}"
-msgstr ""
+msgstr "{gender, select, male {Maknanya mulai meresap. {name} nyaris tersenyum.} female {Maknanya mulai meresap. {name} nyaris tersenyum.} other {Maknanya mulai meresap. {name} nyaris tersenyum.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2028
 msgid "{gender, select, male {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} female {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.} other {It turns out the cat was not fat. There are five kittens under the workbench, and {name} has already named them all.}}"
-msgstr ""
+msgstr "{gender, select, male {Ternyata kucing itu bukan gemuk. Di bawah meja kerja ada lima anak kucing, dan {name} bahkan sudah memberi nama kepada semuanya.} female {Ternyata kucing itu bukan gemuk. Di bawah meja kerja ada lima anak kucing, dan {name} bahkan sudah memberi nama kepada semuanya.} other {Ternyata kucing itu bukan gemuk. Di bawah meja kerja ada lima anak kucing, dan {name} bahkan sudah memberi nama kepada semuanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3573
 msgid "{gender, select, male {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} female {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} other {It was {name}'s birthday, and nobody knew. {name} is quietly moved.}}"
-msgstr ""
+msgstr "{gender, select, male {Hari itu ternyata ulang tahun {name}, dan tak seorang pun mengetahuinya. {name} diam-diam merasa terharu.} female {Hari itu ternyata ulang tahun {name}, dan tak seorang pun mengetahuinya. {name} diam-diam merasa terharu.} other {Hari itu ternyata ulang tahun {name}, dan tak seorang pun mengetahuinya. {name} diam-diam merasa terharu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2697
 msgid "{gender, select, male {It was a prank on the whole bar, and {name} fell for it.} female {It was a prank on the whole bar, and {name} fell for it.} other {It was a prank on the whole bar, and {name} fell for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Semua orang di bar kena prank, dan {name} ikut tertipu.} female {Semua orang di bar kena prank, dan {name} ikut tertipu.} other {Semua orang di bar kena prank, dan {name} ikut tertipu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1700
 msgid "{gender, select, male {It was last week's draw. {name} returns to work, very quietly.} female {It was last week's draw. {name} returns to work, very quietly.} other {It was last week's draw. {name} returns to work, very quietly.}}"
-msgstr ""
+msgstr "{gender, select, male {Itu hasil undian minggu lalu. {name} kembali bekerja tanpa banyak bicara.} female {Itu hasil undian minggu lalu. {name} kembali bekerja tanpa banyak bicara.} other {Itu hasil undian minggu lalu. {name} kembali bekerja tanpa banyak bicara.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:307
 msgid "{gender, select, male {It works beautifully, and {name} is already thinking about the next one.} female {It works beautifully, and {name} is already thinking about the next one.} other {It works beautifully, and {name} is already thinking about the next one.}}"
-msgstr ""
+msgstr "{gender, select, male {Itu berhasil dengan sangat baik, dan {name} sudah memikirkan hal berikutnya.} female {Itu berhasil dengan sangat baik, dan {name} sudah memikirkan hal berikutnya.} other {Itu berhasil dengan sangat baik, dan {name} sudah memikirkan hal berikutnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2757
 msgid "{gender, select, male {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.} female {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.} other {It works brilliantly. {name} learns more in an afternoon than in the last two weeks.}}"
-msgstr ""
+msgstr "{gender, select, male {Itu berhasil dengan luar biasa. Dalam satu sore, {name} belajar lebih banyak daripada selama dua minggu terakhir.} female {Itu berhasil dengan luar biasa. Dalam satu sore, {name} belajar lebih banyak daripada selama dua minggu terakhir.} other {Itu berhasil dengan luar biasa. Dalam satu sore, {name} belajar lebih banyak daripada selama dua minggu terakhir.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:301
 msgid "{gender, select, male {It works. {name} is a better worker for it.} female {It works. {name} is a better worker for it.} other {It works. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Berhasil! {name} pun menjadi pekerja yang lebih baik.} female {Berhasil! {name} pun menjadi pekerja yang lebih baik.} other {Berhasil! {name} pun menjadi pekerja yang lebih baik.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2751
 msgid "{gender, select, male {It works. {name} learns days' worth of the trade in an afternoon.} female {It works. {name} learns days' worth of the trade in an afternoon.} other {It works. {name} learns days' worth of the trade in an afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {Berhasil. {name} mempelajari keahlian setara beberapa hari kerja hanya dalam satu sore.} female {Berhasil. {name} mempelajari keahlian setara beberapa hari kerja hanya dalam satu sore.} other {Berhasil. {name} mempelajari keahlian setara beberapa hari kerja hanya dalam satu sore.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3065
 msgid "{gender, select, male {Keep him away from the machines} female {Keep her away from the machines} other {Keep them away from the machines}}"
-msgstr ""
+msgstr "{gender, select, male {Jauhkan dia dari mesin} female {Jauhkan dia dari mesin} other {Jauhkan dia dari mesin}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:240
 msgid "{gender, select, male {Let him finish} female {Let her finish} other {Let them finish}}"
-msgstr ""
+msgstr "{gender, select, male {Biarkan dia menyelesaikannya} female {Biarkan dia menyelesaikannya} other {Biarkan dia menyelesaikannya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1535
 msgid "{gender, select, male {Let him fix it} female {Let her fix it} other {Let them fix it}}"
-msgstr ""
+msgstr "{gender, select, male {Biarkan dia memperbaikinya} female {Biarkan dia memperbaikinya} other {Biarkan dia memperbaikinya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2341
 msgid "{gender, select, male {Let him handle it} female {Let her handle it} other {Let them handle it}}"
-msgstr ""
+msgstr "{gender, select, male {Biarkan dia mengurusnya} female {Biarkan dia mengurusnya} other {Biarkan dia mengurusnya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1225
 msgid "{gender, select, male {Let him keep the chicken} female {Let her keep the chicken} other {Let them keep the chicken}}"
-msgstr ""
+msgstr "{gender, select, male {Biarkan dia memelihara ayam itu} female {Biarkan dia memelihara ayam itu} other {Biarkan dia memelihara ayam itu}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2546
 msgid "{gender, select, male {Let him read} female {Let her read} other {Let them read}}"
-msgstr ""
+msgstr "{gender, select, male {Biarkan dia membaca} female {Biarkan dia membaca} other {Biarkan dia membaca}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1110
 msgid "{gender, select, male {Make a chart of his chart-making} female {Make a chart of her chart-making} other {Make a chart of their chart-making}}"
-msgstr ""
+msgstr "{gender, select, male {Buat bagan tentang pembuatan bagannya} female {Buat bagan tentang pembuatan bagannya} other {Buat bagan tentang pembuatan bagannya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2956
 msgid "{gender, select, male {Make him work anyway} female {Make her work anyway} other {Make them work anyway}}"
-msgstr ""
+msgstr "{gender, select, male {Tetap suruh dia bekerja} female {Tetap suruh dia bekerja} other {Tetap suruh dia bekerja}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2804
 msgid "{gender, select, male {Most of it is about the job, and some of it is right. {name} learns something about the trade.} female {Most of it is about the job, and some of it is right. {name} learns something about the trade.} other {Most of it is about the job, and some of it is right. {name} learns something about the trade.}}"
-msgstr ""
+msgstr "{gender, select, male {Sebagian besar isinya tentang pekerjaan, dan beberapa di antaranya benar. {name} mempelajari sesuatu tentang keahlian tersebut.} female {Sebagian besar isinya tentang pekerjaan, dan beberapa di antaranya benar. {name} mempelajari sesuatu tentang keahlian tersebut.} other {Sebagian besar isinya tentang pekerjaan, dan beberapa di antaranya benar. {name} mempelajari sesuatu tentang keahlian tersebut.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:499
 msgid "{gender, select, male {Nobody asked {name} to stay, so he did not. He is gone.} female {Nobody asked {name} to stay, so she did not. She is gone.} other {Nobody asked {name} to stay, so they did not. They are gone.}}"
-msgstr ""
+msgstr "{gender, select, male {Tidak ada yang meminta {name} untuk bertahan, jadi dia tidak melakukannya. Dia sudah pergi.} female {Tidak ada yang meminta {name} untuk bertahan, jadi dia tidak melakukannya. Dia sudah pergi.} other {Tidak ada yang meminta {name} untuk bertahan, jadi dia tidak melakukannya. Dia sudah pergi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1401
 msgid "{gender, select, male {Nobody reads the leaflets. {name} takes it personally.} female {Nobody reads the leaflets. {name} takes it personally.} other {Nobody reads the leaflets. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {Tidak ada yang membaca selebaran itu. {name} memasukkannya ke hati.} female {Tidak ada yang membaca selebaran itu. {name} memasukkannya ke hati.} other {Tidak ada yang membaca selebaran itu. {name} memasukkannya ke hati.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:554
 msgid "{gender, select, male {Nobody stepped in, and {name} burned out. It will stay with him.} female {Nobody stepped in, and {name} burned out. It will stay with her.} other {Nobody stepped in, and {name} burned out. It will stay with them.}}"
-msgstr ""
+msgstr "{gender, select, male {Tidak ada yang turun tangan, dan {name} mengalami burnout. Hal itu akan membekas padanya.} female {Tidak ada yang turun tangan, dan {name} mengalami burnout. Hal itu akan membekas padanya.} other {Tidak ada yang turun tangan, dan {name} mengalami burnout. Hal itu akan membekas padanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1311
 msgid "{gender, select, male {Perfect. {name} sits down with a sigh and makes up for lost time.} female {Perfect. {name} sits down with a sigh and makes up for lost time.} other {Perfect. {name} sits down with a sigh and makes up for lost time.}}"
-msgstr ""
+msgstr "{gender, select, male {Sempurna. {name} duduk sambil menghela napas dan mengejar waktu yang terbuang.} female {Sempurna. {name} duduk sambil menghela napas dan mengejar waktu yang terbuang.} other {Sempurna. {name} duduk sambil menghela napas dan mengejar waktu yang terbuang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3002
 msgid "{gender, select, male {Send him alone} female {Send her alone} other {Send them alone}}"
-msgstr ""
+msgstr "{gender, select, male {Kirim dia sendirian} female {Kirim dia sendirian} other {Kirim dia sendirian}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1070
 msgid "{gender, select, male {Silence. Someone coughs. {name} looks delighted.} female {Silence. Someone coughs. {name} looks delighted.} other {Silence. Someone coughs. {name} looks delighted.}}"
-msgstr ""
+msgstr "{gender, select, male {Hening. Seseorang batuk. {name} tampak sangat senang.} female {Hening. Seseorang batuk. {name} tampak sangat senang.} other {Hening. Seseorang batuk. {name} tampak sangat senang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3040
 msgid "{gender, select, male {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.} female {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.} other {Since {name} joined, three ladders have fallen over, the clock runs backwards and the cat has left.}}"
-msgstr ""
+msgstr "{gender, select, male {Sejak {name} bergabung, tiga tangga terjatuh, jam berputar mundur, dan kucingnya pergi.} female {Sejak {name} bergabung, tiga tangga terjatuh, jam berputar mundur, dan kucingnya pergi.} other {Sejak {name} bergabung, tiga tangga terjatuh, jam berputar mundur, dan kucingnya pergi.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2261
 msgid "{gender, select, male {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} female {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.} other {Someone finds it and reads it out loud at lunch. {name} wants out more than ever.}}"
-msgstr ""
+msgstr "{gender, select, male {Seseorang menemukannya dan membacanya keras-keras saat makan siang. {name} semakin ingin keluar.} female {Seseorang menemukannya dan membacanya keras-keras saat makan siang. {name} semakin ingin keluar.} other {Seseorang menemukannya dan membacanya keras-keras saat makan siang. {name} semakin ingin keluar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3124
 msgid "{gender, select, male {Talk him through it} female {Talk her through it} other {Talk them through it}}"
-msgstr ""
+msgstr "{gender, select, male {Bimbing dia perlahan} female {Bimbing dia perlahan} other {Bimbing dia perlahan}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1321
 msgid "{gender, select, male {Tell him it is just a chair} female {Tell her it is just a chair} other {Tell them it is just a chair}}"
-msgstr ""
+msgstr "{gender, select, male {Katakan padanya itu hanya kursi} female {Katakan padanya itu hanya kursi} other {Katakan padanya itu hanya kursi}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3462
 msgid "{gender, select, male {Tell him Kevin is plastic} female {Tell her Kevin is plastic} other {Tell them Kevin is plastic}}"
-msgstr ""
+msgstr "{gender, select, male {Katakan padanya bahwa Kevin itu plastik} female {Katakan padanya bahwa Kevin itu plastik} other {Katakan padanya bahwa Kevin itu plastik}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1424
 msgid "{gender, select, male {Tell him you love it} female {Tell her you love it} other {Tell them you love it}}"
-msgstr ""
+msgstr "{gender, select, male {Katakan padanya kamu menyukainya} female {Katakan padanya kamu menyukainya} other {Katakan padanya kamu menyukainya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2451
 msgid "{gender, select, male {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.} female {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.} other {The air raid siren goes off in the middle of the shift. {name} looks at you, then at the shelter door.}}"
-msgstr ""
+msgstr "{gender, select, male {Sirine serangan udara berbunyi di tengah shift. {name} menatapmu, lalu ke arah pintu bungker.} female {Sirine serangan udara berbunyi di tengah shift. {name} menatapmu, lalu ke arah pintu bungker.} other {Sirine serangan udara berbunyi di tengah shift. {name} menatapmu, lalu ke arah pintu bungker.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3706
 msgid "{gender, select, male {The car drives off, still on fire. {name} takes it personally.} female {The car drives off, still on fire. {name} takes it personally.} other {The car drives off, still on fire. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {Mobil itu melaju pergi, masih terbakar. {name} memasukkannya ke hati.} female {Mobil itu melaju pergi, masih terbakar. {name} memasukkannya ke hati.} other {Mobil itu melaju pergi, masih terbakar. {name} memasukkannya ke hati.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1527
 msgid "{gender, select, male {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} female {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.} other {The coffee machine broke. Nobody has spoken in two hours. {name} is approaching it with a hammer.}}"
-msgstr ""
+msgstr "{gender, select, male {Mesin kopinya rusak. Tidak ada yang berbicara selama dua jam. {name} mendekatinya dengan membawa palu.} female {Mesin kopinya rusak. Tidak ada yang berbicara selama dua jam. {name} mendekatinya dengan membawa palu.} other {Mesin kopinya rusak. Tidak ada yang berbicara selama dua jam. {name} mendekatinya dengan membawa palu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2399
 msgid "{gender, select, male {The coworkers are relieved. {name} is not.} female {The coworkers are relieved. {name} is not.} other {The coworkers are relieved. {name} is not.}}"
-msgstr ""
+msgstr "{gender, select, male {Rekan kerjanya merasa lega. {name} tidak.} female {Rekan kerjanya merasa lega. {name} tidak.} other {Rekan kerjanya merasa lega. {name} tidak.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3115
 msgid "{gender, select, male {The crowbar bends. {name} spends the afternoon in the lift.} female {The crowbar bends. {name} spends the afternoon in the lift.} other {The crowbar bends. {name} spends the afternoon in the lift.}}"
-msgstr ""
+msgstr "{gender, select, male {Linggisnya bengkok. {name} menghabiskan waktu sore di dalam lift.} female {Linggisnya bengkok. {name} menghabiskan waktu sore di dalam lift.} other {Linggisnya bengkok. {name} menghabiskan waktu sore di dalam lift.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3085
 msgid "{gender, select, male {The curse embraces you back: {name}'s tool falls off a ladder.} female {The curse embraces you back: {name}'s tool falls off a ladder.} other {The curse embraces you back: {name}'s tool falls off a ladder.}}"
-msgstr ""
+msgstr "{gender, select, male {Kutukan itu balas memelukmu: perkakas {name} jatuh dari tangga.} female {Kutukan itu balas memelukmu: perkakas {name} jatuh dari tangga.} other {Kutukan itu balas memelukmu: perkakas {name} jatuh dari tangga.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3050
 msgid "{gender, select, male {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.} female {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.} other {The curse is lifted. The clock runs forwards again, and {name} is as lucky as anyone.}}"
-msgstr ""
+msgstr "{gender, select, male {Kutukannya hilang. Jam kembali berputar maju, dan {name} sama beruntungnya dengan yang lain.} female {Kutukannya hilang. Jam kembali berputar maju, dan {name} sama beruntungnya dengan yang lain.} other {Kutukannya hilang. Jam kembali berputar maju, dan {name} sama beruntungnya dengan yang lain.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3109
 msgid "{gender, select, male {The doors give. {name} hugs the first coworker in sight.} female {The doors give. {name} hugs the first coworker in sight.} other {The doors give. {name} hugs the first coworker in sight.}}"
-msgstr ""
+msgstr "{gender, select, male {Pintunya akhirnya terbuka. {name} memeluk rekan kerja pertama yang dilihatnya.} female {Pintunya akhirnya terbuka. {name} memeluk rekan kerja pertama yang dilihatnya.} other {Pintunya akhirnya terbuka. {name} memeluk rekan kerja pertama yang dilihatnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3695
 msgid "{gender, select, male {The fire is out and the cousin is safe. {name} is very grateful.} female {The fire is out and the cousin is safe. {name} is very grateful.} other {The fire is out and the cousin is safe. {name} is very grateful.}}"
-msgstr ""
+msgstr "{gender, select, male {Apinya sudah padam dan sepupunya selamat. {name} sangat bersyukur.} female {Apinya sudah padam dan sepupunya selamat. {name} sangat bersyukur.} other {Apinya sudah padam dan sepupunya selamat. {name} sangat bersyukur.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3056
 msgid "{gender, select, male {The fortune teller takes one look at {name} and runs, which hurts.} female {The fortune teller takes one look at {name} and runs, which hurts.} other {The fortune teller takes one look at {name} and runs, which hurts.}}"
-msgstr ""
+msgstr "{gender, select, male {Peramal itu melihat {name} sekilas lalu lari, itu sungguh menyakitkan hati.} female {Peramal itu melihat {name} sekilas lalu lari, itu sungguh menyakitkan hati.} other {Peramal itu melihat {name} sekilas lalu lari, itu sungguh menyakitkan hati.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1740
 msgid "{gender, select, male {The General won. {name} needs the afternoon to recover.} female {The General won. {name} needs the afternoon to recover.} other {The General won. {name} needs the afternoon to recover.}}"
-msgstr ""
+msgstr "{gender, select, male {Sang Jenderal menang. {name} butuh waktu sepanjang sore untuk memulihkan diri.} female {Sang Jenderal menang. {name} butuh waktu sepanjang sore untuk memulihkan diri.} other {Sang Jenderal menang. {name} butuh waktu sepanjang sore untuk memulihkan diri.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2969
 msgid "{gender, select, male {The horoscope was right: {name}'s tool takes a nasty knock.} female {The horoscope was right: {name}'s tool takes a nasty knock.} other {The horoscope was right: {name}'s tool takes a nasty knock.}}"
-msgstr ""
+msgstr "{gender, select, male {Ramalan bintangnya benar: perkakas {name} terkena benturan keras.} female {Ramalan bintangnya benar: perkakas {name} terkena benturan keras.} other {Ramalan bintangnya benar: perkakas {name} terkena benturan keras.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2299
 msgid "{gender, select, male {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.} female {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.} other {The inspector leaves charmed, and the whole staff cheers {name} all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {Inspektur itu pergi dengan terpesona, dan seluruh staf bersorak untuk {name} sepanjang sore.} female {Inspektur itu pergi dengan terpesona, dan seluruh staf bersorak untuk {name} sepanjang sore.} other {Inspektur itu pergi dengan terpesona, dan seluruh staf bersorak untuk {name} sepanjang sore.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2867
 msgid "{gender, select, male {The lessons pay off. {name} is a better worker for it.} female {The lessons pay off. {name} is a better worker for it.} other {The lessons pay off. {name} is a better worker for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Pelajaran itu membuahkan hasil. {name} menjadi pekerja yang lebih baik karenanya.} female {Pelajaran itu membuahkan hasil. {name} menjadi pekerja yang lebih baik karenanya.} other {Pelajaran itu membuahkan hasil. {name} menjadi pekerja yang lebih baik karenanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2255
 msgid "{gender, select, male {The letter never turns up, and {name} stays on edge.} female {The letter never turns up, and {name} stays on edge.} other {The letter never turns up, and {name} stays on edge.}}"
-msgstr ""
+msgstr "{gender, select, male {Surat itu tidak pernah tiba, dan {name} tetap merasa gelisah.} female {Surat itu tidak pernah tiba, dan {name} tetap merasa gelisah.} other {Surat itu tidak pernah tiba, dan {name} tetap merasa gelisah.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3099
 msgid "{gender, select, male {The lift broke down between two floors with {name} inside. He is reading his will through the door.} female {The lift broke down between two floors with {name} inside. She is reading her will through the door.} other {The lift broke down between two floors with {name} inside. They are reading their will through the door.}}"
-msgstr ""
+msgstr "{gender, select, male {Liftnya mogok di antara dua lantai dengan {name} di dalamnya. Dia membacakan surat wasiatnya dari balik pintu.} female {Liftnya mogok di antara dua lantai dengan {name} di dalamnya. Dia membacakan surat wasiatnya dari balik pintu.} other {Liftnya mogok di antara dua lantai dengan {name} di dalamnya. Dia membacakan surat wasiatnya dari balik pintu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3165
 msgid "{gender, select, male {The lift restarts at dusk. {name} takes the stairs from now on.} female {The lift restarts at dusk. {name} takes the stairs from now on.} other {The lift restarts at dusk. {name} takes the stairs from now on.}}"
-msgstr ""
+msgstr "{gender, select, male {Lift kembali beroperasi saat senja. Mulai sekarang {name} memilih menggunakan tangga.} female {Lift kembali beroperasi saat senja. Mulai sekarang {name} memilih menggunakan tangga.} other {Lift kembali beroperasi saat senja. Mulai sekarang {name} memilih menggunakan tangga.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2611
 msgid "{gender, select, male {The magic fades halfway through the night, but {name} still learned something.} female {The magic fades halfway through the night, but {name} still learned something.} other {The magic fades halfway through the night, but {name} still learned something.}}"
-msgstr ""
+msgstr "{gender, select, male {Keajaiban itu memudar di tengah malam, tetapi {name} tetap mempelajari sesuatu.} female {Keajaiban itu memudar di tengah malam, tetapi {name} tetap mempelajari sesuatu.} other {Keajaiban itu memudar di tengah malam, tetapi {name} tetap mempelajari sesuatu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2428
 msgid "{gender, select, male {The money vanishes up the pyramid. {name} is delighted anyway.} female {The money vanishes up the pyramid. {name} is delighted anyway.} other {The money vanishes up the pyramid. {name} is delighted anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {Uang itu lenyap ke puncak piramida. {name} tetap saja senang.} female {Uang itu lenyap ke puncak piramida. {name} tetap saja senang.} other {Uang itu lenyap ke puncak piramida. {name} tetap saja senang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3535
 msgid "{gender, select, male {The new poster looks like your mugshot. {name} misses the kitten.} female {The new poster looks like your mugshot. {name} misses the kitten.} other {The new poster looks like your mugshot. {name} misses the kitten.}}"
-msgstr ""
+msgstr "{gender, select, male {Poster baru itu terlihat seperti foto tahananmu. {name} merindukan anak kucing itu.} female {Poster baru itu terlihat seperti foto tahananmu. {name} merindukan anak kucing itu.} other {Poster baru itu terlihat seperti foto tahananmu. {name} merindukan anak kucing itu.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1496
 msgid "{gender, select, male {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.} female {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.} other {The only cake left said “Happy Retirement”. {name} finds it hilarious. It is a tradition now.}}"
-msgstr ""
+msgstr "{gender, select, male {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} menganggapnya sangat lucu. Hal ini menjadi tradisi sekarang.} female {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} menganggapnya sangat lucu. Hal ini menjadi tradisi sekarang.} other {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} menganggapnya sangat lucu. Hal ini menjadi tradisi sekarang.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1502
 msgid "{gender, select, male {The only cake left said “Happy Retirement”. {name} starts to wonder.} female {The only cake left said “Happy Retirement”. {name} starts to wonder.} other {The only cake left said “Happy Retirement”. {name} starts to wonder.}}"
-msgstr ""
+msgstr "{gender, select, male {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} mulai bertanya-tanya.} female {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} mulai bertanya-tanya.} other {Kue yang tersisa hanya bertuliskan “Selamat Pensiun”. {name} mulai bertanya-tanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3898
 msgid "{gender, select, male {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.} female {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.} other {The real Kevin has grown into the ventilation, and there are leaves coming out of every vent. {name} is very proud.}}"
-msgstr ""
+msgstr "{gender, select, male {Kevin yang asli telah tumbuh merambat ke dalam ventilasi, dan ada daun yang keluar dari setiap lubang udara. {name} sangat bangga.} female {Kevin yang asli telah tumbuh merambat ke dalam ventilasi, dan ada daun yang keluar dari setiap lubang udara. {name} sangat bangga.} other {Kevin yang asli telah tumbuh merambat ke dalam ventilasi, dan ada daun yang keluar dari setiap lubang udara. {name} sangat bangga.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:658
 msgid "{gender, select, male {The region is under attack. {name} wants to leave his post and help defend it.} female {The region is under attack. {name} wants to leave her post and help defend it.} other {The region is under attack. {name} wants to leave their post and help defend it.}}"
-msgstr ""
+msgstr "{gender, select, male {Wilayah ini sedang diserang. {name} ingin meninggalkan posnya dan membantu mempertahankannya.} female {Wilayah ini sedang diserang. {name} ingin meninggalkan posnya dan membantu mempertahankannya.} other {Wilayah ini sedang diserang. {name} ingin meninggalkan posnya dan membantu mempertahankannya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2708
 msgid "{gender, select, male {The rival sends a thank-you card. {name} is proud to have done the right thing.} female {The rival sends a thank-you card. {name} is proud to have done the right thing.} other {The rival sends a thank-you card. {name} is proud to have done the right thing.}}"
-msgstr ""
+msgstr "{gender, select, male {Saingan mengirim kartu ucapan terima kasih. {name} bangga telah melakukan hal yang benar.} female {Saingan mengirim kartu ucapan terima kasih. {name} bangga telah melakukan hal yang benar.} other {Saingan mengirim kartu ucapan terima kasih. {name} bangga telah melakukan hal yang benar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2714
 msgid "{gender, select, male {The rival thanks your company in the paper. {name} has never been prouder to work here.} female {The rival thanks your company in the paper. {name} has never been prouder to work here.} other {The rival thanks your company in the paper. {name} has never been prouder to work here.}}"
-msgstr ""
+msgstr "{gender, select, male {Saingan berterima kasih kepada perusahaanmu di surat kabar. {name} tidak pernah merasa sebangga ini bekerja di sini.} female {Saingan berterima kasih kepada perusahaanmu di surat kabar. {name} tidak pernah merasa sebangga ini bekerja di sini.} other {Saingan berterima kasih kepada perusahaanmu di surat kabar. {name} tidak pernah merasa sebangga ini bekerja di sini.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1058
 msgid "{gender, select, male {The room loses it. {name} laughs hardest.} female {The room loses it. {name} laughs hardest.} other {The room loses it. {name} laughs hardest.}}"
-msgstr ""
+msgstr "{gender, select, male {Seisi ruangan tertawa terbahak-bahak. {name} tertawa paling keras.} female {Seisi ruangan tertawa terbahak-bahak. {name} tertawa paling keras.} other {Seisi ruangan tertawa terbahak-bahak. {name} tertawa paling keras.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2873
 msgid "{gender, select, male {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} female {The teacher has never seen anything like it. {name} improves, and has room to grow even further.} other {The teacher has never seen anything like it. {name} improves, and has room to grow even further.}}"
-msgstr ""
+msgstr "{gender, select, male {Guru itu belum pernah melihat hal seperti ini. {name} mengalami peningkatan, dan masih memiliki ruang untuk berkembang lebih jauh.} female {Guru itu belum pernah melihat hal seperti ini. {name} mengalami peningkatan, dan masih memiliki ruang untuk berkembang lebih jauh.} other {Guru itu belum pernah melihat hal seperti ini. {name} mengalami peningkatan, dan masih memiliki ruang untuk berkembang lebih jauh.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3154
 msgid "{gender, select, male {The technician arrives a few hours later, and {name} walks out shaking.} female {The technician arrives a few hours later, and {name} walks out shaking.} other {The technician arrives a few hours later, and {name} walks out shaking.}}"
-msgstr ""
+msgstr "{gender, select, male {Teknisi tiba beberapa jam kemudian, dan {name} keluar dengan gemetar.} female {Teknisi tiba beberapa jam kemudian, dan {name} keluar dengan gemetar.} other {Teknisi tiba beberapa jam kemudian, dan {name} keluar dengan gemetar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3606
 msgid "{gender, select, male {The till fills up. {name} hates being a coin-operated charm.} female {The till fills up. {name} hates being a coin-operated charm.} other {The till fills up. {name} hates being a coin-operated charm.}}"
-msgstr ""
+msgstr "{gender, select, male {Laci kasir terisi penuh. {name} benci menjadi jimat yang dioperasikan dengan koin.} female {Laci kasir terisi penuh. {name} benci menjadi jimat yang dioperasikan dengan koin.} other {Laci kasir terisi penuh. {name} benci menjadi jimat yang dioperasikan dengan koin.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2366
 msgid "{gender, select, male {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} female {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.} other {The tool goes up in a puff of black smoke, and {name} needs the afternoon to wash off the soot.}}"
-msgstr ""
+msgstr "{gender, select, male {Perkakas itu hancur dalam kepulan asap hitam, dan {name} butuh waktu sepanjang sore untuk membersihkan jelaganya.} female {Perkakas itu hancur dalam kepulan asap hitam, dan {name} butuh waktu sepanjang sore untuk membersihkan jelaganya.} other {Perkakas itu hancur dalam kepulan asap hitam, dan {name} butuh waktu sepanjang sore untuk membersihkan jelaganya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2082
 msgid "{gender, select, male {The union is dissolved, and {name}, oddly relieved, works harder for it.} female {The union is dissolved, and {name}, oddly relieved, works harder for it.} other {The union is dissolved, and {name}, oddly relieved, works harder for it.}}"
-msgstr ""
+msgstr "{gender, select, male {Serikat pekerja dibubarkan, dan {name}, yang anehnya merasa lega, bekerja lebih keras karenanya.} female {Serikat pekerja dibubarkan, dan {name}, yang anehnya merasa lega, bekerja lebih keras karenanya.} other {Serikat pekerja dibubarkan, dan {name}, yang anehnya merasa lega, bekerja lebih keras karenanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2088
 msgid "{gender, select, male {The union is dissolved. {name} takes it personally.} female {The union is dissolved. {name} takes it personally.} other {The union is dissolved. {name} takes it personally.}}"
-msgstr ""
+msgstr "{gender, select, male {Serikat pekerja dibubarkan. {name} memasukkannya ke hati.} female {Serikat pekerja dibubarkan. {name} memasukkannya ke hati.} other {Serikat pekerja dibubarkan. {name} memasukkannya ke hati.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2142
 msgid "{gender, select, male {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.} female {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.} other {The union of one is on strike. {name} is picketing alone outside the gate, holding a sign that reads “Better chairs now”.}}"
-msgstr ""
+msgstr "{gender, select, male {Serikat pekerja beranggotakan satu orang sedang mogok kerja. {name} berdemo sendirian di luar gerbang, memegang papan tanda bertuliskan “Kursi yang lebih baik sekarang”.} female {Serikat pekerja beranggotakan satu orang sedang mogok kerja. {name} berdemo sendirian di luar gerbang, memegang papan tanda bertuliskan “Kursi yang lebih baik sekarang”.} other {Serikat pekerja beranggotakan satu orang sedang mogok kerja. {name} berdemo sendirian di luar gerbang, memegang papan tanda bertuliskan “Kursi yang lebih baik sekarang”.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2486
 msgid "{gender, select, male {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.} female {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.} other {War rationing has reached the canteen: only beige food until further notice. {name} has started ranking the shades.}}"
-msgstr ""
+msgstr "{gender, select, male {Penjatahan masa perang telah mencapai kantin: hanya ada makanan berwarna krem sampai pemberitahuan lebih lanjut. {name} mulai memeringkat corak warnanya.} female {Penjatahan masa perang telah mencapai kantin: hanya ada makanan berwarna krem sampai pemberitahuan lebih lanjut. {name} mulai memeringkat corak warnanya.} other {Penjatahan masa perang telah mencapai kantin: hanya ada makanan berwarna krem sampai pemberitahuan lebih lanjut. {name} mulai memeringkat corak warnanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3495
 msgid "{gender, select, male {Water Kevin with him} female {Water Kevin with her} other {Water Kevin with them}}"
-msgstr ""
+msgstr "{gender, select, male {Siram Kevin bersamanya} female {Siram Kevin bersamanya} other {Siram Kevin bersamanya}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:612
 msgid "{gender, select, male {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. He is eyeing it.} female {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. She is eyeing it.} other {While clearing the storeroom, {name} found an old toolbox nobody remembers buying, and is eyeing it.}}"
-msgstr ""
+msgstr "{gender, select, male {Saat membersihkan gudang, {name} menemukan kotak perkakas tua yang tidak ada seorang pun ingat pernah membelinya. Dia sedang mengincarnya.} female {Saat membersihkan gudang, {name} menemukan kotak perkakas tua yang tidak ada seorang pun ingat pernah membelinya. Dia sedang mengincarnya.} other {Saat membersihkan gudang, {name} menemukan kotak perkakas tua yang tidak ada seorang pun ingat pernah membelinya, dan sedang mengincarnya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1650
 msgid "{gender, select, male {You come back with every trick they have. {name} is impressed.} female {You come back with every trick they have. {name} is impressed.} other {You come back with every trick they have. {name} is impressed.}}"
-msgstr ""
+msgstr "{gender, select, male {Kamu kembali dengan semua trik yang mereka miliki. {name} merasa terkesan.} female {Kamu kembali dengan semua trik yang mereka miliki. {name} merasa terkesan.} other {Kamu kembali dengan semua trik yang mereka miliki. {name} merasa terkesan.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1644
 msgid "{gender, select, male {You come back with their tricks, and {name} is thrilled to learn them.} female {You come back with their tricks, and {name} is thrilled to learn them.} other {You come back with their tricks, and {name} is thrilled to learn them.}}"
-msgstr ""
+msgstr "{gender, select, male {Kamu kembali dengan trik mereka, dan {name} sangat senang mempelajarinya.} female {Kamu kembali dengan trik mereka, dan {name} sangat senang mempelajarinya.} other {Kamu kembali dengan trik mereka, dan {name} sangat senang mempelajarinya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2210
 msgid "{gender, select, male {You find it behind the copier and hand it back without a word. {name} is grateful.} female {You find it behind the copier and hand it back without a word. {name} is grateful.} other {You find it behind the copier and hand it back without a word. {name} is grateful.}}"
-msgstr ""
+msgstr "{gender, select, male {Kamu menemukannya di belakang mesin fotokopi dan mengembalikannya tanpa sepatah kata pun. {name} merasa berterima kasih.} female {Kamu menemukannya di belakang mesin fotokopi dan mengembalikannya tanpa sepatah kata pun. {name} merasa berterima kasih.} other {Kamu menemukannya di belakang mesin fotokopi dan mengembalikannya tanpa sepatah kata pun. {name} merasa berterima kasih.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2216
 msgid "{gender, select, male {You find it first, and {name} catches you reading it.} female {You find it first, and {name} catches you reading it.} other {You find it first, and {name} catches you reading it.}}"
-msgstr ""
+msgstr "{gender, select, male {Kamu menemukannya lebih dulu, dan {name} memergokimu sedang membacanya.} female {Kamu menemukannya lebih dulu, dan {name} memergokimu sedang membacanya.} other {Kamu menemukannya lebih dulu, dan {name} memergokimu sedang membacanya.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1242
 msgid "{gender, select, male {You told {name} he did a good job. He has been apologizing for it all afternoon.} female {You told {name} she did a good job. She has been apologizing for it all afternoon.} other {You told {name} they did a good job. They have been apologizing for it all afternoon.}}"
-msgstr ""
+msgstr "{gender, select, male {Kamu memberi tahu {name} bahwa dia melakukan pekerjaan yang baik. Dia terus meminta maaf karenanya sepanjang sore.} female {Kamu memberi tahu {name} bahwa dia melakukan pekerjaan yang baik. Dia terus meminta maaf karenanya sepanjang sore.} other {Kamu memberi tahu {name} bahwa dia melakukan pekerjaan yang baik. Dia terus meminta maaf karenanya sepanjang sore.}}"
 
 #. placeholder {0}: ts.grain
 #. placeholder {1}: ts.bread
