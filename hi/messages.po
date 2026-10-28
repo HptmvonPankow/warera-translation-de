@@ -3078,7 +3078,7 @@ msgstr "100% ऐतिहासिक रूप से सटीक"
 
 #: src/components/_social/poll/PollEditorModal.tsx:115
 msgid "12 hours"
-msgstr ""
+msgstr "12 घंटे"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3725
 msgid "18 degrees it is. {name} is happy, {partnerName} is freezing."
@@ -3086,7 +3086,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:112
 msgid "2 hours"
-msgstr ""
+msgstr "2 घंटे"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "2. IP and Device Sharing"
@@ -3218,7 +3218,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:113
 msgid "3 hours"
-msgstr ""
+msgstr "3 घंटे"
 
 #: src/components/_common/GameRules.tsx:114
 msgid "3. Bots and Automation"
@@ -3378,7 +3378,7 @@ msgstr "5★ लेफ्टिनेंट जनरल"
 
 #: src/components/_social/poll/PollEditorModal.tsx:114
 msgid "6 hours"
-msgstr ""
+msgstr "6 घंटे"
 
 #: src/components/_common/GameRules.tsx:207
 msgid "6. Taking Over and Misuse of State/Military unit assets"
@@ -4600,7 +4600,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:251
 msgid "Away"
-msgstr ""
+msgstr "अनुपस्थित"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:245
 msgid "Away for <0/>: no work, no wage."
@@ -5305,7 +5305,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingCardList.tsx:139
 msgid "Cards"
-msgstr ""
+msgstr "कार्ड"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:67
 msgid "Care"
@@ -7474,7 +7474,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeStats.tsx:532
 #: src/components/_economy/employee/employeeStats.tsx:707
 msgid "Event"
-msgstr ""
+msgstr "इवेंट"
 
 #: src/components/_economy/employee/employeeStats.tsx:369
 msgid "Event Luck checks"
@@ -7946,7 +7946,7 @@ msgstr "फ्लेल"
 
 #: src/utils/translations.tsx:275
 msgid "Flask"
-msgstr ""
+msgstr "फ्लास्क"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
@@ -8907,7 +8907,7 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:386
 #: src/components/_economy/inventory/Inventory.tsx:774
 msgid "Idle"
-msgstr ""
+msgstr "निष्क्रिय"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:177
 msgid "If ignored"
@@ -9738,7 +9738,7 @@ msgstr "लेफ्टिनेंट"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:146
 msgid "Life"
-msgstr ""
+msgstr "जीवन"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:282
 msgid "Lifetime goals"
@@ -9874,7 +9874,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:66
 msgid "Loot"
-msgstr ""
+msgstr "लूट"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:457
 msgid "Loot <0/> in battles"
@@ -10104,7 +10104,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeModal.tsx:374
 msgid "Maxed"
-msgstr ""
+msgstr "अधिकतम"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:349
 #: src/components/_economy/company/CompanyDropdown.tsx:371
@@ -10989,7 +10989,7 @@ msgstr ""
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:159
 msgid "New leader"
-msgstr ""
+msgstr "नया नेता"
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:81
 msgid "New location"
@@ -11315,7 +11315,7 @@ msgstr "अभी कोई बाज़ार मूल्य नहीं ह�
 
 #: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
-msgstr ""
+msgstr "कोई सदस्य नहीं"
 
 #: src/components/_military/mu/MuMemberList.tsx:180
 msgid "No members in this military unit."
@@ -11431,7 +11431,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:185
 msgid "No tool"
-msgstr ""
+msgstr "कोई टूल नहीं"
 
 #: src/components/_economy/inventory/Inventory.tsx:694
 msgid "No tools"
@@ -12272,7 +12272,7 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2204
 msgid "Pay raised"
-msgstr ""
+msgstr "वेतन बढ़ गया"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2277
 msgid "Pay the “inspection fee”"
@@ -13021,7 +13021,7 @@ msgstr ""
 
 #: src/components/_user/user/UserTooltip.tsx:156
 msgid "Rank"
-msgstr ""
+msgstr "रैंक"
 
 #: src/components/_military/battle/BattleHeader.tsx:353
 #: src/pages/battle/[battleId]/index.tsx:65
@@ -16220,7 +16220,7 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
 msgid "Tool"
-msgstr ""
+msgstr "टूल"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:465
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:681
@@ -16631,7 +16631,7 @@ msgstr ""
 
 #: src/components/_military/tournament/TournamentHeader.tsx:53
 msgid "Type"
-msgstr ""
+msgstr "प्रकार"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
@@ -17547,7 +17547,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:145
 msgid "World"
-msgstr ""
+msgstr "दुनिया"
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:65
 msgid "World <0/>"
