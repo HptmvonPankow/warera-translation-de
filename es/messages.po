@@ -12364,11 +12364,11 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeModal.tsx:365
 #: src/components/_economy/employee/TrainingDraftModal.tsx:483
 msgid "Pick a card"
-msgstr ""
+msgstr "¡Elige una carta!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:170
 msgid "Pick a card!"
-msgstr ""
+msgstr "¡Elige una carta!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:309
 msgid "Pick a fight!"
@@ -12376,15 +12376,15 @@ msgstr "¡Elige una batalla!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:347
 msgid "Pick a side and hit until your <0>Health</0> runs out."
-msgstr ""
+msgstr "Elije un bando hasta que tu <0>Health</0> se acabe"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:441
 msgid "Pick an article!"
-msgstr ""
+msgstr "¡Elige un artículo!"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:687
 msgid "Pick an option"
-msgstr ""
+msgstr "Elige una opción"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:404
 msgid "Pick one card, the other is lost."
@@ -12401,7 +12401,7 @@ msgstr ""
 
 #: src/utils/translations.tsx:248
 msgid "Pickaxe"
-msgstr ""
+msgstr "Pico"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:169
 msgid "Picked for you if you do not answer in time."
@@ -12417,32 +12417,32 @@ msgstr "Píldora"
 
 #: src/components/_social/PinArticleModal.tsx:107
 msgid "Pin"
-msgstr ""
+msgstr "Pin"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1102
 msgid "Pin it up"
-msgstr ""
+msgstr "Fíjalo"
 
 #: src/components/_social/Article.tsx:306
 #: src/components/_social/PinArticleModal.tsx:70
 msgid "Pin on news"
-msgstr ""
+msgstr "Fijar en noticias"
 
 #: src/components/_social/PinArticleModal.tsx:38
 msgid "Pin updated"
-msgstr ""
+msgstr "Pin actualizado"
 
 #: src/pages/news/index.tsx:40
 msgid "Pinned by admin"
-msgstr ""
+msgstr "Fijado por administrador"
 
 #: src/pages/news/index.tsx:52
 msgid "Pinned by government"
-msgstr ""
+msgstr "Fijado por el gobierno"
 
 #: src/components/_social/PinArticleModal.tsx:76
 msgid "Pinned until <0/>"
-msgstr ""
+msgstr "Fijado hasta <0/>"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:153
 msgid "Plant a tree in the data center"
@@ -12462,7 +12462,7 @@ msgstr "Los jugadores pueden compartir una dirección IP si han sido registrados
 
 #: src/components/_military/battle/BattleHeader.tsx:269
 msgid "Players watching this battle right now (refreshes every 30 seconds)."
-msgstr ""
+msgstr "Jugadores viendo esta batalla ahora mismo (se actualiza cada 30 segundos)"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:107
 #: src/components/_user/auth/ConnectFromModal.tsx:127
@@ -12477,16 +12477,16 @@ msgstr "Por favor, selecciona una región"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:70
 msgid "Plutocracy"
-msgstr ""
+msgstr "Plutocracia"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:105
 msgid "Poached"
-msgstr ""
+msgstr "Cazado"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3319
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3703
 msgid "Politely decline"
-msgstr ""
+msgstr "Rechazar respetuosamente"
 
 #: src/components/_layout/map.frontConfig.tsx:31
 msgid "Political"
@@ -12506,7 +12506,7 @@ msgstr "Las Tomas de Control Político (PTOs) están permitidas, pero su uso ind
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:58
 msgid "Politics"
-msgstr ""
+msgstr "Politica"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:167
 msgid "Politics & Government"
@@ -12515,11 +12515,11 @@ msgstr "Política y gobierno"
 #: src/components/_social/poll/PollCard.tsx:154
 #: src/components/_social/poll/PollCard.tsx:220
 msgid "Poll ended"
-msgstr ""
+msgstr "Encuesta finalizada"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1684
 msgid "Pop the champagne"
-msgstr ""
+msgstr "Abre la champaña"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:205
 msgid "Popular Article"
@@ -12537,15 +12537,15 @@ msgstr "Población (actualmente aquí)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2202
 msgid "Position ended"
-msgstr ""
+msgstr "Puesto finalizado"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 msgid "Post"
-msgstr ""
+msgstr "Publicar"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:129
 msgid "Post a manager position"
-msgstr ""
+msgstr "Publicar un puesto de administrador"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:21
 #: src/components/_social/announcement/AnnouncementList.tsx:48
@@ -12554,7 +12554,7 @@ msgstr "Publicar anuncio"
 
 #: src/components/_economy/employee/employeeCards.tsx:235
 msgid "Potential"
-msgstr ""
+msgstr "Potencial"
 
 #: src/components/_user/user/skills.frontConfig.tsx:154
 #: src/components/_user/user/skills.frontConfig.tsx:155
@@ -12563,7 +12563,7 @@ msgstr "Precisión"
 
 #: src/utils/translations.tsx:288
 msgid "Precision Caliper"
-msgstr ""
+msgstr "Caliper de Precisión"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
@@ -12603,16 +12603,16 @@ msgstr "El premium empezó a funcionar"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:131
 msgid "Preset deleted."
-msgstr ""
+msgstr "Plantilla borrada."
 
 #: src/components/_user/user/SkillPresetsModal.tsx:119
 #: src/components/_user/user/SkillPresetsModal.tsx:125
 msgid "Preset saved!"
-msgstr ""
+msgstr "¡Plantilla guardada!"
 
 #: src/components/_user/user/UserSkills.tsx:307
 msgid "Presets"
-msgstr ""
+msgstr "Plantillas"
 
 #: src/components/_political/government/Government.tsx:92
 #: src/components/_political/government/GovernmentScroll.tsx:40
@@ -12666,25 +12666,25 @@ msgstr "¡Prestigio!"
 
 #: src/components/_user/user/UserSkills.tsx:198
 msgid "Prestige?"
-msgstr ""
+msgstr "¿Prestigio?"
 
 #. placeholder {0}: user.leveling?.prestigeLevel
 #. placeholder {1}: user.leveling?.prestigeLevel ?? 0
 #: src/components/_user/user/UserBadges.tsx:84
 msgid "Prestiged <0>{0}</0> {1, plural, one {time} other {times}}"
-msgstr ""
+msgstr "Prestigiado <0>{0}</0> {1, plural, one {vez} other {veces}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2313
 msgid "Pretend nobody is in"
-msgstr ""
+msgstr "Pretende que no hay nadie adentro"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1911
 msgid "Pretend not to notice"
-msgstr ""
+msgstr "Pretende que no te das cuenta"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2252
 msgid "Pretend you know nothing"
-msgstr ""
+msgstr "Pretende que no sabes nada"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:379
 msgid "Price"
@@ -12696,15 +12696,15 @@ msgstr "El precio se ajusta automáticamente a los pedidos existentes"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:167
 msgid "Price for you, tax included"
-msgstr ""
+msgstr "Precio para ti, impuestos incluidos"
 
 #: src/pages/market/equipments.tsx:87
 msgid "Prices include your tax"
-msgstr ""
+msgstr "Precios incluyen tus impuestos"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Prima Donna"
-msgstr ""
+msgstr "Prima Donna"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -12738,7 +12738,7 @@ msgstr "Producir"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:91
 msgid "Produce all"
-msgstr ""
+msgstr "Producir todo"
 
 #: src/components/_economy/company/ProduceAllButton.tsx:128
 msgid "Produce All"
@@ -12787,11 +12787,11 @@ msgstr "Producción llena"
 
 #: src/components/_economy/employee/employeeStats.tsx:301
 msgid "Production points made per day at the current rate, bonuses included."
-msgstr ""
+msgstr "Puntos de producción generados por día al ritmo actual, incluyendo bonos"
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:80
 msgid "Production value"
-msgstr ""
+msgstr "Valor de producción"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:208
 msgid "Professionals Only"
@@ -12808,7 +12808,7 @@ msgstr "Perfil"
 #: src/components/_economy/employee/EstimatedProfit.tsx:110
 #: src/components/_economy/employee/WorkforceSummary.tsx:310
 msgid "Profit"
-msgstr ""
+msgstr "Ganancia"
 
 #: src/components/_layout/LayoutRightIcons.tsx:182
 #: src/components/_layout/MoreButtonNav.tsx:100
@@ -12819,7 +12819,7 @@ msgstr "Progresión"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:720
 msgid "Promise a trip later"
-msgstr ""
+msgstr "Prometer un viaje luego"
 
 #: src/components/_military/mu/MuMemberList.tsx:146
 #: src/components/_military/mu/MuMemberList.tsx:434
@@ -12900,11 +12900,11 @@ msgstr "Proposiciones"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1155
 msgid "Provide the grapes"
-msgstr ""
+msgstr "Provee las uvas"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:40
 msgid "Provisional"
-msgstr ""
+msgstr "Provisional"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3905
 msgid "Prune Kevin"
@@ -12912,11 +12912,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3106
 msgid "Pry the doors open"
-msgstr ""
+msgstr "Palanquea las puertas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Pumpkin Head"
-msgstr ""
+msgstr "Cabeza hueca"
 
 #: src/components/_common/GameRules.tsx:330
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
@@ -12924,7 +12924,7 @@ msgstr "Las sanciones, junto con su justificación, son visibles en los perfiles
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:323
 msgid "Pure chance"
-msgstr ""
+msgstr "Puro azar"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -12936,15 +12936,15 @@ msgstr "Hay que presionar a la resistencia aquí antes de que se atrincheren..."
 
 #: src/components/_political/region/RegionResistance.tsx:218
 msgid "Push the resistance here first."
-msgstr "Empuja primero contra la resistencia aquí."
+msgstr "Presiona a la resistencia aquí primero."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1308
 msgid "Put it back exactly"
-msgstr ""
+msgstr "Regrésalo tal cual"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1266
 msgid "Put it in writing"
-msgstr ""
+msgstr "Ponlo por escrito"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:182
 msgid "Put yourself to work!"
