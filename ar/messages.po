@@ -10242,7 +10242,7 @@ msgstr ""
 #: src/components/_economy/employee/employee.frontConfig.tsx:498
 #: src/components/_economy/employee/employee.frontConfig.tsx:526
 msgid "Men only."
-msgstr ""
+msgstr "الرجال فقط"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2367
 msgid "Mentioned in message"
@@ -10354,7 +10354,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:734
 msgid "Midlife crisis"
-msgstr ""
+msgstr "أزمة منصف العمر"
 
 #: src/components/_user/mission/ProgressHeader.tsx:117
 #: src/components/_user/user/UserRankingsPanel.tsx:87
@@ -10465,7 +10465,7 @@ msgstr "الحد الأدنى للمواطنين النشطين"
 
 #: src/components/_social/poll/PollEditorModal.tsx:271
 msgid "Minimum level to vote"
-msgstr ""
+msgstr "الرتبة الادنى للتصويت"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:165
 msgid "Minimum Management"
@@ -10492,7 +10492,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Misogynist"
-msgstr ""
+msgstr "كاره للنساء"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:68
 msgid "Missing <0>{missing}</0> to produce"
@@ -10704,7 +10704,7 @@ msgstr "انقل الشركة"
 
 #: src/components/_economy/employee/MoveShell.tsx:95
 msgid "Move to"
-msgstr ""
+msgstr "نقل الى"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:360
 msgid "Move to the battle first (costs <0>Stamina</0>), then hit."
