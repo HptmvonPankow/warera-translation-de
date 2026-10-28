@@ -2029,7 +2029,7 @@ msgstr ""
 msgid "<0/> & <1/>"
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4587,7 +4587,7 @@ msgstr ""
 msgid "Available now"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "头像已移除"
 
@@ -4894,7 +4894,7 @@ msgstr "Beta 一周年生日帽"
 msgid "Blacksmith's Hammer"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "黑名单 (隐藏内容)"
 
@@ -5261,7 +5261,7 @@ msgstr "<0/> 的候选报名已开放"
 msgid "Candidate"
 msgstr "参选"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5704,7 +5704,7 @@ msgstr ""
 msgid "Colonel"
 msgstr "上校"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "颜色"
@@ -5758,7 +5758,7 @@ msgstr "社区"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6714,7 +6714,7 @@ msgstr "描述"
 msgid "Description (Optional)"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "描述已移除"
 
@@ -7105,7 +7105,7 @@ msgstr ""
 msgid "Edit country order"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "编辑签名"
 
@@ -7621,7 +7621,7 @@ msgstr ""
 msgid "Expected loot"
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr ""
@@ -7976,7 +7976,7 @@ msgstr "字体"
 msgid "Font size"
 msgstr "字体大小"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "字体"
 
@@ -8228,7 +8228,7 @@ msgstr "礼物已送出！皮肤包已为接收者解锁！"
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "礼物已送出！谢谢你支持这个游戏 <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "赠送支持者计划"
 
@@ -9035,7 +9035,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9852,7 +9852,7 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "登出"
 
@@ -10968,6 +10968,10 @@ msgstr "已创建新的 API token"
 msgid "New article"
 msgstr "新文章"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "新留言"
@@ -10976,7 +10980,7 @@ msgstr "新留言"
 msgid "New contract accepted"
 msgstr "新合约已接受"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr ""
 
@@ -11187,7 +11191,7 @@ msgstr "暂无出价"
 msgid "No boots"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr ""
 
@@ -12343,7 +12347,7 @@ msgstr "手机号已验证！"
 msgid "Phone Verification"
 msgstr "手机验证"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "已请求手机验证"
 
@@ -12801,7 +12805,7 @@ msgstr "仅限专业人士"
 msgid "Professionals only (5+ rep)"
 msgstr "仅限专业人士(声望 5+)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "个人档案"
 
@@ -13007,7 +13011,7 @@ msgstr ""
 msgid "Raises one stat."
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr ""
 
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "预备兵"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr ""
@@ -13278,11 +13282,6 @@ msgstr "已设置推荐人"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "推荐人用户名称"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr ""
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13435,7 +13434,7 @@ msgstr "剩余增益时长"
 msgid "Remaining debuff duration"
 msgstr "剩余减益时长"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr ""
 
@@ -13473,7 +13472,7 @@ msgstr "移除一位不活跃的国会议员"
 msgid "Remove announcement"
 msgstr "移除公告"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "移除头像"
 
@@ -13485,7 +13484,7 @@ msgstr "移除赏金"
 msgid "Remove council member"
 msgstr "移除常委"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "移除描述"
 
@@ -13494,7 +13493,7 @@ msgstr "移除描述"
 msgid "Remove enemy"
 msgstr "移除死敌"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr ""
 
@@ -13582,7 +13581,7 @@ msgstr ""
 msgid "Report the leak to the rival"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "举报用户"
 
@@ -13602,7 +13601,7 @@ msgstr "声望每周衰减 20% (最低 1 点)。"
 msgid "Reputation purchased!"
 msgstr "声望已购买！"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "请求手机验证"
 
@@ -13622,7 +13621,7 @@ msgstr ""
 msgid "Requirements"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr ""
 
@@ -13658,7 +13657,7 @@ msgstr "重置幸存者"
 msgid "Reset tutorials"
 msgstr "重置教学"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "重置用户名称"
 
@@ -13855,7 +13854,7 @@ msgstr "已被管理员回滚"
 msgid "Rolled back by Admin"
 msgstr "已被管理员回滚"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr ""
 
@@ -14099,7 +14098,7 @@ msgstr ""
 msgid "Select an occupied region"
 msgstr "选择一个被占领地区"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "选择横幅"
 
@@ -14125,7 +14124,7 @@ msgstr ""
 msgid "Select one or more answers"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "选择皮肤"
 
@@ -14180,7 +14179,7 @@ msgstr "售卖"
 msgid "Send <0/> to <1/>"
 msgstr "向 <1/> 发送 <0/>"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "发送一条消息"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "设置你的用户名称"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "设置"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr ""
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14908,10 +14907,10 @@ msgstr "支持者"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "支持者功能"
 
@@ -15800,6 +15799,10 @@ msgstr ""
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr ""
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr ""
@@ -16063,7 +16066,7 @@ msgstr ""
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "这会为你提供 {cocainBuffHours} 小时增益，然后带来 {cocainDebuffHours} 小时减益"
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "这将要求该用户验证其手机号。"
 
@@ -16501,7 +16504,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr ""
@@ -16635,7 +16638,7 @@ msgstr "Tyrannosaurus Rex"
 msgid "UI"
 msgstr "界面"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "解除黑名单(显示内容)"
 
@@ -16889,7 +16892,7 @@ msgstr "用户与成长"
 msgid "User already owns all skins"
 msgstr "用户已拥有所有皮肤"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "用户遭屏蔽"
 
@@ -16901,7 +16904,7 @@ msgstr "用户对地面控制点的贡献"
 msgid "User removed from family group"
 msgstr "用户已从家庭群组中被移除"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "已解除用户屏蔽"
 
@@ -16913,7 +16916,7 @@ msgstr "已解除用户屏蔽"
 msgid "Username"
 msgstr "用户名"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr ""
@@ -16934,7 +16937,7 @@ msgstr ""
 msgid "Username font"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "用户名已删除"
 

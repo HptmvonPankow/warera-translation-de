@@ -2029,7 +2029,7 @@ msgstr ""
 msgid "<0/> & <1/>"
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4587,7 +4587,7 @@ msgstr ""
 msgid "Available now"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "अवतार हटा दिया गया"
 
@@ -4894,7 +4894,7 @@ msgstr "बीटा के प्रथम वर्ष की जन्मद�
 msgid "Blacksmith's Hammer"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "ब्लॉक करें (सामग्री छिपाएँ)"
 
@@ -5261,7 +5261,7 @@ msgstr "<0/> के लिए उम्मीदवारी खुली है
 msgid "Candidate"
 msgstr "उम्मीदवार"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5704,7 +5704,7 @@ msgstr ""
 msgid "Colonel"
 msgstr "कर्नल"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "रंग योजना"
@@ -5758,7 +5758,7 @@ msgstr "समुदाय"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6714,7 +6714,7 @@ msgstr "विवरण"
 msgid "Description (Optional)"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "विवरण हटा दिया गया"
 
@@ -7105,7 +7105,7 @@ msgstr ""
 msgid "Edit country order"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "विवरण संपादित करें"
 
@@ -7621,7 +7621,7 @@ msgstr ""
 msgid "Expected loot"
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr ""
@@ -7976,7 +7976,7 @@ msgstr "फ़ॉन्ट"
 msgid "Font size"
 msgstr "फ़ॉन्ट आकार"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "फ़ॉन्ट शैली"
 
@@ -8228,7 +8228,7 @@ msgstr "उपहार भेज दिया गया! प्राप्त�
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "उपहार भेज दिया गया! गेम का समर्थन करने के लिए धन्यवाद <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "समर्थक योजना उपहार में दें"
 
@@ -9035,7 +9035,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9852,7 +9852,7 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "लॉगआउट"
 
@@ -10968,6 +10968,10 @@ msgstr "नया API टोकन बनाया गया"
 msgid "New article"
 msgstr "नया लेख"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "नई टिप्पणी"
@@ -10976,7 +10980,7 @@ msgstr "नई टिप्पणी"
 msgid "New contract accepted"
 msgstr "नया अनुबंध स्वीकार किया गया"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr ""
 
@@ -11187,7 +11191,7 @@ msgstr "अभी तक कोई बोली नहीं"
 msgid "No boots"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr ""
 
@@ -12343,7 +12347,7 @@ msgstr "फ़ोन नंबर सत्यापित हो गया!"
 msgid "Phone Verification"
 msgstr "फ़ोन सत्यापन"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "फ़ोन सत्यापन का अनुरोध किया गया"
 
@@ -12801,7 +12805,7 @@ msgstr "केवल पेशेवरों के लिए"
 msgid "Professionals only (5+ rep)"
 msgstr "केवल पेशेवर (5+ प्रतिष्ठा)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "प्रोफ़ाइल"
 
@@ -13007,7 +13011,7 @@ msgstr ""
 msgid "Raises one stat."
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr ""
 
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "भर्ती"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr ""
@@ -13278,11 +13282,6 @@ msgstr "रेफर करने वाला निर्धारित क�
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "रेफर करने वाले का उपयोगकर्ता नाम"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr ""
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13435,7 +13434,7 @@ msgstr "शेष बफ अवधि"
 msgid "Remaining debuff duration"
 msgstr "शेष डिबफ अवधि"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr ""
 
@@ -13473,7 +13472,7 @@ msgstr "एक निष्क्रिय कांग्रेस सदस्
 msgid "Remove announcement"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "अवतार हटाएँ"
 
@@ -13485,7 +13484,7 @@ msgstr "इनाम हटाएँ"
 msgid "Remove council member"
 msgstr "परिषद सदस्य हटाएँ"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "विवरण हटाएँ"
 
@@ -13494,7 +13493,7 @@ msgstr "विवरण हटाएँ"
 msgid "Remove enemy"
 msgstr "शत्रु हटाएँ"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr ""
 
@@ -13582,7 +13581,7 @@ msgstr ""
 msgid "Report the leak to the rival"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "उपयोगकर्ता की रिपोर्ट करें"
 
@@ -13602,7 +13601,7 @@ msgstr "प्रतिष्ठा हर सप्ताह 20% घटकर 0
 msgid "Reputation purchased!"
 msgstr "प्रतिष्ठा खरीदी गई!"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "फोन सत्यापन का अनुरोध करें"
 
@@ -13622,7 +13621,7 @@ msgstr ""
 msgid "Requirements"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr ""
 
@@ -13658,7 +13657,7 @@ msgstr "रीसेट सर्वाइवर"
 msgid "Reset tutorials"
 msgstr "ट्यूटोरियल रीसेट करें"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "उपयोगकर्ता नाम रीसेट करें"
 
@@ -13855,7 +13854,7 @@ msgstr "एडमिन द्वारा वापस लिया गया"
 msgid "Rolled back by Admin"
 msgstr "एडमिन द्वारा वापस लिया गया"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr ""
 
@@ -14099,7 +14098,7 @@ msgstr ""
 msgid "Select an occupied region"
 msgstr "एक कब्ज़े वाले क्षेत्र का चयन करें"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "बैनर चुनें"
 
@@ -14125,7 +14124,7 @@ msgstr ""
 msgid "Select one or more answers"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "स्किन चुनें"
 
@@ -14180,7 +14179,7 @@ msgstr "बेचता है"
 msgid "Send <0/> to <1/>"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "संदेश भेजें"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "अपना उपयोगकर्ता नाम सेट करें"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "सेटिंग्स"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr ""
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14908,10 +14907,10 @@ msgstr "समर्थक"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "समर्थक सुविधा"
 
@@ -15800,6 +15799,10 @@ msgstr ""
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr ""
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr ""
@@ -16063,7 +16066,7 @@ msgstr ""
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "यह आपको {cocainBuffHours} घंटे तक बफ देगा, फिर {cocainDebuffHours} घंटे तक नकारात्मक प्रभाव देगा"
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "इसके लिए उपयोगकर्ता को अपना मोबाइल फ़ोन नंबर सत्यापित करना होगा।"
 
@@ -16501,7 +16504,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr ""
@@ -16635,7 +16638,7 @@ msgstr "टायरैनोसॉरस रेक्स"
 msgid "UI"
 msgstr "यूआई"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "अनब्लॉक करें (सामग्री दिखाएँ)"
 
@@ -16889,7 +16892,7 @@ msgstr "उपयोगकर्ता और प्रगति"
 msgid "User already owns all skins"
 msgstr "उपयोगकर्ता के पास पहले से सभी स्किन हैं"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "उपयोगकर्ता अवरुद्ध"
 
@@ -16901,7 +16904,7 @@ msgstr "ग्राउंड पॉइंट्स में उपयोगक
 msgid "User removed from family group"
 msgstr "उपयोगकर्ता को परिवार समूह से हटाया गया"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "उपयोगकर्ता का अवरोध हटाया गया"
 
@@ -16913,7 +16916,7 @@ msgstr "उपयोगकर्ता का अवरोध हटाया �
 msgid "Username"
 msgstr "उपयोगकर्ता नाम"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr ""
@@ -16934,7 +16937,7 @@ msgstr ""
 msgid "Username font"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "उपयोगकर्ता नाम हटाया गया"
 

@@ -2029,7 +2029,7 @@ msgstr "+4 mokymo potencialo: trimis mokymais daugiau, nei ką tik sunaudojo tra
 msgid "<0/> & <1/>"
 msgstr "<0/> ir <1/>"
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4587,7 +4587,7 @@ msgstr "Bus galima po"
 msgid "Available now"
 msgstr "Galima dabar"
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "Avataras pašalintas"
 
@@ -4894,7 +4894,7 @@ msgstr "Gimtadienio kepurė už 1-uosius Beta metus"
 msgid "Blacksmith's Hammer"
 msgstr "Kalvio Plaktukas"
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "Blokuoti (slėpti turinį)"
 
@@ -5261,7 +5261,7 @@ msgstr "Kandidatų registracija į <0/> atidaryta"
 msgid "Candidate"
 msgstr "Kandidatas"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5704,7 +5704,7 @@ msgstr "Surinkti Dėžes Žemėlapyje"
 msgid "Colonel"
 msgstr "Pulkininkas"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "Spalvų schema"
@@ -5758,7 +5758,7 @@ msgstr "Bendruomenė"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6714,7 +6714,7 @@ msgstr "Aprašymas"
 msgid "Description (Optional)"
 msgstr "Aprašymas (Nebūtina)"
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "Aprašymas pašalintas"
 
@@ -7105,7 +7105,7 @@ msgstr "Redaguoti"
 msgid "Edit country order"
 msgstr "Redaguoti šalies įsakymą"
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "Redaguoti aprašymą"
 
@@ -7621,7 +7621,7 @@ msgstr "Emigrantas"
 msgid "Expected loot"
 msgstr "Numatomas grobis"
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr "Pageidaujamas atlyginimas"
@@ -7976,7 +7976,7 @@ msgstr "Šriftas"
 msgid "Font size"
 msgstr "Šrifto dydis"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "Šrifto stilius"
 
@@ -8228,7 +8228,7 @@ msgstr "Dovana išsiųsta! Gavėjui atrakintas skinų rinkinys!"
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Dovana išsiųsta! Ačiū, kad palaikai žaidimą <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "Padovanoti Rėmėjo Planą"
 
@@ -9035,7 +9035,7 @@ msgstr "Prisistatyk!"
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9852,7 +9852,7 @@ msgstr "Prisijunk, kad galėtum balsuoti."
 msgid "Login"
 msgstr "Prisijungti"
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "Atsijungti"
 
@@ -10968,6 +10968,10 @@ msgstr "Sukurtas Naujas API Raktas"
 msgid "New article"
 msgstr "Naujas straipsnis"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "Naujas komentaras"
@@ -10976,7 +10980,7 @@ msgstr "Naujas komentaras"
 msgid "New contract accepted"
 msgstr "Naujas kontraktas priimtas"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr "Naujas darbuotojas"
 
@@ -11187,7 +11191,7 @@ msgstr "Statymų dar nėra"
 msgid "No boots"
 msgstr "Batų nėra"
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr "Nėra kandidatų"
 
@@ -12343,7 +12347,7 @@ msgstr "Telefono numeris patvirtintas!"
 msgid "Phone Verification"
 msgstr "Telefono Patvirtinimas"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "Prašoma patvirtinti telefoną"
 
@@ -12801,7 +12805,7 @@ msgstr "Tik Profesionalams"
 msgid "Professionals only (5+ rep)"
 msgstr "Tik profesionalams (5+ rep.)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "Profilis"
 
@@ -13007,7 +13011,7 @@ msgstr "Pakelti atlyginimą pagal titulą"
 msgid "Raises one stat."
 msgstr "Pakelia vieną rodiklį."
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr "Atsitiktinis bruožas, +1 atsitiktiniam rodikliui"
 
@@ -13238,7 +13242,7 @@ msgid "Recruit"
 msgstr "Rekrūtas"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr "Samdyti"
@@ -13278,11 +13282,6 @@ msgstr "Nustatytas rekomenduotojas"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "Kvietėjo naudotojo vardas"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr "Atnaujinti programėlę"
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13435,7 +13434,7 @@ msgstr "Likęs Buff'o laikas"
 msgid "Remaining debuff duration"
 msgstr "Likęs Debuff'o laikas"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr "Panaikinti <0/>"
 
@@ -13473,7 +13472,7 @@ msgstr "Pašalinti neaktyvų kongreso narį iš pareigų"
 msgid "Remove announcement"
 msgstr "Pašalinti skelbimą"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "Pašalinti Avatarą"
 
@@ -13485,7 +13484,7 @@ msgstr "Pašalinti premiją"
 msgid "Remove council member"
 msgstr "Pašalinti tarybos narį"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "Pašalinti Aprašymą"
 
@@ -13494,7 +13493,7 @@ msgstr "Pašalinti Aprašymą"
 msgid "Remove enemy"
 msgstr "Pašalinti priešą"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr "Pašalinti visus blogus bruožus"
 
@@ -13582,7 +13581,7 @@ msgstr "Pranešti apie vardą"
 msgid "Report the leak to the rival"
 msgstr "Pranešti konkurentui apie nutekėjimą"
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "Pranešti apie žaidėją"
 
@@ -13602,7 +13601,7 @@ msgstr "Reputacija mažėja 20% link 0 kiekvieną savaitę (mažiausiai 1 taška
 msgid "Reputation purchased!"
 msgstr "Reputacija nupirkta!"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "Pateikti Prašymą dėl Telefono Patvirtinimo"
 
@@ -13622,7 +13621,7 @@ msgstr "Reikalinga pilietybė"
 msgid "Requirements"
 msgstr "Reikalavimai"
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr "Perrinkti visus"
 
@@ -13658,7 +13657,7 @@ msgstr "Išgyvenęs Restartą"
 msgid "Reset tutorials"
 msgstr "Atkurti mokymus"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "Atkurti Vardą"
 
@@ -13855,7 +13854,7 @@ msgstr "Grąžino administratorius"
 msgid "Rolled back by Admin"
 msgstr "Grąžino administratorius"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr "Kolektyvas"
 
@@ -14099,7 +14098,7 @@ msgstr "Pasirink daiktą"
 msgid "Select an occupied region"
 msgstr "Pasirink okupuotą regioną"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "Pasirink banerį"
 
@@ -14125,7 +14124,7 @@ msgstr "Pasirink vieną atsakymą"
 msgid "Select one or more answers"
 msgstr "Pasirink vieną ar kelis atsakymus"
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "Pasirink skiną"
 
@@ -14180,7 +14179,7 @@ msgstr "parduoda"
 msgid "Send <0/> to <1/>"
 msgstr "Siųsti <0/> šaliai <1/>"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "Siųsti žinutę"
 
@@ -14305,7 +14304,7 @@ msgid "Set your username"
 msgstr "Nustatyk savo naudotojo vardą"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "Nustatymai"
@@ -14450,7 +14449,7 @@ msgid "Skillet"
 msgstr "Keptuvė"
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14908,10 +14907,10 @@ msgstr "Rėmėjas"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "Rėmėjo funkcija"
 
@@ -15800,6 +15799,10 @@ msgstr "Siena dabar dar aukštesnė."
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr "Visa valgykla vieningai pasipiktinusi tavimi. Kelias dienas visi puikiai sutaria."
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr "Laimingas bilietas"
@@ -16063,7 +16066,7 @@ msgstr "Tai išnaudos šiandienos pasirinkimą. Kitas bus galimas 00:00 UTC."
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Tai suteiks tau Buff'ą {cocainBuffHours} val., o po to sukels Debuff'ą {cocainDebuffHours} val."
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "Tam naudotojas turės patvirtinti savo mobiliojo telefono numerį."
 
@@ -16501,7 +16504,7 @@ msgstr "Mokymų istorija"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr "Mokymo potencialas"
@@ -16635,7 +16638,7 @@ msgstr "Tiranozauras Reksas"
 msgid "UI"
 msgstr "UI"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "Atblokuoti (rodyti turinį)"
 
@@ -16889,7 +16892,7 @@ msgstr "Vartotojas ir Progresas"
 msgid "User already owns all skins"
 msgstr "Naudotojas jau turi visus skinus"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "Vartotojas užblokuotas"
 
@@ -16901,7 +16904,7 @@ msgstr "Žaidėjų indėlis į sausumos taškus."
 msgid "User removed from family group"
 msgstr "Naudotojas pašalintas iš šeimos grupės"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "Naudotojas atblokuotas"
 
@@ -16913,7 +16916,7 @@ msgstr "Naudotojas atblokuotas"
 msgid "Username"
 msgstr "Vartotojo vardas"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr "Vartotojo vardo efektas"
@@ -16934,7 +16937,7 @@ msgstr "Vartotojo vardo efektai yra Rėmėjo Plano funkcija."
 msgid "Username font"
 msgstr "Vartotojo vardo šriftas"
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "Naudotojo vardas pašalintas"
 

@@ -2030,7 +2030,7 @@ msgstr ""
 msgid "<0/> & <1/>"
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:248
+#: src/components/_economy/employee/TrainingCard.tsx:258
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
@@ -4588,7 +4588,7 @@ msgstr ""
 msgid "Available now"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:151
+#: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
 msgstr "האווטאר הוסר"
 
@@ -4895,7 +4895,7 @@ msgstr "כובע יום הולדת לשנה הראשונה של בטא"
 msgid "Blacksmith's Hammer"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Block (hide content)"
 msgstr "חסום (הסתר תוכן)"
 
@@ -5262,7 +5262,7 @@ msgstr "המועמדות פתוחה עבור <0/>"
 msgid "Candidate"
 msgstr "מועמד"
 
-#: src/components/_economy/employee/RecruitModal.tsx:138
+#: src/components/_economy/employee/RecruitModal.tsx:178
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
@@ -5705,7 +5705,7 @@ msgstr ""
 msgid "Colonel"
 msgstr "קולונל"
 
-#: src/components/_user/user/UserDropdown.tsx:247
+#: src/components/_user/user/UserDropdown.tsx:243
 #: src/pages/user/[userId]/settings.tsx:105
 msgid "Color scheme"
 msgstr "ערכת צבעים"
@@ -5759,7 +5759,7 @@ msgstr "קהילה"
 
 #: src/components/_layout/LayoutMenu.tsx:190
 #: src/components/_political/region/RegionHeader.tsx:111
-#: src/components/_user/user/MyAvatar.tsx:50
+#: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:238
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:153
@@ -6715,7 +6715,7 @@ msgstr "תיאור"
 msgid "Description (Optional)"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:165
+#: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
 msgstr "התיאור הוסר"
 
@@ -7106,7 +7106,7 @@ msgstr ""
 msgid "Edit country order"
 msgstr "ערוך פקודת מדינה"
 
-#: src/components/_user/user/UserDropdown.tsx:238
+#: src/components/_user/user/UserDropdown.tsx:234
 msgid "Edit description"
 msgstr "ערוך תיאור"
 
@@ -7622,7 +7622,7 @@ msgstr ""
 msgid "Expected loot"
 msgstr "שלל צפוי"
 
-#: src/components/_economy/employee/TrainingCard.tsx:300
+#: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
 msgstr ""
@@ -7977,7 +7977,7 @@ msgstr "גופן"
 msgid "Font size"
 msgstr "גודל גופן"
 
-#: src/components/_user/user/UserDropdown.tsx:256
+#: src/components/_user/user/UserDropdown.tsx:252
 msgid "Font style"
 msgstr "סגנון גופן"
 
@@ -8229,7 +8229,7 @@ msgstr "מתנה נשלחה! חבילת סקין נפתחה עבור הנמען!
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "מתנה נשלחה! תודה על התמיכה במשחק <3"
 
-#: src/components/_user/user/UserDropdown.tsx:313
+#: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
 msgstr "תוכנית תומכי מתנות"
 
@@ -9036,7 +9036,7 @@ msgstr ""
 
 #: src/components/_layout/LayoutMenu.tsx:99
 #: src/components/_layout/LayoutUserMenu.tsx:173
-#: src/components/_user/user/MyAvatar.tsx:38
+#: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:177
 #: src/pages/companies.tsx:136
 #: src/pages/country/[countryId]/account.tsx:25
@@ -9853,7 +9853,7 @@ msgstr ""
 msgid "Login"
 msgstr ""
 
-#: src/components/_user/user/MyAvatar.tsx:74
+#: src/components/_user/user/MyAvatar.tsx:59
 msgid "Logout"
 msgstr "התנתק"
 
@@ -10969,6 +10969,10 @@ msgstr "אסימון API חדש נוצר"
 msgid "New article"
 msgstr "מאמר חדש"
 
+#: src/components/_economy/employee/RecruitModal.tsx:115
+msgid "New candidates"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2226
 msgid "New comment"
 msgstr "תגובה חדשה"
@@ -10977,7 +10981,7 @@ msgstr "תגובה חדשה"
 msgid "New contract accepted"
 msgstr "חוזה חדש התקבל"
 
-#: src/components/_economy/employee/RecruitModal.tsx:104
+#: src/components/_economy/employee/RecruitModal.tsx:143
 msgid "New employee"
 msgstr ""
 
@@ -11188,7 +11192,7 @@ msgstr "עדיין אין הצעות"
 msgid "No boots"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:149
+#: src/components/_economy/employee/RecruitModal.tsx:196
 msgid "No candidates available"
 msgstr ""
 
@@ -12344,7 +12348,7 @@ msgstr "מספר טלפון אומת!"
 msgid "Phone Verification"
 msgstr "אימות טלפוני"
 
-#: src/components/_user/user/UserDropdown.tsx:187
+#: src/components/_user/user/UserDropdown.tsx:184
 msgid "Phone verification requested"
 msgstr "התבקש אימות טלפוני"
 
@@ -12802,7 +12806,7 @@ msgstr "מקצוענים בלבד"
 msgid "Professionals only (5+ rep)"
 msgstr "אנשי מקצוע בלבד (5+ נציגים)"
 
-#: src/components/_user/user/MyAvatar.tsx:32
+#: src/components/_user/user/MyAvatar.tsx:29
 msgid "Profile"
 msgstr "פרופיל"
 
@@ -13008,7 +13012,7 @@ msgstr ""
 msgid "Raises one stat."
 msgstr ""
 
-#: src/components/_economy/employee/TrainingCard.tsx:288
+#: src/components/_economy/employee/TrainingCard.tsx:298
 msgid "Random trait, +1 random stat"
 msgstr ""
 
@@ -13239,7 +13243,7 @@ msgid "Recruit"
 msgstr "טירון"
 
 #: src/components/_economy/employee/EmployeeList.tsx:374
-#: src/components/_economy/employee/RecruitModal.tsx:229
+#: src/components/_economy/employee/RecruitModal.tsx:276
 msgctxt "verb: hire employees"
 msgid "Recruit"
 msgstr ""
@@ -13279,11 +13283,6 @@ msgstr "מפנה הוגדר"
 #: src/pages/user/[userId]/referrals.tsx:146
 msgid "Referrer username"
 msgstr "שם משתמש מפנה"
-
-#: src/components/_user/user/MyAvatar.tsx:63
-#: src/components/_user/user/UserDropdown.tsx:301
-msgid "Refresh app"
-msgstr ""
 
 #: src/pages/user/[userId]/index.tsx:135
 msgid "Refresh every hour"
@@ -13436,7 +13435,7 @@ msgstr "משך הבאף שנותר"
 msgid "Remaining debuff duration"
 msgstr "משך הדיבאף שנותר"
 
-#: src/components/_economy/employee/TrainingCard.tsx:220
+#: src/components/_economy/employee/TrainingCard.tsx:225
 msgid "Remove <0/>"
 msgstr ""
 
@@ -13474,7 +13473,7 @@ msgstr "הסר חבר קונגרס לא פעיל מתפקידו"
 msgid "Remove announcement"
 msgstr "הסר הודעה"
 
-#: src/components/_user/user/UserDropdown.tsx:462
+#: src/components/_user/user/UserDropdown.tsx:444
 msgid "Remove Avatar"
 msgstr "הסר את אווטאר"
 
@@ -13486,7 +13485,7 @@ msgstr "הסר את הבאונטי"
 msgid "Remove council member"
 msgstr "הסר את חבר המועצה"
 
-#: src/components/_user/user/UserDropdown.tsx:484
+#: src/components/_user/user/UserDropdown.tsx:466
 msgid "Remove Description"
 msgstr "הסר תיאור"
 
@@ -13495,7 +13494,7 @@ msgstr "הסר תיאור"
 msgid "Remove enemy"
 msgstr "הסר אויב"
 
-#: src/components/_economy/employee/TrainingCard.tsx:280
+#: src/components/_economy/employee/TrainingCard.tsx:290
 msgid "Remove every bad trait"
 msgstr ""
 
@@ -13583,7 +13582,7 @@ msgstr ""
 msgid "Report the leak to the rival"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:320
+#: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
 msgstr "דווח על משתמש"
 
@@ -13603,7 +13602,7 @@ msgstr "הרפוטציה יורד ב-20% לכיוון 0 בכל שבוע (מינ�
 msgid "Reputation purchased!"
 msgstr "רפוטציה נרכש!"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:371
 msgid "Request Phone Verification"
 msgstr "בקש אימות טלפוני"
 
@@ -13623,7 +13622,7 @@ msgstr ""
 msgid "Requirements"
 msgstr ""
 
-#: src/components/_economy/employee/RecruitModal.tsx:91
+#: src/components/_economy/employee/RecruitModal.tsx:95
 msgid "Reroll all"
 msgstr ""
 
@@ -13659,7 +13658,7 @@ msgstr "אפס את הישרדות"
 msgid "Reset tutorials"
 msgstr "אפס מדריכים"
 
-#: src/components/_user/user/UserDropdown.tsx:473
+#: src/components/_user/user/UserDropdown.tsx:455
 msgid "Reset Username"
 msgstr "אפס את שם המשתמש"
 
@@ -13856,7 +13855,7 @@ msgstr "הוחזר על ידי אדמין"
 msgid "Rolled back by Admin"
 msgstr "הוחזר על ידי אדמין"
 
-#: src/components/_economy/employee/RecruitModal.tsx:143
+#: src/components/_economy/employee/RecruitModal.tsx:190
 msgid "Roster"
 msgstr ""
 
@@ -14100,7 +14099,7 @@ msgstr ""
 msgid "Select an occupied region"
 msgstr "בחר אזור כבוש"
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
 msgstr "בחר באנר"
 
@@ -14126,7 +14125,7 @@ msgstr ""
 msgid "Select one or more answers"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:286
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
 msgstr "בחר סקין"
 
@@ -14181,7 +14180,7 @@ msgstr "מוכר"
 msgid "Send <0/> to <1/>"
 msgstr "שלח <0/> אל <1/>"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
 msgstr "שלח הודעה"
 
@@ -14306,7 +14305,7 @@ msgid "Set your username"
 msgstr "הגדר את שם המשתמש שלך"
 
 #: src/components/_military/mu/MuHeader.tsx:191
-#: src/components/_user/user/MyAvatar.tsx:56
+#: src/components/_user/user/MyAvatar.tsx:53
 #: src/components/_user/user/UserHeader.tsx:258
 msgid "Settings"
 msgstr "הגדרות"
@@ -14451,7 +14450,7 @@ msgid "Skillet"
 msgstr ""
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
-#: src/components/_user/user/MyAvatar.tsx:44
+#: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:192
 #: src/pages/user/[userId]/index.tsx:178
 msgid "Skills"
@@ -14909,10 +14908,10 @@ msgstr "תומך"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:383
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
-#: src/components/_user/user/UserDropdown.tsx:241
-#: src/components/_user/user/UserDropdown.tsx:250
-#: src/components/_user/user/UserDropdown.tsx:259
-#: src/components/_user/user/UserDropdown.tsx:268
+#: src/components/_user/user/UserDropdown.tsx:237
+#: src/components/_user/user/UserDropdown.tsx:246
+#: src/components/_user/user/UserDropdown.tsx:255
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
 msgstr "תכונת תומך"
 
@@ -15801,6 +15800,10 @@ msgstr ""
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
 msgstr ""
 
+#: src/components/_economy/employee/RecruitModal.tsx:117
+msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
+msgstr ""
+
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
 msgstr ""
@@ -16064,7 +16067,7 @@ msgstr ""
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "זה ייתן לך באף עבור {cocainBuffHours}h ואז יגרום מאלוס עבור {cocainDebuffHours}h"
 
-#: src/components/_user/user/UserDropdown.tsx:390
+#: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
 msgstr "זה ידרוש מהמשתמש לאמת את מספר הטלפון הנייד שלו."
 
@@ -16502,7 +16505,7 @@ msgstr ""
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
-#: src/components/_economy/employee/TrainingCard.tsx:320
+#: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
 msgstr ""
@@ -16636,7 +16639,7 @@ msgstr "טירנוזאורוס רקס"
 msgid "UI"
 msgstr "ממשק משתמש"
 
-#: src/components/_user/user/UserDropdown.tsx:329
+#: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
 msgstr "בטל חסימה (הצג תוכן)"
 
@@ -16890,7 +16893,7 @@ msgstr "משתמש והתקדמות"
 msgid "User already owns all skins"
 msgstr "המשתמש כבר מחזיק בכל הסקינים"
 
-#: src/components/_user/user/UserDropdown.tsx:132
+#: src/components/_user/user/UserDropdown.tsx:129
 msgid "User blocked"
 msgstr "המשתמש נחסם"
 
@@ -16902,7 +16905,7 @@ msgstr "השתתפות משתמשים לנקודות הקרקע."
 msgid "User removed from family group"
 msgstr "המשתמש הוסר מהקבוצה המשפחתית"
 
-#: src/components/_user/user/UserDropdown.tsx:136
+#: src/components/_user/user/UserDropdown.tsx:133
 msgid "User unblocked"
 msgstr "חסימת המשתמש בוטלה"
 
@@ -16914,7 +16917,7 @@ msgstr "חסימת המשתמש בוטלה"
 msgid "Username"
 msgstr "שם משתמש"
 
-#: src/components/_user/user/UserDropdown.tsx:265
+#: src/components/_user/user/UserDropdown.tsx:261
 #: src/pages/user/[userId]/settings.tsx:120
 msgid "Username effect"
 msgstr ""
@@ -16935,7 +16938,7 @@ msgstr ""
 msgid "Username font"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:158
+#: src/components/_user/user/UserDropdown.tsx:155
 msgid "Username removed"
 msgstr "שם המשתמש הוסר"
 
