@@ -483,7 +483,7 @@ msgstr "{gender, select, male {{name} blijft zich verontschuldigen, tot het eind
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3851
 msgid "{gender, select, male {{name} ate the bait by mistake, and needs the afternoon off.} female {{name} ate the bait by mistake, and needs the afternoon off.} other {{name} ate the bait by mistake, and needs the afternoon off.}}"
-msgstr "{gender, select, male {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.} female {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.} other {{name} heeft het aas opgegeten en heeft nood aan een vrije namiddag.}}"
+msgstr "{gender, select, male {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.} female {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.} other {{name} heeft per ongeluk het aas opgegeten en heeft nood aan een vrije namiddag.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1431
 msgid "{gender, select, male {{name} beams, and rolls up his sleeves for the rest of the week.} female {{name} beams, and rolls up her sleeves for the rest of the week.} other {{name} beams, and rolls up their sleeves for the rest of the week.}}"
