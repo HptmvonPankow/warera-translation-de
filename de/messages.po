@@ -3620,12 +3620,12 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1782
 msgid "A new job title"
-msgstr ""
+msgstr "Ein neuer Jobtitel"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:524
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:732
 msgid "A new tool: {value}"
-msgstr ""
+msgstr "Ein neues Werkzeug: {value}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1363
 msgid "A party of one"
@@ -3633,15 +3633,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2532
 msgid "A patriotic bonfire. Everyone feels a little warmer."
-msgstr ""
+msgstr "Ein patriotisches Lagerfeuer. Da wird es jedem ein bisschen wärmer."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2496
 msgid "A pinch of pepper, and the whole canteen cheers."
-msgstr ""
+msgstr "Eine Prise Pfeffer, und die ganze Kantine jubelt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:927
 msgid "A promise to keep"
-msgstr ""
+msgstr "Ein Versprechen, das es einzuhalten gilt"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2007
 msgid "A quiet dinner, a long talk. {name} and {partnerName} are stronger for it."
@@ -3649,11 +3649,11 @@ msgstr ""
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:60
 msgid "A random employee tool"
-msgstr ""
+msgstr "Ein zufälliges Angestellten Werkzeug"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:57
 msgid "A random resource stack"
-msgstr ""
+msgstr "Ein zufälliger Ressourcenstapel"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:115
 msgid "A random trait, good or bad, only revealed once picked. Also raises a random stat."
@@ -3673,35 +3673,35 @@ msgstr "In <0/> hat eine Revolution begonnen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2275
 msgid "A safety inspector shows up unannounced. The fire exit, it turns out, is a painting of a door."
-msgstr ""
+msgstr "Ein Sicherheitsinspektor taucht unangekündigt auf. Wie sich herausstellt, ist der Notausgang nur ein Gemälde, das eine Tür darstellt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:639
 msgid "A scruffy cat has been sleeping in the workshop. {name} has been sharing lunch with it."
-msgstr ""
+msgstr "„Eine zottelige Katze hat in der Werkstatt geschlafen. {name} hat ihr etwas von seinem Mittagessen abgegeben."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:873
 msgid "A scuffle"
-msgstr ""
+msgstr "Ein Handgemenge"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1553
 msgid "A shiny new machine. Order is restored."
-msgstr ""
+msgstr "Eine nagelneue Maschine. Die Ordnung ist wiederhergestellt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:322
 msgid "A slow day that taught more than a month of routine."
-msgstr ""
+msgstr "Ein ruhiger Tag, der mehr beigebracht hat als ein ganzer Monat Routine."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:323
 msgid "A slow day, and nothing to show for it."
-msgstr ""
+msgstr "Ein ruhiger Tag, und nichts, was man vorweisen könnte."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:320
 msgid "A slow day, but the team learned something about the trade."
-msgstr ""
+msgstr "Ein ruhiger Tag, aber das Team hat etwas über das Handwerk gelernt."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:964
 msgid "A strange mood"
-msgstr ""
+msgstr "Eine seltsame Stimmung"
 
 #: src/pages/region/[regionId]/index.tsx:97
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
@@ -3709,7 +3709,7 @@ msgstr "In dieser Region wurde eine strategische Ressource gefunden; sie verleih
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:637
 msgid "A stray cat"
-msgstr ""
+msgstr "Eine streunende Katze"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3282
 msgid "A taste of home"
@@ -3717,11 +3717,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:424
 msgid "A tempting offer"
-msgstr ""
+msgstr "Ein verlockendes Angebot"
 
 #: src/components/_economy/employee/EmployeeNameTags.tsx:44
 msgid "A training draw is ready."
-msgstr ""
+msgstr "Eine Trainingsziehung steht bereit"
 
 #: src/components/_economy/employee/EmployeeNameTags.tsx:42
 msgid "A training hand is waiting for your pick."
