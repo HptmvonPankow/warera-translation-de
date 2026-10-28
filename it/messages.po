@@ -2007,7 +2007,7 @@ msgstr "+2 a una statistica"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:145
 msgid "+2 training potential: one session more than the draw just spent."
-msgstr "+4 potenziale formativo: una sessione in più di quella appena utilizzata."
+msgstr "+2 potenziale formativo: una sessione in più di quella appena utilizzata."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:49
 msgid "+3 to one stat."
@@ -2015,7 +2015,7 @@ msgstr "+3 a una statistica"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:150
 msgid "+3 training potential: two sessions more than the draw just spent."
-msgstr "+4 potenziale formativo: due sessioni in più di quelle appena utilizzate."
+msgstr "+3 potenziale formativo: due sessioni in più di quelle appena utilizzate."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:50
 msgid "+4 to one stat."
@@ -3206,7 +3206,7 @@ msgstr "2★ Ufficiale di mandato"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3733
 msgid "26 degrees it is. {partnerName} is happy, {name} is melting."
-msgstr "26 gradi siano. {parnerName} è felice, {name} si sta sciogliendo."
+msgstr "26 gradi siano. {partnerName} è felice, {name} si sta sciogliendo."
 
 #: src/components/_social/poll/PollEditorModal.tsx:117
 msgid "3 days"
@@ -3394,11 +3394,11 @@ msgstr "Uno {climber} o una {primaDonna}, 7 giorni dopo nell'azienda."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:580
 msgid "A {comic} and a coworker, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr "Un {comico} e un collega, nessuno ancora dei quali con la caratteristica {oldFriends} o {nemesis}."
+msgstr "Un {comic} e un collega, nessuno ancora dei quali con la caratteristica {oldFriends} o {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:248
 msgid "A {comic} with at least one coworker."
-msgstr "Un {comico} con almeno un collega"
+msgstr "Un {comic} con almeno un collega"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:484
 msgid "A {diamond} or a {lateBloomer}, with training potential left."
@@ -17744,7 +17744,7 @@ msgstr "Hai scelto: {picked}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:493
 msgid "You did not answer in time, so this was decided: {picked}."
-msgstr "Non hai risposto in tempo, quindi è stato deciso: {scelto}."
+msgstr "Non hai risposto in tempo, quindi è stato deciso: {picked}."
 
 #: src/pages/party/[partyId]/applications.tsx:28
 msgid "You don't have permission to view applications."
