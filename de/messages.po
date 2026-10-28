@@ -15057,28 +15057,28 @@ msgstr "Panzer"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:310
 msgid "Tap a battle to join it."
-msgstr ""
+msgstr "Klicke eine Schlacht an, um an dieser teilzunehmen."
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:453
 msgid "Tap a card to look at it."
-msgstr ""
+msgstr "Klicke auf eine Karte, um diese anzusehen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:546
 msgid "Tap any region on the map to open its menu."
-msgstr ""
+msgstr "Klicke auf eine Region auf der Karte, um das Regionsmenü zu öffnen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:96
 msgid "Tap Companies to start."
-msgstr ""
+msgstr "Klicke auf Firmen, um zu beginnen."
 
 #: src/components/_user/milestone/MilestoneItem.tsx:166
 #: src/components/_user/milestone/MilestoneItem.tsx:258
 msgid "Tap for the full tier breakdown"
-msgstr ""
+msgstr "Klicken, um die vollständige Aufschlüsselung der Meilensteine zu sehen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:203
 msgid "Tap Inventory."
-msgstr ""
+msgstr "Inventar aufrufen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:558
 msgid "Tap Move to travel there."
@@ -15090,11 +15090,11 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:277
 msgid "Tap Save to keep your points."
-msgstr ""
+msgstr "Speichern anklicken, um die eingesetzten Punkte zu sichern."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:418
 msgid "Tap the chat."
-msgstr ""
+msgstr "Chat aufrufen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:134
 msgid "Tap them to see who they are."
@@ -15130,12 +15130,12 @@ msgstr "Zielbenutzer"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:68
 msgid "tax incl."
-msgstr ""
+msgstr "inkl. Steuer"
 
 #. placeholder {0}: offer.price
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:47
 msgid "Tax included: {0} goes to the seller and {tax} of market tax ({taxRate}%) to your country."
-msgstr ""
+msgstr "Steuer inbegriffen: {0} geht an den Verkäufer und {tax} der Marktsteuer ({taxRate}%) an dein Land."
 
 #: src/components/_political/law/LawFormModal.tsx:284
 msgid "Tax type"
@@ -15143,7 +15143,7 @@ msgstr "Steuerart"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:126
 msgid "Tax-shy"
-msgstr ""
+msgstr "steuerscheu"
 
 #: src/pages/country/[countryId]/account.tsx:37
 msgid "Taxes"
@@ -15155,37 +15155,37 @@ msgstr ""
 
 #: src/components/_economy/employee/training.frontConfig.tsx:95
 msgid "Teaches a trait, named on the card. It needs a free trait slot."
-msgstr ""
+msgstr "Lehrt eine Eigenschaft, die auf der Karte genannt ist. Benötigt einen freien Eigenschaftsplatz."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:105
 msgid "Teaches one good trait, no downside."
-msgstr ""
+msgstr "Lehrt eine gute Eigenschaft, keine Nachteile."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:101
 msgid "Teaches one mixed trait: real upside, with a string attached."
-msgstr ""
+msgstr "Lehrt eine geschmischte Eigenschaft: hohes Potenzial, mit einem Haken."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:107
 msgid "Teaches two good traits at once. Needs two free slots."
-msgstr ""
+msgstr "Lehrt zwei gute Eigenschaften auf einmal. Benötigt zwei freie Eigenschaftsplätze."
 
 #. placeholder {0}: tournamentTeam.number
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:56
 msgid "Team {0}"
-msgstr ""
+msgstr "Team {0}"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:72
 #: src/components/_military/tournament/TournamentHeader.tsx:151
 msgid "Teams"
-msgstr ""
+msgstr "Teams"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1888
 msgid "Tell {partnerName} to back off"
-msgstr ""
+msgstr "Sag {partnerName}, dass er sich zurückhalten soll"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:130
 msgid "Tell your citizens why this region comes first"
-msgstr ""
+msgstr "Erkläre deinen Bürgern, warum diese Region priorisiert werden soll"
 
 #: src/utils/translations.tsx:251
 msgid "Tempered Pickaxe"
@@ -15243,7 +15243,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3558
 msgid "The birthday card"
-msgstr ""
+msgstr "Die Geburtstagskarte"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3406
 msgid "The box burns. Nobody suggests anything for another three years."
@@ -15255,11 +15255,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1303
 msgid "The chair"
-msgstr ""
+msgstr "Der Stuhl"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1093
 msgid "The chart"
-msgstr ""
+msgstr "Das Diagramm"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1232
 msgid "The chicken is the morale officer now."
@@ -15275,7 +15275,7 @@ msgstr "Der von <0/> in <1/> begonnene Bürgerkrieg war erfolgreich für <2/> un
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1525
 msgid "The coffee machine"
-msgstr ""
+msgstr "Die Kaffeemaschine"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3083
 msgid "The company adopts the curse as a mascot. Morale is oddly up."
@@ -15292,15 +15292,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:167
 msgid "The company's region is under attack, and the employee is a citizen of the country holding it, a {patriot} or a {nationalist}."
-msgstr ""
+msgstr "Der Firmenstandort wird angegriffen und der Angestellte ist Bürger des Landes, welches die Region verteidigt, ein {patriot} oder ein {nationalist}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:434
 msgid "The company's region is under attack, with 2 or more employees at work."
-msgstr ""
+msgstr "Der Firmenstandort wird angegriffen. Zwei oder mehr Angestellte arbeiten hier."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:431
 msgid "The company's region is under attack."
-msgstr ""
+msgstr "Der Firmenstandort wird angegriffen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:441
 msgid "The company's region is under attack. Twice as likely for a {cosmopolitan}."
@@ -15308,7 +15308,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1240
 msgid "The compliment"
-msgstr ""
+msgstr "Das Kompliment"
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1849
@@ -15346,11 +15346,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:76
 msgid "the coworker"
-msgstr ""
+msgstr "der Kollege"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:325
 msgid "The coworker"
-msgstr ""
+msgstr "Der Kollege"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2441
 msgid "The coworkers spend the day recruiting each other instead of working."
@@ -15410,11 +15410,11 @@ msgstr "Die Wirkung deiner verbrauchten Buffs ist beendet. Die Debuff-Phase hat 
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:74
 msgid "the employee"
-msgstr ""
+msgstr "der Angestellte"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:320
 msgid "The employee"
-msgstr ""
+msgstr "Der Angestellte"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1591
 msgid "The exorcist says it is very cursed, and leaves quickly."
@@ -15470,7 +15470,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3759
 msgid "The haircut"
-msgstr ""
+msgstr "Der Haarschnitt"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:498
 msgid "The hour's whole payroll across all your companies, employees and managers, divided by the production it banks. Under the market value of a point your companies earn more than they spend; over it, they cost more than what they make is worth."
