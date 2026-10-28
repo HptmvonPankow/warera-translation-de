@@ -2938,11 +2938,11 @@ msgstr "= consume más energía"
 
 #: src/components/_social/poll/PollEditorModal.tsx:116
 msgid "1 day"
-msgstr ""
+msgstr "1 día"
 
 #: src/components/_social/poll/PollEditorModal.tsx:111
 msgid "1 hour"
-msgstr ""
+msgstr "1 hora"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -3074,7 +3074,7 @@ msgstr "100% históricamente preciso"
 
 #: src/components/_social/poll/PollEditorModal.tsx:115
 msgid "12 hours"
-msgstr ""
+msgstr "12 horas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3725
 msgid "18 degrees it is. {name} is happy, {partnerName} is freezing."
@@ -3082,7 +3082,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:112
 msgid "2 hours"
-msgstr ""
+msgstr "2 horas"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "2. IP and Device Sharing"
@@ -3210,11 +3210,11 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:117
 msgid "3 days"
-msgstr ""
+msgstr "3 días"
 
 #: src/components/_social/poll/PollEditorModal.tsx:113
 msgid "3 hours"
-msgstr ""
+msgstr "3 horas"
 
 #: src/components/_common/GameRules.tsx:114
 msgid "3. Bots and Automation"
@@ -3374,7 +3374,7 @@ msgstr "5★ Tte. General"
 
 #: src/components/_social/poll/PollEditorModal.tsx:114
 msgid "6 hours"
-msgstr ""
+msgstr "6 horas"
 
 #: src/components/_common/GameRules.tsx:207
 msgid "6. Taking Over and Misuse of State/Military unit assets"
@@ -3382,7 +3382,7 @@ msgstr "6. Toma de control y uso indebido de activos del Estado/unidad militar"
 
 #: src/components/_social/poll/PollEditorModal.tsx:118
 msgid "7 days"
-msgstr ""
+msgstr "7 días"
 
 #: src/components/_common/GameRules.tsx:222
 msgid "7. Community Behavior"
@@ -3588,11 +3588,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2854
 msgid "A hidden talent"
-msgstr ""
+msgstr "Un talento oculto"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:694
 msgid "A letter from home"
-msgstr ""
+msgstr "Una carta desde casa"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:708
 msgid "A lovely trip, but the homesickness came back with them."
@@ -3850,7 +3850,7 @@ msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:233
 msgid "Active citizens"
-msgstr ""
+msgstr "Ciudadanos activos"
 
 #: src/pages/country/[countryId]/citizens.tsx:36
 msgid "Active Citizens"
@@ -3874,15 +3874,15 @@ msgstr "Actividad"
 
 #: src/components/_social/Tiptap.tsx:931
 msgid "Add a poll"
-msgstr ""
+msgstr "Añadir una encuesta"
 
 #: src/components/_social/poll/PollEditorModal.tsx:239
 msgid "Add answer"
-msgstr ""
+msgstr "Añadir respuesta"
 
 #: src/components/_social/poll/PollEditorModal.tsx:292
 msgid "Add poll"
-msgstr ""
+msgstr "Añadir encuesta"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
@@ -3907,7 +3907,7 @@ msgstr "Notificación de administrador"
 
 #: src/components/_user/user/UserBadges.tsx:355
 msgid "Admin of this conversation."
-msgstr ""
+msgstr "Administrador de esta conversación"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:136
 msgid "Admiral"
@@ -3947,11 +3947,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
-msgstr ""
+msgstr "Edad"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "Age {input}"
-msgstr ""
+msgstr "Edad {input}"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:50
 msgid "Age and tenure"
@@ -3987,11 +3987,11 @@ msgstr "Todas las categorías"
 
 #: src/components/_economy/employee/MoveShell.tsx:139
 msgid "All companies"
-msgstr ""
+msgstr "Todas las elpresas"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "Todos los países"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -4110,7 +4110,7 @@ msgstr "Aliados"
 
 #: src/components/_social/poll/PollEditorModal.tsx:254
 msgid "Allow multiple answers"
-msgstr ""
+msgstr "Permitir multiples respuestas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:73
 msgid "Almost feels like cheating"
@@ -4213,11 +4213,11 @@ msgstr "Otro país propuso un pacto defensivo al tuyo"
 
 #: src/components/_social/poll/PollEditorModal.tsx:206
 msgid "Answer {answerNumber}"
-msgstr ""
+msgstr "Respuesta {answerNumber}"
 
 #: src/components/_social/poll/PollEditorModal.tsx:198
 msgid "Answers"
-msgstr ""
+msgstr "Respuestas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
@@ -4312,11 +4312,11 @@ msgstr "¿Estás seguro de que quieres degradar a este comandante?"
 
 #: src/components/_military/order/BattleOrderActions.tsx:73
 msgid "Are you sure you want to disable this battle order? This action cannot be undone."
-msgstr ""
+msgstr "¿Estás seguro de desactivar esta orden de batalla? Esta acción no puede deshacerse."
 
 #: src/components/_economy/inventory/Inventory.tsx:121
 msgid "Are you sure you want to dismantle this <0/> item? You will receive {scrapReward} scraps."
-msgstr ""
+msgstr "¿Estas seguro de que quieres desmantelar este <0/> objeto? Recibirás {scrapReward} chatarras."
 
 #: src/components/_military/mu/MuMemberList.tsx:140
 msgid "Are you sure you want to kick this member?"
