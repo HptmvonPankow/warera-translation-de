@@ -326,103 +326,103 @@ msgstr "{contribution} عندما يمتلكه أي شخص في الحدث."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:812
 msgid "{count, plural, one {<0>Answer <1/> employee event</0>} other {<2>Answer <3/> employee events</2>}}"
-msgstr "{count, plural, zero {<2>الإجابة على <3/> فعالية موظفين</2>} one {<0>الإجابة على فعالية موظفين <1/></0>} two {<2>الإجابة على فعاليتي موظفين <3/></2>} few {<2>الإجابة على <3/> فعاليات موظفين</2>} many {<2>الإجابة على <3/> فعالية موظفين</2>} other {<2>الإجابة على <3/> فعالية موظفين</2>}}"
+msgstr "{count, plural, zero {<0>الإجابة على <1/> فعالية موظفين</0>} one {<0>الإجابة على فعالية موظفين <1/></0>} two {<0>الإجابة على فعاليتي موظفين <1/></0>} few {<0>الإجابة على <1/> فعاليات موظفين</0>} many {<0>الإجابة على <1/> فعالية موظفين</0>} other {<0>الإجابة على <1/> فعالية موظفين</0>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:846
 msgid "{count, plural, one {<0>Contribute to constructions <1/> time</0>} other {<2>Contribute to constructions <3/> times</2>}}"
-msgstr "{count, plural, zero {<2>المساهمة في الإنشاءات <3/> مرة</2>} one {<0>المساهمة في الإنشاءات مرة <1/> واحدة</0>} two {<2>المساهمة في الإنشاءات مرتين <3/></2>} few {<2>المساهمة في الإنشاءات <3/> مرات</2>} many {<2>المساهمة في الإنشاءات <3/> مرة</2>} other {<2>المساهمة في الإنشاءات <3/> مرة</2>}}"
+msgstr "{count, plural, zero {<0>المساهمة في الإنشاءات <1/> مرة</0>} one {<0>المساهمة في الإنشاءات مرة <1/> واحدة</0>} two {<0>المساهمة في الإنشاءات مرتين <1/></0>} few {<0>المساهمة في الإنشاءات <1/> مرات</0>} many {<0>المساهمة في الإنشاءات <1/> مرة</0>} other {<0>المساهمة في الإنشاءات <1/> مرة</0>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:867
 msgid "{count, plural, one {<0>Contribute to resistance <1/> time</0>} other {<2>Contribute to resistance <3/> times</2>}}"
-msgstr "{count, plural, zero {<2>المساهمة في المقاومة <3/> مرة</2>} one {<0>المساهمة في المقاومة مرة <1/> واحدة</0>} two {<2>المساهمة في المقاومة مرتين <3/></2>} few {<2>المساهمة في المقاومة <3/> مرات</2>} many {<2>المساهمة في المقاومة <3/> مرة</2>} other {<2>المساهمة في المقاومة <3/> مرة</2>}}"
+msgstr "{count, plural, zero {<0>المساهمة في المقاومة <1/> مرة</0>} one {<0>المساهمة في المقاومة مرة <1/> واحدة</0>} two {<0>المساهمة في المقاومة مرتين <1/></0>} few {<0>المساهمة في المقاومة <1/> مرات</0>} many {<0>المساهمة في المقاومة <1/> مرة</0>} other {<0>المساهمة في المقاومة <1/> مرة</0>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:281
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr "{count, plural, one {<0>اصنع <1/> عنصرًا</0>} two {<2>اصنع <3/> عناصر</2>} few {<2>اصنع <3/> عناصر</2>} many {<2>اصنع <3/> عنصرًا</2>} other {<2>اصنع <3/> عنصر</2>}}"
+msgstr "{count, plural, one {<0>اصنع عنصرًا واحدًا</0>} two {<2>اصنع عنصرين</2>} few {<2>اصنع <3/> عناصر</2>} many {<2>اصنع <3/> عنصرًا</2>} other {<2>اصنع <3/> عنصر</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:918
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
-msgstr "{count, plural, one {<0>اعبر <1/> منطقة على الخريطة</0>} two {<2>اعبر <3/> مناطق على الخريطة</2>} few {<2>اعبر <3/> مناطق على الخريطة</2>} many {<2>اعبر <3/> منطقة على الخريطة</2>} other {<2>اعبر <3/> منطقة على الخريطة</2>}}"
+msgstr "{count, plural, one {<0>اعبر منطقة واحدة على الخريطة</0>} two {<2>اعبر منطقتين على الخريطة</2>} few {<2>اعبر <3/> مناطق على الخريطة</2>} many {<2>اعبر <3/> منطقة على الخريطة</2>} other {<2>اعبر <3/> منطقة على الخريطة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:261
 msgid "{count, plural, one {<0>Dismantle <1/> item</0>} other {<2>Dismantle <3/> items</2>}}"
-msgstr "{count, plural, one {<0>فكك <1/> عنصرًا</0>} two {<2>فكك <3/> عناصر</2>} few {<2>فكك <3/> عناصر</2>} many {<2>فكك <3/> عنصرًا</2>} other {<2>فكك <3/> عنصر</2>}}"
+msgstr "{count, plural, one {<0>فكك عنصرًا واحدًا</0>} two {<2>فكك عنصرين</2>} few {<2>فكك <3/> عناصر</2>} many {<2>فكك <3/> عنصرًا</2>} other {<2>فكك <3/> عنصر</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "{count, plural, one {<0>Dodge <1/> attack</0>} other {<2>Dodge <3/> attacks</2>}}"
-msgstr "{count, plural, one {<0>تفادَ <1/> هجومًا</0>} two {<2>تفادَ <3/> هجمات</2>} few {<2>تفادَ <3/> هجمات</2>} many {<2>تفادَ <3/> هجومًا</2>} other {<2>تفادَ <3/> هجوم</2>}}"
+msgstr "{count, plural, one {<0>تفادَ هجومًا واحدًا</0>} two {<2>تفادَ هجومين</2>} few {<2>تفادَ <3/> هجمات</2>} many {<2>تفادَ <3/> هجومًا</2>} other {<2>تفادَ <3/> هجوم</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:211
 msgid "{count, plural, one {<0>Eat <1/> food item</0>} other {<2>Eat <3/> food items</2>}}"
-msgstr "{count, plural, one {<0>تناول <1/> عنصر طعام</0>} two {<2>تناول <3/> عناصر طعام</2>} few {<2>تناول <3/> عناصر طعام</2>} many {<2>تناول <3/> عنصر طعام</2>} other {<2>تناول <3/> عنصر طعام</2>}}"
+msgstr "{count, plural, one {<0>تناول عنصر طعام واحد</0>} two {<2>تناول عنصري طعام</2>} few {<2>تناول <3/> عناصر طعام</2>} many {<2>تناول <3/> عنصر طعام</2>} other {<2>تناول <3/> عنصر طعام</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:362
 msgid "{count, plural, one {<0>Help <1/> MU member</0>} other {<2>Help <3/> MU members</2>}}"
-msgstr "{count, plural, one {<0>ساعد <1/> عضوًا في الوحدة العسكرية</0>} two {<2>ساعد <3/> أعضاء في الوحدة العسكرية</2>} few {<2>ساعد <3/> أعضاء في الوحدة العسكرية</2>} many {<2>ساعد <3/> عضوًا في الوحدة العسكرية</2>} other {<2>ساعد <3/> عضو في الوحدة العسكرية</2>}}"
+msgstr "{count, plural, one {<0>ساعد عضوًا واحدًا في الوحدة العسكرية</0>} two {<2>ساعد عضوين في الوحدة العسكرية</2>} few {<2>ساعد <3/> أعضاء في الوحدة العسكرية</2>} many {<2>ساعد <3/> عضوًا في الوحدة العسكرية</2>} other {<2>ساعد <3/> عضو في الوحدة العسكرية</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:161
 msgid "{count, plural, one {<0>Hit <1/> time in battles</0>} other {<2>Hit <3/> times in battles</2>}}"
-msgstr "{count, plural, one {<0>وجّه <1/> ضربة في المعارك</0>} two {<2>وجّه <3/> ضربات في المعارك</2>} few {<2>وجّه <3/> ضربات في المعارك</2>} many {<2>وجّه <3/> ضربة في المعارك</2>} other {<2>وجّه <3/> ضربة في المعارك</2>}}"
+msgstr "{count, plural, one {<0>وجّه ضربة واحدة في المعارك</0>} two {<2>وجّه ضربتين في المعارك</2>} few {<2>وجّه <3/> ضربات في المعارك</2>} many {<2>وجّه <3/> ضربة في المعارك</2>} other {<2>وجّه <3/> ضربة في المعارك</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:382
 msgid "{count, plural, one {<0>Land <1/> critical hit</0>} other {<2>Land <3/> critical hits</2>}}"
-msgstr "{count, plural, one {<0>وجّه <1/> ضربة حرجة</0>} two {<2>وجّه <3/> ضربات حرجة</2>} few {<2>وجّه <3/> ضربات حرجة</2>} many {<2>وجّه <3/> ضربة حرجة</2>} other {<2>وجّه <3/> ضربة حرجة</2>}}"
+msgstr "{count, plural, one {<0>وجّه ضربة حرجة واحدة</0>} two {<2>وجّه ضربتين حرجتين</2>} few {<2>وجّه <3/> ضربات حرجة</2>} many {<2>وجّه <3/> ضربة حرجة</2>} other {<2>وجّه <3/> ضربة حرجة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:487
 msgid "{count, plural, one {<0>Like <1/> article</0>} other {<2>Like <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>أعجب بـ <1/> مقال</0>} two {<2>أعجب بـ <3/> مقالات</2>} few {<2>أعجب بـ <3/> مقالات</2>} many {<2>أعجب بـ <3/> مقالًا</2>} other {<2>أعجب بـ <3/> مقال</2>}}"
+msgstr "{count, plural, one {<0>أعجب بمقال واحد</0>} two {<2>أعجب بـ مقالين</2>} few {<2>أعجب بـ <3/> مقالات</2>} many {<2>أعجب بـ <3/> مقالًا</2>} other {<2>أعجب بـ <3/> مقال</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:613
 msgid "{count, plural, one {<0>Like <1/> message</0>} other {<2>Like <3/> messages</2>}}"
-msgstr "{count, plural, one {<0>أعجب بـ <1/> رسالة</0>} two {<2>أعجب بـ <3/> رسائل</2>} few {<2>أعجب بـ <3/> رسائل</2>} many {<2>أعجب بـ <3/> رسالة</2>} other {<2>أعجب بـ <3/> رسالة</2>}}"
+msgstr "{count, plural, one {<0>أعجب برسالة واحدة</0>} two {<2>أعجب بـ رسالتين</2>} few {<2>أعجب بـ <3/> رسائل</2>} many {<2>أعجب بـ <3/> رسالة</2>} other {<2>أعجب بـ <3/> رسالة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:467
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
-msgstr "{count, plural, one {<0>اغتنم <1/> عنصرًا في ساحة المعركة</0>} two {<2>اغتنم <3/> عناصر في ساحة المعركة</2>} few {<2>اغتنم <3/> عناصر في ساحة المعركة</2>} many {<2>اغتنم <3/> عنصرًا في ساحة المعركة</2>} other {<2>اغتنم <3/> عنصر في ساحة المعركة</2>}}"
+msgstr "{count, plural, one {<0>اغتنم عنصرًا واحدًا في ساحة المعركة</0>} two {<2>اغتنم عنصرين في ساحة المعركة</2>} few {<2>اغتنم <3/> عناصر في ساحة المعركة</2>} many {<2>اغتنم <3/> عنصرًا في ساحة المعركة</2>} other {<2>اغتنم <3/> عنصر في ساحة المعركة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:322
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
-msgstr "{count, plural, one {<0>شارك في <1/> معركة</0>} two {<2>شارك في <3/> معارك</2>} few {<2>شارك في <3/> معارك</2>} many {<2>شارك في <3/> معركة</2>} other {<2>شارك في <3/> معركة</2>}}"
+msgstr "{count, plural, one {<0>شارك في معركة واحدة</0>} two {<2>شارك في معركتين</2>} few {<2>شارك في <3/> معارك</2>} many {<2>شارك في <3/> معركة</2>} other {<2>شارك في <3/> معركة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:704
 msgid "{count, plural, one {<0>Produce items <1/> time</0>} other {<2>Produce items <3/> times</2>}}"
-msgstr "{count, plural, one {<0>أنتج <1/> عنصرًا</0>} two {<2>أنتج <3/> عناصر</2>} few {<2>أنتج <3/> عناصر</2>} many {<2>أنتج <3/> عنصراً</2>} other {<2>أنتج <3/> عنصر</2>}}"
+msgstr "{count, plural, one {<0>أنتج عنصر واحد</0>} two {<2>أنتج عنصرين</2>} few {<2>أنتج <3/> عناصر</2>} many {<2>أنتج <3/> عنصراً</2>} other {<2>أنتج <3/> عنصر</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:521
 msgid "{count, plural, one {<0>Read <1/> article</0>} other {<2>Read <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>اقرأ <1/> مقالًا</0>} two {<2>اقرأ <3/> مقالات</2>} few {<2>اقرأ <3/> مقالات</2>} many {<2>اقرأ <3/> مقالًا</2>} other {<2>اقرأ <3/> مقال</2>}}"
+msgstr "{count, plural, one {<0>اقرأ مقالًا واحدًا</0>} two {<2>اقرأ مقالين</2>} few {<2>اقرأ <3/> مقالات</2>} many {<2>اقرأ <3/> مقالًا</2>} other {<2>اقرأ <3/> مقال</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:93
 msgid "{count, plural, one {<0>Self work <1/> time in your companies</0>} other {<2>Self work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>اعمل بنفسك <1/> مرة في شركاتك</0>} two {<2>اعمل بنفسك <3/> مرات في شركاتك</2>} few {<2>اعمل بنفسك <3/> مرات في شركاتك</2>} many {<2>اعمل بنفسك <3/> مرة في شركاتك</2>} other {<2>اعمل بنفسك <3/> مرة في شركاتك</2>}}"
+msgstr "{count, plural, one {<0>اعمل بنفسك مرة واحدة في شركاتك</0>} two {<2>اعمل بنفسك مرتين في شركاتك</2>} few {<2>اعمل بنفسك <3/> مرات في شركاتك</2>} many {<2>اعمل بنفسك <3/> مرة في شركاتك</2>} other {<2>اعمل بنفسك <3/> مرة في شركاتك</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:563
 msgid "{count, plural, one {<0>Send <1/> message</0>} other {<2>Send <3/> messages</2>}}"
-msgstr "{count, plural, one {<0>أرسل <1/> رسالة</0>} two {<2>أرسل <3/> رسائل</2>} few {<2>أرسل <3/> رسائل</2>} many {<2>أرسل <3/> رسالة</2>} other {<2>أرسل <3/> رسالة</2>}}"
+msgstr "{count, plural, one {<0>أرسل رسالة واحدة</0>} two {<2>أرسل رسالتين</2>} few {<2>أرسل <3/> رسائل</2>} many {<2>أرسل <3/> رسالة</2>} other {<2>أرسل <3/> رسالة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr "{count, plural, one {<0>اعتنِ بموظف <1/> مرة في الشركة التي تديرها</0>} two {<2>اعتنِ بموظف <3/> مرات في الشركة التي تديرها</2>} few {<2>اعتنِ بموظف <3/> مرات في الشركة التي تديرها</2>} many {<2>اعتنِ بموظف <3/> مرة في الشركة التي تديرها</2>} other {<2>اعتنِ بموظف <3/> مرة في الشركة التي تديرها</2>}}"
+msgstr "{count, plural, one {<0>اعتنِ بموظف مرة واحدة في الشركة التي تديرها</0>} two {<2>اعتنِ بموظف مرتين في الشركة التي تديرها</2>} few {<2>اعتنِ بموظف <3/> مرات في الشركة التي تديرها</2>} many {<2>اعتنِ بموظف <3/> مرة في الشركة التي تديرها</2>} other {<2>اعتنِ بموظف <3/> مرة في الشركة التي تديرها</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
-msgstr "{count, plural, one {<0>اترك بقشيشًا على <1/> مقال</0>} two {<2>اترك بقشيشًا على <3/> مقالات</2>} few {<2>اترك بقشيشًا على <3/> مقالات</2>} many {<2>اترك بقشيشًا على <3/> مقالًا</2>} other {<2>اترك بقشيشًا على <3/> مقال</2>}}"
+msgstr "{count, plural, one {<0>اترك بقشيشًا على مقال واحد</0>} two {<2>اترك بقشيشًا على مقالين</2>} few {<2>اترك بقشيشًا على <3/> مقالات</2>} many {<2>اترك بقشيشًا على <3/> مقالًا</2>} other {<2>اترك بقشيشًا على <3/> مقال</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:770
 msgid "{count, plural, one {<0>Train your employees <1/> time</0>} other {<2>Train your employees <3/> times</2>}}"
-msgstr "{count, plural, one {<0>درّب موظفيك <1/> مرة</0>} two {<2>درّب موظفيك <3/> مرات</2>} few {<2>درّب موظفيك <3/> مرات</2>} many {<2>درّب موظفيك <3/> مرة</2>} other {<2>درّب موظفيك <3/> مرة</2>}}"
+msgstr "{count, plural, one {<0>درّب موظفيك مرة واحدة</0>} two {<2>درّب موظفيك مرتين</2>} few {<2>درّب موظفيك <3/> مرات</2>} many {<2>درّب موظفيك <3/> مرة</2>} other {<2>درّب موظفيك <3/> مرة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:887
 msgid "{count, plural, one {<0>Travel to another region <1/> time</0>} other {<2>Travel to another region <3/> times</2>}}"
-msgstr "{count, plural, one {<0>سافر إلى منطقة أخرى <1/> مرة</0>} two {<2>سافر إلى منطقة أخرى <3/> مرات</2>} few {<2>سافر إلى منطقة أخرى <3/> مرات</2>} many {<2>سافر إلى منطقة أخرى <3/> مرة</2>} other {<2>سافر إلى منطقة أخرى <3/> مرة</2>}}"
+msgstr "{count, plural, one {<0>سافر إلى منطقة أخرى مرة واحدة</0>} two {<2>سافر إلى منطقة أخرى مرتين</2>} few {<2>سافر إلى منطقة أخرى <3/> مرات</2>} many {<2>سافر إلى منطقة أخرى <3/> مرة</2>} other {<2>سافر إلى منطقة أخرى <3/> مرة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr "{count, plural, one {<0>طوّر مهاراتك <1/> مرة</0>} two {<2>طوّر مهاراتك <3/> مرات</2>} few {<2>طوّر مهاراتك <3/> مرات</2>} many {<2>طوّر مهاراتك <3/> مرة</2>} other {<2>طوّر مهاراتك <3/> مرة</2>}}"
+msgstr "{count, plural, one {<0>طوّر مهاراتك مرة واحدة</0>} two {<2>طوّر مهاراتك مرتين</2>} few {<2>طوّر مهاراتك <3/> مرات</2>} many {<2>طوّر مهاراتك <3/> مرة</2>} other {<2>طوّر مهاراتك <3/> مرة</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>اعمل <1/> مرة في شركاتك</0>} two {<2>اعمل <3/> مرات في شركاتك</2>} few {<2>اعمل <3/> مرات في شركاتك</2>} many {<2>اعمل <3/> مرة في شركاتك</2>} other {<2>اعمل <3/> مرة في شركاتك</2>}}"
+msgstr "{count, plural, one {<0>اعمل مرة واحدة في شركاتك</0>} two {<2>اعمل مرتين في شركاتك</2>} few {<2>اعمل <3/> مرات في شركاتك</2>} many {<2>اعمل <3/> مرة في شركاتك</2>} other {<2>اعمل <3/> مرة في شركاتك</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
