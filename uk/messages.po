@@ -1311,7 +1311,7 @@ msgstr "{gender, select, male {Виявилось, що киця не була �
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3572
 msgid "{gender, select, male {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} female {It was {name}'s birthday, and nobody knew. {name} is quietly moved.} other {It was {name}'s birthday, and nobody knew. {name} is quietly moved.}}"
-msgstr ""
+msgstr "{gender, select, male {Це був день народження {name}, а ніхто не знав. {name} трохи ніяковіє.} female {Це був день народження {name}, а ніхто не знав. {name} трохи ніяковіє.} other {Це був день народження {name}, а ніхто не знав. {name} трохи ніяковіє.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2696
 msgid "{gender, select, male {It was a prank on the whole bar, and {name} fell for it.} female {It was a prank on the whole bar, and {name} fell for it.} other {It was a prank on the whole bar, and {name} fell for it.}}"
@@ -3467,7 +3467,7 @@ msgstr "Прекрасний кольоровий нікнейм, який зр�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3559
 msgid "A birthday card is going around the workshop. Nobody knows whose birthday it is."
-msgstr ""
+msgstr "Вітальна листівка гуляє майстернею. Ніхто не знає, у кого сьогодні день народження."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2386
 msgid "A business opportunity"
@@ -7875,7 +7875,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3569
 msgid "Find out whose it is"
-msgstr ""
+msgstr "Розібратись кому вона належить"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2041
 msgid "Find them homes among the staff"
@@ -11472,7 +11472,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3578
 msgid "Nobody admits to the birthday. The card is now evidence."
-msgstr ""
+msgstr "Ніхто не зізнався про свій день народження. Листівка тепер є доказом."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2037
 msgid "Nobody gets anything done. Nobody minds."
@@ -11484,7 +11484,7 @@ msgstr "Це нікого не потішило."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3585
 msgid "Nobody knows who the party is for. It is a great party."
-msgstr ""
+msgstr "Ніхто не знає, на честь кого ця вечірка. Тим не менш, це чудова вечірка."
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:210
 msgid "Nobody manages this company yet"
@@ -14411,7 +14411,7 @@ msgstr "Підписати"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3562
 msgid "Sign it"
-msgstr ""
+msgstr "Підписати її"
 
 #: src/components/_user/auth/WelcomeModal.tsx:292
 msgid "Signature"
@@ -15241,7 +15241,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3557
 msgid "The birthday card"
-msgstr ""
+msgstr "Листівка до дня народження"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3405
 msgid "The box burns. Nobody suggests anything for another three years."
@@ -16083,7 +16083,7 @@ msgstr "Влаштувати вечірку"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3582
 msgid "Throw a party anyway"
-msgstr "Всеодно влаштувати вечірку"
+msgstr "Без різниці, влаштуємо вечірку"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3654
 msgid "Throw it out"
