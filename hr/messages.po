@@ -4828,7 +4828,7 @@ msgstr "Postani kandidat"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:199
 msgid "Become a Supporter to save up to {premiumMaxPresets} skill presets."
-msgstr ""
+msgstr "Postanite Supporter kako bi sačuvali i do {premiumMaxPresets} postavki vještina."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:696
 msgid "Become the manager of another player's company"
@@ -6540,7 +6540,7 @@ msgstr "Negativni bonusi:"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:449
 msgid "Decides on its own in <0/>"
-msgstr ""
+msgstr "Samo izabire za <0/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:133
 #: src/components/_political/law/lawNames.tsx:14
@@ -6634,7 +6634,7 @@ msgstr "Proglasi zakletog neprijatelja"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:290
 msgid "Delete"
-msgstr ""
+msgstr "Obriši"
 
 #: src/pages/user/[userId]/settings.tsx:174
 msgid "Delete account"
@@ -7286,7 +7286,7 @@ msgstr "Prazno"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:56
 msgid "Empty build"
-msgstr ""
+msgstr "Prazna postavka"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:436
 msgid "Enable company"
@@ -7401,11 +7401,11 @@ msgstr "Oprema"
 
 #: src/pages/market/index.tsx:80
 msgid "Equipment offers"
-msgstr ""
+msgstr "Ponuda za opremu"
 
 #: src/components/_user/UserEquipments.tsx:174
 msgid "Equipment sets"
-msgstr ""
+msgstr "Setovi opreme"
 
 #: src/components/_user/user/SkillBar.tsx:48
 #: src/components/_user/user/SkillValue.tsx:113
@@ -7721,7 +7721,7 @@ msgstr "Neuspješan pokušaj Google logina. Potvrdite CAPTCHU."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:189
 msgid "Failure"
-msgstr ""
+msgstr "Neuspjeh"
 
 #: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
@@ -8062,7 +8062,7 @@ msgstr ""
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:48
 msgid "from"
-msgstr ""
+msgstr "od"
 
 #. placeholder {0}: range.min
 #. placeholder {1}: range.max
@@ -8906,7 +8906,7 @@ msgstr "U mirovanju"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:177
 msgid "If ignored"
-msgstr ""
+msgstr "Ako se zanemari"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:39
 msgid "If negative, pay <0/> for <1/> (once per day)."
@@ -9357,7 +9357,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:124
 msgid "Kept between {minChance}% and {maxChance}%. Fixed when the event appeared."
-msgstr ""
+msgstr "Između {minChance}% i {maxChance}%. Ispravljeno kada se događaj pojavio."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3451
 msgid "Kevin"
@@ -9821,7 +9821,7 @@ msgstr "Učitaj još stranaka"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:261
 msgid "Load preset"
-msgstr ""
+msgstr "Učitajte postavku"
 
 #: src/components/_layout/LoadingScreenContent.tsx:53
 msgid "Loading {status}..."
@@ -10893,16 +10893,16 @@ msgstr "Najbliža drvena kutija"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:561
 msgid "Needed under {chance}"
-msgstr ""
+msgstr "Potrebno ispod {chance}"
 
 #. placeholder {0}: optionDef.requires?.traitsAny?.map((code, k) => ( <Fragment key={code}> {k > 0 && ' / '} <TraitName code={code} /> </Fragment> ))
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:151
 msgid "Needs {0}"
-msgstr ""
+msgstr "Treba {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:149
 msgid "Needs a tool"
-msgstr ""
+msgstr "Potreban je alat"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:196
 msgid "Needs Management"
@@ -11090,7 +11090,7 @@ msgstr "Sljedeća etapa"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:693
 msgid "Next event ({nextCount} left)"
-msgstr ""
+msgstr "Sljedeći događaj ({nextCount} preostalo)"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:18
 msgid "Next one will be a tank"
@@ -11303,11 +11303,11 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:78
 msgid "No longer on the roster."
-msgstr ""
+msgstr "Više nije na popisu kandidata."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:402
 msgid "No market value yet: any price works."
-msgstr ""
+msgstr "Bez tržišne vrijednosti: moguća bilo koja cijena."
 
 #: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
@@ -11484,15 +11484,15 @@ msgstr ""
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:210
 msgid "Nobody manages this company yet"
-msgstr ""
+msgstr "Još nitko ne upravlja ovom kompanijom"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:431
 msgid "Nobody sells a similar one yet. The price starts at the estimated value."
-msgstr ""
+msgstr "Nitko ne prodaju sličan predmet. Cijena započinje s procijenjenom vrijednosti."
 
 #: src/pages/market/equipments.tsx:165
 msgid "Nobody sells this item right now"
-msgstr ""
+msgstr "Trenutno nitko ne prodaje ovaj predmet"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2048
 msgid "Nobody takes one. Five kittens now live in the storeroom."
@@ -11609,7 +11609,7 @@ msgstr ""
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:748
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:228
 msgid "Nothing happens"
-msgstr ""
+msgstr "Ništa se ne dogodi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2469
 msgid "Nothing hits, but nobody enjoyed working under the siren."
@@ -12409,7 +12409,7 @@ msgstr "Kramp"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:169
 msgid "Picked for you if you do not answer in time."
-msgstr ""
+msgstr "Opcija koja se bira ako ne odgovorite na vrijeme."
 
 #: src/components/_economy/employee/ToolSelectorPopover.tsx:156
 msgid "Picking it takes it from them."
@@ -12607,16 +12607,16 @@ msgstr "Premium počinje raditi."
 
 #: src/components/_user/user/SkillPresetsModal.tsx:131
 msgid "Preset deleted."
-msgstr ""
+msgstr "Postavka izbrisana."
 
 #: src/components/_user/user/SkillPresetsModal.tsx:119
 #: src/components/_user/user/SkillPresetsModal.tsx:125
 msgid "Preset saved!"
-msgstr ""
+msgstr "Postavka sačuvana!"
 
 #: src/components/_user/user/UserSkills.tsx:307
 msgid "Presets"
-msgstr ""
+msgstr "Postavke"
 
 #: src/components/_political/government/Government.tsx:92
 #: src/components/_political/government/GovernmentScroll.tsx:40
@@ -12626,7 +12626,7 @@ msgstr "Predsjednik"
 
 #: src/components/_user/user/UserBadges.tsx:193
 msgid "President of <0/>"
-msgstr ""
+msgstr "Predsjednik <0/>"
 
 #: src/components/_political/election/election.frontConfig.tsx:23
 msgid "Presidential election"
@@ -13840,7 +13840,7 @@ msgstr "Vraćanje novca (povrata svih uplata od VJ/korisnika i povrat cijelog fo
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:558
 msgid "Rolled {rolled}"
-msgstr ""
+msgstr "Izvučeno {rolled}"
 
 #: src/components/_economy/employee/employeeTags.tsx:165
 msgid "Rolled at hire"
@@ -13944,7 +13944,7 @@ msgstr "Reciklator"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:218
 msgid "Same price for all items"
-msgstr ""
+msgstr "Ista cijena za sve predmete"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:200
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:135
@@ -14869,7 +14869,7 @@ msgstr "Pretplatnici"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:184
 msgid "Success"
-msgstr ""
+msgstr "Uspjeh"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:161
 msgid "Successfully logged in!"
@@ -15921,7 +15921,7 @@ msgstr "Ova nagrada je rezervirana samo za državljane."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:391
 msgid "This can end with someone leaving your company for good."
-msgstr ""
+msgstr "Ovo može imati ishod da netko zauvijek napusti kompaniju."
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:121
 msgid "This company has no employees"
@@ -16032,7 +16032,7 @@ msgstr "Ovog člana neće moći biti ponovno nominirati {0, plural, one {# dan} 
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:629
 msgid "This no longer applies: someone it was about is gone."
-msgstr ""
+msgstr "Ovo više ne utječe: netko o kome se radilo je otišao."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:209
 msgid "This player has not connected for days. Until they come back they add no production to the roster and earn nothing."
@@ -16681,7 +16681,7 @@ msgstr "Otključajte 'Pomozi Svima' značajku"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:197
 msgid "Unlock more skill presets"
-msgstr ""
+msgstr "Otključajte više postavki vještina"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:107
 msgid "Unlock Produce all button"
@@ -16689,7 +16689,7 @@ msgstr "Otključajte 'Proizvedi Sve' značajku"
 
 #: src/components/_user/level/LevelUpExtra.tsx:15
 msgid "Unlocked"
-msgstr ""
+msgstr "Otključan"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2194
 msgid "Unlocked pack"
@@ -17743,11 +17743,11 @@ msgstr "Ne možete se prijaviti za državljanstvo ako imate aktivni mandat u vla
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:78
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:497
 msgid "You chose: {picked}"
-msgstr ""
+msgstr "Izabrali ste: {picked}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:493
 msgid "You did not answer in time, so this was decided: {picked}."
-msgstr ""
+msgstr "Niste odgovorili na vrijeme, pa je ovo odlučeno: {picked}."
 
 #: src/pages/party/[partyId]/applications.tsx:28
 msgid "You don't have permission to view applications."
