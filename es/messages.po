@@ -5566,7 +5566,7 @@ msgstr "Reclamar"
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:169
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:240
 msgid "Claim {count} toolboxes"
-msgstr "Reclamar {count) cajas de herramientas"
+msgstr "Reclamar {count} cajas de herramientas"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:46
