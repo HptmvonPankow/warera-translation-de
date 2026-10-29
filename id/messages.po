@@ -7624,37 +7624,37 @@ msgstr "Ekspatriat"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:248
 msgid "Expected loot"
-msgstr ""
+msgstr "Perkiraan jarahan"
 
 #: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
-msgstr ""
+msgstr "Perkiraan upah"
 
 #. placeholder {0}: Math.round(entry.delta * 100)
 #: src/components/_economy/employee/TrainingHistory.tsx:141
 msgid "Expected wage <0>-{0}%</0>"
-msgstr ""
+msgstr "Perkiraan upah <0>-{0}%</0>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:800
 msgid "Expects <0>15%</0> less pay than the market rate"
-msgstr ""
+msgstr "Mengharapkan bayaran <0>15%</0> lebih rendah daripada tarif pasar"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:811
 msgid "Expects <0>2%</0> more pay for every week hired"
-msgstr ""
+msgstr "Mengharapkan bayaran <0>2%</0> lebih tinggi untuk setiap minggu sejak direkrut"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:789
 msgid "Expects <0>20%</0> more pay than the market rate"
-msgstr ""
+msgstr "Mengharapkan bayaran <0>20%</0> lebih tinggi daripada tarif pasar"
 
 #: src/components/_user/milestone/milestone.frontConfig.tsx:28
 msgid "Experience"
-msgstr ""
+msgstr "Pengalaman"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:177
 msgid "Experience in the good"
-msgstr ""
+msgstr "Pengalaman dalam produk tersebut"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:73
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:238
@@ -7685,19 +7685,19 @@ msgstr "Pencari Eksploit"
 
 #: src/components/_common/GameRules.tsx:190
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr ""
+msgstr "Akun yang digunakan untuk eksploitasi akan diblokir secara permanen, sedangkan akun yang diuntungkan akan dikenai pemblokiran sementara, denda, atau pemblokiran permanen jika pelanggaran terulang."
 
 #: src/components/_common/GameRules.tsx:137
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
-msgstr ""
+msgstr "Mengeksploitasi bug atau sengaja mengabaikannya demi keuntungan pribadi dilarang. Semua pemain diharapkan melaporkan bug yang ditemukan dan tidak memanfaatkannya untuk mendapatkan keuntungan."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:545
 msgid "Explore the map!"
-msgstr ""
+msgstr "Jelajahi peta!"
 
 #: src/components/_common/GameRules.tsx:269
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr ""
+msgstr "f. Pemuliaan atau pembenaran ideologi kebencian, seperti Nazisme, neo-Nazisme, fasisme, terorisme, serta kelompok dan gerakan teroris (yang dikategorikan demikian oleh Perserikatan Bangsa-Bangsa, Uni Eropa, atau Prancis), penyangkalan genosida, kejahatan perang, kejahatan terhadap kemanusiaan, Putinisme, dan komunisme."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 #: src/components/_user/userReports/UserReportListItem.tsx:119
@@ -7726,7 +7726,7 @@ msgstr "Gagal memulai login Google. Silakan ulangi CAPTCHA."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:189
 msgid "Failure"
-msgstr ""
+msgstr "Kegagalan"
 
 #: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
@@ -7762,7 +7762,7 @@ msgstr "Celana Petani"
 
 #: src/utils/translations.tsx:241
 msgid "Farmhand's Sickle"
-msgstr ""
+msgstr "Sabit Buruh Tani"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:89
 #: src/components/_military/battle/ActiveBattlesList.tsx:169
@@ -7771,7 +7771,7 @@ msgstr "Favorit"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:64
 msgid "Federation"
-msgstr ""
+msgstr "Federasi"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:238
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:108
@@ -7793,7 +7793,7 @@ msgstr "Berjuang untuk <0/> di<1/><2/>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:304
 msgid "Fight for your country. Tap Battles."
-msgstr ""
+msgstr "Berjuang demi negaramu. Ketuk menu Pertempuran."
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:145
 #: src/components/_user/user/skills.frontConfig.tsx:232
@@ -7810,15 +7810,15 @@ msgstr "Jet tempur"
 
 #: src/components/_layout/loadingTips.tsx:172
 msgid "Fighting for a country that occupies your own country's regions cuts your damage by {occupationMalus}%."
-msgstr ""
+msgstr "Bertempur untuk negara yang menduduki wilayah negaramu sendiri mengurangi damage-mu sebesar {occupationMalus}%."
 
 #: src/components/_layout/loadingTips.tsx:163
 msgid "Fighting for your own country gives +{patrioticBonusPercent}% damage. Tournament battles don't count."
-msgstr ""
+msgstr "Bertempur untuk negaramu sendiri memberikan bonus damage sebesar +{patrioticBonusPercent}%. Pertempuran turnamen tidak dihitung."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1130
 msgid "File it away"
-msgstr ""
+msgstr "Arsipkan saja"
 
 #: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
@@ -7855,7 +7855,7 @@ msgstr "Danai perlawanan di <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2937
 msgid "Find a better horoscope"
-msgstr ""
+msgstr "Cari ramalan bintang yang lebih baik"
 
 #: src/pages/companies.tsx:86
 msgid "Find a job"
@@ -7871,23 +7871,23 @@ msgstr "Cari unit militer"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2206
 msgid "Find it first"
-msgstr ""
+msgstr "Temukan lebih dulu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3569
 msgid "Find out whose it is"
-msgstr ""
+msgstr "Cari tahu siapa pemiliknya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2041
 msgid "Find them homes among the staff"
-msgstr ""
+msgstr "Carikan mereka rumah di antara para karyawan"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:230
 msgid "Finished missions give XP. Claim them all."
-msgstr ""
+msgstr "Misi yang selesai memberikan XP. Klaim semuanya."
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:42
 msgid "Finished: your reward is waiting"
-msgstr ""
+msgstr "Selesai: hadiahmu siap diklaim"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:399
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:264
@@ -7898,11 +7898,11 @@ msgstr "Pecat"
 #: src/components/_user/user/UserEffectSelector.tsx:62
 msgctxt "username effect: flames"
 msgid "Fire"
-msgstr ""
+msgstr "Api"
 
 #: src/components/_economy/employee/useConfirmFire.tsx:35
 msgid "Fire employee?"
-msgstr ""
+msgstr "Pecat karyawan?"
 
 #: src/components/_political/government/Government.tsx:275
 msgid "Fire government member"
@@ -7910,7 +7910,7 @@ msgstr "Pecat anggota pemerintahan"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:269
 msgid "Fire your manager?"
-msgstr ""
+msgstr "Pecat manajermu?"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2247
 msgid "Fired from government"
@@ -7918,15 +7918,15 @@ msgstr "Dipecat dari pemerintahan"
 
 #: src/utils/translations.tsx:262
 msgid "Firestorm Skillet"
-msgstr ""
+msgstr "Wajan Badai Api"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:325
 msgid "First side to reach <0>{pointsToWinRound}</0> Ground wins the round."
-msgstr ""
+msgstr "Pihak pertama yang mencapai <0>{pointsToWinRound}</0> Ground akan memenangkan ronde."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:317
 msgid "First side to win {roundsToWin} rounds wins the battle."
-msgstr ""
+msgstr "Pihak pertama yang memenangkan {roundsToWin} ronde akan memenangkan pertempuran."
 
 #: src/utils/translations.tsx:36
 msgid "Fish"
@@ -7934,7 +7934,7 @@ msgstr "Ikan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1452
 msgid "Fixed. It looks great."
-msgstr ""
+msgstr "Sudah diperbaiki. Hasilnya terlihat bagus."
 
 #: src/components/_layout/LayoutOptions.tsx:147
 msgid "Flags"
@@ -7946,32 +7946,32 @@ msgstr "Gada Rantai"
 
 #: src/utils/translations.tsx:275
 msgid "Flask"
-msgstr ""
+msgstr "Labu"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:136
 msgid "Flight Risk"
-msgstr ""
+msgstr "Rentan Mengundurkan Diri"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:391
 msgid "Focus on you"
-msgstr ""
+msgstr "Fokus ke Lokasimu"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:95
 #: src/components/_political/region/SetResistanceFocusModal.tsx:146
 msgid "Focus resistance"
-msgstr ""
+msgstr "Fokus Perlawanan"
 
 #: src/components/_political/region/RegionResistance.tsx:169
 msgid "Focus resistance here"
-msgstr ""
+msgstr "Fokuskan Perlawanan di Sini"
 
 #: src/components/_layout/loadingTips.tsx:181
 msgid "Follow the battle orders of your country and your Military Unit: each one gives up to +{maxOrderBonus}% damage on the side it points to."
-msgstr ""
+msgstr "Ikuti perintah pertempuran negaramu dan Unit Militer-mu: masing-masing memberikan bonus hingga +{maxOrderBonus}% damage kepada pihak yang ditunjuk."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:153
 msgid "Follow-up"
-msgstr ""
+msgstr "Tindak Lanjut"
 
 #: src/components/_layout/LayoutOptions.tsx:295
 msgid "Font"
@@ -7987,67 +7987,67 @@ msgstr "Gaya huruf"
 
 #: src/components/_user/user/UserFontSelector.tsx:72
 msgid "Font updated"
-msgstr ""
+msgstr "Font berhasil diperbarui"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:86
 msgid "for"
-msgstr ""
+msgstr "untuk"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:117
 msgid "for {durationHours}h. One pick per day, boosts stack."
-msgstr ""
+msgstr "selama {durationHours} jam. Satu pilihan per hari, efek bonus dapat ditumpuk."
 
 #: src/components/_economy/company/MoveCompanyForm.tsx:89
 msgid "for {penaltyDays} days, on every employee of the company"
-msgstr ""
+msgstr "selama {penaltyDays} hari, berlaku untuk semua karyawan perusahaan"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:66
 msgid "for {penaltyDays} days, on everyone who changes desk"
-msgstr ""
+msgstr "selama {penaltyDays} hari, berlaku untuk semua karyawan yang berpindah meja"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3593
 msgid "For luck"
-msgstr ""
+msgstr "Demi keberuntungan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:687
 msgid "Forbid it"
-msgstr ""
+msgstr "Larang saja"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3214
 msgid "Forbid the race"
-msgstr ""
+msgstr "Larang balapan itu"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:96
 msgid "Foreman"
-msgstr ""
+msgstr "Mandor"
 
 #: src/utils/translations.tsx:269
 msgid "Forge Hammer"
-msgstr ""
+msgstr "Palu Tempa"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2723
 msgid "Forget you heard it"
-msgstr ""
+msgstr "Anggap saja kamu tidak mendengarnya"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:479
 msgid "Forgets their experience in {good}"
-msgstr ""
+msgstr "Melupakan pengalaman mereka dalam {good}"
 
 #: src/components/_layout/loadingTips.tsx:516
 msgid "Found a bug? Report it instead of using it: valuable reports earn the Bug Finder badge."
-msgstr ""
+msgstr "Menemukan bug? Laporkan daripada memanfaatkannya. Laporan yang berharga akan memberimu lencana Bug Finder."
 
 #: src/components/_political/law/law.frontConfig.tsx:352
 msgid "Found a new alliance with your country as founding member"
-msgstr ""
+msgstr "Dirikan aliansi baru dengan negaramu sebagai anggota pendiri"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1378
 msgid "Found a rival party"
-msgstr ""
+msgstr "Bentuk partai tandingan"
 
 #: src/utils/translations.tsx:115
 msgid "Found on the map. Open it to get random resources, or sometimes a case"
-msgstr ""
+msgstr "Ditemukan di peta. Buka untuk mendapatkan sumber daya acak, atau terkadang sebuah peti"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:45
 msgid "Founding Father"
@@ -8059,29 +8059,29 @@ msgstr "Hadiah harian gratis"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:300
 msgid "Free national orders to defend, revolt in or retake its core regions"
-msgstr ""
+msgstr "Perintah nasional untuk mempertahankan, memberontak di, atau merebut kembali wilayah inti negara tidak dikenai biaya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2540
 msgid "Free paper, blank on the back. The coworkers are delighted."
-msgstr ""
+msgstr "Kertas gratis dengan sisi belakang kosong. Rekan-rekan kerja sangat senang."
 
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:48
 msgid "from"
-msgstr ""
+msgstr "dari"
 
 #. placeholder {0}: range.min
 #. placeholder {1}: range.max
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:390
 msgid "From <0>{0}</0> to <1>{1}</1> before tax."
-msgstr ""
+msgstr "Dari <0>{0}</0> hingga <1>{1}</1> sebelum pajak."
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "Gas Pol, Tanpa Rem"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:120
 msgid "Full: a swap is the only way in"
-msgstr ""
+msgstr "Penuh: hanya bisa masuk dengan menukar posisi"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -8089,31 +8089,31 @@ msgstr "Fakta seru: bandar selalu menang"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2637
 msgid "Fund proper research"
-msgstr ""
+msgstr "Danai penelitian yang layak"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:297
 msgid "Fund the idea"
-msgstr ""
+msgstr "Danai ide tersebut"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Sepatu Bot Bulu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Cawat Bulu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Sarung Tangan Bulu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Tunik Bulu"
 
 #: src/components/_common/GameRules.tsx:278
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
-msgstr ""
+msgstr "g. Penggunaan profil (gambar, deskripsi, nama) yang berkaitan dengan ideologi dan gerakan yang disebutkan sebelumnya, serta tokoh politik yang terkait dengan perang dan konflik bersenjata yang masih berlangsung di dunia nyata. Nama, deskripsi, dan gambar yang bersifat humor diperbolehkan, kecuali konten apa pun yang berkaitan dengan Nazisme dan neo-Nazisme."
 
 #: src/components/_user/user/Level.tsx:117
 msgid "Gain <0>Xp</0> by finishing your missions!"
@@ -8121,11 +8121,11 @@ msgstr "Dapatkan <0>XP</0> dengan menyelesaikan misimu!"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:139
 msgid "Gambler"
-msgstr ""
+msgstr "Penjudi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:565
 msgid "Gambling debts"
-msgstr ""
+msgstr "Utang judi"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:109
 #: src/components/_user/user/UserBadges.tsx:53
@@ -8134,11 +8134,11 @@ msgstr "Supporter game"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:632
 msgid "Gear"
-msgstr ""
+msgstr "Perlengkapan"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:448
 msgid "Gear up!"
-msgstr ""
+msgstr "Lengkapi perlengkapanmu!"
 
 #: src/pages/shop/index.tsx:189
 msgid "Gems"
@@ -8150,23 +8150,23 @@ msgstr "Permata digunakan untuk membeli aset di toko dan menghadiahkan bulan sup
 
 #: src/components/_user/user/UserRankingsPanel.tsx:111
 msgid "Gems purchased"
-msgstr ""
+msgstr "Permata yang dibeli"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:148
 msgid "General"
-msgstr "General"
+msgstr "Jenderal"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1711
 msgid "General Coo"
-msgstr ""
+msgstr "Jenderal Coo"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1730
 msgid "General Coo carries messages now. Nobody knows to whom."
-msgstr ""
+msgstr "Kini Jenderal Coo mengantarkan pesan. Tak ada yang tahu kepada siapa."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1731
 msgid "General Coo deserts with a sandwich."
-msgstr ""
+msgstr "Jenderal Coo kabur sambil membawa sandwich."
 
 #: src/components/_user/mission/MissionsList.tsx:341
 msgid "Generate Missions"
@@ -8179,27 +8179,27 @@ msgstr "Menghasilkan <0>{0}</0>/hari"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:54
 msgid "Geography"
-msgstr ""
+msgstr "Geografi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3869
 msgid "Gerald"
-msgstr ""
+msgstr "Gerald"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3879
 msgid "Gerald is an efficiency expert. Everyone works faster to avoid him."
-msgstr ""
+msgstr "Gerald adalah ahli efisiensi. Semua orang bekerja lebih cepat agar terhindar darinya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3877
 msgid "Gerald is charming. Nobody is sure he got the job, but everyone likes him."
-msgstr ""
+msgstr "Gerald sangat menawan. Tak ada yang yakin bagaimana dia bisa diterima bekerja, tetapi semua orang menyukainya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3887
 msgid "Gerald leaves, and takes his desk."
-msgstr ""
+msgstr "Gerald pergi sambil membawa mejanya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3396
 msgid "Gerald's desk exists. In the drawer: a wooden case, and no Gerald."
-msgstr ""
+msgstr "Meja Gerald ternyata benar-benar ada. Di dalam lacinya terdapat sebuah peti kayu, tetapi Gerald tidak ada."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:51
 msgid "Get an exclusive <0>subscriber skin</0>!"
@@ -8215,11 +8215,11 @@ msgstr "Dapatkan paket supporter"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:358
 msgid "Get to the front!"
-msgstr ""
+msgstr "Maju ke garis depan!"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:67
 msgid "Gets rid of a bad trait for good."
-msgstr ""
+msgstr "Menghapus trait buruk secara permanen."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -8248,15 +8248,15 @@ msgstr "menghadiahkan"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:104
 msgid "Girl Power"
-msgstr ""
+msgstr "Kekuatan Perempuan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2499
 msgid "Give a patriotic speech"
-msgstr ""
+msgstr "Sampaikan pidato patriotik"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:839
 msgid "Give a tool to one of your employees"
-msgstr ""
+msgstr "Berikan alat kepada salah satu karyawanmu"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
@@ -8264,11 +8264,11 @@ msgstr "Serahkan kepemilikan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:972
 msgid "Give them the workshop"
-msgstr ""
+msgstr "Berikan bengkel itu kepada mereka"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:519
 msgid "Give them two days off"
-msgstr ""
+msgstr "Beri mereka libur selama dua hari"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:251
 msgid "Give your token a descriptive name so you can identify it later."
@@ -8293,7 +8293,7 @@ msgstr "Globe (eksperimental)"
 
 #: src/components/_political/map/MapLibre.tsx:633
 msgid "Globe view isn't supported on this device"
-msgstr ""
+msgstr "Tampilan globe tidak didukung di perangkat ini"
 
 #: src/components/_economy/inventory/Inventory.tsx:500
 #: src/components/_user/UserEquipments.tsx:309
@@ -8303,7 +8303,7 @@ msgstr "Sarung Tangan"
 
 #: src/components/_user/user/UserEffectSelector.tsx:57
 msgid "Glow"
-msgstr ""
+msgstr "Pendar"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:95
 msgid "Go play lottery right now"
@@ -8311,7 +8311,7 @@ msgstr "Coba main lotre sekarang juga"
 
 #: src/components/_political/map/MapOrderIndicators.tsx:579
 msgid "Go to ordered battle"
-msgstr ""
+msgstr "Pergi ke pertempuran yang diperintahkan"
 
 #: src/components/_economy/company/CompanyList.tsx:191
 msgid "Go to skills"
@@ -8319,7 +8319,7 @@ msgstr "Ke skill"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1640
 msgid "Go undercover yourself"
-msgstr ""
+msgstr "Menyamar sendiri"
 
 #: src/components/_economy/strategicResource/strategicResource.frontConfig.ts:29
 #: src/utils/translations.tsx:34
@@ -8328,15 +8328,15 @@ msgstr "Emas"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:117
 msgid "Gone"
-msgstr ""
+msgstr "Sudah pergi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3648
 msgid "Good scrap, and at the bottom, a whole toolbox."
-msgstr ""
+msgstr "Lumayan banyak rongsokan, dan di bagian bawah ada satu kotak peralatan utuh."
 
 #: src/components/_other/tour/TutorialStep.tsx:630
 msgid "Got it"
-msgstr ""
+msgstr "Mengerti"
 
 #: src/components/_political/country/CountryHeader.tsx:120
 #: src/components/_political/country/CountryHeader.tsx:212
@@ -8348,7 +8348,7 @@ msgstr "Pemerintahan"
 #: src/components/_social/announcement/AnnouncementModal.tsx:46
 #: src/components/_social/announcement/GovernmentAnnouncementCard.tsx:98
 msgid "Government announcement"
-msgstr ""
+msgstr "Pengumuman Pemerintah"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:229
 msgid "Government Member"
@@ -8361,7 +8361,7 @@ msgstr "Penalti pemerintahan"
 #: src/components/_political/law/LawFormModal.tsx:335
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:75
 msgid "Government type"
-msgstr ""
+msgstr "Jenis Pemerintahan"
 
 #: src/components/_political/government/Government.tsx:220
 msgid "Government wage"
@@ -8369,15 +8369,15 @@ msgstr "Gaji pemerintahan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1492
 msgid "Grab whatever cake the shop has left"
-msgstr ""
+msgstr "Ambil kue apa saja yang masih tersisa di toko"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:572
 msgid "Grab your wooden cases!"
-msgstr ""
+msgstr "Ambil peti kayumu!"
 
 #: src/components/_user/user/UserEffectSelector.tsx:59
 msgid "Gradient"
-msgstr ""
+msgstr "Gradien"
 
 #: src/utils/translations.tsx:28
 msgid "Grain"
@@ -8385,7 +8385,7 @@ msgstr "Gandum"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1790
 msgid "Grant the title"
-msgstr ""
+msgstr "Berikan gelar tersebut"
 
 #: src/components/_layout/LayoutOptions.tsx:115
 msgid "Graticule"
@@ -8393,11 +8393,11 @@ msgstr "Garis kisi"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:131
 msgid "Greedy"
-msgstr ""
+msgstr "Serakah"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1145
 msgid "Green grapes only"
-msgstr ""
+msgstr "Hanya anggur hijau"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:161
 msgid "Green Staff"
@@ -8482,72 +8482,72 @@ msgstr "Poin wilayah"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:338
 msgid "GSG9 Armored Tank"
-msgstr ""
+msgstr "Tank Lapis Baja GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:332
 msgid "GSG9 Assault Rifle"
-msgstr ""
+msgstr "Senapan Serbu GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:341
 msgid "GSG9 Combat Helicopter"
-msgstr ""
+msgstr "Helikopter Tempur GSG9"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:44
 msgid "GSG9 Pack"
-msgstr ""
+msgstr "Paket GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:329
 msgid "GSG9 Pistol"
-msgstr ""
+msgstr "Pistol GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:335
 msgid "GSG9 Sniper Rifle"
-msgstr ""
+msgstr "Senapan Runduk GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:350
 msgid "GSG9 Tactical Boots"
-msgstr ""
+msgstr "Sepatu Bot Taktis GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:356
 msgid "GSG9 Tactical Gloves"
-msgstr ""
+msgstr "Sarung Tangan Taktis GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:344
 msgid "GSG9 Tactical Helmet"
-msgstr ""
+msgstr "Helm Taktis GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:353
 msgid "GSG9 Tactical Pants"
-msgstr ""
+msgstr "Celana Taktis GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:326
 msgid "GSG9 Tactical Shield"
-msgstr ""
+msgstr "Perisai Taktis GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
-msgstr ""
+msgstr "Rompi Taktis GSG9"
 
 #: src/components/_other/tour/TutorialFloatingGuide.tsx:55
 msgid "Guide"
-msgstr ""
+msgstr "Panduan"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:172
 msgid "Guide complete!"
-msgstr ""
+msgstr "Panduan selesai!"
 
 #: src/components/_other/tour/tutorial.hooks.ts:283
 msgid "Guide paused"
-msgstr ""
+msgstr "Panduan dijeda"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:170
 msgid "Guide replayed"
-msgstr ""
+msgstr "Panduan diputar ulang"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:83
 #: src/components/_user/mission/ProgressHeader.tsx:98
 msgid "Guides"
-msgstr ""
+msgstr "Panduan"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -8555,11 +8555,11 @@ msgstr "Senjata"
 
 #: src/components/_common/GameRules.tsx:287
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
-msgstr ""
+msgstr "h. Mengagungkan, mempromosikan, atau mendorong tindakan melanggar aturan maupun kecurangan"
 
 #: src/utils/translations.tsx:266
 msgid "Hammer"
-msgstr ""
+msgstr "Palu"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
@@ -8567,15 +8567,15 @@ msgstr "Tank Hamster"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:258
 msgid "Hand over a toolbox and do it properly"
-msgstr ""
+msgstr "Serahkan kotak peralatan dan lakukan dengan benar"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:86
 msgid "Handy"
-msgstr ""
+msgstr "Terampil"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3513
 msgid "Hang in there"
-msgstr ""
+msgstr "Tetap bertahan"
 
 #: src/components/_economy/company/CompanyTags.tsx:78
 #: src/components/_economy/employee/employeeStats.tsx:516
@@ -8585,33 +8585,33 @@ msgstr ""
 #: src/components/_economy/employee/WorkforceSummary.tsx:317
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:159
 msgid "Happiness"
-msgstr ""
+msgstr "Kebahagiaan"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:148
 msgid "Happiness {mood} or less, or {burnout} or {wornOut}."
-msgstr ""
+msgstr "Kebahagiaan {mood} atau lebih rendah, atau memiliki {burnout} atau {wornOut}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:137
 msgid "Happiness {mood} or less, Production {output} or more, or {climber}. Always possible for a {flightRisk}, and twice as likely."
-msgstr ""
+msgstr "Kebahagiaan {mood} atau lebih rendah, Production {output} atau lebih tinggi, atau {climber}. Selalu bisa terjadi pada {flightRisk}, dengan peluang dua kali lipat."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:282
 msgid "Happiness {mood} or more, after 14 days in the company."
-msgstr ""
+msgstr "Kebahagiaan {mood} atau lebih tinggi, setelah 14 hari bekerja di perusahaan."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:118
 msgid "Happiness {mood} or more, and either 5 days of experience in the company's good or {quickStudy}."
-msgstr ""
+msgstr "Kebahagiaan {mood} atau lebih tinggi, serta memiliki pengalaman 5 hari dalam memproduksi barang perusahaan atau {quickStudy}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:126
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:459
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:478
 msgid "Happiness {mood} or more."
-msgstr ""
+msgstr "Kebahagiaan {mood} atau lebih tinggi."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:113
 msgid "Happiness {value}"
-msgstr ""
+msgstr "Kebahagiaan {value}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -8619,71 +8619,71 @@ msgstr "Pekerja Keras"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Amunisi Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Pesawat Biplan Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Sepatu Bot Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:527
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Sarung Tangan Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Amunisi Berat Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Jaket Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Amunisi Ringan Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Palu Pemukul Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Topeng Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Celana Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Pistol Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Senapan Harlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Senapan Runduk Harlequin"
 
 #: src/utils/translations.tsx:243
 msgid "Harvester's Edge"
-msgstr ""
+msgstr "Bilah Pemanen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:948
 msgid "Have your employees find <0/>"
-msgstr ""
+msgstr "Suruh karyawanmu menemukan <0/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:938
 msgid "Have your employees make <0/>"
-msgstr ""
+msgstr "Suruh karyawanmu membuat <0/>"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:112
 msgid "Headquarters"
@@ -8706,7 +8706,7 @@ msgstr "Helm"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2800
 msgid "Help decipher it"
-msgstr ""
+msgstr "Bantu memecahkannya"
 
 #: src/components/_military/mu/MuMemberList.tsx:375
 msgid "Help for Mu"
@@ -14095,11 +14095,11 @@ msgstr "Pilih wilayah"
 #. placeholder {0}: bulkItems.length
 #: src/components/_economy/inventory/DismantleModal.tsx:279
 msgid "Select all ({0})"
-msgstr ""
+msgstr "Pilih semua ({0})"
 
 #: src/components/_economy/inventory/ItemCodeModalSelector.tsx:58
 msgid "Select an item"
-msgstr ""
+msgstr "Pilih item"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:132
 msgid "Select an occupied region"
@@ -14125,11 +14125,11 @@ msgstr "Pilih jenis mosi"
 
 #: src/components/_social/poll/PollCard.tsx:295
 msgid "Select one answer"
-msgstr ""
+msgstr "Pilih satu jawaban"
 
 #: src/components/_social/poll/PollCard.tsx:293
 msgid "Select one or more answers"
-msgstr ""
+msgstr "Pilih satu atau beberapa jawaban"
 
 #: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
@@ -14143,15 +14143,15 @@ msgstr "Kerja mandiri"
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:30
 #: src/pages/market/equipments.tsx:96
 msgid "Sell an item"
-msgstr ""
+msgstr "Jual item"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:522
 msgid "Sell company? Its employees will be let go and their tools returned to your inventory."
-msgstr ""
+msgstr "Jual perusahaan? Semua karyawannya akan diberhentikan, dan alat milik mereka akan dikembalikan ke inventarismu."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Sell for <0/> money on market"
-msgstr ""
+msgstr "Jual item senilai <0/> uang di pasar"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:54
 msgid "Sell it, you need to buy more cases to gamble!"
@@ -14159,7 +14159,7 @@ msgstr "Jual saja, kamu perlu beli lebih banyak peti untuk berjudi!"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:59
 msgid "Sell items"
-msgstr ""
+msgstr "Jual item"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Sell Items"
@@ -14172,11 +14172,11 @@ msgstr "Pesanan penjualan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1202
 msgid "Sell the lot for scrap"
-msgstr ""
+msgstr "Jual semuanya sebagai barang rongsokan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3429
 msgid "Sell them to the neighbors"
-msgstr ""
+msgstr "Jual ke para tetangga"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:161
 msgid "sells"
@@ -14184,7 +14184,7 @@ msgstr "menjual"
 
 #: src/components/_political/law/law.frontConfig.tsx:437
 msgid "Send <0/> to <1/>"
-msgstr ""
+msgstr "Kirim <0/> ke <1/>"
 
 #: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
@@ -14206,19 +14206,19 @@ msgstr "Kirim pesan"
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:423
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr ""
+msgstr "Kirim uang ke negara lain. Ditambah pajak transaksi: {0}% dalam aliansimu, {1}% untuk transfer ke luar aliansi."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3422
 msgid "Send them back"
-msgstr ""
+msgstr "Kembalikan mereka"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:370
 msgid "Send them home to rest"
-msgstr ""
+msgstr "Suruh mereka pulang untuk istirahat"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:526
 msgid "Send them to a doctor"
-msgstr ""
+msgstr "Kirim mereka ke dokter"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
@@ -14257,19 +14257,19 @@ msgstr "Mengatur warna negara menjadi <0>{0}</0>"
 #: src/components/_political/law/law.frontConfig.tsx:629
 #: src/components/_political/law/lawNames.tsx:43
 msgid "Set government type"
-msgstr ""
+msgstr "Tetapkan jenis pemerintahan"
 
 #: src/components/_political/law/law.frontConfig.tsx:638
 msgid "Set government type to <0/>"
-msgstr ""
+msgstr "Tetapkan jenis pemerintahan menjadi <0/>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:491
 msgid "Set it up!"
-msgstr ""
+msgstr "Siapkan sekarang!"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:82
 msgid "Set new party ethics (no longer in the game)"
-msgstr ""
+msgstr "Tetapkan etika partai yang baru (sudah tidak ada di game)"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:139
 msgid "Set order"
@@ -14291,7 +14291,7 @@ msgstr "Atur item spesialisasi"
 #. placeholder {0}: ts[law.data.itemCode]
 #: src/components/_political/law/law.frontConfig.tsx:616
 msgid "Set the country's specialized item to <0>{0}</0> (no longer in the game)"
-msgstr ""
+msgstr "Tetapkan item spesialisasi negara menjadi <0>{0}</0> (sudah tidak ada di game)"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:630
 msgid "Set Username"
@@ -14318,15 +14318,15 @@ msgstr "Pengaturan"
 
 #: src/components/_user/milestone/MilestoneTiersModal.tsx:64
 msgid "Share of active players who reached each tier, refreshed daily."
-msgstr ""
+msgstr "Persentase pemain aktif yang mencapai setiap tingkat, diperbarui setiap hari."
 
 #: src/components/_user/user/UserEffectSelector.tsx:56
 msgid "Shine"
-msgstr ""
+msgstr "Kilau"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:648
 msgid "Shoo it away"
-msgstr ""
+msgstr "Usir saja"
 
 #: src/components/_layout/LayoutRightIcons.tsx:195
 #: src/components/_layout/MoreButtonNav.tsx:70
@@ -14337,7 +14337,7 @@ msgstr "Toko"
 #. placeholder {0}: Math.min(step, remaining)
 #: src/components/_political/party/PartyMembers.tsx:217
 msgid "Show {0} more ({remaining} remaining)"
-msgstr ""
+msgstr "Tampilkan {0} lagi (sisa {remaining})"
 
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:277
@@ -14346,7 +14346,7 @@ msgstr "Tampilkan semua {0} tawaran"
 
 #: src/pages/user/[userId]/settings.tsx:82
 msgid "Show email"
-msgstr ""
+msgstr "Tampilkan email"
 
 #: src/components/_economy/work/WorkList.tsx:113
 #: src/components/_military/damageRanking/DamageRankingList.tsx:189
@@ -14369,7 +14369,7 @@ msgstr "Hanya tampilkan artikel dengan skor positif (skor >= -5)"
 
 #: src/components/_social/poll/PollCard.tsx:408
 msgid "Show results"
-msgstr ""
+msgstr "Tampilkan hasil"
 
 #: src/components/_military/mu/MuMemberList.tsx:199
 msgid "Showing monthly"
@@ -14385,11 +14385,11 @@ msgstr "Menampilkan mingguan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2395
 msgid "Shut it down"
-msgstr ""
+msgstr "Hentikan saja"
 
 #: src/utils/translations.tsx:239
 msgid "Sickle"
-msgstr ""
+msgstr "Sabit"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:190
 msgid "Side"
@@ -14398,45 +14398,45 @@ msgstr "Pihak"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:877
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3722
 msgid "Side with {name}"
-msgstr ""
+msgstr "Berpihak pada {name}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:880
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3729
 msgid "Side with {partnerName}"
-msgstr ""
+msgstr "Berpihak pada {partnerName}"
 
 #: src/components/_user/auth/WelcomeModal.tsx:321
 msgid "Sign"
-msgstr ""
+msgstr "Tanda tangani"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3562
 msgid "Sign it"
-msgstr ""
+msgstr "Tanda tangani"
 
 #: src/components/_user/auth/WelcomeModal.tsx:292
 msgid "Signature"
-msgstr ""
+msgstr "Tanda tangan"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "Perak tidak termasuk"
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:423
 msgid "Similar offers, before tax"
-msgstr ""
+msgstr "Penawaran serupa, sebelum pajak"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2065
 msgid "Sit down and negotiate"
-msgstr ""
+msgstr "Duduk dan bernegosiasi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:883
 msgid "Sit them down together"
-msgstr ""
+msgstr "Dudukkan mereka bersama"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
 msgid "Skill bonus"
-msgstr ""
+msgstr "Bonus keahlian"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
@@ -14444,7 +14444,7 @@ msgstr "Kurang skill?"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:184
 msgid "Skill presets"
-msgstr ""
+msgstr "Preset keahlian"
 
 #: src/components/_user/user/SkillBar.tsx:32
 #: src/components/_user/user/SkillValue.tsx:69
@@ -14453,7 +14453,7 @@ msgstr "Peningkatan skill:"
 
 #: src/utils/translations.tsx:257
 msgid "Skillet"
-msgstr ""
+msgstr "Wajan"
 
 #: src/components/_user/mission/ProgressHeader.tsx:90
 #: src/components/_user/user/MyAvatar.tsx:41
@@ -14476,7 +14476,7 @@ msgstr "Hadiah skin terkirim"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:134
 msgid "Skin pack equipped!"
-msgstr ""
+msgstr "Paket skin dipakai!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2191
 msgid "Skin pack gift sent"
@@ -14506,39 +14506,39 @@ msgstr "Skin dalam paket ini"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:99
 msgid "Skins owned"
-msgstr ""
+msgstr "Skin dimiliki"
 
 #: src/components/_other/tour/TutorialStep.tsx:610
 msgid "Skip guide"
-msgstr ""
+msgstr "Lewati panduan"
 
 #: src/components/_other/tour/TutorialStep.tsx:440
 msgid "Skip this guide?"
-msgstr ""
+msgstr "Lewati panduan ini?"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:454
 msgid "Skipped"
-msgstr ""
+msgstr "Dilewati"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Tidur sepanjang hari, menggigit sepanjang malam"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Batu Katapel"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:200
 msgid "Slots"
-msgstr ""
+msgstr "Slot"
 
 #: src/components/_layout/LayoutOptions.tsx:224
 msgid "Small GIFs"
-msgstr ""
+msgstr "GIF kecil"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2492
 msgid "Smuggle in some spices"
-msgstr ""
+msgstr "Selundupkan beberapa rempah"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -14546,11 +14546,11 @@ msgstr "Penembak jitu"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:93
 msgid "Sociable"
-msgstr ""
+msgstr "Mudah Bergaul"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:642
 msgid "Social"
-msgstr ""
+msgstr "Sosial"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:166
 msgid "Social & Messages"
@@ -14558,7 +14558,7 @@ msgstr "Sosial & Pesan"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:147
 msgid "Sold by"
-msgstr ""
+msgstr "Dijual oleh"
 
 #: src/components/_economy/company/CompanyList.tsx:182
 msgid "Some of your companies are disabled."
@@ -14566,32 +14566,32 @@ msgstr "Beberapa perusahaanmu dinonaktifkan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1216
 msgid "Someone else was hoarding too: a wooden case, never opened."
-msgstr ""
+msgstr "Ada orang lain yang juga menimbun: sebuah peti kayu, tidak pernah dibuka."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1304
 msgid "Someone moved {name}'s chair eleven centimeters to the left. Work has stopped."
-msgstr ""
+msgstr "Seseorang menggeser kursi {name} sebelas sentimeter ke kiri. Pekerjaan terhenti."
 
 #. placeholder {0}: duration(effect.inHours)
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:536
 msgid "Something follows in {0}"
-msgstr ""
+msgstr "Sesuatu menyusul dalam {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:538
 msgid "Something follows soon"
-msgstr ""
+msgstr "Sesuatu akan menyusul sebentar lagi"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:1017
 msgid "Something happens to an employee, or to two coworkers, and you choose what to do: up to {maxPerDay} a day. Left unanswered, an event picks its “If ignored” answer after {expires}. The odds depend on the employee and your skills, and show when it happens."
-msgstr ""
+msgstr "Sesuatu terjadi pada seorang karyawan, atau pada dua rekan kerja, dan kamu memilih apa yang dilakukan: hingga {maxPerDay} per hari. Jika tidak dijawab, sebuah event akan memilih jawaban “Jika diabaikan” setelah {expires}. Peluangnya bergantung pada karyawan dan keahlianmu, dan ditampilkan saat kejadiannya muncul."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:609
 msgid "Something in the storeroom"
-msgstr ""
+msgstr "Sesuatu di dalam gudang"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:254
 msgid "Something snapped. The tool is worse off than before."
-msgstr ""
+msgstr "Ada yang patah. Perkakasnya jadi lebih buruk daripada sebelumnya."
 
 #: src/components/_layout/LayoutOptions.tsx:195
 msgid "Sound effects"
@@ -14599,16 +14599,16 @@ msgstr "Efek suara"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1835
 msgid "Soup is a drink"
-msgstr ""
+msgstr "Sup itu minuman"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1842
 msgid "Soup is food"
-msgstr ""
+msgstr "Sup itu makanan"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:109
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:41
 msgid "Specialist"
-msgstr "Specialist"
+msgstr "Spesialis"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:84
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:54
@@ -14621,19 +14621,19 @@ msgstr "Sarung Tangan Penyihir"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1413
 msgid "Spelled wrong"
-msgstr ""
+msgstr "Salah eja"
 
 #: src/components/_layout/loadingTips.tsx:471
 msgid "Spend <0>Energy</0> on <1>Construction</1> to help build your region's upgrades."
-msgstr ""
+msgstr "Gunakan <0>Energi</0> untuk <1>Konstruksi</1> guna membantu membangun peningkatan wilayahmu."
 
 #: src/components/_layout/loadingTips.tsx:481
 msgid "Spend <0>Energy</0> or <1>Health</1> to raise the resistance of an occupied region."
-msgstr ""
+msgstr "Gunakan <0>Energi</0> atau <1>Kesehatan</1> untuk menaikkan perlawanan di wilayah yang diduduki."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:259
 msgid "Spend your skill points!"
-msgstr ""
+msgstr "Gunakan poin keahlianmu!"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:101
 msgid "Spendings"
@@ -14641,44 +14641,44 @@ msgstr "Pengeluaran"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:75
 msgid "Spent to work your companies, hire and train employees, and push resistance or unrest bars."
-msgstr ""
+msgstr "Dipakai untuk menjalankan perusahaanmu, merekrut dan melatih karyawan, serta mendorong bilah perlawanan atau kerusuhan."
 
 #: src/components/_user/user/skills.frontConfig.tsx:108
 msgid "Spent when moving on the map: 10 points per region crossed. The regions your stamina can't cover are paid in oil. It refills 10 points an hour and cannot be raised with skill points."
-msgstr ""
+msgstr "Dipakai saat bergerak di peta: 10 poin per wilayah yang dilintasi. Wilayah yang tidak tercukupi staminamu dibayar dengan minyak. Stamina terisi kembali 10 poin per jam dan tidak bisa ditingkatkan dengan poin keahlian."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3349
 msgid "Sponsor the club"
-msgstr ""
+msgstr "Sponsori klub"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:116
 msgid "Sprinter"
-msgstr ""
+msgstr "Pelari Cepat"
 
 #: src/components/_political/country/CountryHeader.tsx:276
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
-msgstr ""
+msgstr "Kekuatan yang stabil dan kebal terhadap penaklukan. Masih dipakai untuk kerusuhan, gaji pemerintah, dan biaya revolusi. Biaya lainnya memakai <0>Rata-rata pembangunan</0>."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:499
 msgid "Staff your new company!"
-msgstr ""
+msgstr "Isi perusahaan barumu dengan karyawan!"
 
 #: src/components/_user/user/SkillUpgrade.tsx:294
 msgid "Stage a prestige point on this skill (applied on save, reset on skill reset)"
-msgstr ""
+msgstr "Siapkan satu poin prestise pada keahlian ini (diterapkan saat disimpan, direset saat keahlian direset)"
 
 #: src/components/_user/user/skills.frontConfig.tsx:114
 #: src/components/_user/user/skills.frontConfig.tsx:115
 msgid "Stamina"
-msgstr ""
+msgstr "Stamina"
 
 #: src/utils/translations.tsx:272
 msgid "Starforge Hammer"
-msgstr ""
+msgstr "Palu Tempa Bintang"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:61
 msgid "Start"
-msgstr ""
+msgstr "Mulai"
 
 #: src/components/_political/law/law.frontConfig.tsx:188
 #: src/components/_political/law/law.frontConfig.tsx:190
@@ -14727,7 +14727,7 @@ msgstr "Mulai revolusi"
 #: src/components/_military/tournament/TournamentHeader.tsx:79
 #: src/components/_military/war/WarHeader.tsx:65
 msgid "Started"
-msgstr ""
+msgstr "Dimulai"
 
 #: src/components/_military/war/WarItem.tsx:108
 msgid "Started <0/>"
@@ -14747,20 +14747,20 @@ msgstr "Mulai dari bawah..."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:59
 msgid "Starts"
-msgstr ""
+msgstr "Dimulai"
 
 #. placeholder {0}: gameConfig?.battle.enemyDamagesBonusPercent
 #: src/components/_political/law/law.frontConfig.tsx:256
 msgid "starts at 1% and grows +1% per day up to <0>{0}</0>"
-msgstr ""
+msgstr "dimulai dari 1% dan naik +1% per hari hingga <0>{0}</0>"
 
 #: src/components/_social/poll/PollCard.tsx:218
 msgid "Starts when the article is published"
-msgstr ""
+msgstr "Dimulai saat artikel diterbitkan"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:129
 msgid "Statist"
-msgstr ""
+msgstr "Statis"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:11
 msgid "Statistically impossible to stay this unlucky"
@@ -14794,11 +14794,11 @@ msgstr "Status"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3779
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3858
 msgid "Stay out of it"
-msgstr ""
+msgstr "Jangan ikut campur"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:63
 msgid "Staying or leaving"
-msgstr ""
+msgstr "Bertahan atau mengundurkan diri"
 
 #: src/utils/translations.tsx:33
 msgid "Steak"
@@ -14810,15 +14810,15 @@ msgstr "Baja"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:895
 msgid "Still finds toolboxes when storage is full"
-msgstr ""
+msgstr "Tetap menemukan kotak peralatan saat penyimpanan penuh"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:113
 msgid "Stockpiler"
-msgstr ""
+msgstr "Penimbun"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr ""
+msgstr "Godam Batu"
 
 #: src/components/_economy/company/CompanyTags.tsx:173
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:101
@@ -14827,11 +14827,11 @@ msgstr "Penyimpanan"
 
 #: src/components/_economy/employee/employeeStats.tsx:699
 msgid "Storage full"
-msgstr ""
+msgstr "Penyimpanan penuh"
 
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:36
 msgid "Story"
-msgstr ""
+msgstr "Cerita"
 
 #: src/pages/region/[regionId]/index.tsx:100
 msgid "Strategic"
@@ -14852,15 +14852,15 @@ msgstr "Sumber daya strategis telah diacak ulang di seluruh peta."
 
 #: src/pages/country/[countryId]/index.tsx:407
 msgid "Strategic resources income"
-msgstr ""
+msgstr "Pendapatan sumber daya strategis"
 
 #: src/components/_user/user/UserEffectSelector.tsx:58
 msgid "Stripes"
-msgstr ""
+msgstr "Garis-garis"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3096
 msgid "Stuck in the lift"
-msgstr ""
+msgstr "Terjebak di lift"
 
 #: src/components/_social/ArticleList.tsx:226
 msgid "Subscribed"
@@ -14876,7 +14876,7 @@ msgstr "Pelanggan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:184
 msgid "Success"
-msgstr ""
+msgstr "Sukses"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:161
 msgid "Successfully logged in!"
@@ -14888,11 +14888,11 @@ msgstr "Sultan Dermawan"
 
 #: src/components/_political/country/CountryHeader.tsx:200
 msgid "Sum of the regions the country currently controls. Market taxes and other income are not included."
-msgstr ""
+msgstr "Total dari seluruh wilayah yang saat ini dikuasai negara. Pajak pasar dan pendapatan lainnya tidak termasuk."
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:67
 msgid "Support"
-msgstr ""
+msgstr "Dukungan"
 
 #: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
@@ -14936,7 +14936,7 @@ msgstr "Bulan supporter"
 #. placeholder {0}: user.infos.premiumMonthsCount ?? 0
 #: src/components/_user/user/UserBadges.tsx:56
 msgid "Supporter of the game for <0>{0, plural, one {# month} other {# months}}</0>"
-msgstr ""
+msgstr "Telah mendukung game ini selama <0>{0, plural, one {# bulan} other {# bulan}}</0>"
 
 #: src/components/_user/premium/PremiumCard.tsx:60
 msgid "Supporter plan"
@@ -14949,33 +14949,33 @@ msgstr "Paket Supporter"
 
 #: src/components/_user/kits/KitsPopover.tsx:216
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr ""
+msgstr "Paket Supporter: hingga {premiumMax} set perlengkapan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1940
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
-msgstr "Supreme Commander"
+msgstr "Panglima Tertinggi"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:285
 msgid "Swap employees?"
-msgstr ""
+msgstr "Tukar posisi karyawan?"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:261
 #: src/components/_economy/manager/MoveManagerModal.tsx:206
 msgid "Swap with"
-msgstr ""
+msgstr "Tukar dengan"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:231
 msgid "Swap your managers?"
-msgstr ""
+msgstr "Tukar posisi manajer?"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:103
 msgid "Sweethearts"
-msgstr ""
+msgstr "Pasangan Kekasih"
 
 #: src/components/_political/map/MapLibre.tsx:634
 msgid "Switched back to the flat map."
-msgstr ""
+msgstr "Kembali ke tampilan peta datar."
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:265
 #: src/components/_political/country/CountryTooltip.tsx:124
@@ -14987,7 +14987,7 @@ msgstr "Musuh bebuyutan"
 #. placeholder {2}: damagesPerDay(perDay)
 #: src/components/_political/govType/govType.frontConfig.tsx:387
 msgid "Sworn enemy bonus from {0} up to {1} at {2}"
-msgstr ""
+msgstr "Bonus musuh bebuyutan dari {0} hingga {1} pada {2}"
 
 #: src/components/_political/event/EventList.tsx:115
 msgid "System revolt"
@@ -14996,20 +14996,20 @@ msgstr "Pemberontakan sistem"
 #: src/components/_economy/employee/ToolSelectorPopover.tsx:195
 #: src/components/_economy/inventory/Inventory.tsx:737
 msgid "Take back"
-msgstr ""
+msgstr "Ambil kembali"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:788
 msgid "Take Care"
-msgstr ""
+msgstr "Rawat"
 
 #. placeholder {0}: employee.name
 #: src/components/_economy/manager/ManagerCareButton.tsx:140
 msgid "Take care of {0}?"
-msgstr ""
+msgstr "Rawat {0}?"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:76
 msgid "Take care of an employee"
-msgstr ""
+msgstr "Rawat karyawan"
 
 #: src/pages/country/[countryId]/index.tsx:123
 #: src/pages/country/[countryId]/index.tsx:147
@@ -15019,35 +15019,35 @@ msgstr "Ambil alih"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:157
 msgid "Take control of a country"
-msgstr ""
+msgstr "Kuasai sebuah negara"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1276
 msgid "Take it back"
-msgstr ""
+msgstr "Tarik kembali"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3542
 msgid "Take them down"
-msgstr ""
+msgstr "Turunkan semuanya"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:94
 msgid "Take this position?"
-msgstr ""
+msgstr "Ambil posisi ini?"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1751
 msgid "Take your kid to work"
-msgstr ""
+msgstr "Ajak anakmu ke tempat kerja"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:90
 msgid "Taken: a swap is the only way in"
-msgstr ""
+msgstr "Sudah terisi: satu-satunya jalan masuk adalah bertukar posisi"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:117
 msgid "Taking another position will make you leave this one!"
-msgstr ""
+msgstr "Mengambil posisi lain akan membuatmu meninggalkan posisi ini!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:754
 msgid "Talk them out of it"
-msgstr ""
+msgstr "Bujuk mereka agar mengurungkannya"
 
 #: src/utils/translations.tsx:26
 msgid "Tank"
@@ -15055,64 +15055,64 @@ msgstr "Tank"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:310
 msgid "Tap a battle to join it."
-msgstr ""
+msgstr "Ketuk sebuah pertempuran untuk bergabung."
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:453
 msgid "Tap a card to look at it."
-msgstr ""
+msgstr "Ketuk sebuah kartu untuk melihatnya."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:546
 msgid "Tap any region on the map to open its menu."
-msgstr ""
+msgstr "Ketuk wilayah mana pun di peta untuk membuka menunya."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:96
 msgid "Tap Companies to start."
-msgstr ""
+msgstr "Ketuk Perusahaan untuk memulai."
 
 #: src/components/_user/milestone/MilestoneItem.tsx:166
 #: src/components/_user/milestone/MilestoneItem.tsx:258
 msgid "Tap for the full tier breakdown"
-msgstr ""
+msgstr "Ketuk untuk melihat rincian lengkap tingkat"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:203
 msgid "Tap Inventory."
-msgstr ""
+msgstr "Ketuk Inventaris."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:558
 msgid "Tap Move to travel there."
-msgstr ""
+msgstr "Ketuk Pindah untuk pergi ke sana."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:442
 msgid "Tap one to read it."
-msgstr ""
+msgstr "Ketuk salah satunya untuk membacanya."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:277
 msgid "Tap Save to keep your points."
-msgstr ""
+msgstr "Ketuk Simpan untuk menyimpan poinmu."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:418
 msgid "Tap the chat."
-msgstr ""
+msgstr "Ketuk obrolan."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:134
 msgid "Tap them to see who they are."
-msgstr ""
+msgstr "Ketuk mereka untuk melihat siapa mereka."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:449
 msgid "Tap this slot to wear your new gear."
-msgstr ""
+msgstr "Ketuk slot ini untuk memakai perlengkapan barumu."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:574
 msgid "Tap to go to the nearest one and loot it."
-msgstr ""
+msgstr "Ketuk untuk pergi ke yang terdekat dan menjarahnya."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:215
 msgid "Tap to see what's inside."
-msgstr ""
+msgstr "Ketuk untuk melihat isinya."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:424
 msgid "Tap your country's conversation."
-msgstr ""
+msgstr "Ketuk percakapan negaramu."
 
 #: src/components/_political/law/LawFormModal.tsx:226
 msgid "Target country"
@@ -15128,12 +15128,12 @@ msgstr "Pengguna target"
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:68
 msgid "tax incl."
-msgstr ""
+msgstr "termasuk pajak"
 
 #. placeholder {0}: offer.price
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:47
 msgid "Tax included: {0} goes to the seller and {tax} of market tax ({taxRate}%) to your country."
-msgstr ""
+msgstr "Sudah termasuk pajak: {0} untuk penjual dan {tax} pajak pasar ({taxRate}%) untuk negaramu."
 
 #: src/components/_political/law/LawFormModal.tsx:284
 msgid "Tax type"
@@ -15141,7 +15141,7 @@ msgstr "Jenis pajak"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:128
 msgid "Tax-shy"
-msgstr ""
+msgstr "Anti pajak"
 
 #: src/pages/country/[countryId]/account.tsx:37
 msgid "Taxes"
@@ -15149,45 +15149,45 @@ msgstr "Pajak"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:405
 msgid "Teach them yourself"
-msgstr ""
+msgstr "Ajari sendiri"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:95
 msgid "Teaches a trait, named on the card. It needs a free trait slot."
-msgstr ""
+msgstr "Mengajarkan satu sifat, yang tertulis di kartu. Membutuhkan satu slot sifat yang kosong."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:105
 msgid "Teaches one good trait, no downside."
-msgstr ""
+msgstr "Mengajarkan satu sifat baik, tanpa efek samping."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:101
 msgid "Teaches one mixed trait: real upside, with a string attached."
-msgstr ""
+msgstr "Mengajarkan satu sifat campuran: keuntungannya nyata, tapi ada syaratnya."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:107
 msgid "Teaches two good traits at once. Needs two free slots."
-msgstr ""
+msgstr "Mengajarkan dua sifat baik sekaligus. Membutuhkan dua slot yang kosong."
 
 #. placeholder {0}: tournamentTeam.number
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:56
 msgid "Team {0}"
-msgstr ""
+msgstr "Tim {0}"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:72
 #: src/components/_military/tournament/TournamentHeader.tsx:151
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1887
 msgid "Tell {partnerName} to back off"
-msgstr ""
+msgstr "Suruh {partnerName} mundur"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:130
 msgid "Tell your citizens why this region comes first"
-msgstr ""
+msgstr "Beri tahu warganegaramu mengapa wilayah ini harus diutamakan"
 
 #: src/utils/translations.tsx:251
 msgid "Tempered Pickaxe"
-msgstr ""
+msgstr "Beliung Tempa"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:140
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:91
@@ -15213,7 +15213,7 @@ msgstr "Dopamin gratis"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:517
 msgid "That is what they make, minus their wages."
-msgstr ""
+msgstr "Itulah hasil kerja mereka, dikurangi upah mereka."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:68
 msgid "That's epic!"
@@ -15225,11 +15225,11 @@ msgstr "<0>Poin Produksi</0> yang kamu hasilkan setiap kali bekerja"
 
 #: src/components/_layout/loadingTips.tsx:332
 msgid "The Automated Engine keeps a company producing every hour, even while you're offline. Upgrade it to produce more."
-msgstr ""
+msgstr "Mesin Otomatis membuat perusahaan terus berproduksi setiap jam, bahkan saat kamu offline. Tingkatkan untuk menghasilkan lebih banyak."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:193
 msgid "The bar is full. Tap to turn it into items."
-msgstr ""
+msgstr "Bilah sudah penuh. Ketuk untuk mengubahnya menjadi item."
 
 #: src/components/_user/user/skills.frontConfig.tsx:55
 msgid "The base value for <0>Damages</0> calculation."
@@ -15237,31 +15237,31 @@ msgstr "Nilai dasar untuk perhitungan <0>Damage</0>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2502
 msgid "The beige tastes of victory now. Morale is up."
-msgstr ""
+msgstr "Hidangan beige itu kini terasa seperti kemenangan. Semangat kerja naik."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3557
 msgid "The birthday card"
-msgstr ""
+msgstr "Kartu ulang tahun"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3405
 msgid "The box burns. Nobody suggests anything for another three years."
-msgstr ""
+msgstr "Kotaknya terbakar. Tidak ada yang memberi saran lagi selama tiga tahun ke depan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1104
 msgid "The breaks get shorter. So do the tempers."
-msgstr ""
+msgstr "Waktu istirahat makin singkat. Kesabaran orang-orang juga."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1302
 msgid "The chair"
-msgstr ""
+msgstr "Kursinya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1092
 msgid "The chart"
-msgstr ""
+msgstr "Bagannya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1231
 msgid "The chicken is the morale officer now."
-msgstr ""
+msgstr "Ayam itu sekarang jadi petugas semangat kerja."
 
 #: src/components/_political/event/event.frontConfig.tsx:510
 msgid "The civil war started by <0/> in <1/> has been suppressed"
@@ -15273,40 +15273,40 @@ msgstr "Perang saudara yang dimulai oleh <0/> di <1/> berhasil melawan <2/> dan 
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1524
 msgid "The coffee machine"
-msgstr ""
+msgstr "Mesin kopi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3082
 msgid "The company adopts the curse as a mascot. Morale is oddly up."
-msgstr ""
+msgstr "Perusahaan menjadikan kutukan itu sebagai maskot. Semangat kerja anehnya malah naik."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2996
 msgid "The company is booed off the stage. Nobody speaks of it the next morning."
-msgstr ""
+msgstr "Perusahaan disoraki turun dari panggung. Tidak ada yang membahasnya keesokan paginya."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:78
 #: src/components/_economy/employeeEvent/EmployeeEventText.tsx:48
 msgid "the company's good"
-msgstr ""
+msgstr "barang milik perusahaan"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:167
 msgid "The company's region is under attack, and the employee is a citizen of the country holding it, a {patriot} or a {nationalist}."
-msgstr ""
+msgstr "Wilayah perusahaan sedang diserang, dan karyawannya adalah warga negara yang menguasai wilayah itu, seorang {patriot}, atau seorang {nationalist}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:434
 msgid "The company's region is under attack, with 2 or more employees at work."
-msgstr ""
+msgstr "Wilayah perusahaan sedang diserang, dengan 2 karyawan atau lebih yang sedang bekerja."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:431
 msgid "The company's region is under attack."
-msgstr ""
+msgstr "Wilayah perusahaan sedang diserang."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:441
 msgid "The company's region is under attack. Twice as likely for a {cosmopolitan}."
-msgstr ""
+msgstr "Wilayah perusahaan sedang diserang. Peluangnya dua kali lipat untuk seorang {cosmopolitan}."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1239
 msgid "The compliment"
-msgstr ""
+msgstr "Pujiannya"
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1849
@@ -15320,55 +15320,55 @@ msgstr "Kontrak telah dibatalkan. <0>{0}</0> dikirim kembali ke <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr ""
+msgstr "Biayanya adalah biaya dasar hukum ini yang disesuaikan dengan rata-rata pembangunan negaramu."
 
 #: src/components/_economy/strategicResource/StrategicResource.tsx:34
 msgid "The country holding this region earns, every day, money equal to the core <0>Development</0> of the country it originally belonged to."
-msgstr ""
+msgstr "Negara yang menguasai wilayah ini mendapat uang setiap hari sebesar <0>Pembangunan</0> inti dari negara asal wilayah tersebut."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:397
 msgid "The course opens doors: there is more to train now."
-msgstr ""
+msgstr "Kursus itu membuka banyak peluang: sekarang masih banyak yang bisa dilatih."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:401
 msgid "The course was a disappointment. The money is gone."
-msgstr ""
+msgstr "Kursusnya mengecewakan. Uangnya hilang."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3669
 msgid "The cousin"
-msgstr ""
+msgstr "Sepupunya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3681
 msgid "The cousin steps out, smoking slightly and charming. Everyone wants to hear the story."
-msgstr ""
+msgstr "Sepupunya keluar, sedikit berasap tapi tetap memesona. Semua orang ingin mendengar ceritanya."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:76
 msgid "the coworker"
-msgstr ""
+msgstr "rekan kerja itu"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:325
 msgid "The coworker"
-msgstr ""
+msgstr "Rekan kerja itu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2440
 msgid "The coworkers spend the day recruiting each other instead of working."
-msgstr ""
+msgstr "Para rekan kerja menghabiskan hari dengan saling merekrut, bukan bekerja."
 
 #: src/components/_user/user/skills.frontConfig.tsx:74
 msgid "The damage factor increase of critical hits over normal hits"
-msgstr "Kenaikan faktor damage dari critical hit dibanding hit normal"
+msgstr "Kenaikan faktor kerusakan dari kritikal hit dibanding hit normal"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:334
 msgid "The damage race"
-msgstr ""
+msgstr "Balapan damage"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3333
 msgid "The dawn workout"
-msgstr ""
+msgstr "Olahraga subuh"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:986
 msgid "The demand"
-msgstr ""
+msgstr "Tuntutannya"
 
 #: src/pages/region/[regionId]/index.tsx:73
 msgid "The deposit gives a production bonus of the following percentage."
@@ -15380,27 +15380,27 @@ msgstr "Deposit akan kedaluwarsa dalam waktu berikut."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2008
 msgid "The dinner ends early. {name} and {partnerName} go their separate ways."
-msgstr ""
+msgstr "Makan malamnya berakhir lebih cepat. {name} dan {partnerName} pergi ke jalan masing-masing."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:529
 msgid "The doctor finds the cause. The burnout is behind them."
-msgstr ""
+msgstr "Dokter menemukan penyebabnya. Kelelahan itu sudah berlalu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:531
 msgid "The doctor prescribes rest, and not much else."
-msgstr ""
+msgstr "Dokter menyarankan istirahat, dan hampir tidak ada yang lain."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:975
 msgid "The door locks behind them. A demand will follow soon."
-msgstr ""
+msgstr "Pintu terkunci di belakang mereka. Sebentar lagi akan ada tuntutan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3413
 msgid "The ducks"
-msgstr ""
+msgstr "Bebek-bebeknya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3425
 msgid "The ducks go back. One of them is missing."
-msgstr ""
+msgstr "Bebek-bebek itu dikembalikan. Salah satunya hilang."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:897
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
@@ -15408,160 +15408,160 @@ msgstr "Efek buff yang kamu konsumsi sudah berakhir. Fase debuff telah dimulai d
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:74
 msgid "the employee"
-msgstr ""
+msgstr "karyawan itu"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:320
 msgid "The employee"
-msgstr ""
+msgstr "Karyawan itu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1590
 msgid "The exorcist says it is very cursed, and leaves quickly."
-msgstr ""
+msgstr "Sang pengusir roh bilang perkakas itu sangat terkutuk, lalu cepat-cepat pergi."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1872
 msgid "The fort"
-msgstr ""
+msgstr "Bentengnya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1897
 msgid "The fort grows. {partnerName} waits outside it with snacks."
-msgstr ""
+msgstr "Bentengnya makin besar. {partnerName} menunggu di luarnya sambil membawa camilan."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
-msgstr ""
+msgstr "Bonus penuh sebesar <0/> berlaku hingga pangsa <1/> dari <2>Pembangunan</2> global. Di atas itu, bonus turun sebesar <3/> untuk setiap poin persentase pangsa yang melebihi batas datar, hingga mencapai <4/>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1737
 msgid "The General retreats in good order."
-msgstr ""
+msgstr "Sang Jenderal mundur dengan tertib."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2570
 msgid "The golden hour"
-msgstr ""
+msgstr "Jam emas"
 
 #: src/components/_political/law/LawFormModal.tsx:356
 msgid "The government type changed less than {GOV_TYPE_CHANGE_COOLDOWN_DAYS} days ago. It can change again <0/>."
-msgstr ""
+msgstr "Jenis pemerintahan baru berubah kurang dari {GOV_TYPE_CHANGE_COOLDOWN_DAYS} hari lalu. Jenis ini bisa diubah lagi <0/>."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:44
 msgid "The government type of the target country forbids defensive pacts."
-msgstr ""
+msgstr "Jenis pemerintahan negara tujuan melarang pakta pertahanan."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:53
 msgid "The government type of this country forbids a sworn enemy."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini melarang adanya musuh bebuyutan."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:27
 msgid "The government type of this country forbids alliances."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini melarang aliansi."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:35
 msgid "The government type of this country forbids defensive pacts."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini melarang pakta pertahanan."
 
 #: src/components/_political/law/LawGovTypeAlert.tsx:62
 msgid "The government type of this country forbids sending money to a country."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini melarang pengiriman uang ke negara lain."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1830
 msgid "The great soup debate"
-msgstr ""
+msgstr "Debat besar soal sup"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3758
 msgid "The haircut"
-msgstr ""
+msgstr "Potong rambut"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:498
 msgid "The hour's whole payroll across all your companies, employees and managers, divided by the production it banks. Under the market value of a point your companies earn more than they spend; over it, they cost more than what they make is worth."
-msgstr ""
+msgstr "Seluruh gaji per jam di semua perusahaanmu, baik karyawan maupun manajer, dibagi dengan produksi yang tersimpan. Jika di bawah harga pasar per poin, perusahaanmu untung lebih besar daripada pengeluarannya; jika di atasnya, biayanya lebih besar daripada nilai hasil produksinya."
 
 #: src/components/_economy/employee/CostPerPp.tsx:54
 msgid "The hour's whole payroll, employees and manager, divided by the production it banks. Under the market value of a point the company earns more than it spends; over it, the roster costs more than what it makes is worth."
-msgstr ""
+msgstr "Seluruh gaji per jam, karyawan dan manajer, dibagi dengan produksi yang tersimpan. Jika di bawah harga pasar per poin, perusahaan untung lebih besar daripada pengeluarannya; jika di atasnya, susunan karyawan memakan biaya lebih besar daripada nilai hasil produksinya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1034
 msgid "The impression"
-msgstr ""
+msgstr "Tirunya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2315
 msgid "The inspector comes back with a clipboard and a long list of safety drills."
-msgstr ""
+msgstr "Inspektur kembali membawa papan jepit dan daftar panjang latihan keselamatan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2280
 msgid "The inspector pockets the fee and admires the painting on the way out."
-msgstr ""
+msgstr "Inspektur mengantongi uang jasanya dan mengagumi lukisan itu sambil berjalan keluar."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1931
 msgid "The inventory is checked a normal amount again. Nobody is happy about it."
-msgstr ""
+msgstr "Inventaris kembali diperiksa dengan frekuensi normal. Tidak ada yang senang soal itu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1913
 msgid "The inventory remains extremely well checked."
-msgstr ""
+msgstr "Inventaris tetap diperiksa dengan sangat ketat."
 
 #: src/components/_economy/itemOffer/ItemOfferCard.tsx:101
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:238
 msgid "The item goes back to your inventory."
-msgstr ""
+msgstr "Item ini kembali ke inventarismu."
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "Kamu yang jadi bahan lelucon"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1766
 msgid "The kid “fixed” the tool."
-msgstr ""
+msgstr "Anak itu “memperbaiki” perkakasnya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1773
 msgid "The kid draws the whole workshop. You are in it, with horns."
-msgstr ""
+msgstr "Anak itu menggambar seisi bengkel. Kamu ada di dalamnya, dengan tanduk."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1763
 msgid "The kid made a sale. Nobody is sure what was sold."
-msgstr ""
+msgstr "Anak itu berhasil menjual sesuatu. Tidak ada yang yakin apa yang terjual."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1765
 msgid "The kid negotiated better than you ever have."
-msgstr ""
+msgstr "Anak itu bernegosiasi lebih jago daripada kamu selama ini."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3037
 msgid "The ladders"
-msgstr ""
+msgstr "Tangga-tangganya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2533
 msgid "The leaflets are too damp to burn. It is a sad little bonfire."
-msgstr ""
+msgstr "Selebarannya terlalu lembap untuk dibakar. Api unggunnya kecil dan menyedihkan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:915
 msgid "The lessons do not take."
-msgstr ""
+msgstr "Pelajarannya tidak membekas."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1197
 msgid "The locker"
-msgstr ""
+msgstr "Lokernya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2197
 msgid "The lost letter"
-msgstr ""
+msgstr "Surat yang hilang"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1381
 msgid "The lunch debates are the best show in town."
-msgstr ""
+msgstr "Debat saat makan siang jadi tontonan terbaik di sini."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3826
 msgid "The lunch thief"
-msgstr ""
+msgstr "Si pencuri makan siang"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2657
 msgid "The machine now smells of old tuna. Nobody else is pleased."
-msgstr ""
+msgstr "Mesinnya sekarang berbau tuna basi. Tidak ada orang lain yang senang."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
-msgstr ""
+msgstr "Peta membutuhkan WebGL2, yang tidak didukung oleh browser atau perangkatmu. Semua bagian lain di game tetap berfungsi normal."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:589
 msgid "The money is gone for good, but the gratitude is real."
-msgstr ""
+msgstr "Uangnya hilang untuk selamanya, tapi rasa terima kasihnya tulus."
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
@@ -15571,87 +15571,87 @@ msgstr "MU akan menerima kembali biaya penerimaan, pembayaran sebagian atas keru
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1609
 msgid "The mustache"
-msgstr ""
+msgstr "Kumisnya"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3432
 msgid "The neighbors buy every duck. You do not ask why."
-msgstr ""
+msgstr "Para tetangga membeli semua bebek. Kamu tidak bertanya kenapa."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3434
 msgid "The neighbors want more ducks. You have made a profit on ducks."
-msgstr ""
+msgstr "Para tetangga ingin lebih banyak bebek. Kamu untung dari bebek."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3532
 msgid "The new poster is magnificent: a kitten in armor, hanging in there."
-msgstr ""
+msgstr "Poster barunya megah: anak kucing berbaju zirah, tetap bertahan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:745
 msgid "The new them is an improvement, and an old habit is gone."
-msgstr ""
+msgstr "Versi baru diri mereka lebih baik, dan satu kebiasaan lama hilang."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:293
 msgid "The next tier opens right away."
-msgstr ""
+msgstr "Tingkat berikutnya langsung terbuka."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:229
 msgid "The night shift tinkerer"
-msgstr ""
+msgstr "Si tukang utak-atik shift malam"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3861
 msgid "The note on the fridge now mentions lawyers."
-msgstr ""
+msgstr "Catatan di kulkas sekarang menyebut-nyebut pengacara."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2467
 msgid "The planes pass over. Running on nerves, the team works faster."
-msgstr ""
+msgstr "Pesawat-pesawat itu lewat di atas. Dengan saraf yang tegang, tim bekerja lebih cepat."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3790
 msgid "The prank war"
-msgstr ""
+msgstr "Perang keusilan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3814
 msgid "The pranks become legend. {name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "Keusilan mereka jadi legenda. {name} dan {partnerName} kini bersahabat lama."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:77
 msgid "The price must be positive"
-msgstr ""
+msgstr "Harga harus lebih dari nol"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:54
 msgid "The production a manager's Management adds to your employees as they are now, at the market value of a point, minus a day of their pay at this rate. It moves with your roster."
-msgstr ""
+msgstr "Produksi yang ditambahkan Manajemen seorang manajer kepada karyawanmu saat ini, berdasarkan harga pasar per poin, dikurangi bayaran mereka untuk sehari dengan tarif ini. Nilainya berubah mengikuti susunan karyawanmu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:312
 msgid "The prototype never quite works. The money is gone."
-msgstr ""
+msgstr "Prototipenya tidak pernah benar-benar berfungsi. Uangnya hilang."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2438
 msgid "The pyramid quietly collapses on its own. Nobody talks about it."
-msgstr ""
+msgstr "Skema piramida itu runtuh sendiri dengan diam-diam. Tidak ada yang membicarakannya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3627
 msgid "The queue breaks up, muttering about bad luck."
-msgstr ""
+msgstr "Antrean bubar sambil menggerutu soal nasib sial."
 
 #: src/components/_economy/employee/TrainingCardList.tsx:118
 msgid "The rarity is rolled once for the whole hand, among the rarities the employee has enough cards in. Leadership tilts these odds."
-msgstr ""
+msgstr "Kelangkaan diundi sekali untuk seluruh kartu di tangan, dari kelangkaan yang kartunya cukup dimiliki karyawan. Kepemimpinan mempengaruhi peluang ini."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:554
 msgid "The region menu"
-msgstr ""
+msgstr "Menu wilayah"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:748
 msgid "The reinvention fizzles out, and they sulk about it."
-msgstr ""
+msgstr "Pembaruan diri itu gagal, dan mereka merajuk karenanya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:750
 msgid "The reinvention wipes out what they knew of the trade."
-msgstr ""
+msgstr "Pembaruan diri itu menghapus apa yang mereka ketahui tentang pekerjaan ini."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2644
 msgid "The research finds nothing. It was a coincidence, and an expensive one."
-msgstr ""
+msgstr "Penelitiannya tidak menemukan apa-apa. Ternyata hanya kebetulan, dan mahal."
 
 #: src/components/_political/event/event.frontConfig.tsx:88
 msgid "The revolution in <0/> has been suppressed. The government remains in power."
@@ -15663,60 +15663,60 @@ msgstr "Revolusi di <0/> berhasil! Pemerintahan telah digulingkan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2719
 msgid "The rival assumes it is a trick and slams the door."
-msgstr ""
+msgstr "Pihak saingan mengira ini hanya tipuan dan membanting pintu."
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:450
 msgid "The roll is skipped while you hold {maxLoots} uncollected cases"
-msgstr ""
+msgstr "Pengundian dilewati selama kamu menyimpan {maxLoots} peti yang belum diambil"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2272
 msgid "The safety inspector"
-msgstr ""
+msgstr "Inspektur keselamatan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2628
 msgid "The sandwich"
-msgstr ""
+msgstr "Sandwich-nya"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:92
 msgid "The seat is free"
-msgstr ""
+msgstr "Kursinya kosong"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2738
 msgid "The shortcut"
-msgstr ""
+msgstr "Jalan pintas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1864
 msgid "The silence continues. It is very loud."
-msgstr ""
+msgstr "Keheningan terus berlanjut. Suasananya sangat bising."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3782
 msgid "The silence lasts until the hair grows back."
-msgstr ""
+msgstr "Keheningan bertahan sampai rambutnya tumbuh kembali."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2504
 msgid "The speech runs long, and the beige goes cold."
-msgstr ""
+msgstr "Pidatonya berlarut-larut, dan hidangan beige-nya jadi dingin."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3807
 msgid "The stapler comes out of the jelly. {name} and {partnerName} sulk."
-msgstr ""
+msgstr "Stapler dikeluarkan dari dalam jeli. {name} dan {partnerName} merajuk."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3792
 msgid "The stapler is in jelly. {name} and {partnerName} are at war, and the pranks are getting bigger."
-msgstr ""
+msgstr "Stapler terjebak di dalam jeli. {name} dan {partnerName} sedang berperang, dan keusilan mereka makin menjadi-jadi."
 
 #. placeholder {0}: roundTax(companyCountry.taxes.income)
 #: src/components/_economy/company/CompanyTags.tsx:63
 msgid "The state collects {0}% of this company's employee payroll, and every point of it costs each employee happiness."
-msgstr ""
+msgstr "Negara memungut {0}% dari total gaji karyawan perusahaan ini, dan setiap poinnya mengurangi kebahagiaan setiap karyawan."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:198
 msgid "The state collects {taxPercent}% of your employees' wages as employee tax."
-msgstr ""
+msgstr "Negara memungut {taxPercent}% dari upah karyawanmu sebagai pajak karyawan."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:209
 msgid "The state withholds {managerTaxPercent}% of a hired manager's pay as manager tax."
-msgstr ""
+msgstr "Negara menahan {managerTaxPercent}% dari bayaran manajer yang dipekerjakan sebagai pajak manajer."
 
 #: src/pages/region/[regionId]/index.tsx:113
 msgid "The strategic resource will be reshuffled in the following amount of time."
@@ -15724,47 +15724,47 @@ msgstr "Sumber daya strategis akan diacak ulang dalam waktu berikut."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:354
 msgid "The streak holds for days. Output is way up."
-msgstr ""
+msgstr "Rentetan itu bertahan berhari-hari. Hasil kerja melonjak jauh."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:352
 msgid "The streak holds. Output is way up."
-msgstr ""
+msgstr "Rentetan itu bertahan. Hasil kerja melonjak jauh."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3377
 msgid "The suggestion box"
-msgstr ""
+msgstr "Kotak saran"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:889
 msgid "The talk goes badly. Now they are both angry."
-msgstr ""
+msgstr "Pembicaraannya berjalan buruk. Sekarang mereka berdua marah."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3750
 msgid "The thermostat goes up and down all day. Nobody is comfortable."
-msgstr ""
+msgstr "Termostat dinaikkan dan diturunkan seharian. Tidak ada yang merasa nyaman."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3717
 msgid "The thermostat war"
-msgstr ""
+msgstr "Perang termostat"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3848
 msgid "The thief takes the bait, loudly. The whole workshop enjoys it."
-msgstr ""
+msgstr "Si pencuri memakan umpannya sambil berisik. Seisi bengkel menikmatinya."
 
 #: src/components/_social/poll/PollEditorModal.tsx:249
 msgid "The timer starts when the article is published."
-msgstr ""
+msgstr "waktu mulai berjalan saat artikel diterbitkan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1586
 msgid "The tool is officially uncursed. There is a certificate."
-msgstr ""
+msgstr "Perkakasnya resmi terbebas dari kutukan. Ada sertifikatnya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:621
 msgid "The toolbox goes in the stores. They found it, and they will not let you forget it."
-msgstr ""
+msgstr "Kotak perkakas masuk ke gudang penyimpanan. Merekalah yang menemukannya, dan mereka tidak akan membiarkanmu lupa."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:269
 msgid "The toolbox helped only halfway: the tool is better, not new."
-msgstr ""
+msgstr "Kotak perkakas hanya membantu setengah jalan: perkakasnya lebih baik, tapi belum seperti baru."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1554
 msgid "The tournament has ended for your team <0/>. Check the results!"
@@ -15772,15 +15772,15 @@ msgstr "Turnamen untuk timmu <0/> telah berakhir. Cek hasilnya!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2694
 msgid "The trick works for everyone. The whole shift runs faster."
-msgstr ""
+msgstr "Triknya berhasil untuk semua orang. Seluruh giliran kerja berjalan lebih cepat."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:706
 msgid "The trip settles something: the homesickness is gone."
-msgstr ""
+msgstr "Perjalanan itu menyelesaikan satu hal: rasa rindu kampung halaman sudah hilang."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2079
 msgid "The union is dissolved without a fuss."
-msgstr ""
+msgstr "Serikat pekerja dibubarkan tanpa keributan."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:12
 msgid "The universe owes you something big"
@@ -15788,23 +15788,23 @@ msgstr "Semesta berutang sesuatu yang besar padamu"
 
 #: src/components/_common/GameRules.tsx:117
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
-msgstr ""
+msgstr "Penggunaan bot, skrip, atau bentuk otomatisasi apa pun untuk mendapatkan keuntungan atas pemain lain dilarang keras. Ini mencakup, tetapi tidak terbatas pada, web scraping dan pembuatan skrip yang melewati fungsi atau batasan game yang dimaksudkan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3176
 msgid "The van race"
-msgstr ""
+msgstr "Balapan van"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3199
 msgid "The van wins. So does the driver, who took your bet."
-msgstr ""
+msgstr "Van-nya menang. Sopirnya juga menang, karena dialah yang menerima taruhanmu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1881
 msgid "The wall is taller now."
-msgstr ""
+msgstr "Temboknya sekarang lebih tinggi."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1852
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
-msgstr ""
+msgstr "Seisi ruang makan siang bersatu dalam kemarahan terhadapmu. Selama beberapa hari, semua orang akur."
 
 #: src/components/_economy/employee/RecruitModal.tsx:117
 msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
@@ -15812,111 +15812,111 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1674
 msgid "The winning ticket"
-msgstr ""
+msgstr "Tiket pemenang"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:644
 msgid "The workshop has a cat now, and everyone is in a better mood."
-msgstr ""
+msgstr "Bengkel sekarang punya kucing, dan suasana hati semua orang jadi lebih baik."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3920
 msgid "The workshop is a jungle now. Everyone loves it, and nobody can find the stapler."
-msgstr ""
+msgstr "Bengkel sekarang seperti hutan rimba. Semua orang menyukainya, dan tidak ada yang bisa menemukan stapler."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:336
 msgid "Their coworkers"
-msgstr ""
+msgstr "Rekan kerja mereka"
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:197
 msgid "Their Luck"
-msgstr ""
+msgstr "Keberuntungan mereka"
 
 #: src/components/_economy/employee/employeeStats.tsx:241
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one point per hour, before bonuses."
-msgstr ""
+msgstr "Hasil kerja mereka: setiap {OUTPUT_DIVISOR} Produksi menyimpan satu poin per jam, sebelum bonus."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:130
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one production point per hour, before bonuses."
-msgstr ""
+msgstr "Hasil kerja mereka: setiap {OUTPUT_DIVISOR} Produksi menyimpan satu poin produksi per jam, sebelum bonus."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3398
 msgid "There is no desk. Everyone now suspects everyone of being Gerald."
-msgstr ""
+msgstr "Mejanya tidak ada. Sekarang semua orang saling mencurigai sebagai Gerald."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:537
 msgid "They dig deep and deliver. For now."
-msgstr ""
+msgstr "Mereka mengerahkan seluruh tenaga dan berhasil. Untuk sementara."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:125
 msgid "They earn a wage from your <0>Money</0>."
-msgstr ""
+msgstr "Mereka menerima upah dari <0>Uang</0> milikmu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:551
 msgid "They get through it somehow, and nobody mentions it again."
-msgstr ""
+msgstr "Entah bagaimana mereka berhasil melewatinya, dan tidak ada yang membahasnya lagi."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:270
 msgid "They keep what they earned."
-msgstr ""
+msgstr "Mereka tetap memegang apa yang sudah mereka peroleh."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3766
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
-msgstr ""
+msgstr "Mereka ikut tertawa. {name} dan {partnerName} kini bersahabat lama, dan berlangganan tukang cukur yang sama."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:657
 msgid "They left the company"
-msgstr ""
+msgstr "Mereka sudah keluar dari perusahaan"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:120
 msgid "They left the company."
-msgstr ""
+msgstr "Mereka sudah keluar dari perusahaan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:827
 msgid "They let it drop, and stay {retirementStayYears, plural, one {# more year} other {# more years}}."
-msgstr ""
+msgstr "Mereka melupakan soal itu, dan bertahan {retirementStayYears, plural, one {# tahun lagi} other {# tahun lagi}}."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:598
 msgid "They lose the flip, and their good mood with it."
-msgstr ""
+msgstr "Mereka kalah lempar koin, dan suasana hati yang baik ikut hilang."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2015
 msgid "They make up by the end of the week, as if nothing happened."
-msgstr ""
+msgstr "Mereka berbaikan di akhir minggu, seolah tidak terjadi apa-apa."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:291
 msgid "They never reset."
-msgstr ""
+msgstr "Tidak pernah direset."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:628
 msgid "They put it to work on their own tool straight away."
-msgstr ""
+msgstr "Mereka langsung menerapkannya pada perkakas mereka sendiri."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:407
 msgid "They regenerate {regenPercent}% every hour. Next in <0/>."
-msgstr ""
+msgstr "Pulih {regenPercent}% setiap jam. Berikutnya dalam <0/>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:885
 msgid "They shake hands, grudgingly."
-msgstr ""
+msgstr "Mereka berjabat tangan dengan enggan."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:887
 msgid "They talk it out for real. Whatever was between them is over."
-msgstr ""
+msgstr "Kali ini mereka benar-benar membicarakannya. Apa pun yang mengganjal di antara mereka sudah selesai."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:538
 msgid "They try, and resent you for asking."
-msgstr ""
+msgstr "Mereka mencoba, dan kesal padamu karena sudah memintanya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:722
 msgid "They will hold you to it. In a week, they will be packing."
-msgstr ""
+msgstr "Mereka akan menagih janjimu. Seminggu lagi, mereka akan berkemas."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:596
 msgid "They win the flip, and the debt with it."
-msgstr ""
+msgstr "Mereka menang lempar koin, dan utangnya ikut lunas."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:115
 msgid "They work for you every hour, even offline."
-msgstr ""
+msgstr "Mereka bekerja untukmu setiap jam, bahkan saat kamu offline."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
@@ -15928,15 +15928,15 @@ msgstr "Bounty ini khusus untuk warga negara saja."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:391
 msgid "This can end with someone leaving your company for good."
-msgstr ""
+msgstr "Ini bisa berakhir dengan seseorang meninggalkan perusahaanmu untuk selamanya."
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:121
 msgid "This company has no employees"
-msgstr ""
+msgstr "Perusahaan ini tidak punya karyawan"
 
 #: src/components/_economy/employee/EmployeeList.tsx:202
 msgid "This company is disabled and earns nothing. Once re-enabled, a day of its production would be worth this much at the market value of a point, minus the day's whole payroll, employees and manager."
-msgstr ""
+msgstr "Perusahaan ini dinonaktifkan dan tidak menghasilkan apa-apa. Setelah diaktifkan kembali, produksinya selama sehari akan bernilai sebesar ini berdasarkan harga pasar per point, dikurangi seluruh gaji hari itu, baik karyawan maupun manajer."
 
 #: src/components/_economy/company/CompanyTags.tsx:116
 msgid "This company is disabled because the owner reached the company limit."
@@ -15948,36 +15948,36 @@ msgstr "Negara ini tidak punya presiden atau anggota kongres aktif, kamu bisa me
 
 #: src/components/_political/government/Government.tsx:75
 msgid "This country's government type has no ministers and no congress, only a president and vice president. The president takes over the ministers' powers and they alone vote laws."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini tidak punya menteri maupun kongres, hanya presiden dan wakil presiden. Presiden mengambil alih kekuasaan para menteri, dan hanya merekalah yang memberi suara untuk mengesahkan hukum."
 
 #: src/components/_political/government/Government.tsx:81
 msgid "This country's government type has no ministers, only a president and vice president. The president takes over the ministers' powers."
-msgstr ""
+msgstr "Jenis pemerintahan negara ini tidak punya menteri, hanya presiden dan wakil presiden. Presiden mengambil alih kekuasaan para menteri."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:66
 msgid "This device can't display the map"
-msgstr ""
+msgstr "Perangkat ini tidak bisa menampilkan peta"
 
 #: src/components/_user/user/UserBadges.tsx:141
 msgid "This dude is admin."
-msgstr ""
+msgstr "Orang ini admin."
 
 #: src/components/_user/user/UserBadges.tsx:158
 msgid "This dude is content moderator."
-msgstr ""
+msgstr "Orang ini moderator konten."
 
 #: src/components/_user/user/UserBadges.tsx:175
 msgid "This dude is moderator."
-msgstr ""
+msgstr "Orang ini moderator."
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:288
 #: src/components/_economy/employee/useConfirmFire.tsx:32
 msgid "this employee"
-msgstr ""
+msgstr "karyawan ini"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:192
 msgid "This employee"
-msgstr ""
+msgstr "Karyawan ini"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -15989,11 +15989,11 @@ msgstr "Enak, kan?"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:217
 msgid "this good"
-msgstr ""
+msgstr "barang ini"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:102
 msgid "This good needs another kind of tool: every tool your employees hold here goes back to your inventory."
-msgstr ""
+msgstr "Barang ini membutuhkan jenis perkakas lain: semua perkakas yang dipegang karyawanmu di sini akan dikembalikan ke inventarismu."
 
 #: src/components/_military/battle/LootSummaryCard.tsx:77
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
@@ -16001,23 +16001,23 @@ msgstr "Ini ringkasan loot yang kamu terima dari pertempuran ini. Termasuk peti 
 
 #: src/components/_political/country/CountryHeader.tsx:305
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
-msgstr ""
+msgstr "Ini adalah nilai yang dipakai untuk menghitung sebagian besar biaya: perintah pertempuran, pemeliharaan aliansi, musuh bebuyutan, dan pakta pertahanan, serta biaya hukum dan perawatan peningkatan."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:103
 msgid "This is your company"
-msgstr ""
+msgstr "Ini perusahaanmu"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:207
 msgid "This is your offer, shown like other buyers from your country see it. Buyers from elsewhere add their own country's tax."
-msgstr ""
+msgstr "Ini penawaranmu, ditampilkan seperti yang dilihat pembeli lain dari negaramu. Pembeli dari negara lain akan menambahkan pajak negara mereka sendiri."
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
-msgstr ""
+msgstr "Ini timmu"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:101
 msgid "This item was already sold or withdrawn."
-msgstr ""
+msgstr "Item ini sudah terjual atau ditarik."
 
 #: src/components/_political/law/LawTypeSelect.tsx:199
 msgid "This law can be abusive and requires 5+ possible voters in the country."
@@ -16035,19 +16035,19 @@ msgstr "Undang-undang ini membutuhkan setidaknya {minActiveCitizen} warga aktif 
 #. placeholder {0}: cooldownDays ?? 0
 #: src/components/_political/government/Government.tsx:276
 msgid "This member won't be able to be nominated again for {0, plural, one {# day} other {# days}}."
-msgstr ""
+msgstr "Anggota ini tidak dapat dinominasikan lagi selama {0, plural, one {# hari} other {# hari}}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:629
 msgid "This no longer applies: someone it was about is gone."
-msgstr ""
+msgstr "Ini sudah tidak berlaku lagi: salah satu orang yang terkait sudah tidak ada."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:209
 msgid "This player has not connected for days. Until they come back they add no production to the roster and earn nothing."
-msgstr ""
+msgstr "Pemain ini sudah berhari-hari tidak masuk. Sampai dia kembali, dia tidak menambah produksi ke susunan karyawan dan tidak mendapat penghasilan."
 
 #: src/components/_social/poll/PollCard.tsx:167
 msgid "This poll is not available."
-msgstr ""
+msgstr "Polling ini tidak tersedia."
 
 #: src/pages/region/[regionId]/index.tsx:180
 msgid "This region is not linked to it's owner's capital."
@@ -16059,7 +16059,7 @@ msgstr "Ronde ini saja"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:125
 msgid "This tournament has no equipment rarity cap: any gear can be used."
-msgstr ""
+msgstr "Turnamen ini tidak membatasi kelangkaan perlengkapan: semua perlengkapan boleh dipakai."
 
 #: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
@@ -16067,11 +16067,11 @@ msgstr "Pengguna ini bukan bagian dari kelompok keluarga mana pun"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:141
 msgid "This uses your pick for today. The next one opens at 00:00 UTC."
-msgstr ""
+msgstr "Ini memakai jatah pilihanmu hari ini. Jatah berikutnya terbuka pukul 00:00 UTC."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:256
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
-msgstr ""
+msgstr "Ini akan memberimu buff selama {cocainBuffHours} jam, lalu menyebabkan malus selama {cocainDebuffHours} jam"
 
 #: src/components/_user/user/UserDropdown.tsx:372
 msgid "This will require the user to verify their mobile phone number."
@@ -16079,24 +16079,24 @@ msgstr "Ini mengharuskan pengguna memverifikasi nomor ponselnya."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1481
 msgid "Throw a party"
-msgstr ""
+msgstr "Adakan pesta"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3582
 msgid "Throw a party anyway"
-msgstr ""
+msgstr "Tetap adakan pesta"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3654
 msgid "Throw it out"
-msgstr ""
+msgstr "Buang saja"
 
 #. placeholder {0}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:135
 msgid "Tier {0}"
-msgstr ""
+msgstr "Tingkat {0}"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:165
 msgid "Time in the company"
-msgstr ""
+msgstr "Lama di perusahaan"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:192
 msgid "Time to produce!"
@@ -16104,11 +16104,11 @@ msgstr "Saatnya produksi!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:761
 msgid "Time to retire"
-msgstr ""
+msgstr "Saatnya pensiun"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:460
 msgid "Time until the next case roll"
-msgstr ""
+msgstr "Waktu hingga pengundian peti berikutnya"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -16173,7 +16173,7 @@ msgstr "Tank Tiny Pixel"
 #: src/components/_layout/LoadingTip.tsx:46
 msgctxt "noun: loading screen hint"
 msgid "Tip"
-msgstr ""
+msgstr "Tips"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:433
 msgid "Tip Article"
@@ -16181,19 +16181,19 @@ msgstr "Beri Tip Artikel"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "ke"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:743
 msgid "To be continued"
-msgstr ""
+msgstr "Bersambung"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:185
 msgid "To the seller"
-msgstr ""
+msgstr "Kepada penjual"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:183
 msgid "To you, the seller"
-msgstr ""
+msgstr "Untukmu, sang penjual"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -16213,59 +16213,59 @@ msgstr "Kitab Pasang"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:106
 msgid "Took a job offer from a rival firm."
-msgstr ""
+msgstr "Menerima tawaran kerja dari perusahaan saingan."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:83
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:255
 #: src/components/_economy/employee/EmployeeTooltip.tsx:183
 #: src/components/_economy/employee/EmployeeTooltip.tsx:194
 msgid "Tool"
-msgstr ""
+msgstr "Perkakas"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:465
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:681
 msgid "Tool <0>fully repaired</0>"
-msgstr ""
+msgstr "Perkakas <0>diperbaiki sepenuhnya</0>"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:75
 msgid "Tool given"
-msgstr ""
+msgstr "Perkakas diberikan"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:80
 #: src/components/_economy/inventory/Inventory.tsx:685
 msgid "Tool taken back"
-msgstr ""
+msgstr "Perkakas diambil kembali"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:470
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:686
 msgid "Tool: {value} durability"
-msgstr ""
+msgstr "Perkakas: daya tahan {value}"
 
 #: src/utils/translations.tsx:119
 msgid "Toolbox"
-msgstr ""
+msgstr "Kotak Perkakas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:946
 msgid "Toolbox Finds"
-msgstr ""
+msgstr "Temuan Kotak Perkakas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2211
 msgid "Toolbox found"
-msgstr ""
+msgstr "Kotak Perkakas ditemukan"
 
 #: src/components/_economy/employee/employeeStats.tsx:355
 msgid "Toolbox per hour"
-msgstr ""
+msgstr "Kotak Perkakas per jam kerja"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:43
 #: src/components/_economy/inventory/Inventory.tsx:852
 #: src/components/_economy/inventory/ItemGridFilters.tsx:208
 msgid "Tools"
-msgstr ""
+msgstr "Perkakas"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:216
 msgid "Tools give a boost to <0>Production</0>. They come out of <1>Toolboxes</1>, found by your employees' Luck."
-msgstr ""
+msgstr "Perkakas meningkatkan <0>Produksi</0>. Perkakas didapat dari <1>Kotak Perkakas</1>, yang ditemukan lewat Keberuntungan karyawanmu."
 
 #: src/components/_social/ArticleList.tsx:218
 msgid "Top"
@@ -16273,17 +16273,17 @@ msgstr "Teratas"
 
 #: src/components/_social/ArticleList.tsx:205
 msgid "Top (1d)"
-msgstr "Teratas (1d)"
+msgstr "Teratas (1h)"
 
 #: src/components/_social/ArticleList.tsx:212
 msgid "Top (1w)"
-msgstr "Teratas (1w)"
+msgstr "Teratas (1m)"
 
 #. placeholder {0}: myTierStat.percent
 #: src/components/_user/milestone/MilestoneItem.tsx:242
 #: src/components/_user/milestone/MilestoneItem.tsx:264
 msgid "Top {0}%"
-msgstr ""
+msgstr "{0}% Teratas"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:74
 msgid "Top 1 damage in a battle"
@@ -16311,7 +16311,7 @@ msgstr "Pemberi hadiah terbanyak bulan ini"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:399
 msgid "Top of the class: there is much more to train now."
-msgstr ""
+msgstr "Juara kelas: sekarang masih banyak yang bisa dilatih."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:97
 msgid "Top of the hill"
@@ -16344,7 +16344,7 @@ msgstr "Total peti dibuka"
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:92
 msgid "Total damage"
-msgstr ""
+msgstr "Total kerusakan"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:38
 msgid "Total damages"
@@ -16356,11 +16356,11 @@ msgstr "Total Donasi:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:612
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Total <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:383
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
-msgstr ""
+msgstr "Total <0>{totalMaintenanceCostPerDay}</0>/hari"
 
 #: src/components/_user/badgeCollection/Badge.tsx:63
 msgid "Total reward"
@@ -16368,11 +16368,11 @@ msgstr "Total hadiah"
 
 #: src/components/_user/user/Level.tsx:154
 msgid "Total XP"
-msgstr ""
+msgstr "Total XP"
 
 #: src/components/_user/mission/ProgressHeader.tsx:130
 msgid "Total XP earned from missions and milestones"
-msgstr ""
+msgstr "Total XP yang diperoleh dari misi dan pencapaian"
 
 #: src/components/_military/mu/MuMemberList.tsx:361
 #: src/components/_military/mu/MuMemberList.tsx:401
@@ -16390,11 +16390,11 @@ msgstr "Turnamen"
 
 #: src/components/_military/battle/BattleName.tsx:163
 msgid "Tournament battle for {tournamentName} {score}"
-msgstr ""
+msgstr "Pertempuran turnamen untuk {tournamentName} {score}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2312
 msgid "Tournament Cancelled"
-msgstr ""
+msgstr "Turnamen Dibatalkan"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2302
 msgid "Tournament Created"
@@ -16422,7 +16422,7 @@ msgstr "Turnamen Dimulai"
 
 #: src/components/_user/user/UserBadges.tsx:121
 msgid "Tournament Winner"
-msgstr ""
+msgstr "Pemenang Turnamen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2300
 msgid "Tournament Won!"
@@ -16430,17 +16430,17 @@ msgstr "Menang Turnamen!"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:55
 msgid "Trade items"
-msgstr ""
+msgstr "Perdagangkan item"
 
 #. placeholder {0}: coworker.name || t`this employee`
 #. placeholder {1}: -happinessPenalty
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:286
 msgid "Trade places between {who} and {0}? Both lose <0>{1}</0> happiness for {penaltyDays} days, and neither can be fired for {fireLockHours} hours."
-msgstr ""
+msgstr "Tukar posisi antara {who} dan {0}? Keduanya kehilangan <0>{1}</0> kebahagiaan selama {penaltyDays} hari, dan keduanya tidak bisa dipecat selama {fireLockHours} jam."
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:232
 msgid "Trade places between <0/> and <1/>? Each keeps their own pay and what they have earned, and both can resign straight afterwards."
-msgstr ""
+msgstr "Tukar posisi antara <0/> dan <1/>? Masing-masing tetap mendapat gajinya sendiri dan penghasilan yang sudah diperoleh, dan keduanya bisa langsung mengundurkan diri setelahnya."
 
 #: src/components/_economy/transaction/TransactionList.tsx:71
 #: src/pages/market/index.tsx:62
@@ -16454,82 +16454,82 @@ msgstr "Transaksi perdagangan"
 #: src/components/_economy/employee/EmployeeModal.tsx:372
 #: src/components/_economy/employee/TrainingDraftModal.tsx:357
 msgid "Train"
-msgstr ""
+msgstr "Latih"
 
 #: src/components/_layout/loadingTips.tsx:410
 msgid "Train each employee once a day, resetting at 00:00 UTC: you draw {trainingHandSize} cards and keep the one you like."
-msgstr ""
+msgstr "Latih setiap karyawan sekali sehari, direset pada pukul 00:00 UTC: kamu menarik {trainingHandSize} kartu dan menyimpan satu yang kamu suka."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:768
 msgid "Train Employees"
-msgstr ""
+msgstr "Latih Karyawan"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:763
 msgid "Train to reveal traits"
-msgstr ""
+msgstr "Latih untuk mengungkap sifat"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:160
 msgid "Train your employee!"
-msgstr ""
+msgstr "Latih karyawanmu!"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
-msgstr "Trainee"
+msgstr "Peserta Pelatihan"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:146
 msgid "Trainer"
-msgstr ""
+msgstr "Pelatih"
 
 #: src/components/_economy/employee/employeeStats.tsx:186
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:175
 msgid "Training"
-msgstr ""
+msgstr "Pelatihan"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:148
 msgid "Training cards"
-msgstr ""
+msgstr "Kartu pelatihan"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:402
 msgid "Training complete."
-msgstr ""
+msgstr "Pelatihan selesai."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:162
 msgid "Training costs <0>Energy</0> and makes them better."
-msgstr ""
+msgstr "Pelatihan memakai <0>Energi</0> dan membuat mereka lebih baik."
 
 #: src/components/_economy/employee/TrainingCardList.tsx:109
 msgid "Training deals a hand of {handSize} of these, all at the same rarity, and you keep one."
-msgstr ""
+msgstr "Pelatihan membagikan {handSize} kartu seperti ini, semuanya dengan kelangkaan yang sama, dan kamu menyimpan satu."
 
 #: src/components/_economy/employee/TrainingHistory.tsx:244
 msgid "Training history"
-msgstr ""
+msgstr "Riwayat pelatihan"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
 #: src/components/_economy/employee/TrainingCard.tsx:330
 #: src/components/_economy/employee/TrainingDraftModal.tsx:268
 msgid "Training potential"
-msgstr ""
+msgstr "Potensi pelatihan"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:183
 msgid "Training potential left"
-msgstr ""
+msgstr "Sisa potensi pelatihan"
 
 #. placeholder {0}: outcome.potentialMax
 #: src/components/_economy/employee/TrainingHistory.tsx:152
 msgid "Training potential raised to <0>{0}</0>"
-msgstr ""
+msgstr "Potensi pelatihan naik menjadi <0>{0}</0>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:154
 msgid "Training raises them all."
-msgstr ""
+msgstr "Pelatihan meningkatkan semuanya."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:713
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:170
 msgid "Traits"
-msgstr ""
+msgstr "Sifat"
 
 #: src/components/_user/user/UserHeader.tsx:232
 msgid "Transac."
@@ -16545,7 +16545,7 @@ msgstr "Transaksi"
 
 #: src/components/_political/law/law.frontConfig.tsx:427
 msgid "Transfer <0/> to <1/>"
-msgstr ""
+msgstr "Transfer <0/> ke <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:421
 #: src/components/_political/law/lawNames.tsx:28
@@ -16562,11 +16562,11 @@ msgstr "Penerjemah"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:885
 msgid "Travel"
-msgstr ""
+msgstr "Bepergian"
 
 #: src/components/_political/party/PartyTooltip.tsx:91
 msgid "Treasurer"
-msgstr ""
+msgstr "Bendahara"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Trebuchet"
@@ -16578,11 +16578,11 @@ msgstr "Trooper"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1998
 msgid "Trouble in paradise"
-msgstr ""
+msgstr "Ada masalah di surga"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3290
 msgid "Try it"
-msgstr ""
+msgstr "Cobalah"
 
 #: src/pages/user/[userId]/settings.tsx:137
 msgid "Tutorials"
@@ -16594,52 +16594,52 @@ msgstr "Tutorials have been reset"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1315
 msgid "Two centimeters off. It is worse now."
-msgstr ""
+msgstr "Meleset dua sentimeter. Sekarang malah lebih parah."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:376
 msgid "Two coworkers hired 7 days ago or more, with happiness {mood} or more and at most 15 years apart, neither of them with a {sweethearts} trait yet, and not each other's {nemesis}."
-msgstr ""
+msgstr "Dua rekan kerja yang dipekerjakan sejak 7 hari lalu atau lebih, dengan kebahagiaan {mood} atau lebih dan selisih usia paling banyak 15 tahun, keduanya belum punya sifat {sweethearts}, dan bukan {nemesis} satu sama lain."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:202
 msgid "Two coworkers with happiness {mood} or more, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {sociable} or {comic}."
-msgstr ""
+msgstr "Dua rekan kerja dengan kebahagiaan {mood} atau lebih, keduanya belum punya sifat {oldFriends} atau {nemesis}. Peluangnya dua kali lipat jika salah satunya {sociable} atau {comic}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:587
 msgid "Two coworkers, in a company with 3 or more employees at work."
-msgstr ""
+msgstr "Dua rekan kerja, di perusahaan yang punya 3 karyawan atau lebih yang sedang bekerja."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:559
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:569
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr ""
+msgstr "Dua rekan kerja, keduanya belum punya sifat {oldFriends} atau {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:353
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {rival}, {envious} or {primaDonna}."
-msgstr ""
+msgstr "Dua rekan kerja, keduanya belum punya sifat {oldFriends} atau {nemesis}. Peluangnya dua kali lipat jika salah satunya {rival}, {envious}, atau {primaDonna}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:217
 msgid "Two coworkers, when one of them is {bully}, {rival}, {xenophobe} or {envious}, is the other's {nemesis}, or has happiness {mood} or less."
-msgstr ""
+msgstr "Dua rekan kerja, ketika salah satunya {bully}, {rival}, {xenophobe}, atau {envious}, merupakan {nemesis} bagi yang lain, atau punya kebahagiaan {mood} atau kurang."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:522
 msgid "Two days away, and a much happier face on the way back."
-msgstr ""
+msgstr "Dua hari pergi, dan pulang dengan wajah yang jauh lebih ceria."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:93
 msgid "Two new habits"
-msgstr ""
+msgstr "Dua kebiasaan baru"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:53
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr ""
+msgstr "Tyrannosaurus Rex"
 
 #: src/components/_layout/LayoutOptions.tsx:181
 msgid "UI"
-msgstr ""
+msgstr "UI"
 
 #: src/components/_user/user/UserDropdown.tsx:311
 msgid "Unblock (show content)"
@@ -16647,15 +16647,15 @@ msgstr "Buka blokir (tampilkan konten)"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:438
 msgid "Uncollected cases waiting on the map, out of {maxLoots}"
-msgstr ""
+msgstr "Peti yang belum diambil dan menunggu di peta, dari maksimal {maxLoots}"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:26
 msgid "Uncommon"
-msgstr ""
+msgstr "Tidak Umum"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1588
 msgid "Uncursed, certified, and the exorcist fixed the squeak too."
-msgstr ""
+msgstr "Kutukannya sudah hilang, sudah bersertifikat, dan sang dukun pengusir roh juga memperbaiki decitnya."
 
 #: src/components/_user/UserEquipments.tsx:167
 msgid "Unequip all"
@@ -16663,7 +16663,7 @@ msgstr "Lepas semua"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1854
 msgid "United in outrage against you, {name} and {partnerName} are inseparable now."
-msgstr ""
+msgstr "Bersatu dalam kemarahan terhadapmu, {name} dan {partnerName} kini tak terpisahkan."
 
 #: src/pages/region/[regionId]/index.tsx:197
 msgid "Unlinked"
@@ -16683,7 +16683,7 @@ msgstr "Buka tombol \"Bantu semua\""
 
 #: src/components/_user/user/SkillPresetsModal.tsx:197
 msgid "Unlock more skill presets"
-msgstr ""
+msgstr "Buka lebih banyak preset keahlian"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:107
 msgid "Unlock Produce all button"
@@ -16691,7 +16691,7 @@ msgstr "Buka tombol \"Produksi semua\""
 
 #: src/components/_user/level/LevelUpExtra.tsx:15
 msgid "Unlocked"
-msgstr ""
+msgstr "Terbuka"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2194
 msgid "Unlocked pack"
@@ -16703,11 +16703,11 @@ msgstr "<0/> tidak dibisukan lagi"
 
 #: src/components/_economy/employee/employeeStats.tsx:700
 msgid "Unpaid"
-msgstr ""
+msgstr "Tidak dibayar"
 
 #: src/components/_social/PinArticleModal.tsx:99
 msgid "Unpin"
-msgstr ""
+msgstr "Lepas sematan"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -16720,7 +16720,7 @@ msgstr "Ketidakstabilan"
 #. placeholder {0}: unrestMultiplier(effects.unrestIncreaseMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:365
 msgid "Unrest contributions {0} when pushing the bar up"
-msgstr ""
+msgstr "Kontribusi kerusuhan {0} saat menaikkan bilah"
 
 #: src/components/_political/contribution/ContributionList.tsx:196
 msgid "Unrest Contributors"
@@ -16728,7 +16728,7 @@ msgstr "Kontributor Kerusuhan"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:121
 msgid "Unrestricted chat"
-msgstr ""
+msgstr "Obrolan tanpa batas"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:278
 msgid "Unselect all"
@@ -17362,7 +17362,7 @@ msgstr "Nilai produksi mereka selama sehari berdasarkan harga pasar per point, d
 
 #: src/components/_economy/employee/EmployeeList.tsx:136
 msgid "What a day of this company's production is worth at the market value of a point, minus the day's whole payroll, employees and manager. An estimate: what you really earn depends on what it makes and the price you sell it at."
-msgstr ""
+msgstr "Nilai produksi perusahaan selama satu hari berdasarkan harga pasar per poin, dikurangi total gaji harian seluruh karyawan dan manajer. Ini hanya perkiraan: penghasilan sebenarnya bergantung pada barang yang diproduksi dan harga jualnya."
 
 #: src/components/_economy/employee/EstimatedProfit.tsx:70
 msgid "What a day of your employees' production is worth at the market value of a point, minus the day's whole payroll, employees and managers. An estimate: what you really earn depends on what you make and the price you sell it at."
@@ -17403,7 +17403,7 @@ msgstr "Kenapa kamu ingin mengusulkan undang-undang ini?"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:113
 msgid "Wild card"
-msgstr ""
+msgstr "Kartu liar"
 
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:39
 msgid "Winner"
