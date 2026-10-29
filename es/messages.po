@@ -402,7 +402,7 @@ msgstr "{count, plural, one {<0>Envía <1/> mensaje</0>} other {<2>Envía <3/> m
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr "{count, plural, one {<0>Atiende a un empleado <1/> vez en la empresa donde trabajas</0>} other {<2>Atiende a un empleado <3/> veces en la empresa donde trabajas</2>}}"
+msgstr "{count, plural, one {<0>Cuida de un empleado <1/> vez en la empresa donde trabajas</0>} other {<2>Cuida de un empleado <3/> veces en la empresa donde trabajas</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
@@ -743,7 +743,7 @@ msgstr "{gender, select, male {{name} ha fundado un partido político. Miembros:
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2058
 msgid "{gender, select, male {{name} has founded a union. Membership: one. His demands: a raise, a better chair and a parking spot. He does not have a car.} female {{name} has founded a union. Membership: one. Her demands: a raise, a better chair and a parking spot. She does not have a car.} other {{name} has founded a union. Membership: one. Their demands: a raise, a better chair and a parking spot. They do not have a car.}}"
-msgstr "{gender, select, male {{name} ha fundado una unión. Miembros: uno. Sus demandas: un aumento, una silla mejor y un estacionamiento. Él no tiene carro.} female {{name} ha fundado una unión. Miembros: uno. Sus demandas: un aumento, una silla mejor y un estacionamiento. Ella no tiene carro.} other {{name} ha fundado una unión. Membresía: una. Sus demandas: un aumento, una silla mejor y un estacionamiento. No tiene carro.}}"
+msgstr "{gender, select, male {{name} ha fundado un sindicato. Miembros: uno. Sus demandas: un aumento, una silla mejor y un estacionamiento. Él no tiene carro.} female {{name} ha fundado un sindicato. Miembros: uno. Sus demandas: un aumento, una silla mejor y un estacionamiento. Ella no tiene carro.} other {{name} ha fundado un sindicato. Membresía: una. Sus demandas: un aumento, una silla mejor y un estacionamiento. No tiene carro.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1333
 msgid "{gender, select, male {{name} has grown as a person.} female {{name} has grown as a person.} other {{name} has grown as a person.}}"
@@ -995,59 +995,59 @@ msgstr "{gender, select, male {{name} se queda, pero conservó la tarjeta del ri
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:458
 msgid "{gender, select, male {{name} stays, but he resents being guilted into it.} female {{name} stays, but she resents being guilted into it.} other {{name} stays, but resents being guilted into it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se queda, pero le molesta que lo hagan sentir culpable para conseguirlo.} female {{name} se queda, pero le molesta que lo hagan sentir culpable para conseguirlo.} other {{name} se queda, pero le molesta que lo hagan sentir culpable para conseguirlo.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3142
 msgid "{gender, select, male {{name} stops listening after your third joke. It is a long afternoon in there.} female {{name} stops listening after your third joke. It is a long afternoon in there.} other {{name} stops listening after your third joke. It is a long afternoon in there.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} deja de escuchar después de tu tercer chiste. La tarde se hace larga ahí dentro.} female {{name} deja de escuchar después de tu tercer chiste. La tarde se hace larga ahí dentro.} other {{name} deja de escuchar después de tu tercer chiste. La tarde se hace larga ahí dentro.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1986
 msgid "{gender, select, male {{name} stops signing as Supreme Commander, and starts looking at other jobs.} female {{name} stops signing as Supreme Commander, and starts looking at other jobs.} other {{name} stops signing as Supreme Commander, and starts looking at other jobs.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} stops signing as Supreme Commander, and starts looking at other jobs.} female {{name} stops signing as Supreme Commander, and starts looking at other jobs.} other {{name} stops signing as Supreme Commander, and starts looking at other jobs.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1980
 msgid "{gender, select, male {{name} stops signing as Supreme Commander, and sulks.} female {{name} stops signing as Supreme Commander, and sulks.} other {{name} stops signing as Supreme Commander, and sulks.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} deja de firmar como Comandante Supremo y se queda de mal humor.} female {{name} deja de firmar como Comandante Supremo y se queda de mal humor.} other {{name} deja de firmar como Comandante Supremo y se queda de mal humor.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:832
 msgid "{gender, select, male {{name} stops waiting for your blessing and retires, with no send-off.} female {{name} stops waiting for your blessing and retires, with no send-off.} other {{name} stops waiting for your blessing and retires, with no send-off.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} deja de esperar tu aprobación y se jubila sin ceremonia de despedida.} female {{name} deja de esperar tu aprobación y se jubila sin ceremonia de despedida.} other {{name} deja de esperar tu aprobación y se jubila sin ceremonia de despedida.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1116
 msgid "{gender, select, male {{name} studies it for a long time, then laughs. Eventually.} female {{name} studies it for a long time, then laughs. Eventually.} other {{name} studies it for a long time, then laughs. Eventually.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lo estudia durante mucho tiempo y luego se ríe. Al final.} female {{name} lo estudia durante mucho tiempo y luego se ríe. Al final.} other {{name} lo estudia durante mucho tiempo y luego se ríe. Al final.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2121
 msgid "{gender, select, male {{name} sulks for a while, then the union quietly folds.} female {{name} sulks for a while, then the union quietly folds.} other {{name} sulks for a while, then the union quietly folds.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se queda de mal humor un rato y luego el sindicato se disuelve discretamente.} female {{name} se queda de mal humor un rato y luego el sindicato se disuelve discretamente.} other {{name} se queda de mal humor un rato y luego el sindicato se disuelve discretamente.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3269
 msgid "{gender, select, male {{name} sulks, and starts the story again at lunch.} female {{name} sulks, and starts the story again at lunch.} other {{name} sulks, and starts the story again at lunch.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se queda de mal humor y vuelve a contar la historia durante el almuerzo.} female {{name} se queda de mal humor y vuelve a contar la historia durante el almuerzo.} other {{name} se queda de mal humor y vuelve a contar la historia durante el almuerzo.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2110
 msgid "{gender, select, male {{name} suspects you only joined to spy on him.} female {{name} suspects you only joined to spy on her.} other {{name} suspects you only joined to spy on them.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} sospecha que solo te uniste para espiarlo.} female {{name} sospecha que solo te uniste para espiarla.} other {{name} sospecha que solo te uniste para espiar.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1969
 msgid "{gender, select, male {{name} takes being one Supreme Commander among many very badly.} female {{name} takes being one Supreme Commander among many very badly.} other {{name} takes being one Supreme Commander among many very badly.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} se toma muy mal ser uno más entre tantos Comandantes Supremos.} female {{name} se toma muy mal ser una más entre tantos Comandantes Supremos.} other {{name} se toma muy mal ser uno más entre tantos Comandantes Supremos.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2353
 msgid "{gender, select, male {{name} takes it apart and puts it back together as good as new.} female {{name} takes it apart and puts it back together as good as new.} other {{name} takes it apart and puts it back together as good as new.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lo desmonta y vuelve a armar, dejándolo como nuevo.} female {{name} lo desmonta y vuelve a armar, dejándolo como nuevo.} other {{name} lo desmonta y vuelve a armar, dejándolo como nuevo.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2093
 msgid "{gender, select, male {{name} takes it very personally, and starts reading the job ads.} female {{name} takes it very personally, and starts reading the job ads.} other {{name} takes it very personally, and starts reading the job ads.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lo toma bastante personal, y empieza a leer anuncios de empleo.} female {{name} lo toma bastante personal, y empieza a leer anuncios de empleo.} other {{name} lo toma bastante personal, y empieza a leer anuncios de empleo.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3468
 msgid "{gender, select, male {{name} takes it well, and keeps talking to Kevin anyway.} female {{name} takes it well, and keeps talking to Kevin anyway.} other {{name} takes it well, and keeps talking to Kevin anyway.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lo toma bien, y continúa hablando a Kevin de todas formas.} female {{name} lo toma bien, y continúa hablando a Kevin de todas formas.} other {{name} lo toma bien, y continúa hablando a Kevin de todas formas.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1133
 msgid "{gender, select, male {{name} takes it well, for someone with three more at home.} female {{name} takes it well, for someone with three more at home.} other {{name} takes it well, for someone with three more at home.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} lo toma bien, para alguien con tres más en casa.} female {{name} lo toma bien, para alguien con tres más en casa.} other {{name} lo toma bien, para alguien con tres más en casa.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:464
 msgid "{gender, select, male {{name} takes the offer. He is gone.} female {{name} takes the offer. She is gone.} other {{name} takes the offer and is gone.}}"
@@ -2942,11 +2942,11 @@ msgstr "= consume más energía"
 
 #: src/components/_social/poll/PollEditorModal.tsx:116
 msgid "1 day"
-msgstr ""
+msgstr "1 día"
 
 #: src/components/_social/poll/PollEditorModal.tsx:111
 msgid "1 hour"
-msgstr ""
+msgstr "1 hora"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -3078,7 +3078,7 @@ msgstr "100% históricamente preciso"
 
 #: src/components/_social/poll/PollEditorModal.tsx:115
 msgid "12 hours"
-msgstr ""
+msgstr "12 horas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3725
 msgid "18 degrees it is. {name} is happy, {partnerName} is freezing."
@@ -3086,7 +3086,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:112
 msgid "2 hours"
-msgstr ""
+msgstr "2 horas"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "2. IP and Device Sharing"
@@ -3214,11 +3214,11 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:117
 msgid "3 days"
-msgstr ""
+msgstr "3 días"
 
 #: src/components/_social/poll/PollEditorModal.tsx:113
 msgid "3 hours"
-msgstr ""
+msgstr "3 horas"
 
 #: src/components/_common/GameRules.tsx:114
 msgid "3. Bots and Automation"
@@ -3378,7 +3378,7 @@ msgstr "5★ Tte. General"
 
 #: src/components/_social/poll/PollEditorModal.tsx:114
 msgid "6 hours"
-msgstr ""
+msgstr "6 horas"
 
 #: src/components/_common/GameRules.tsx:207
 msgid "6. Taking Over and Misuse of State/Military unit assets"
@@ -3386,7 +3386,7 @@ msgstr "6. Toma de control y uso indebido de activos del Estado/unidad militar"
 
 #: src/components/_social/poll/PollEditorModal.tsx:118
 msgid "7 days"
-msgstr ""
+msgstr "7 días"
 
 #: src/components/_common/GameRules.tsx:222
 msgid "7. Community Behavior"
@@ -3592,11 +3592,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2854
 msgid "A hidden talent"
-msgstr ""
+msgstr "Un talento oculto"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:694
 msgid "A letter from home"
-msgstr ""
+msgstr "Una carta desde casa"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:708
 msgid "A lovely trip, but the homesickness came back with them."
@@ -3850,7 +3850,7 @@ msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:233
 msgid "Active citizens"
-msgstr ""
+msgstr "Ciudadanos activos"
 
 #: src/pages/country/[countryId]/citizens.tsx:36
 msgid "Active Citizens"
@@ -3874,15 +3874,15 @@ msgstr "Actividad"
 
 #: src/components/_social/Tiptap.tsx:931
 msgid "Add a poll"
-msgstr ""
+msgstr "Añadir una encuesta"
 
 #: src/components/_social/poll/PollEditorModal.tsx:239
 msgid "Add answer"
-msgstr ""
+msgstr "Añadir respuesta"
 
 #: src/components/_social/poll/PollEditorModal.tsx:292
 msgid "Add poll"
-msgstr ""
+msgstr "Añadir encuesta"
 
 #: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
@@ -3907,7 +3907,7 @@ msgstr "Notificación de administrador"
 
 #: src/components/_user/user/UserBadges.tsx:355
 msgid "Admin of this conversation."
-msgstr ""
+msgstr "Administrador de esta conversación"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:136
 msgid "Admiral"
@@ -3947,11 +3947,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:171
 msgid "Age"
-msgstr ""
+msgstr "Edad"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "Age {input}"
-msgstr ""
+msgstr "Edad {input}"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:50
 msgid "Age and tenure"
@@ -3987,11 +3987,11 @@ msgstr "Todas las categorías"
 
 #: src/components/_economy/employee/MoveShell.tsx:139
 msgid "All companies"
-msgstr ""
+msgstr "Todas las elpresas"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:171
 msgid "All countries"
-msgstr ""
+msgstr "Todos los países"
 
 #: src/components/_political/event/EventList.tsx:197
 msgid "All event types"
@@ -3999,7 +3999,7 @@ msgstr "Todos los tipos de eventos"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:212
 msgid "All guides done!"
-msgstr ""
+msgstr "!Todas las guías completadas!"
 
 #: src/components/_user/notification/NotificationPrefsPanel.tsx:188
 msgid "All Ingame"
@@ -4047,7 +4047,7 @@ msgstr ""
 
 #: src/components/_user/user/UserSkills.tsx:225
 msgid "All your skills are reset for free."
-msgstr ""
+msgstr "Tus habilidades se reiniciarán gratis"
 
 #: src/components/_layout/map.frontConfig.tsx:38
 #: src/components/_political/alliance/AllianceHeader.tsx:68
@@ -4110,7 +4110,7 @@ msgstr "Aliados"
 
 #: src/components/_social/poll/PollEditorModal.tsx:254
 msgid "Allow multiple answers"
-msgstr ""
+msgstr "Permitir multiples respuestas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:73
 msgid "Almost feels like cheating"
@@ -4213,11 +4213,11 @@ msgstr "Otro país propuso un pacto defensivo al tuyo"
 
 #: src/components/_social/poll/PollEditorModal.tsx:206
 msgid "Answer {answerNumber}"
-msgstr ""
+msgstr "Respuesta {answerNumber}"
 
 #: src/components/_social/poll/PollEditorModal.tsx:198
 msgid "Answers"
-msgstr ""
+msgstr "Respuestas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
@@ -4312,11 +4312,11 @@ msgstr "¿Estás seguro de que quieres degradar a este comandante?"
 
 #: src/components/_military/order/BattleOrderActions.tsx:73
 msgid "Are you sure you want to disable this battle order? This action cannot be undone."
-msgstr ""
+msgstr "¿Estás seguro de desactivar esta orden de batalla? Esta acción no puede deshacerse."
 
 #: src/components/_economy/inventory/Inventory.tsx:121
 msgid "Are you sure you want to dismantle this <0/> item? You will receive {scrapReward} scraps."
-msgstr ""
+msgstr "¿Estas seguro de que quieres desmantelar este <0/> objeto? Recibirás {scrapReward} chatarras."
 
 #: src/components/_military/mu/MuMemberList.tsx:140
 msgid "Are you sure you want to kick this member?"
@@ -4858,7 +4858,7 @@ msgstr "Mejor"
 
 #: src/components/_economy/manager/ManagerBestOfferLine.tsx:37
 msgid "Best position for you"
-msgstr ""
+msgstr "Mejor puesto para ti"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -4868,11 +4868,11 @@ msgstr "Mejor que nada, ¿no?"
 #. placeholder {1}: range.max
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:80
 msgid "Between {0} and {1}"
-msgstr ""
+msgstr "Entre {0} y {1}"
 
 #: src/components/_social/poll/PollEditorModal.tsx:278
 msgid "Between 1 and {maxMinLevel}"
-msgstr ""
+msgstr "Entre 1 y {maxMinLevel}"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:296
 msgid "Bid"
@@ -4990,7 +4990,7 @@ msgstr "Brigadier"
 
 #: src/components/_user/user/UserBadges.tsx:124
 msgid "Bro won last tournament."
-msgstr ""
+msgstr "Bro, él ganó el último torneo"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:207
 msgid "broken"
@@ -5049,7 +5049,7 @@ msgstr "Crear una unidad militar"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:485
 msgid "Build a second company!"
-msgstr ""
+msgstr "!Crea una segunda empresa!"
 
 #: src/components/_military/mu/MuFormModal.tsx:134
 msgid "Build the military unit"
@@ -5081,7 +5081,7 @@ msgstr "Agotado"
 
 #: src/components/_economy/itemOffer/ItemOfferBuyButton.tsx:51
 msgid "Buy"
-msgstr ""
+msgstr "Comprar"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3772
 msgid "Buy {name} a hat"
@@ -5198,19 +5198,19 @@ msgstr ""
 
 #: src/components/_political/govType/govType.frontConfig.tsx:453
 msgid "Can't have a sworn enemy"
-msgstr ""
+msgstr "No puedes tener un enemigo jurado"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:447
 msgid "Can't join an alliance"
-msgstr ""
+msgstr "No puedes unirte a una alianza"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:459
 msgid "Can't send money to other countries"
-msgstr ""
+msgstr "No puedes enviar dinero a otros países"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:450
 msgid "Can't sign defensive pacts"
-msgstr ""
+msgstr "No puedes firma un pacto defensivo"
 
 #: src/components/_military/order/BattleOrderList.tsx:210
 #: src/components/_political/election/CandidateFormModal.tsx:79
@@ -5265,7 +5265,7 @@ msgstr "Candidato"
 #: src/components/_political/election/Election.tsx:127
 #: src/components/_political/election/Election.tsx:178
 msgid "Candidates"
-msgstr ""
+msgstr "Candidatos"
 
 #: src/components/_political/region/RegionTooltip.tsx:79
 msgid "Capital"
@@ -5346,11 +5346,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:116
 msgid "Chance"
-msgstr ""
+msgstr "Probabilidad"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:91
 msgid "Chance of success"
-msgstr ""
+msgstr "Probabilidad de éxito"
 
 #: src/components/_user/user/skills.frontConfig.tsx:176
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit.<4/>It also adds <5>1%</5> to the hourly chance of a wooden case appearing on the map (base {woodenCaseBaseChance}%)."
@@ -5515,7 +5515,7 @@ msgstr "Elige una fuente"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:171
 msgid "Choose one. The others are discarded."
-msgstr ""
+msgstr "Elige uno. Los otros serán descartados."
 
 #: src/components/_economy/inventory/CraftModal.tsx:375
 msgid "Choosing a specific item costs ×2 steel:"
@@ -5523,7 +5523,7 @@ msgstr "Elegir un artículo específico cuesta ×2 acero:"
 
 #: src/components/_user/auth/WelcomeModal.tsx:205
 msgid "Citizen identity card"
-msgstr ""
+msgstr "Tarjeta de identificación ciudadana"
 
 #: src/components/_user/user/UserHeader.tsx:315
 msgid "Citizen since"
@@ -5566,25 +5566,25 @@ msgstr "Reclamar"
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:169
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:240
 msgid "Claim {count} toolboxes"
-msgstr ""
+msgstr "Reclamar {count} cajas de herramientas"
 
 #. placeholder {0}: gift.amount
 #: src/components/_user/user/EnergyGiftAlert.tsx:46
 msgid "Claim +{0}"
-msgstr ""
+msgstr "Reclamar +{0}"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:325
 msgid "Claim reward"
-msgstr ""
+msgstr "Reclamar recompensa"
 
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:171
 #: src/components/_economy/employee/EmployeeFoundToolboxes.tsx:242
 msgid "Claim the toolbox"
-msgstr ""
+msgstr "Reclamar caja de herramienta"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:229
 msgid "Claim your missions!"
-msgstr ""
+msgstr "¡Reclama tus misiones!"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:139
 #: src/components/_user/mission/MissionItem.tsx:214
@@ -5600,7 +5600,7 @@ msgstr "Reclamado hasta ahora"
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:325
 msgid "Claimed!"
-msgstr ""
+msgstr "¡Reclamado!"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:114
 msgid "Claustrophobe"
@@ -5750,7 +5750,7 @@ msgstr "Comodoro"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:25
 msgid "Common"
-msgstr ""
+msgstr "Común"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:147
 msgid "Community"
@@ -5768,7 +5768,7 @@ msgstr "Empresas"
 #: src/components/_political/map/MapMenu.tsx:578
 #: src/components/_political/region/RegionHeader.tsx:115
 msgid "Companies (active, not disabled)"
-msgstr ""
+msgstr "Empresas (activas, no deshabilitadas)"
 
 #: src/components/_user/user/skills.frontConfig.tsx:134
 #: src/components/_user/user/skills.frontConfig.tsx:135
@@ -5953,7 +5953,7 @@ msgstr "Consumirlo aumenta tu <0>Ataque</0> durante {0}h.<1/> Luego disminuye la
 
 #: src/components/_user/user/UserBadges.tsx:155
 msgid "Content Mod"
-msgstr ""
+msgstr "Moderador de Contenido"
 
 #: src/components/_layout/LayoutOptions.tsx:135
 msgid "Contextual borders"
@@ -6053,7 +6053,7 @@ msgstr ""
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:221
 #: src/components/_economy/employee/employeeStats.tsx:546
 msgid "Core region"
-msgstr ""
+msgstr "Región principal"
 
 #: src/components/_political/region/RegionHeader.tsx:150
 msgid "Core region of"
@@ -6074,11 +6074,11 @@ msgstr "Cosmopolita"
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:687
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:192
 msgid "Cost"
-msgstr ""
+msgstr "Costo"
 
 #: src/components/_economy/employee/CostPerPp.tsx:49
 msgid "Cost per production point"
-msgstr ""
+msgstr "Costo por punto de producción"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:123
 msgid "Council member to remove"
@@ -6145,7 +6145,7 @@ msgstr "Presidente del país"
 
 #: src/components/_political/law/law.frontConfig.tsx:610
 msgid "Country specializations were removed from the game"
-msgstr ""
+msgstr "Las especializaciones de los países serán removidas del juego"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:139
 msgid "Country to invite"
@@ -6165,13 +6165,13 @@ msgstr "Guerras del país"
 
 #: src/components/_economy/employee/employeeStats.tsx:703
 msgid "Coworker fired"
-msgstr ""
+msgstr "Compañero de trabajo despedido"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:186
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:45
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:142
 msgid "Coworkers"
-msgstr ""
+msgstr "Compañero de trabajo"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:147
 msgid "Cozy"
@@ -6192,7 +6192,7 @@ msgstr "Fabricar objeto"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:97
 msgid "Craft items"
-msgstr ""
+msgstr "Fabricar objetos"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:110
 msgid "Craftsman"
@@ -6392,15 +6392,15 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:514
 msgid "Daily pay"
-msgstr ""
+msgstr "Pago disrio"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:140
 msgid "Daily production"
-msgstr ""
+msgstr "Producción diaria"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:800
 msgid "Daily profit"
-msgstr ""
+msgstr "Ganancia diaria"
 
 #: src/components/_layout/map.frontConfig.tsx:50
 msgid "Daily revenue"
@@ -6408,7 +6408,7 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeModal.tsx:795
 msgid "Daily wage"
-msgstr ""
+msgstr "Sueldo diario"
 
 #: src/components/_political/government/Government.tsx:209
 msgid "Daily wage paid from the country treasury."
@@ -6634,7 +6634,7 @@ msgstr "Declarar un enemigo principal"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:290
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: src/pages/user/[userId]/settings.tsx:174
 msgid "Delete account"
@@ -6696,7 +6696,7 @@ msgstr "Depósitos de recursos"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:182
 msgid "Describe the role, what you expect, what you offer..."
-msgstr ""
+msgstr "Describe tu csrgo, que esperas, que ofreces..."
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:62
 #: src/components/_political/party/PartyFormModal.tsx:101
@@ -6712,7 +6712,7 @@ msgstr "Descripción"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:180
 msgid "Description (Optional)"
-msgstr ""
+msgstr "Descripción (Opcional)"
 
 #: src/components/_user/user/UserDropdown.tsx:162
 msgid "Description removed"
@@ -6814,7 +6814,7 @@ msgstr "Diplomacia"
 
 #: src/components/_military/order/BattleOrderActions.tsx:98
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:446
 msgid "Disable company"
@@ -6822,7 +6822,7 @@ msgstr "Desactivar empresa"
 
 #: src/components/_military/order/BattleOrderActions.tsx:72
 msgid "Disable Order"
-msgstr ""
+msgstr "Desactivar Orden"
 
 #: src/components/_economy/company/CompanyTags.tsx:131
 #: src/components/_economy/employee/WorkforceSummary.tsx:145
@@ -6832,7 +6832,7 @@ msgstr "Desactivada"
 
 #: src/components/_layout/LayoutOptions.tsx:157
 msgid "Disabled upgrades"
-msgstr ""
+msgstr "Desactivar mejoras"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:93
 msgid "Disbanded"
@@ -6845,7 +6845,7 @@ msgstr "Desmontar"
 
 #: src/components/_economy/inventory/Inventory.tsx:120
 msgid "Dismantle item"
-msgstr ""
+msgstr "Desmontar objeto"
 
 #: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
@@ -6908,7 +6908,7 @@ msgstr "Dona <0/> a tu UM o País"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:43
 msgid "Donate to country/MU"
-msgstr ""
+msgstr "Dona a tu país/MU"
 
 #: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
@@ -6929,7 +6929,7 @@ msgstr "Donaciones"
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:53
 msgid "Done"
-msgstr ""
+msgstr "Realizado"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:124
 msgid "Dormitories"
@@ -6977,7 +6977,7 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:245
 msgid "Duration"
-msgstr ""
+msgstr "Duración"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -7087,7 +7087,7 @@ msgstr "Habilidades económicas"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:627
 msgid "Economy"
-msgstr ""
+msgstr "Economía"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:165
 msgid "Economy & Companies"
@@ -7099,7 +7099,7 @@ msgstr ""
 
 #: src/components/_military/order/BattleOrderActions.tsx:91
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:148
 msgid "Edit country order"
@@ -7123,11 +7123,11 @@ msgstr "Editar orden de UM"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:281
 msgid "Edit name"
-msgstr ""
+msgstr "Editar nombre"
 
 #: src/components/_social/poll/PollEditorModal.tsx:177
 msgid "Edit poll"
-msgstr ""
+msgstr "Editar encuesta"
 
 #: src/components/_economy/manager/ManagerOfferDropdown.tsx:40
 msgid "Edit position"
@@ -7155,7 +7155,7 @@ msgstr "Efectivo:"
 
 #: src/components/_political/election/Election.tsx:220
 msgid "Elected"
-msgstr ""
+msgstr "Electo"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2235
 msgid "Election candidacy open"
@@ -7229,7 +7229,7 @@ msgstr ""
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:150
 #: src/components/_user/notification/notification.frontConfig.tsx:2207
 msgid "Employee events"
-msgstr ""
+msgstr "Eventos de empleado"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:810
 msgid "Employee Events"
@@ -7249,11 +7249,11 @@ msgstr "Producción de Empleados"
 
 #: src/components/_economy/employee/employee.hooks.ts:111
 msgid "Employee removed from the roster"
-msgstr ""
+msgstr "Empleado removido de la plantilla"
 
 #: src/components/_economy/employee/EmployeeRenameModal.tsx:48
 msgid "Employee renamed!"
-msgstr ""
+msgstr "¡Empleado renombrado!"
 
 #: src/components/_economy/company/CompanyTags.tsx:59
 #: src/components/_economy/company/CompanyTags.tsx:72
@@ -7271,7 +7271,7 @@ msgstr ""
 #: src/components/_political/region/RegionHeader.tsx:123
 #: src/pages/company/[companyId]/index.tsx:49
 msgid "Employees"
-msgstr ""
+msgstr "Empleados"
 
 #: src/components/_political/map/MapMenu.tsx:588
 #: src/components/_political/region/RegionHeader.tsx:126
@@ -7323,7 +7323,7 @@ msgstr "Poner fin a un pacto defensivo existente con otro país"
 
 #: src/components/_social/poll/PollCard.tsx:439
 msgid "End poll"
-msgstr ""
+msgstr "Finalizar encuesta"
 
 #: src/components/_political/law/law.frontConfig.tsx:340
 msgid "End the defensive pact with <0/>."
@@ -7331,7 +7331,7 @@ msgstr "Finaliza el pacto defensivo con <0/>."
 
 #: src/components/_social/poll/PollCard.tsx:434
 msgid "End this poll?"
-msgstr ""
+msgstr "¿Finalizar esta encuesta?"
 
 #: src/components/_military/battle/BattleSystem.tsx:847
 #: src/components/_military/tournament/TournamentHeader.tsx:85
@@ -7384,16 +7384,16 @@ msgstr "Envidioso"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:28
 msgid "Epic"
-msgstr ""
+msgstr "Épico"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:838
 msgid "Equip a Tool"
-msgstr ""
+msgstr "Equipar una Herramienta"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:250
 #: src/components/_other/shop/SkinCollectionModal.tsx:260
 msgid "Equip pack"
-msgstr ""
+msgstr "Equipar un pack"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:65
 #: src/components/_economy/inventory/ItemGridFilters.tsx:199
@@ -7410,7 +7410,7 @@ msgstr ""
 
 #: src/components/_user/UserEquipments.tsx:174
 msgid "Equipment sets"
-msgstr ""
+msgstr "Sets de equipamientos"
 
 #: src/components/_user/user/SkillBar.tsx:48
 #: src/components/_user/user/SkillValue.tsx:113
@@ -7423,7 +7423,7 @@ msgstr "Equipamientos"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:248
 msgid "Equipped"
-msgstr ""
+msgstr "Equipado"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:267
 msgid "Equipped items are left out of select all."
@@ -7456,7 +7456,7 @@ msgstr "Tiempo mínimo estimado para que este bando gane la ronda actual si se g
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:53
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:57
 msgid "Estimated profit"
-msgstr ""
+msgstr "Ganancia estimada"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:538
 msgid "Estimated toolboxes found per day"
@@ -7474,7 +7474,7 @@ msgstr ""
 #: src/components/_economy/employee/employeeStats.tsx:532
 #: src/components/_economy/employee/employeeStats.tsx:707
 msgid "Event"
-msgstr ""
+msgstr "Evento"
 
 #: src/components/_economy/employee/employeeStats.tsx:369
 msgid "Event Luck checks"
@@ -7493,7 +7493,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:336
 msgid "Every 2 minutes, the side with more <0>Damages</0> gains <1>Ground</1>. Your hits count."
-msgstr ""
+msgstr "Cada 2 minutos, el lado con mas <0>Daño</0> gana <1>Terreno</1>. Tus golpes cuentan."
 
 #: src/components/_economy/employee/useConfirmFire.tsx:39
 msgid "Every coworker still working in this company loses {coworkerHappinessPenalty} happiness for {penaltyHours} hours. Firing again restarts the timer, it does not stack."
@@ -7555,11 +7555,11 @@ msgstr ""
 
 #: src/components/_social/poll/PollEditorModal.tsx:261
 msgid "Everyone can vote"
-msgstr ""
+msgstr "Todo pueden votar"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1556
 msgid "Everyone drinks water now"
-msgstr ""
+msgstr "Todos deben beber agua ahora"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2511
 msgid "Everyone eats the beige. Nobody says a word."
@@ -7575,11 +7575,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:338
 msgid "Everyone in the company"
-msgstr ""
+msgstr "Todo en la empresa"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1045
 msgid "Everyone laughs, you included."
-msgstr ""
+msgstr "Todos rien, tú incluido"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1723
 msgid "Everyone salutes the General on the way in. It takes a while."
@@ -7591,7 +7591,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2989
 msgid "Everyone sings"
-msgstr ""
+msgstr "Todos cantan"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2457
 msgid "Everyone to the shelter"
@@ -7629,12 +7629,12 @@ msgstr "Botín esperado"
 #: src/components/_economy/employee/TrainingCard.tsx:310
 #: src/components/_economy/employee/TrainingDraftModal.tsx:256
 msgid "Expected wage"
-msgstr ""
+msgstr "Sueldo esperado"
 
 #. placeholder {0}: Math.round(entry.delta * 100)
 #: src/components/_economy/employee/TrainingHistory.tsx:141
 msgid "Expected wage <0>-{0}%</0>"
-msgstr ""
+msgstr "Sueldo esperado <0>-{0}%</0>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:800
 msgid "Expects <0>15%</0> less pay than the market rate"
@@ -7693,7 +7693,7 @@ msgstr "Aprovecharse de errores o ignorarlos para obtener ventajas indebidas est
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:545
 msgid "Explore the map!"
-msgstr ""
+msgstr "¡Explora el mapa!"
 
 #: src/components/_common/GameRules.tsx:269
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
@@ -7793,7 +7793,7 @@ msgstr "Luchar por <0/> en<1/><2/>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:304
 msgid "Fight for your country. Tap Battles."
-msgstr ""
+msgstr "Pelea por tu país. Presiona Batallas."
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:145
 #: src/components/_user/user/skills.frontConfig.tsx:232
@@ -7902,7 +7902,7 @@ msgstr ""
 
 #: src/components/_economy/employee/useConfirmFire.tsx:35
 msgid "Fire employee?"
-msgstr ""
+msgstr "¿Despedir empleado?"
 
 #: src/components/_political/government/Government.tsx:275
 msgid "Fire government member"
@@ -7910,7 +7910,7 @@ msgstr "Destituir a un miembro del gobierno"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:269
 msgid "Fire your manager?"
-msgstr ""
+msgstr "¿Despedir a tu manager?"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2247
 msgid "Fired from government"
@@ -8252,11 +8252,11 @@ msgstr "Poder Femenino"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2499
 msgid "Give a patriotic speech"
-msgstr ""
+msgstr "Dar un discurso patriota"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:839
 msgid "Give a tool to one of your employees"
-msgstr ""
+msgstr "Da una herramienta a uno de tus empleados"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
@@ -8743,20 +8743,20 @@ msgstr "Alto Comandante"
 
 #: src/components/_economy/employee/employeeCards.tsx:251
 msgid "Hire"
-msgstr ""
+msgstr "Contratar"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:299
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:144
 msgid "Hire a manager"
-msgstr ""
+msgstr "Contrata un manager"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:830
 msgid "Hire an Employee"
-msgstr ""
+msgstr "Contrata un empleado"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:832
 msgid "Hire an employee in one of your companies"
-msgstr ""
+msgstr "Contrata un empleado en una de tus empresas"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:469
 msgid "Hire another employee!"
@@ -8764,7 +8764,7 @@ msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:114
 msgid "Hire your first employee!"
-msgstr ""
+msgstr "¡Contrata a tu primer empleado!"
 
 #: src/components/_economy/employee/employeeTags.tsx:271
 msgid "hired {hiredDaysAgo}d ago"
@@ -8982,11 +8982,11 @@ msgstr ""
 
 #: src/components/_other/tour/TutorialGuidesList.tsx:43
 msgid "In progress"
-msgstr ""
+msgstr "En progreso"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:216
 msgid "inactive"
-msgstr ""
+msgstr "inactivo"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:207
 #: src/components/_user/apiToken/ApiTokenList.tsx:174
@@ -15000,16 +15000,16 @@ msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:788
 msgid "Take Care"
-msgstr ""
+msgstr "Cuidar"
 
 #. placeholder {0}: employee.name
 #: src/components/_economy/manager/ManagerCareButton.tsx:140
 msgid "Take care of {0}?"
-msgstr ""
+msgstr "Cuida de {0}"
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:76
 msgid "Take care of an employee"
-msgstr ""
+msgstr "Cuida de un empleado"
 
 #: src/pages/country/[countryId]/index.tsx:123
 #: src/pages/country/[countryId]/index.tsx:147
